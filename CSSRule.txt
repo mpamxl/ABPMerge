@@ -1076,6 +1076,7 @@
 ##.zozoads
 ##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##A[href*=".com/?Agent="]
+##A[href*="/k023055.com"]
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
 ##A[href="http://goo.gl/jQ9bcz"]
@@ -1090,6 +1091,7 @@
 ##A[href^="http://www.yourfilezone.com/play?lng="]
 ##A[href^="https://action.metaffiliation.com/trk.php?"]
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+##A[href^='https://d1-dm.online/go/']
 ##A[href^='https://tv2356.cc']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
@@ -1644,6 +1646,7 @@
 ##div.container > div.t-img-box > A[href][target='_blank']
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.main div.content div[id].is_mb a[id] img[id]
+##div.padding-0 > A[href][target='_blank']
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
@@ -2996,14 +2999,15 @@
 92sucai.com##.adtg2
 92wy.com##.adhengfu
 9312.net##.pop-up
+939394.xyz##.allBg > DIV[style="display: block;"]
 939394.xyz##.j_r_w
 939394.xyz##.j_r_w + a
-939394.xyz##.wrap.mb8.mt5 + DIV[class]:not(.outer)
-939394.xyz##A[style="display: block;"]
+939394.xyz##.wrap.mb8.mt5 ~ DIV[class]:not(.outer)
 939394.xyz##a[href*="base."]
 939394.xyz##a[href="https://pic.13709394.net/upload/"]
 939394.xyz##a[href^="/"]:not([href*="."]) > img[src*=".gif"]
 939394.xyz##a[href^="/"][href$=".html"] > img[src*=".gif"]:not([data-original])
+939394.xyz##a[style="display: block;"]
 939394.xyz##div[id^="left_layer"]
 939394.xyz##div[style*="position: fixed;"]
 939394.xyz##img[src*=".xyz"][src*=".gif"]
@@ -8256,6 +8260,7 @@ m.nownews.com##a[href^="http://ad1.nownews.com"]
 m.qidian.com###fixBoxs, #read_app_download
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
+m.qidian.com##P.text-content
 m.qu.la#?#:-abp-has(> a[href*=".bcebos."])
 m.qu.la#?#ul:-abp-has(> li > a[href*=".bcebos."])
 m.so.com##.e_idea_list
@@ -8275,7 +8280,6 @@ m.youku.com##.download
 m.youku.com##.hdwrap
 m.youku.com##.recommend
 m.youku.com##body > [style="width: 100px; height: 100px; position: fixed; top: auto; right: 0px; bottom: 0px; left: auto; z-index: 188;"]:not([class]):not([id])
-m.youku.com,v.youku.com##+js(nano-stb, r--,, 0.02)
 m.youku.com,v.youku.com##+js(set-constant, Object.prototype._adData, {})
 m.youtube.com###koya_child_6
 m.zhanqi.tv##.footer
@@ -11208,6 +11212,7 @@ vansky.com##.top-ad-link
 vardembed.xyz,videovard.sx###MyDickIsFat
 vardembed.xyz,videovard.sx###NotReallyYouHaveSmallOne
 vardembed.xyz,videovard.sx#$#json-prune ads_mode
+vcomic.net#$#abort-current-inline-script Object $._Eu
 vdianying.cc##div[style^="display:block !important;"]
 vdisk.weibo.com###ads_layer
 vebotv.today#$#abort-current-inline-script $ vb-pr-box
@@ -11578,6 +11583,7 @@ www.playno1.com##.eis_box_s
 www.qq.com##div[class^="adRight"]
 www.raybt.com##td[width="13"]
 www.rkanr.com##div[id^="rkrCp"]
+www.sbdm.net##.dplayer-web-fullscreen-fix .billhao-head-image, .dplayer-web-fullscreen-fix #topnav
 www.seznam.cz##div[id*="nativeSspAdvert"]
 www.seznam.cz#$#cookie-remover adform
 www.seznam.cz#$#hide-if-matches-xpath './/div[@id][@class][@style]/div[@class][@style]/div/iframe[@class][@style]/ancestor::div[@class][@style][1]; hide-if-matches-xpath './/a[@href][text()]/ancestor::div[@class][1]/parent::div[@class][@style]'; hide-if-matches-xpath './/div[starts-with(@class,"gadget")]//ul[@class="product-list"]/li[contains(@class,"item")]//a[@aria-hidden]/picture[@class]/img[contains(@class,"block")]/ancestor::div[@id][@class][1]'; hide-if-matches-xpath './/li[starts-with(@class,"d-block")]//div[contains(@class,"promo-carousel")]/h2//div[@class]//following::div[contains(@class,"promo-carousel")]/a[@target][@rel]//img[starts-with(@class,"d-block")]/ancestor::div[contains(@class,"goods-promo")]'; hide-if-matches-xpath './/div[starts-with(@class,"d-flex") and contains(@class,"advert")]//a[@rel][@aria-hidden]/picture[contains(@class,"advert")]/img/ancestor::div[@id]//parent::li/div[@data-dot]'; hide-if-matches-xpath './/h2[contains(@class,"advert")]//a[@href][text()]/ancestor::div[contains(@class,"gadget")]/parent::div[starts-with(@class,"animated")]/ancestor::div[@class][@id]'
