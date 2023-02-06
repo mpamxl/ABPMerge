@@ -1303,6 +1303,7 @@
 ##a[href*=".aiyouxi31.com"]
 ##a[href*=".aiyouxi56.com"]
 ##a[href*=".app003.biz"]
+##a[href*=".app003.cc"]
 ##a[href*=".apple1818.net"]
 ##a[href*=".asada-kairyo.com/"]
 ##a[href*=".ax10a.com/"]
@@ -1531,6 +1532,7 @@
 ##a[href*="/b6314.com:"]
 ##a[href*="/bibo149.com:"]
 ##a[href*="/blfanss.com"]
+##a[href*="/bli2a.com/"]
 ##a[href*="/bucd.icu/"]
 ##a[href*="/cslpldyc.me"]
 ##a[href*="/ctyitopo17.com"]
@@ -6158,7 +6160,7 @@ gcxa.cn###edu_ad63
 gd163.cn##.bbs_ad
 gd163.cn,itavcn.com,jmnews.com.cn###msg_win
 gdekluet.ru##body > div[class^="stop-block"]
-gdespaces.com,gdespaces.net,spac1.info,spac.me,spac1.com,spac1.me,spac1.net,spac1.org,spac1.ru,spaces-blogs.com,spaces.im,spcs.life,spcs.me,spcs.news,spcs.pro,spcs.social,strip2.in,strip2.xxx#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
+gdespaces.com,gdespaces.net,spac1.info,spac.me,spac1.com,spac1.me,spac1.net,spac1.org,spac1.ru,spaces-blogs.com,spaces.im,spcs.life,spcs.me,spcs.news,spcs.pro,spcs.pub,spcs.social,strip2.in,strip2.xxx#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
 gdmm.com###ad_cover
 gdmm.com###diy3
 gdmm.com###hd > .wp > .module
@@ -7184,6 +7186,8 @@ instantmanga.com###notice
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
 internet-law.ru###fab-enabled
+investing.com##div[class*="adBlock"]
+investing.com##div[class*="overlay_overlay"]
 inwestycje.pl###show-message
 ip.cn##.well > p > a
 ipatriot.com##div[class^="textwidget"] > div[class^="pi_"]
@@ -9229,7 +9233,7 @@ onlyfaps.club#$#abort-current-inline-script univresalP
 onlystream.tv#$#abort-on-property-read BetterJsPop
 onperiscope.com#@#.adsbygoogle
 onscreens.me#$#abort-on-property-read localStorage; abort-on-property-read asgPopScript
-ontivi.net,xittv.net#$#abort-on-property-read document.head.append
+ontivi.net#$#abort-current-inline-script document.createElement Math.random
 ooopic.com##.fix-newUser
 ooopn.com###ab-left
 ooopn.com##a[href*="/jump.html"]
@@ -10314,6 +10318,7 @@ sina.com.cn##.zhongce
 sina.com.cn##:not(.BigPic) > a[href*="sax.sina.com.cn/click?"]
 sina.com.cn##A[href*="/comfinanceweb."]
 sina.com.cn##A[href="https://touzi.sina.com.cn/"]
+sina.com.cn##DIV[class^="side-btns-jifen"]
 sina.com.cn##[data-info^="ad_"]
 sina.com.cn##div[class*="farmpop"]
 sina.com.cn##p + .article-video
@@ -10898,6 +10903,12 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.post_client_down
 tieba.baidu.com##.tl_spread
 tieba.baidu.com##.tuijian-wrap
+tieba.baidu.com##DIV.clearfix.thread_item_box
+tieba.baidu.com##DIV.fengchao-wrap-feed:has(SPAN.ec-tuiguang)
+tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
+tieba.baidu.com##DIV[id^='aside-ad']
+tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
+tieba.baidu.com##div[class*='-ad-pb-']
 tieba.baidu.com,wapp.baidu.com##.iSlider-wrapper-container-hot-thread
 tieba.baidu.com,wapp.baidu.com##a.fixed_bar
 tiexue.net##.reloadCont > div:first-child
@@ -11742,6 +11753,7 @@ xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
 xchina.co#@#.banner_ad
 xchina.fun##a[href*="/redirect/ad-"]
 xchina.fun##div[adid]
+xchina.fun#@#.banner_ad
 xclient.info###pop_business
 xcyy.tv##body > style + [id]
 xcyy.tv##body > style + [id] + img

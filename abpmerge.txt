@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-02-05 16:06:45
-! Total count: 65681
+! Version: 2023-02-06 16:07:35
+! Total count: 65705
 ###AdBlockDialog
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1308,6 +1308,7 @@
 ##a[href*=".aiyouxi31.com"]
 ##a[href*=".aiyouxi56.com"]
 ##a[href*=".app003.biz"]
+##a[href*=".app003.cc"]
 ##a[href*=".apple1818.net"]
 ##a[href*=".asada-kairyo.com/"]
 ##a[href*=".ax10a.com/"]
@@ -1536,6 +1537,7 @@
 ##a[href*="/b6314.com:"]
 ##a[href*="/bibo149.com:"]
 ##a[href*="/blfanss.com"]
+##a[href*="/bli2a.com/"]
 ##a[href*="/bucd.icu/"]
 ##a[href*="/cslpldyc.me"]
 ##a[href*="/ctyitopo17.com"]
@@ -9211,6 +9213,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@/pub1/??$domain=banggo.com
 @@/sensorsdata-$domain=zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=fenbi.com|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
 @@/show_ad_$domain=wb.qq.com
@@ -16612,7 +16615,7 @@ gcxa.cn###edu_ad63
 gd163.cn##.bbs_ad
 gd163.cn,itavcn.com,jmnews.com.cn###msg_win
 gdekluet.ru##body > div[class^="stop-block"]
-gdespaces.com,gdespaces.net,spac1.info,spac.me,spac1.com,spac1.me,spac1.net,spac1.org,spac1.ru,spaces-blogs.com,spaces.im,spcs.life,spcs.me,spcs.news,spcs.pro,spcs.social,strip2.in,strip2.xxx#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
+gdespaces.com,gdespaces.net,spac1.info,spac.me,spac1.com,spac1.me,spac1.net,spac1.org,spac1.ru,spaces-blogs.com,spaces.im,spcs.life,spcs.me,spcs.news,spcs.pro,spcs.pub,spcs.social,strip2.in,strip2.xxx#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
 gdmm.com###ad_cover
 gdmm.com###diy3
 gdmm.com###hd > .wp > .module
@@ -17642,6 +17645,8 @@ instantmanga.com###notice
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
 internet-law.ru###fab-enabled
+investing.com##div[class*="adBlock"]
+investing.com##div[class*="overlay_overlay"]
 inwestycje.pl###show-message
 ip.cn##.well > p > a
 ipatriot.com##div[class^="textwidget"] > div[class^="pi_"]
@@ -19701,7 +19706,7 @@ onlyfaps.club#$#abort-current-inline-script univresalP
 onlystream.tv#$#abort-on-property-read BetterJsPop
 onperiscope.com#@#.adsbygoogle
 onscreens.me#$#abort-on-property-read localStorage; abort-on-property-read asgPopScript
-ontivi.net,xittv.net#$#abort-on-property-read document.head.append
+ontivi.net#$#abort-current-inline-script document.createElement Math.random
 ooopic.com##.fix-newUser
 ooopn.com###ab-left
 ooopn.com##a[href*="/jump.html"]
@@ -20802,6 +20807,7 @@ sina.com.cn##.zhongce
 sina.com.cn##:not(.BigPic) > a[href*="sax.sina.com.cn/click?"]
 sina.com.cn##A[href*="/comfinanceweb."]
 sina.com.cn##A[href="https://touzi.sina.com.cn/"]
+sina.com.cn##DIV[class^="side-btns-jifen"]
 sina.com.cn##[data-info^="ad_"]
 sina.com.cn##div[class*="farmpop"]
 sina.com.cn##p + .article-video
@@ -21393,6 +21399,12 @@ tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.post_client_down
 tieba.baidu.com##.tl_spread
 tieba.baidu.com##.tuijian-wrap
+tieba.baidu.com##DIV.clearfix.thread_item_box
+tieba.baidu.com##DIV.fengchao-wrap-feed:has(SPAN.ec-tuiguang)
+tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
+tieba.baidu.com##DIV[id^='aside-ad']
+tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
+tieba.baidu.com##div[class*='-ad-pb-']
 tieba.baidu.com,wapp.baidu.com##.iSlider-wrapper-container-hot-thread
 tieba.baidu.com,wapp.baidu.com##a.fixed_bar
 tiexue.net##.reloadCont > div:first-child
@@ -22247,6 +22259,7 @@ xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
 xchina.co#@#.banner_ad
 xchina.fun##a[href*="/redirect/ad-"]
 xchina.fun##div[adid]
+xchina.fun#@#.banner_ad
 xclient.info###pop_business
 xcyy.tv##body > style + [id]
 xcyy.tv##body > style + [id] + img
@@ -31810,6 +31823,7 @@ zzzyk.com###Tinfo
 ||byznb.xyz^
 ||byzt8.top^
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
+||bzdntl.xyz^
 ||bzhanyy.com^*.gif
 ||bzngisyv.xyz^
 ||bzyunduan.cn^
@@ -35046,6 +35060,7 @@ zzzyk.com###Tinfo
 ||dartonim.com^
 ||darvorn.com^
 ||darwk.com^
+||darzkrx.cn^
 ||dasfelynsaterr.webcam^
 ||dasfelynsaterr.win^
 ||dasfelynsaterr.win^$popup
@@ -39321,6 +39336,7 @@ zzzyk.com###Tinfo
 ||g2921554487.com^
 ||g2afse.com^
 ||g2afse.com^$popup
+||g2qb.top^
 ||g33ktr4ck.com^
 ||g33ktr4ck.com^$popup
 ||g3f3.com/love/
@@ -43915,6 +43931,7 @@ zzzyk.com###Tinfo
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
 ||jcsppgv.cn^
+||jcvty.cyou^
 ||jcyunk2.com^
 ||jczzjx.com^
 ||jd-bbs.com^*/gif/
@@ -49993,6 +50010,7 @@ zzzyk.com###Tinfo
 ||o4uxrk33.com^
 ||o626b32etkg6.com^
 ||o6rc.xyz^
+||o87mnf.xyz^
 ||oa-panther.data.aliyun.com^$third-party
 ||oa.hinews.cn/work/img/
 ||oaboudsi.com^
@@ -53280,6 +53298,7 @@ zzzyk.com###Tinfo
 ||pxlk9.net.^
 ||pxlk9.net^$popup
 ||pxqahrhuipht.com^
+||pxrs6.cn^
 ||pxx.tnklrs.cn^$third-party
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
@@ -53603,6 +53622,7 @@ zzzyk.com###Tinfo
 ||qktmwiq.cn^
 ||ql.uzuzuz.com^
 ||qlfqkjluvz.com^
+||qliiom.xyz^
 ||qling.com^$third-party
 ||qlogo.cn^$domain=250dgj.ga
 ||qlogo.cn^$domain=chichiav1.xyz
@@ -55065,6 +55085,7 @@ zzzyk.com###Tinfo
 ||rsdkk26.xyz^
 ||rsdown.cn/statics/images/rs-banner.jpg
 ||rskillsplu.club^
+||rsmdlk.cn^
 ||rsnignsz.xyz^
 ||rsnoownmz.fun^
 ||rsppartners.com^$popup
@@ -56066,7 +56087,8 @@ zzzyk.com###Tinfo
 ||sexycams.com/exports/$third-party
 ||sexyno1.com/mk-banner/
 ||seyevjpcjkcnka.com^
-||seznam.cz/*/static/js/*^$domain=seznam.cz
+||seznam.cz/*/*/js/*?nocache=1^$domain=www.seznam.cz
+||seznam.cz/*/static/*/*?nocache=1^$domain=www.seznam.cz
 ||seznamzpravy.cz/*/static/js/*^$domain=seznamzpravy.cz
 ||sezuleg.cn^
 ||sf*-fe-tos.pglstatp-toutiao.com^
@@ -59078,6 +59100,7 @@ zzzyk.com###Tinfo
 ||thoughtthricecompress.com^
 ||thoupsou.net^
 ||thousandfixedlyyawn.com^
+||thpte.cn^
 ||thraerqol.com^
 ||thrate.com^
 ||thraxgawks.guru^
@@ -65193,6 +65216,7 @@ zzzyk.com###Tinfo
 ||zhiqi.pub^
 ||zhiqingchun.top^
 ||zhisuyunonline.cn^
+||zhiwan.club^
 ||zhixiuchang.com^
 ||zhiyoo.com/mplus/images/banner.jpg
 ||zhizhizhizhi.oss-*.aliyuncs.com^
