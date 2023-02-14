@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-02-13 16:07:46
-! Total count: 48241
-
+! Version: 2023-02-14 16:07:54
+! Total count: 48255
 ###AdBlockDialog
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -737,6 +736,7 @@
 ##.common_ad
 ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
 ##.con_section > .da
+##.conch-ads-box
 ##.container > .index-ad
 ##.container > .slide-baidu
 ##.container > a.mid-wrapper
@@ -1495,6 +1495,7 @@
 ##a[href*="/2486090.com/"]
 ##a[href*="/265201.com:"]
 ##a[href*="/296256.com:"]
+##a[href*="/2996m.com:"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/326519.com:"]
 ##a[href*="/331.run"]
@@ -1512,6 +1513,7 @@
 ##a[href*="/682kg.com"]
 ##a[href*="/7267224.com/"]
 ##a[href*="/7699j.com:"]
+##a[href*="/7727ky.com:"]
 ##a[href*="/7756ky.com:"]
 ##a[href*="/7757ky.com:"]
 ##a[href*="/7763349.com/"]
@@ -1544,6 +1546,7 @@
 ##a[href*="/d27.tv"]
 ##a[href*="/ddtz5.com"]
 ##a[href*="/ftyvrfy05.com"]
+##a[href*="/g3656.com:"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hhybd.wiki"]
 ##a[href*="/htbet1536.com"]
@@ -1897,18 +1900,14 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 *$script,third-party,xmlhttprequest,domain=cnbtspread.xyz
 *$third-party,script,domain=sexdiaryz.xyz
 *.gif$domain=hanimesubth.com,image
-*.gif$domain=m.imomoe.live
 *.gif^$domain=weimanga.com
 *.lijie.*/*_*?$third-party
-*.tfptlgrw.*
-*.u8hdqyug.*
 */ads.
 */blsx_*_*_*?*$third-party
 */letv-gug/$media,object-subrequest,xhr
 */preroll/$media,domain=91porn.com
 */web/js/th/$domain=cam4.com
 */widget/spage_game_tab/$domain=tieba.baidu.com
-*:*/*.html?k=*&_=*
 *_ad_$media,domain=youtube.com,3p
 *tplv-noop.gif*
 ,728x90,
@@ -2144,7 +2143,6 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 .com/rmb/dl.js
 .com/rmb/palyyoubian.js
 .com/sc/*?n=$script,third-party
-.com/sh/to$third-party
 .com/sh/to/$script,third-party,xmlhttprequest
 .com/sh/to/$third-party
 .com/src/ppu/
@@ -3835,6 +3833,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /components/ads/*
 /concert_ads-
 /conch/asset/js/atop.js
+/conch/asset/js/open-vb.
 /cont-adv.
 /contads.
 /content-ads.
@@ -14462,13 +14461,14 @@ exoav.com##+js(abort-on-property-read, exoNoExternalUI38djdkjDDJsio96)
 exoav.com##.place
 exoav.com##.table
 expedia.com,expedia.co.uk,expedia.de,expedia.es,expedia.fr,expedia.ie,expedia.it,expedia.dk,expedia.co.id,expedia.co.in,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.com.hk,expedia.com.my,hotels.com,orbitz.com,ebookers.com,wotif.com,cheaptickets.com,travelocity.com#$#hide-if-matches-xpath './/a[contains(@href,"&trackingData")]/ancestor::div[@class="uitk-spacing uitk-spacing-margin-blockstart-three"]'
-expres.cz,idnes.cz###alM-wwp
+expres.cz#$#hide-if-contains-visible-text /[a-zA-Z]/ '*[class][id]' span[id][data-resize]
 expres.cz,idnes.cz##[class^="rma"]
 expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##a[href*="preroll"]
 expres.cz,idnes.cz##div[data-redistribute="ad"]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
+expres.cz,idnes.cz,blesk.cz###alN-wwp
 expreview.com##.babaBox
 expreview.com##.colbaba
 expreview.com##.crossAd
@@ -15008,7 +15008,7 @@ gcxa.cn###edu_ad63
 gd163.cn##.bbs_ad
 gd163.cn,itavcn.com,jmnews.com.cn###msg_win
 gdekluet.ru##body > div[class^="stop-block"]
-gdespaces.com,gdespaces.net,spac1.info,spac.me,spac1.com,spac1.me,spac1.net,spac1.org,spac1.ru,spaces-blogs.com,spaces.im,spcs.global,spcs.life,spcs.me,spcs.news,spcs.pro,spcs.pub,spcs.social,strip2.in,strip2.xxx,usersporn.com#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
+gdespaces.com,gdespaces.net,google-cloud.services,spac1.info,spac.me,spac1.com,spac1.me,spac1.net,spac1.org,spac1.ru,spaces-blogs.com,spaces.im,spcs.global,spcs.life,spcs.me,spcs.news,spcs.pro,spcs.pub,spcs.social,strip2.in,strip2.xxx,usersporn.com#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
 gdmm.com###ad_cover
 gdmm.com###diy3
 gdmm.com###hd > .wp > .module
@@ -22054,6 +22054,7 @@ zzzyk.com###Tinfo
 ||2pwja.cn^
 ||2qj7mq3w4uxe.com^
 ||2r45.cn^
+||2r6.cn^
 ||2track.info^
 ||2ujj.com/js/bo.js
 ||2x8l63l0.cn^
@@ -22496,6 +22497,7 @@ zzzyk.com###Tinfo
 ||520cc.tw/AD/
 ||520meirenyu.com^
 ||520myjj.xyz^
+||520xingyun.com/images/*.gif$domain=mcpcourse.com
 ||520xs.la/js/dianrui-
 ||520z-2.com/uploadfile/sucai/
 ||521000.com/co/
@@ -24990,7 +24992,6 @@ zzzyk.com###Tinfo
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-shoulei-ssl.xunlei.com^
 ||api-v*.soundcloud.com/audio-ads?
-||api.*.com/sh/to/$third-part
 ||api.06fgej.com^
 ||api.1101yh.com^
 ||api.36dfsa.com^
@@ -26200,6 +26201,7 @@ zzzyk.com###Tinfo
 ||bgcnhux.cn^
 ||bgilefj.cn^
 ||bgjjwl.cn^
+||bglbsb.cn^
 ||bgnlaigv.fun^
 ||bgrndi.com^
 ||bh0874.online^
@@ -30126,6 +30128,7 @@ zzzyk.com###Tinfo
 ||ebod.7mmtv.top^
 ||eboundservices.com^$third-party
 ||ebp.renren.com^
+||ebpu2.top^
 ||ebrun.com/jfile/position/js/*.js
 ||ebz.io^
 ||ebzqyow.cn^
@@ -30298,6 +30301,7 @@ zzzyk.com###Tinfo
 ||ejktj.com^
 ||ejnjapw.cn^
 ||ejunshi.com^
+||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekhnbwe.cn^
 ||ekkpaxli.xyz^
@@ -30917,6 +30921,7 @@ zzzyk.com###Tinfo
 ||fetm.xin^
 ||feuingcrche.com^
 ||fewergkit.com^
+||fewsvuh.cn^
 ||fexiaen.com^
 ||ff.guidaye.com^
 ||ff.meikanguo.com^
@@ -33150,6 +33155,7 @@ zzzyk.com###Tinfo
 ||hqycr.cn^
 ||hr44.com^
 ||hrahdmon.com^
+||hrecsxu.cn^
 ||hreerfdfgourg.com.ua^
 ||hrjg.com.cn^$third-party
 ||hrrbc.top^
@@ -35132,6 +35138,7 @@ zzzyk.com###Tinfo
 ||k.mindopu.com^
 ||k.toospk.com^
 ||k.wudejia.com^
+||k0lksy.xyz^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k11designstore.club^
@@ -39634,6 +39641,7 @@ zzzyk.com###Tinfo
 ||pointroll.com^
 ||points2shop.com^$third-party
 ||poisonencouragement.com^
+||pojjtt.xyz^
 ||pojkhufef.xyz^
 ||pokaroad.net^
 ||pokazuwka.com/popu/
@@ -41754,6 +41762,7 @@ zzzyk.com###Tinfo
 ||sdegwynml.bmaci.me^
 ||sdfafds6.com^
 ||sdfjtwp.com^
+||sdfv66.com^
 ||sdfxv57.com^
 ||sdg.desihamster.pro^
 ||sdgmyj.cn^
@@ -43148,6 +43157,7 @@ zzzyk.com###Tinfo
 ||suspendedflesh.com^
 ||suukcn.com^
 ||suwotsoukry.com^
+||suyuhao233.xyz^
 ||suzihaza.com^$badfilter
 ||sv.fanst.club^
 ||sv.wangchangye.xyz^
@@ -43581,6 +43591,7 @@ zzzyk.com###Tinfo
 ||tfosrv.com^
 ||tfptlgrw.co^
 ||tfptlgrw.live^
+||tfutcmail.com^
 ||tfzozf.xyz^
 ||tfzznclztl.com^
 ||tg.loclog.cn^
@@ -45007,6 +45018,7 @@ zzzyk.com###Tinfo
 ||veta.naver.com^
 ||vetdeberg.com^
 ||veugcz8.com^
+||vewdk.cyou^
 ||vexacion.com^
 ||vfcwij.cn^
 ||vfghc.com^
@@ -45425,6 +45437,7 @@ zzzyk.com###Tinfo
 ||wanwan.sina.com.cn/sinasupersport/back/
 ||wanwan.sina.com.cn/third_party/
 ||wanzikeji.com^
+||waoeou.xyz^
 ||wap.bntxt.com^
 ||wap.gxzhshop.com^
 ||wap.hfoyjg.cn^$third-party
@@ -46047,6 +46060,7 @@ zzzyk.com###Tinfo
 ||wunteetoco.com^
 ||wuplexv.cn^
 ||wurnbx.xyz^
+||wusuliriver.com^
 ||wutaixian.shop^
 ||wutian01.cc^
 ||wutou20230201.live^
