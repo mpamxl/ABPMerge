@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-02-14 16:07:54
-! Total count: 48255
+! Version: 2023-02-15 16:08:01
+! Total count: 48281
 ###AdBlockDialog
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1155,6 +1155,7 @@
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
+##DIV.stui-player.clearfix > [id*='ad'],div.stui-pannel > [id*='ad'],div.container > [id*='ad']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
@@ -1523,6 +1524,7 @@
 ##a[href*="/84992323.xyz"]
 ##a[href*="/8616.tech"]
 ##a[href*="/9716t.com"]
+##a[href*="/979155.com"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="][target="_blank"]
@@ -1596,6 +1598,7 @@
 ##a[href*="/sm003r.tv"]
 ##a[href*="/sm033v.tv"]
 ##a[href*="/sm27z.net"]
+##a[href*="/smch7.com"]
 ##a[href*="/t4078.com:"]
 ##a[href*="/t4741.com"]
 ##a[href*="/tg.602.com/"]
@@ -1719,6 +1722,7 @@
 ##div.bf_qy DIV.copy_div_btn
 ##div.callApp_fl_btn.an
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
+##div.container > DIV.t-img-box
 ##div.container > IFRAME[align][width][src][border][height]
 ##div.container > div.row div.yalayi_box
 ##div.container > div.t-img-box > A[href][target='_blank']
@@ -12104,7 +12108,7 @@ alu.cn##.Tg_290x60
 alu.cn##.Tg_390x60
 alu.cn##.Tg_590x60
 amazon.cn#?#.s-result-item:-abp-has(> .s-item-container > h5 .s-sponsored-info-icon)
-amedia.online#$#abort-on-property-read Ya; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
+amedia.online#$#override-property-read Object.prototype.renderTo undefined; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
 amyscans.com##div[class*="code-block"]
 ana1.me##.videopos
 ananvod.com##.rbPicAll
@@ -12219,8 +12223,8 @@ appki.com.pl#@##adsense
 apple.com.cn##.adv-wrapper
 apple.com.cn#$##ac-globalnav { top: 0 !important; }
 apple.com.cn#$#.ac-gn-blur { top: 0 !important; }
+apple.com.cn#$#html #globalnav { top: 0 !important; }
 apple.com.cn#$#html { margin-top: 0 !important; }
-apple.com.cn#$#main[role="main"] { padding-top: var(--global-nav-main-height) !important; }
 applealmond.com##div[style*="height: 260px;"][style*="text-align: center;"]
 appledaily.com###ebBannerTopDiv + A[href^="http://bit.ly/"]
 appledaily.com.tw##.THISISANADHERE
@@ -17534,6 +17538,7 @@ mmff30.com##.titletablediv .titletablecell > a[target="_blank"]:not([href$="html
 mmff30.com##.top_box
 mmff30.com##a[href$="/ref.html"]
 mmff30.com##span[id$="_gg"]
+mmminigames.mail.ru#$#abort-current-inline-script addEventListener advRefreshInterval
 mmonly.cc###\32 vm_box
 mnogoto4ka.ru###sb-site > div[class][style*="z-index"][style*="999999"]
 mnw.cn##.mnw_685
@@ -21801,6 +21806,7 @@ zzzyk.com###Tinfo
 ||1990tu.com/i/*.png
 ||1990tu.com^$third-party
 ||1999019.com^
+||199aaa.us^
 ||19kan.com/static/js/hf.js
 ||19qiqi.com/mid/
 ||19vcd.com/mid/
@@ -22034,6 +22040,7 @@ zzzyk.com###Tinfo
 ||2go7v1nes8.com^
 ||2gvuukm1lm.com^
 ||2h81gp.tkepyc.com^$script,xmlhttprequest,domain=pch.com
+||2hfby.top^
 ||2hisnd.com^
 ||2hvl4.fun^
 ||2i0da8u7.cn^
@@ -22559,6 +22566,7 @@ zzzyk.com###Tinfo
 ||550c970411.com^
 ||550tg.com^
 ||551vip.xyz^
+||553aaa.us^
 ||55555555555.xyz^
 ||5555nt.com^
 ||55803.net^$third-party
@@ -22731,6 +22739,7 @@ zzzyk.com###Tinfo
 ||65432.shop^
 ||65688qp.com^
 ||65fsgsv.com^
+||65oml.cn^
 ||65tgh.com^
 ||66.fmx.cn/js/
 ||6604.org^$third-party
@@ -25925,6 +25934,7 @@ zzzyk.com###Tinfo
 ||bdcode.youke.com^
 ||bdcpro*.techweb.com.cn^
 ||bdcse.xyz^
+||bddwm.com^
 ||bdgest.com/js/site.js?
 ||bdgg.qjy168.com^
 ||bdhcpll.cn^
@@ -26346,6 +26356,7 @@ zzzyk.com###Tinfo
 ||bjhuhangjy.com^
 ||bjjabc.com^
 ||bjjabc.com^$third-party
+||bjkedvvelwf.xyz^
 ||bjmama.net/a/spc_
 ||bjmantis.net^
 ||bjqwllp.cn^
@@ -30305,6 +30316,7 @@ zzzyk.com###Tinfo
 ||ekdbfu.cn^
 ||ekhnbwe.cn^
 ||ekkpaxli.xyz^
+||ekqfkk.xyz^
 ||eksiup.com^$third-party
 ||ekwibgl.cn^
 ||eladies.zhmyq.cn^
@@ -32110,6 +32122,7 @@ zzzyk.com###Tinfo
 ||gpsvzdr.cn^
 ||gpuqizoz.com^
 ||gpwpaqnxpwhqufz.sbs^
+||gpxxbyf.cn^
 ||gpxz.com/js2/
 ||gpylmwtjiy.com^
 ||gqdfgyz.cn^
@@ -33173,6 +33186,7 @@ zzzyk.com###Tinfo
 ||hsex.men/view/img/*.gif
 ||hsiaik.com^
 ||hskj.net^
+||hskzoab.cn^
 ||hslyqs.com^
 ||hsmkj.net^$third-party
 ||hsnsdqd.cn^
@@ -34116,6 +34130,7 @@ zzzyk.com###Tinfo
 ||iptv444.com/ad-
 ||ipx.7mmtv.top^
 ||ipxjps.cn^
+||ipyud.cn^
 ||iqilu.com/getZone.php
 ||iqilu.com/static_files/multiads/
 ||iqilu.com/static_files/richmedia/
@@ -35990,6 +36005,7 @@ zzzyk.com###Tinfo
 ||letong.xyz^
 ||letsread.club^
 ||letv.com/pzt/hyhmzq/index.shtml
+||letvcdn.com^
 ||letvimg.com/$object,xhr
 ||letvimg.com/*_gugwl/$image
 ||letzgr.cn^
@@ -36031,6 +36047,7 @@ zzzyk.com###Tinfo
 ||lgsmartad.com^
 ||lgtdkpfnor.com^
 ||lgugsnp.cn^
+||lgxm.cool^
 ||lgygy.cn^
 ||lgyxxxlcsgwgfg.xyz^
 ||lh168.net^*/attachment/portal/
@@ -36745,6 +36762,7 @@ zzzyk.com###Tinfo
 ||m2track.co^
 ||m3.myyj.net^
 ||m4clicks.com^
+||m6ku1.cn^
 ||m73lae5cpmgrv38.com^
 ||m7dmtv.top^
 ||ma.baiducdn2.com^*/main.js?t=
@@ -37206,6 +37224,7 @@ zzzyk.com###Tinfo
 ||miatip.cn^
 ||mic.yun-pdm5000.cn^
 ||micaitu.net/js/dibu.js
+||micfu.cyou^
 ||michaelianice.com^
 ||michealmoyite.com^
 ||micreative-china.cn^
@@ -38287,6 +38306,7 @@ zzzyk.com###Tinfo
 ||nqbcf.cn/html/top
 ||nqcacox.cn^
 ||nqfwx.cn^
+||nqhqpq.cn^
 ||nqnggnsc.fun^
 ||nqsc567.com^
 ||nqxvevk.cn^
@@ -38736,6 +38756,7 @@ zzzyk.com###Tinfo
 ||ophoacit.com^
 ||ophwrh.cn^
 ||opiwb.com^
+||opnkedfdye.xyz^
 ||opoxv.com^
 ||oppu778.top^
 ||oprmewb.cn^
@@ -41547,6 +41568,7 @@ zzzyk.com###Tinfo
 ||s4zqj3m.cn^
 ||s5.cnzz.com^
 ||s5qj82thv3dw.de^
+||s65m.win^
 ||s7tu.com/images/*.gif
 ||s7w53.icu^
 ||s8bbs.com/ad/
@@ -42376,6 +42398,7 @@ zzzyk.com###Tinfo
 ||skimresources.com^$third-party
 ||skinsdefinitely.com^
 ||skivesdaggles.com^
+||skiyvwu.cn^
 ||skmtyaw.cn^
 ||skogsborg.net^
 ||skxuueby.cn^
@@ -45344,6 +45367,7 @@ zzzyk.com###Tinfo
 ||vxsnk.com^
 ||vyfrxuytzn.com^
 ||vyinglyfomites.com^
+||vykeavz.cn^
 ||vylfjneyvmq.xyz^
 ||vyps.fun^
 ||vyrhxfi.cn^
@@ -46905,6 +46929,7 @@ zzzyk.com###Tinfo
 ||xyimg.net^$domain=~xy.com
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
+||xylkpj.xyz^
 ||xylmdm.top^
 ||xymhdmqrjxwl.com^
 ||xyn1d4bjg4vr4m2qwypvuj.com^
@@ -47989,6 +48014,7 @@ zzzyk.com###Tinfo
 ||zlink2.com^
 ||zlink6.com^
 ||zlinkm.com^
+||zljnwzp.cn^
 ||zljycst.cn^
 ||zllnb.top^
 ||zllxy.love^
