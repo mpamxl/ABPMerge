@@ -1150,13 +1150,17 @@
 ##DIV.box-width.ec-ad.ec-ad-double.flex
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
+##DIV.div_adhost
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
 ##DIV.footer-appload.js-footer-appload
+##DIV.index_adpic
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV[class$='_ad_wrap']
+##DIV[class*='home'][class*='Ads']
+##DIV[class*='id_ads__']
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
 ##DIV[style*='.xyz/gif/']
@@ -1720,6 +1724,7 @@
 ##body#nr_body font > [id]
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
+##body.bg_xin > A[href*='com:'][target='_blank']
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
@@ -1751,6 +1756,7 @@
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
 ##div.play_boxbg div[class$='_acmsd']
+##div.post_list_ajax > A[target='_blank']
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
 ##div.video-box > div.hf > a
@@ -1758,6 +1764,7 @@
 ##div[align="center"] > a[href^="/url/"] > img[src*=".alicdn.com"]
 ##div[align="center"] > a[href^="/url/"] > img[src*=".qpic.cn"]
 ##div[bannerlist]
+##div[class*='bookid_ads']
 ##div[class][id][style] > .pic_container
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
@@ -3086,8 +3093,6 @@
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com##iframe[src$="/fans/ad.php"]
-91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
-91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz##.jsv-g1
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
 91rb99.com##.top
@@ -4984,6 +4989,7 @@ dalipan.com##.hongbao-wrap
 dama.cz##[class*="ads-"]
 dama.cz##div[class^="sky-wrap"]
 dan-teng.top##.nav
+dandanzan.cf,nunuyingyuan.com,ddys.buzz##+js(m3u-prune, /^http/, /^https:\/\/vip\.ffzy-(?:play|online)\d*\..+\.m3u8$/)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
@@ -7195,6 +7201,7 @@ indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad
 indiatimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted Stories))
 indiatimes.com#@#div[id^="div-gpt-ad"]
 indoxx1.show##img[src^="blob:https://indoxx1.show/"]
+inews.qq.com,xw.qq.com##DIV.VideoArticleBottomAdContainer,DIV.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 info-mage.ru###helpme[style="display: block;"]
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 infoq.cn##.geo-banner
@@ -11851,6 +11858,7 @@ xiazaizhijia.com##.down_list
 xiebruce.top###ai_widget-2
 xiebruce.top##+js(addEventListener-defuser, , showRemoveAdBlocker)
 xijucn.com###topc
+ximalaya.com##.change-logo.S_q,DIV.packet-container._PC,div.less-tips._PC *
 ximalaya.com##.dl-pc
 xin99r2.com###index_tan
 xin99r2.com##.main > a[href][target="_blank"] > img
