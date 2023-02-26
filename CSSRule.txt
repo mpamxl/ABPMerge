@@ -1492,6 +1492,7 @@
 ##a[href*="/1651n.com:"]
 ##a[href*="/170hth.com/"]
 ##a[href*="/171hth.com/"]
+##a[href*="/178heiliao.com/"]
 ##a[href*="/182hth.com"]
 ##a[href*="/2141t.com:"]
 ##a[href*="/23.224.188."]
@@ -1715,6 +1716,7 @@
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
+##body.chapter > div.container div.slide-baidu *
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox

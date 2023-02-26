@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-02-25 16:06:49
-! Total count: 48498
+! Version: 2023-02-26 16:06:51
+! Total count: 48519
 
 ###AdBlockDialog
 ###Ad_windows
@@ -1498,6 +1498,7 @@
 ##a[href*="/1651n.com:"]
 ##a[href*="/170hth.com/"]
 ##a[href*="/171hth.com/"]
+##a[href*="/178heiliao.com/"]
 ##a[href*="/182hth.com"]
 ##a[href*="/2141t.com:"]
 ##a[href*="/23.224.188."]
@@ -1721,6 +1722,7 @@
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
+##body.chapter > div.container div.slide-baidu *
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
@@ -22211,6 +22213,7 @@ zzzyk.com###Tinfo
 ||354664.top^
 ||3563551.notifysrv.com^
 ||35kds.com^
+||35kn0fn.1kanz.cn^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
 ||360.cn/festival_zone.html
 ||360.cn/index/showjokes?callback=
@@ -23852,6 +23855,7 @@ zzzyk.com###Tinfo
 ||adbpfnh.cn^
 ||adbrite.com^
 ||adbro.me^
+||adbtwyxl96.fun^
 ||adbuck.cc^$third-party
 ||adbuddiz.com^
 ||adbuka.com.ng^
@@ -28024,6 +28028,7 @@ zzzyk.com###Tinfo
 ||cnscg.com/template/default/style/*960x
 ||cnscg.com/template/default/style/t6/*x*1
 ||cnscg.com/template/default/style/t6/other/
+||cnshiw2.com^
 ||cnt.my^
 ||cntronics.com/adsupload/
 ||cntv.cn/hezuo/
@@ -28220,6 +28225,7 @@ zzzyk.com###Tinfo
 ||coolpc.com.tw/img/topweb.html
 ||cooltool.cc^
 ||coonandeg.xyz^
+||coope.cyou^
 ||copcaneersand.xyz^
 ||copict.com^
 ||copro.pw/wp-content/*/bg
@@ -33076,6 +33082,7 @@ zzzyk.com###Tinfo
 ||hmjs.cnmo-img.com.cn^
 ||hmma.baidu.com^
 ||hmong-miaojiuyi.com^
+||hmpubc.xyz^
 ||hmreuj.com^
 ||hmtoday.com^$third-party
 ||hmttoly.com^
@@ -33997,6 +34004,7 @@ zzzyk.com###Tinfo
 ||imgstat.baidu.com^
 ||imgtaxi.com/ea/
 ||imgtg.com^*.gif
+||imgtp.com/2023/02/18/KkRe64ff.png
 ||imgtuku.com/images/20*.gif
 ||imgur.com/df53F09.jpg
 ||imgur.com/oPNxy4w.gif
@@ -34248,6 +34256,7 @@ zzzyk.com###Tinfo
 ||iqiyi.com/track$popup
 ||iqiyi.com/videos/other/202$xmlhttprequest
 ||iqiyipic.com/image/20*_100000$image
+||iqmbao.xyz^
 ||iqn.world^
 ||iqnew.com/d/js/m/thea
 ||iqshw.com/d/js/m/thea
@@ -34273,6 +34282,7 @@ zzzyk.com###Tinfo
 ||is686.com^$third-party
 ||isanikcieontap.com.ua^
 ||isboost.co.jp^
+||isdfbvkvsc.xyz^
 ||isdspeed.qq.com^
 ||iseekgirls.com/*/rotate.php
 ||isepcvsb.com^$script,xmlhttprequest
@@ -34377,6 +34387,7 @@ zzzyk.com###Tinfo
 ||ityou2tcdb.icu^
 ||iu9g.top^
 ||iuerxw.xyz^
+||iufjkdjmsm.xyz^
 ||iugbjkqwc.xyz^
 ||iuliglsh.space^
 ||iumnxwvh.ink^
@@ -37636,6 +37647,7 @@ zzzyk.com###Tinfo
 ||mordoops.com^
 ||more1.biz^
 ||morgdm.ru^
+||mori.ink^
 ||morlsbli.cyou^
 ||mormonwalty.com^
 ||morningglory101.io^
@@ -38735,6 +38747,7 @@ zzzyk.com###Tinfo
 ||oj.4wank.com^
 ||oj.fapnado.xxx^
 ||ojapanelm.xyz^
+||ojbkmcsdx.xyz^
 ||ojbknb.com^
 ||ojbknx.com^
 ||ojgtbs.cn^
@@ -38762,6 +38775,7 @@ zzzyk.com###Tinfo
 ||oko.net^
 ||okokw.com^$third-party
 ||okooo.com/I/?method=system.data.ad&
+||okoy.top^
 ||okueroskynt.com^
 ||okupsudd.work^
 ||okwa.top^
@@ -39837,6 +39851,7 @@ zzzyk.com###Tinfo
 ||polflq.cn^
 ||policityseriod.info^
 ||politenesscalmantiquarian.com^
+||polkmerth.com^
 ||polkmerty.xyz^
 ||polkmnhytgb.com^
 ||pollpublicly.com^
@@ -43726,6 +43741,7 @@ zzzyk.com###Tinfo
 ||teentitsass.com^
 ||tegronews.com^
 ||tehave.com^
+||tehgfn.xyz^
 ||tehras.com^
 ||teknologia.co^
 ||tekproxy.com/$popup,domain=turkdown.com
@@ -43820,6 +43836,7 @@ zzzyk.com###Tinfo
 ||thawbootsamplitude.com^
 ||thcdy.co/baidu2/foot.js
 ||thcdy.co/baidu2/index_top.js
+||theads.xyz^
 ||theatrialmero.club^
 ||thecoolposts.com^
 ||thecred.info^
@@ -44500,6 +44517,7 @@ zzzyk.com###Tinfo
 ||tuoshi168.com^
 ||tuotianxia.top^
 ||tupian55.com^*.gif
+||tupo.link^
 ||turboadv.com^
 ||turbobit.net/files/news/image/offer
 ||turbobit.net/pus/
@@ -46718,6 +46736,7 @@ zzzyk.com###Tinfo
 ||xiexingcun.com/tongji.js
 ||xiexingcun.com/tyong.js
 ||xiezhong.club^
+||xihongshi.love^
 ||xihuangdushu.com^
 ||xihufe.com^
 ||xijgedjgg5f55.com^
@@ -47943,12 +47962,14 @@ zzzyk.com###Tinfo
 ||zbpx.xyz^
 ||zbqmsc.com^
 ||zbsybh.cn^$third-party
+||zbv7kxrteclub.xyz^
 ||zbzbzzz.top^
 ||zc173.com/173fee/
 ||zcaijing.com/images/
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60eqyw.world^
+||zcck60qyw.xyz^
 ||zcfhi.cn.com^
 ||zchange.xyz^
 ||zchkz.cn^
