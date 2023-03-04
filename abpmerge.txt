@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-03-03 16:07:54
-! Total count: 48681
+! Version: 2023-03-04 16:07:01
+! Total count: 48708
 
 ###AdBlockDialog
 ###Ad_windows
@@ -1104,6 +1104,7 @@
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
 ##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
+##A[href*='//v.wanfumei.net']
 ##A[href="http://goo.gl/jQ9bcz"]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href='/?'][target='_blank']
@@ -1148,6 +1149,7 @@
 ##DIV#div1.div-relative[style='display:block;']
 ##DIV#links.links.my-1.row[style='font-size:20px']
 ##DIV#mhbottom_ad_box
+##DIV#recommend-float.player-recommend-float > a
 ##DIV#tads
 ##DIV#video-player-ads-wrap
 ##DIV.JS_mid_ad
@@ -1178,6 +1180,7 @@
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
 ##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
@@ -1741,6 +1744,8 @@
 ##body.chapter > div.container div.slide-baidu *
 ##body.no_overflow strong
 ##body.page > .popup
+##body.page.player > DIV.shortcuts-mobile-overlay
+##body.page.player > div.popup.popup-tips.popup-icon.open
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
 ##button[onclick*=".xacg.info/"]
@@ -1772,6 +1777,7 @@
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
 ##div.play_boxbg div[class$='_acmsd']
+##div.player-rm.rm-two.rm-list > a
 ##div.post_list_ajax > A[target='_blank']
 ##div.row > DIV.md-r-panel
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
@@ -12274,7 +12280,7 @@ apowersoft.cn##.activity-poster
 appchina.com###yyh-bottom
 appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
-appinn.com###sidebar A[rel*="sponsored"]
+appinn.com###sidebar a[rel*="sponsored"]
 appinn.com##.ads-m
 appinn.com,hexieshe.cn###media_image-2
 appki.com.pl#@##adsense
@@ -20062,6 +20068,7 @@ torrent-finder.info###addon_info
 torrent-francais.com##A[onclick^="this.href='http://www.FriendlyDuck.com/AF_TA/rel/"]
 torrent-tv.ru##.page > .right-side > .section + .section + .section
 torrent911.com#$#abort-on-property-read atob
+torrentdosfilmes.eu#$#abort-current-inline-script document.createElement /break|case/
 torrentkitty.tv#$#abort-on-property-read _fupfgk;abort-on-property-read _nyjdy
 torrentproject.com##A[href^="//torrentproject.com/out/?"]
 torrnado.win##body > div > .a-overlay
@@ -23245,6 +23252,7 @@ zzzyk.com###Tinfo
 ||8gp4wjq3.com^
 ||8hdp.cn^
 ||8hpay.cn^
+||8i3158.cn^
 ||8jay04c4q7te.com^
 ||8jkx.com^
 ||8jrc564wtf.cn^
@@ -23438,6 +23446,7 @@ zzzyk.com###Tinfo
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9j1y.cn^
+||9j5e.top^
 ||9js6.icu^
 ||9jsp.com/pay.png
 ||9k9k.com/jscode/js/
@@ -23445,6 +23454,7 @@ zzzyk.com###Tinfo
 ||9kld.com/ad*.html
 ||9kp.cc/js/bbk/
 ||9ku.com/aaa/
+||9odes.ltd^
 ||9r7i9bo06157.top^
 ||9tata.com/js/Rand.js
 ||9tata.com/js/pbanner.js
@@ -27519,6 +27529,7 @@ zzzyk.com###Tinfo
 ||cgfdjz.net/xia.js
 ||cggf.xyz^
 ||cgiale.com^
+||cgigc.com.cn^
 ||cgmalight.com^
 ||cgskqg.com^
 ||cgvhtvj.cn^
@@ -30560,6 +30571,7 @@ zzzyk.com###Tinfo
 ||enl2.96845.com^
 ||enmassstraits.com^
 ||enmitystudent.com^
+||ennde.cyou^
 ||enodiarahnthedon.com^
 ||enohb.com^
 ||enread.com/img/185-50.gif
@@ -31465,6 +31477,7 @@ zzzyk.com###Tinfo
 ||frugalrushcap.com^
 ||frutrun.com^$third-party
 ||fruzrotula.com^
+||frxcdn.xyz^
 ||fs0523.com^
 ||fsalfrwdr.com^
 ||fsclzs.com/Ad_User/
@@ -34562,6 +34575,7 @@ zzzyk.com###Tinfo
 ||j.zlszw.com^
 ||j.zlszw.com^$third-party
 ||j.zykxjt.com^
+||j00x.top^
 ||j04.xyz^
 ||j04r.top^
 ||j05.xyz^
@@ -37270,6 +37284,7 @@ zzzyk.com###Tinfo
 ||mcxsw.xyz^
 ||mczbf.com^
 ||md.tvzhe.com^
+||mdcxyo.xyz^
 ||mddcloud.*/oweApi/ad/
 ||mdfiaub.cn^
 ||mdfsbn.com^$third-party
@@ -38487,6 +38502,7 @@ zzzyk.com###Tinfo
 ||nmgyllh.cn^
 ||nmhte.xyz^
 ||nmidhnz.cn^
+||nmm9i.xyz^
 ||nmrdnqn.cn^
 ||nmrlx.cn^
 ||nmsl.ink^
@@ -38929,6 +38945,7 @@ zzzyk.com###Tinfo
 ||omazeiros.com^
 ||omciecoa37tw4.com^
 ||omclyzyapf.com^
+||omegabest.cn^
 ||omfiydlbmy.com^
 ||omgid.qq.com^
 ||omgpm.com^
@@ -40607,6 +40624,7 @@ zzzyk.com###Tinfo
 ||qdczx66.com^
 ||qdglzx.com^
 ||qdhhdsw.cn^
+||qdiwbhjpo.com^
 ||qdjimo.com/html/js/
 ||qdp.qidian.com^
 ||qdross.com/vip/
@@ -40647,6 +40665,7 @@ zzzyk.com###Tinfo
 ||qgss8.com^
 ||qguwoq.cn^$third-party
 ||qgxbluhsgad.com^
+||qhapp.top^
 ||qhdbfjx.com^
 ||qhdlz.net/ssyyss/m.js
 ||qhdlz.net/uploads/glxs/980x120.jpg
@@ -40675,6 +40694,7 @@ zzzyk.com###Tinfo
 ||qhres.com^*/baidu_
 ||qhrixol.cn^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
+||qiabayyds.com^
 ||qianbaobbs.net^
 ||qianchengwenhua.xyz^
 ||qianduoduo.fit^
@@ -41009,6 +41029,7 @@ zzzyk.com###Tinfo
 ||qwadakesy.cyou^
 ||qwblog.cn/localfile/20200612230036.gif
 ||qwcqqw.xyz^
+||qwcwnjk.com^
 ||qwe0231141.bj.bcebos.com^
 ||qweasd.vip^
 ||qweewq2021.online^
@@ -41269,6 +41290,7 @@ zzzyk.com###Tinfo
 ||regioncolonel.com^
 ||regizm.com^
 ||regmacimbia.com^
+||regrfg33.com^
 ||regrupontihe.com^
 ||regularinstructgorilla.com^
 ||regulationprivilegescan.top^
@@ -42330,6 +42352,7 @@ zzzyk.com###Tinfo
 ||shamodesha.com^
 ||shanaurg.net^
 ||shandian.biz/wp-content/themes/inove/js/comment.js
+||shandiankuaixi.in^
 ||shandongaosen.cn^
 ||shang.hlgnet.com/code/
 ||shangc.net/ipquery.ashx
@@ -43953,6 +43976,7 @@ zzzyk.com###Tinfo
 ||tfzznclztl.com^
 ||tg.loclog.cn^
 ||tg0qu.top^
+||tgcfmh.com^
 ||tgfyq.cn^
 ||tgktw.xyz^
 ||tgnlaigi.fun^
@@ -45223,6 +45247,7 @@ zzzyk.com###Tinfo
 ||uxxux.com/js/zd.js
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
+||uygckiy.cn^
 ||uyjhbawd.xyz^
 ||uyueread.com^
 ||uyydww.xyz^
@@ -45764,6 +45789,7 @@ zzzyk.com###Tinfo
 ||wafmedia3.com^$script,domain=online.dramacafe.in
 ||wafvertizing.crazygames.com^
 ||wagecarriage.com^
+||wagepulsate.com^
 ||wagersinging.com^
 ||waggonerchildrensurly.com^
 ||wagzqhq.cn^
@@ -47956,6 +47982,7 @@ zzzyk.com###Tinfo
 ||yuske2.xyz^
 ||yusnw.cc^
 ||yutew.cc^
+||yuvdqnpo.com^
 ||yuvvddt.cn^
 ||yvajogj.cn^
 ||yvmads.com^
