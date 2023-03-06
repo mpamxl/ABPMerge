@@ -1095,7 +1095,6 @@
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
 ##A[href*=".com/?Agent="]
-##A[href*="/ky55004.com"]
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
 ##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
@@ -1592,6 +1591,7 @@
 ##a[href*="/ky0777.cn"]
 ##a[href*="/ky1010.cn"]
 ##a[href*="/ky53362.com"]
+##a[href*="/ky55004.com"]
 ##a[href*="/ky9897.cn"]
 ##a[href*="/kyky199.com"]
 ##a[href*="/l1y5.com"]
@@ -3486,6 +3486,7 @@ applefans.today#$#.timed-pup { display: none !important; }
 applefans.today#$#.tipi-overlay { display: none !important; }
 applefans.today#$#body { overflow: auto !important; }
 apprcn.com##a[href*=".lizhi."]
+aqicn.org#$#abort-on-property-read alert
 arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
 arabxd.com#$#abort-current-inline-script document.querySelectorAll popMagic
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,kinda.media,teremok.org.ua,webos-forums.ru###mdl_adb
@@ -4373,6 +4374,7 @@ cctime.com###ad_three
 cctime.com##.nav_banner
 cctv.com###bgAd_div
 cctv.com##.anime_ewm
+cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 cdn.tiv.pw###Advertisement1
 cdn.tiv.pw##.drt
 cdn.tiv.pw##.floater
@@ -5001,7 +5003,6 @@ dalipan.com##.hongbao-wrap
 dama.cz##[class*="ads-"]
 dama.cz##div[class^="sky-wrap"]
 dan-teng.top##.nav
-dandanzan.cf,nunuyingyuan.com,ddys.buzz##+js(m3u-prune, /^http/, /^https:\/\/vip\.ffzy-(?:play|online)\d*\..+\.m3u8$/)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,RTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,mozRTCPeerConnection,null)
 dandanzan.com,dandanzan10.top,nunuyy5.org##+js(set,webkitRTCPeerConnection,null)
@@ -8403,6 +8404,7 @@ m.qidian.com##P.text-content
 m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 m.qu.la#?#:-abp-has(> a[href*=".bcebos."])
 m.qu.la#?#ul:-abp-has(> li > a[href*=".bcebos."])
+m.sm.cn##DIV[ad_seid],DIV.dl-banner-lg.card
 m.so.com##.e_idea_list
 m.sohu.com##.feed-list-scoped > div[data-spm-type="content"]
 m.taobao.com##.install-app
@@ -10031,6 +10033,7 @@ redtube.com##.qb
 referencemega.com###hebdotop_t
 reflex.cz###gl-nat
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
+relax-fm.ru#$#abort-on-property-read Ya
 renfei.net#$#.ant-modal-root { display: none !important; }
 renfei.net#$#body { overflow-y: auto !important; }
 renren.com###videoAd12
@@ -11338,11 +11341,12 @@ v.baidu.com##div[id^="adv_asp_"]
 v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
 v.ifeng.com##.keyword
 v.pptv.com###video-download-game
-v.qq.com###player  .txp_zt_content
+v.qq.com###player .txp_zt_content
 v.qq.com##.module-image[style*="width:1100px;"]
 v.qq.com##.module-image[style*="width:1240px;"]
 v.qq.com##.nav_link[href^="http"]:not([href*=".qq."])
 v.qq.com##.player-side-ads
+v.qq.com##.quick_games.quick_item,div.card-wrap
 v.qq.com##.site_bg_variety
 v.qq.com##.slider_item[href^="http"]:not([href*=".qq."])
 v.qq.com##.video-card-module > div[dt-params*="ad_creative_id="]
@@ -11709,7 +11713,6 @@ www.dbbqb.com##DIV.MuiPaper-root
 www.dmh8.me,dm88.me##CENTER
 www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
 www.dmh8.me,dm88.me##DIV[style^='width:300px;height:300px;position:fixed;bottom:0;left:0;']
-www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 www.douyu.com##.giftbatter-box
 www.duba.com##.tiyan_a
 www.dwnews.com##.big2-gg
