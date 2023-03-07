@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-03-06 16:07:57
-! Total count: 48016
+! Version: 2023-03-07 16:07:57
+! Total count: 48037
 
 ###AdBlockDialog
 ###Ad_windows
@@ -1657,6 +1657,7 @@
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
+##a[href="/jump.php"] > img[src*=".bcebos.com"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="http://hqbet2191.com"]
 ##a[href="http://www.tw787.com/"]
@@ -5470,6 +5471,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /v2/a/push/js/*
 /v2/ads.
 /v2/ads/*
+/v2/stats/99*
 /v3/ads/*
 /v3/ads?
 /valnet-header-ads.
@@ -5515,6 +5517,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 /virtuagirl.
 /virtuagirl3.
 /virtuagirlhd.
+/vj1/
 /vmind.qqvideo.tc.qq.com^
 /vnads.
 /vpaidad3.
@@ -6604,6 +6607,9 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 5253.com###android-qr
 526bt.com,daniao.org,eroacg.com,laod.cn,myqqjd.com,ninpang.com,zhujiceping.com##.tg-site
 526bt.com,guojitv.com###slider
+5278.cc###leftside_banner_top
+5278.cc###list_top_ad
+5278.cc###rightside_banner_top
 5278.cc##+js(remove-attr, onclick, a)
 5278.cc##+js(window.open-defuser, 88p2p.com)
 5278.cc##.pct > div[style="width: 600px;"]
@@ -6759,7 +6765,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 69story.com###main > div[style="margin-top: 15px;"]
 69story.com##aside#secondary > section[id="text-2"]
 69vj.com###nta
-69xx.one,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
+69xx.one,69xx487.xyz,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 69xx.one,theav.xyz,theporn.cc#$#override-property-read is_show false
 6park.com##a[href*=".php?key="]
 6park.com##img[width="980"][height="90"]
@@ -12434,6 +12440,7 @@ avtb01.com##a[href^="http://xgn66.com/?aff="]
 avtb01.com##body > div[id^="haoetv"]
 avtb01.com,beauty321.com,aotu43.com,csdn.net##.ads
 avtb2022.com###menu-main-content > li:nth-child(n+5)
+avtovzglyad.ru,baby.ru,dni.ru,relax-fm.ru#$#abort-on-property-read Ya
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 awaker.cn###jiji + div[style="padding: 20px"]
 awaker.cn##.good-price
@@ -13092,6 +13099,7 @@ bytzbiorowy.pl###stickymsg
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
+c.biancheng.net##.ggxc-box > a[target="_blank"] > img
 c114.com.cn###ad_r1
 c114.com.cn###barrage_ad
 c114.com.cn###barrage_bg
@@ -13316,6 +13324,7 @@ chinaqking.com###cnt-ad
 chinaqking.com###newsAD
 chinaqking.com###readerServiceDIV
 chinasmartgrid.com.cn##.ht60ad
+chinaso.com##DIV.wrap-toolbar
 chinatimes.com##.l_ad
 chinatimes.com##.tab_4_box
 chinatimes.com##div[class*="googlead_"]
@@ -17138,7 +17147,7 @@ ling-online.com#$#abort-current-inline-script document.documentElement JSON.pars
 linkdecode.com#@#.adsbygoogle
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
-linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open
+linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;abort-on-property-read setTimeout
 linkneverdie.net$$script[tag-content="DetecAdBlock"][min-length="500"][max-length="3000"]
 linkshrink.net#@##overlay_ad
 linkshrink.net#@#.overlay_ad
@@ -18982,7 +18991,6 @@ redtube.com##.qb
 referencemega.com###hebdotop_t
 reflex.cz###gl-nat
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
-relax-fm.ru#$#abort-on-property-read Ya
 renfei.net#$#.ant-modal-root { display: none !important; }
 renfei.net#$#body { overflow-y: auto !important; }
 renren.com###videoAd12
@@ -20714,6 +20722,7 @@ wuyong.fun##.content-area .adsbygoogle
 wuyong.fun##.riplus_ads_wrap
 wuyong.fun#?#.sidebar-innter > section[id^="b2-widget-html-"]:has(.adsbygoogle)
 www.1069gay.net###shortcut
+www.123pan.com##DIV.VipBanner,DIV[style='width:100%;position:fixed;bottom:80px'],DIV[style='width: 100%; position: fixed; bottom: 25px;']
 www.15yan.com##.tooltip
 www.163.com##.float-bar
 www.17173.com##.pn-tg
@@ -26540,6 +26549,7 @@ zzzyk.com###Tinfo
 ||bp.blogspot.com^*/s1600/dealer
 ||bp.blogspot.com^*/s300/poonam-pandey-hot.jpg
 ||bpbpxv.xyz^
+||bpewo.cyou^
 ||bpimg.com/4851/19f7543667f26682.jpg
 ||bpnhgan.cn^
 ||bptxcg.xyz^
@@ -27569,6 +27579,7 @@ zzzyk.com###Tinfo
 ||chyfkf.cn^
 ||chyjobopse.pro^
 ||chykohija.pro^
+||chyuok.xyz^
 ||chyxyrothi.com^
 ||ciaeue.xyz^
 ||cibntv.net/youku/$media,mp4
@@ -30442,6 +30453,7 @@ zzzyk.com###Tinfo
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
 ||etgameshop.com^
+||ethandataserver.love^
 ||ethicalads.io^$third-party
 ||ethnicacknowledgedbeneficial.com^
 ||ethnicbrotherhoodunmoved.com^
@@ -30814,6 +30826,7 @@ zzzyk.com###Tinfo
 ||fenxiangdashi.com/img/banner/
 ||fer2oxheou4nd.com^
 ||fermacyupplow.com^
+||fernandou.online^
 ||ferret.itsf.red^
 ||fethungi.com^
 ||fetiseovisac.com^
@@ -35779,6 +35792,7 @@ zzzyk.com###Tinfo
 ||lddpgn.cn^
 ||ldimnveryldgittl.com.ua^
 ||ldmnq.com^$third-party
+||ldmnq.com^$third-party,badfilter
 ||ldpiecesonth.xyz^
 ||ldpsfa.com^
 ||lduhtrp.net^
@@ -38436,6 +38450,7 @@ zzzyk.com###Tinfo
 ||okbmf.com^*950_120
 ||okcf.top^
 ||okcy.top^
+||okdi.top^
 ||okdigital.me^
 ||okew.top^
 ||okforwardt.fun^
@@ -39720,6 +39735,7 @@ zzzyk.com###Tinfo
 ||primevalstork.com^
 ||princesses.asia^
 ||pringed.space^
+||printsmull.com^
 ||priorlypious.com^
 ||priry.com^
 ||privacywithholdrepose.com^
@@ -41037,6 +41053,7 @@ zzzyk.com###Tinfo
 ||rkcdmve.cn^
 ||rkkhuwl.cn^
 ||rkomf.com^
+||rkv9.top^
 ||rkxy.com.cn/js/text_
 ||rkzby.cn^
 ||rl-mb90b39t.cn^
@@ -42237,6 +42254,7 @@ zzzyk.com###Tinfo
 ||slcgngo.cn^
 ||sleazyneasy.com/contents/images-container/*.gif
 ||slfango.ltd^
+||slfindmarket.live^
 ||slfj564.xyz^
 ||slibb.xyz^
 ||slibindy.top^
@@ -45147,6 +45165,7 @@ zzzyk.com###Tinfo
 ||vviikig.cn^
 ||vvphznw.cn^
 ||vvsbwny.cn^
+||vvtztj.xyz^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vvvljeqasz.com^
@@ -45869,6 +45888,7 @@ zzzyk.com###Tinfo
 ||wuliao.jingyanben.com^
 ||wuliao.juqingba.cn^
 ||wuliglsg.space^
+||wumao20230301.live^
 ||wumei91.cc^
 ||wumii.cn/ext/relatedItemsWidget
 ||wumnxwvg.ink^
@@ -46878,6 +46898,7 @@ zzzyk.com###Tinfo
 ||yfetyg.com^
 ||yffjqvq.cn^
 ||yfkgnqu.cn^
+||yflog.me^
 ||yfmhik.xyz^
 ||yforaglasys.xyz^
 ||yfot.com.cn^
