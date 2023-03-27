@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-03-26 16:06:25
-! Total count: 47736
+! Version: 2023-03-27 16:07:54
+! Total count: 47753
 
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6368,7 +6368,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 4kporn.xxx,cambro.tv,mangovideo.club###kt_player > a[href][target="_blank"]
 4kporn.xxx,cambro.tv,mangovideo.club#$#abort-current-inline-script crakPopInParams; abort-on-property-read onload
 4kya.com###player_pause
-4pda.to#$#hide-if-matches-xpath './/*[not(self::div)]//script[contains(text(),"Math.ceil")]/ancestor::*[not(self::div)][1]'; hide-if-matches-xpath './/*[not(self::div)]//script[contains(text(),"toLowerCase")]/ancestor::div[2]'; hide-if-matches-xpath './/a[@target="_blank"]/img[@alt="" and @title=""]/ancestor::td[1]'
+4pda.to#$#hide-if-matches-xpath './/a[@target="_blank"]/img[@alt="" and @title=""]/parent::a/ancestor::*[@id and @class][1]'; hide-if-matches-xpath './/a[@href][@title][@target="_blank"]/img[@itemprop]/parent::a[@href]'; hide-if-matches-xpath './/a[@href][@target="_blank"]/img[@title and @border]/ancestor::*[2]'; hide-if-matches-xpath './/*[@id and @class]/article[@class="post" and @itemscope]/ancestor-or-self::*[1]';
 4tuning.ro#@#.adsbygoogle
 500.com###live_top_ad
 500.com##.tz_pai
@@ -12509,6 +12509,7 @@ baofeng.com##.ad-pop-wrap
 baofeng.com##.play-ads
 baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-slot-top
+baomoi.com,zingnews.vn#$#abort-current-inline-script document.createElement script
 bato.to#$#abort-current-inline-script document.createElement _vwmso
 batporno.com#$#abort-on-property-read decodeURI
 baytorrent.eu.org,europixhd.com,europixhd.net,file-up.org,force-download.com,force-download.es,force-download.fr,force-download.net,gledajonline.net,hdeuropix.io,loadsubs.net,novom.ru,pirateproxy.earth,pirateproxy.live,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay10.org,topeuropix.net,tpb.party,uploadproper.com,uploadproper.net#$#abort-on-property-read atob
@@ -18804,7 +18805,6 @@ setn.com##.rightFloat
 setn.com,eprice.com.tw##div[class^="ad-"]
 settlersonlinemaps.com###prb
 sex-gen.com##.navi
-sex68.link,viet69.love,sexvietnam.site,sexdiaryz.fun#$#abort-on-property-read parseInt
 sex8.cc###nv > ul.cl > li > a[href^="http"]
 sex8.cc##.V-video-float
 sex8.cc##.a_oscar1
@@ -18814,7 +18814,7 @@ sex8.cc##.fnwehjnc12
 sex8.cc##.gd-list
 sex8.cc##.j-oscar
 sex8.cc##a[onclick^="window.open('/dasp.php?"]
-sexphimhd.net,gvnvh18.com,g18vn.com,sex68.link#$#abort-current-inline-script Math
+sexphimhd.net,gvnvh18.com,g18vn.com#$#abort-current-inline-script Math
 seznamzpravy.cz##[class^="dynamic_banner"]
 seznamzpravy.cz##article[data-dot="mol-timeline-item-advert"]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
@@ -19605,15 +19605,15 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.wra
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[href*=";cdata="]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id*="tmAdVideo"], [class=" pe-banner"]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz,spisovatele.cz##.SC_TBlock
-tiscali.it#$#hide-if-matches-xpath './/a[@class="slides-next"]/preceding::div[contains(@class,"active")]/ancestor::div[@data-mrc="ebay"]/parent::div[1]'
+tiscali.it#$#hide-if-matches-xpath './/a[@class="slides-next"]/preceding::a[contains(@title,"eBay")]/ancestor::div[@data-mrc="ebay"]/parent::div[1]'
 tiscali.it#$#hide-if-matches-xpath './/a[@data-merchant="ebay"]/ancestor::div[starts-with(@class,"product-cnt")]/ancestor::div[contains(@class,"eby-cnt")]'
 tiscali.it#$#hide-if-matches-xpath './/a[@href="#"][contains(@*,"ebay")]/img[@id]/ancestor::div[@id][@style]'
 tiscali.it#$#hide-if-matches-xpath './/a[@href="#"][contains(@*,"ebay")]/img[@src]/ancestor::div[@id][@style]'
 tiscali.it#$#hide-if-matches-xpath './/a[@target="_blank"][@href="#"][contains(@*,"https://www.ebay.it")][not(contains(@href,"utm_campaign=lucegas"))]/preceding::div[contains(@style,"height: ")][contains(@id,"SkinAuto")][2]'
 tiscali.it#$#hide-if-matches-xpath './/a[contains(@href,"campid") or contains(@href,"_trkparms")]/ancestor::div[@data-old]'
-tiscali.it#$#hide-if-matches-xpath './/a[contains(@href,"www.ebay.it")]/ancestor::div[@data-mrc="ebay"]/parent::div[starts-with(@class,"vsb-pos")]'
+tiscali.it#$#hide-if-matches-xpath './/a[contains(@href,"www.ebay.it")]/ancestor::div[@data-total]/parent::div[starts-with(@class,"vsb-pos")]'
 tiscali.it#$#hide-if-matches-xpath './/figcaption/preceding::img/preceding::a[@target="_blank"][contains(@title,"ebay")]/parent::figure'
-tiscali.it#$#hide-if-matches-xpath './/img/ancestor::a[@target="_blank"][@href="#"][contains(@*,"www.ebay.it")]/parent::div[starts-with(@class,"vsb-pos")]'
+tiscali.it#$#hide-if-matches-xpath './/img/ancestor::a[@target="_blank"][contains(@*,"www.ebay.it")]/parent::div[starts-with(@class,"vsb-pos")]'
 titan007.com###table_live > tbody > tr > td[height="18"] > a
 titlovi.com#@#.pub_300x250
 titlovi.com#@#.pub_300x250m
@@ -20024,6 +20024,7 @@ vidlii.com$$script[tag-content="|babasbmsgx|"][min-length="5000"][max-length="27
 vidlo.us,abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io,hxfile.co#$#abort-on-property-read decodeURIComponent
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
+viet69.love,sexvietnam.site,sexdiaryz.fun#$#abort-on-property-read parseInt
 viet69.love,ungtycomicsvip.com,vlxx.info#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
@@ -20805,6 +20806,7 @@ zhihu.com##.AppMagicBanner
 zhihu.com##.Banner-link
 zhihu.com##.Banner-link + .Pc-card-button-close
 zhihu.com##.Card.Banner
+zhihu.com##.GoodsRecommendCard
 zhihu.com##.HitQrcode
 zhihu.com##.KanshanDiversion
 zhihu.com##.MBannerAd
@@ -20842,6 +20844,7 @@ zhujiwiki.com##.msg
 zhujiwiki.com##.ssrtop
 zhuna.cn##a[href*="quchuchai."]
 zi.media##body > div[style="height: 300px;"]
+zingnews.vn#$#abort-on-property-read atob
 ziqiangxuetang.com###tutorial_btm
 ziqiangxuetang.com##a[href="/j/coding/"]
 ziyuanyo.com##.index-ad-text
@@ -25173,6 +25176,7 @@ zzzyk.com###Tinfo
 ||bagwynbilgier.com^
 ||bahamut.com.tw/js/ad.js
 ||bahmemohod.com^
+||baidbsjvb.com^
 ||baidnblkdn.com^
 ||baidu-image-qqcom.com^
 ||baidu-jxf.co^$popup
@@ -26955,6 +26959,7 @@ zzzyk.com###Tinfo
 ||changsha.cn/front_js/site_ad/4/site_ad_284.js
 ||changshuohr.net^
 ||changyan.itc.cn/mdevp/extensions/mobile-cmt-advert/
+||changyangcd.com^
 ||chaochaogege.net^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||chaomi.cc/js/cms_
@@ -27155,6 +27160,7 @@ zzzyk.com###Tinfo
 ||chrantary-vocking.com^
 ||chrif8kdstie.com^
 ||chrigh.com^
+||chrislee.ltd^
 ||chromeba.net/wp-content/uploads/
 ||chsfdfkwsrjwe.xyz^
 ||chshcms.net^
@@ -28576,6 +28582,7 @@ zzzyk.com###Tinfo
 ||dddwz.cn^
 ||ddgjjj.com^$third-party
 ||ddhjxakewpp.com^
+||ddhs.site^
 ||dditscdn.com/*/advertisement.js
 ||ddlh1467paih3.cloudfront.net^
 ||ddnzn.xyz^
@@ -30743,6 +30750,7 @@ zzzyk.com###Tinfo
 ||fpo.xxx/player/html.php?aid=pause_html&*video_id=*&referer=
 ||fpofvdovrk.com^
 ||fpvdxd5.com^
+||fq67.top^
 ||fqla.top^
 ||fqsokh.xyz^
 ||fqtag.com^$third-party
@@ -35190,6 +35198,7 @@ zzzyk.com###Tinfo
 ||kuwo.cn/static/swf/xctg.swf
 ||kuwoyy.com^
 ||kuxinqi.com^
+||kuyw.cn^
 ||kv61xc8.xyz^
 ||kvbgoc.com^
 ||kvcyoiwy.xyz^
@@ -35922,6 +35931,7 @@ zzzyk.com###Tinfo
 ||loonquan.com^
 ||loopaautomate.com^$third-party
 ||loopanews.com^
+||loopd.cyou^
 ||loopme.me^
 ||loopoohy.com^
 ||lootynews.com^
@@ -37359,6 +37369,7 @@ zzzyk.com###Tinfo
 ||nacontent.pro^
 ||nadjustifygas.com^
 ||naemailom.fun^
+||nahsfl.xyz^
 ||nai7.xyz^
 ||naifei.shop/static/banner/banner_mobile.jpg
 ||naigristoa.com^
@@ -38791,6 +38802,7 @@ zzzyk.com###Tinfo
 ||pengauto.cn^
 ||penglangyyds.com^
 ||pengobyzant.com^
+||pengpailm.online^
 ||pengtu.cc^*.png
 ||penguin.revolana.com^
 ||pengwei168.com/addons/321.gif
@@ -42071,6 +42083,7 @@ zzzyk.com###Tinfo
 ||sogou.com/wap_ask_service?
 ||sogoucdn.com/app/a/100540022/2021012518561139502233.png
 ||sogoucdn.com/app/a/100540022/2021022016080586548810.jpg
+||sogoucdn.com/app/a/200692/960_80_feedback_
 ||sogoucdn.com/dhfe/
 ||sogoucdn.com/nstatic/js/bottom_shopping.
 ||sogoucdn.com/nstatic/js/showtime.js
@@ -42772,6 +42785,7 @@ zzzyk.com###Tinfo
 ||sz7g.top^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szasm8.com^
+||szcmcs.com^
 ||szdaqi88.com^
 ||szdzbx.com^
 ||szfcol.com/images/wxright240.jpg
@@ -43224,6 +43238,7 @@ zzzyk.com###Tinfo
 ||tianji520.cn^$third-party
 ||tianjiunion.cn^
 ||tianlans.xyz^
+||tianlaoyyds.com^
 ||tianmaogroup.cn^
 ||tianmel.xyz^
 ||tianmenshan.top^
@@ -43856,6 +43871,7 @@ zzzyk.com###Tinfo
 ||twtiq.xyz^
 ||twuafbj.cn^
 ||twuekgl.cn^
+||twuipte.cn^
 ||twunbbs.com/images/
 ||twww.sbs^
 ||twzui6.com^
@@ -44106,6 +44122,7 @@ zzzyk.com###Tinfo
 ||umeng.com^
 ||umhfrtu.cn^
 ||umkezbh.cn^
+||ummnam.xyz^
 ||umyrn.xyz^
 ||un-acs.youku.com^
 ||un.clobberkiliare.com^
