@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-04-14 16:07:03
-! Total count: 47410
+! Version: 2023-04-15 16:06:13
+! Total count: 47421
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -6525,7 +6525,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com,zn503.com##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
-52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 52pk.com###baidutop
 52pk.com###baidutop2
@@ -7128,7 +7128,7 @@ $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube
 @@/pub1/??$domain=banggo.com
 @@/pubads*theguardian.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=kuque.com|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
 @@/show_ad_$domain=wb.qq.com
@@ -17443,8 +17443,11 @@ mrtzcmp3.net###hstp_interstitial
 mscbsc.com##.bao1
 mse.360.cn##a[id^="banner"]
 msn.cn##+js(json-prune, *, list.*.link.ad list.*.link.kicker)
+msn.cn##.intra-article-ad-full
 msn.cn##.nativeadserversidecontentmodule
 msn.cn##.rc > a[href^="https://sp.booking.com/"]
+msn.cn##[class^="articlePage_eoabContent"]
+msn.cn##cs-native-ad-card
 msn.cn##div[class^="nativeAd-DS-card"]
 msn.com###displayAdCard
 msn.com###taboola-above-homepage-thumbnails
@@ -18698,9 +18701,6 @@ riaway.com##.info_message_container
 ricettafitness.com,yts-subs.dev$$meta[http-equiv="refresh"]
 right.com.cn##a[href^="https://jd.dangbei.com/"]
 rightwingnews.com##.z-ad-inline
-rijutv.co###JU
-rijutv.co##.container > div[style="height: 128px;"]
-rijutv.co##.union-list-item
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 rireetchansons.fr###popins
 rireetchansons.fr###upsell
@@ -18873,6 +18873,7 @@ sex8.cc##.fnwehjnc12
 sex8.cc##.gd-list
 sex8.cc##.j-oscar
 sex8.cc##a[onclick^="window.open('/dasp.php?"]
+sexdiaryz.us#$#abort-on-property-read parseInt
 sexphimhd.net,gvnvh18.com,g18vn.com#$#abort-current-inline-script Math
 seznamzpravy.cz##[class^="dynamic_banner"]
 seznamzpravy.cz##article[data-dot="mol-timeline-item-advert"]
@@ -20083,7 +20084,6 @@ vidlii.com$$script[tag-content="|babasbmsgx|"][min-length="5000"][max-length="27
 vidlo.us,abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io,hxfile.co#$#abort-on-property-read decodeURIComponent
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.love,sexvietnam.site,sexdiaryz.fun#$#abort-on-property-read parseInt
 viet69.love,ungtycomicsvip.com,vlxx.info#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
@@ -21129,6 +21129,7 @@ zzzyk.com###Tinfo
 ||080999.cn^
 ||085cczz.com^
 ||0885.net^$third-party
+||08u6q.com^
 ||093yuht.com^
 ||0941.org^
 ||096iokj.com^
@@ -22715,6 +22716,7 @@ zzzyk.com###Tinfo
 ||89qp98.com^
 ||8a6549cded.com^
 ||8afb7f9e2c1a7a9e.vtube.to^
+||8b4v.cn^
 ||8b8r.icu^
 ||8bo.com/template/default/8bo/j/app.js
 ||8bobf.*/da.aspx
@@ -23104,6 +23106,7 @@ zzzyk.com###Tinfo
 ||aa9z.cn^
 ||aaa.tumanyi.com^
 ||aaaa8.top^
+||aaaaa288.com^
 ||aaaaa599.com^
 ||aaaaa663.com^
 ||aaaaa699.com^
@@ -24091,6 +24094,7 @@ zzzyk.com###Tinfo
 ||airav.cc/iframe/
 ||airav.cc/static/js/*_ad.js
 ||airclewest.com^
+||aircraft-fapi.club^
 ||airdoamoord.com^
 ||airdropemboil.com^
 ||airlinerappetizingcoast.com^
@@ -26028,6 +26032,7 @@ zzzyk.com###Tinfo
 ||blushmossy.com^
 ||blvhq.com^
 ||blxezur.cn^
+||blxfqq.com^
 ||blz105.com/player/ad.html
 ||blzz.xyz^$third-party
 ||bm999999.com^$popup
@@ -26992,6 +26997,7 @@ zzzyk.com###Tinfo
 ||chaospace.fun/wp-content/uploads/*/%E6%A3%8B%E7%89%8C-
 ||chaospace.fun/wp-content/uploads/*/tg-
 ||chaotickets.cn^
+||chaozhunbb.xyz^
 ||chapelcertain.com^
 ||chapm.com^$third-party
 ||chargeplatform.com^
@@ -27518,6 +27524,7 @@ zzzyk.com###Tinfo
 ||cntronics.com/adsupload/
 ||cntv.cn/hezuo/
 ||cntvboxnow.com//ads_
+||cnucpaq.xyz^
 ||cnwnews.com/ad-nrtop/
 ||cnwnews.com/gg
 ||cnwnews.com/images/kgt
@@ -27979,6 +27986,7 @@ zzzyk.com###Tinfo
 ||cvftv2.com^
 ||cvixmhfeosy.top^
 ||cvkvtsjjrs.xyz^
+||cvmesi.xyz^
 ||cvsheil.com^
 ||cvshknd.cn^
 ||cw9twua9.shop^
@@ -32437,6 +32445,7 @@ zzzyk.com###Tinfo
 ||hmjiayi.com^
 ||hmjs.cnmo-img.com.cn^
 ||hmma.baidu.com^
+||hmoe12.com/wp-content/uploads/202*.gif
 ||hmong-miaojiuyi.com^
 ||hmpubc.xyz^
 ||hmreuj.com^
@@ -34501,6 +34510,7 @@ zzzyk.com###Tinfo
 ||jwghphm.cn^
 ||jwgihca.cn^
 ||jwhfkj.cn^
+||jwjdpab.cn^
 ||jwoglda.top^
 ||jwpcdn.com/player/*/googima.js
 ||jwplatform.com/libraries/tdeymorh.js
@@ -40470,11 +40480,6 @@ zzzyk.com###Tinfo
 ||rigies.com^
 ||rigvkgfepy.com^
 ||riju.com/pr/$domain=jpfans.com|jpseek.com
-||rijutv.*/statics/alljs/rijutvapp.
-||rijutv.*/statics/alljs/rijutvpc.js
-||rijutv.*/statics/js/tb.js
-||rijutv.*/statics/skin/hjtv-wap/js/plus.js
-||rijutv.*/uploadfile/8c96dc2f564c1b56.png
 ||rikqo.cc^
 ||rilelogicbuy.com^
 ||riluaneth.com^
@@ -40619,6 +40624,7 @@ zzzyk.com###Tinfo
 ||rp5o.top^
 ||rpacnud.cn^
 ||rpahyhn.cn^
+||rpajqxo.cn^
 ||rpbnljexmai.com^
 ||rpersonals.com^
 ||rpkcqtf.cn^
@@ -42855,6 +42861,7 @@ zzzyk.com###Tinfo
 ||tfg2.com/images/upfile/AD/
 ||tfg2.com/images/upfile/banner/
 ||tfla.xyz^
+||tfonlyuse.shop^
 ||tfosrv.com^
 ||tfptlgrw.co^
 ||tfptlgrw.live^
@@ -44437,6 +44444,7 @@ zzzyk.com###Tinfo
 ||vjav.com.7mmtv.top^
 ||vjav.com.jav-7mmtv.top^
 ||vjdciu.com^
+||vjhjxh.xyz^
 ||vjianshen1688.com^
 ||vjie.com^$third-party
 ||vjkmmog.cn^
@@ -44682,6 +44690,7 @@ zzzyk.com###Tinfo
 ||wangyc.club^
 ||wangyq.ltd^
 ||wangyuekun.xyz^
+||wangyun01.cn^
 ||wangzezhong.top^
 ||wangzhanmeng.com/link/link.html
 ||wangzhe.cx^
@@ -44831,6 +44840,7 @@ zzzyk.com###Tinfo
 ||weednewspro.com^
 ||weeklyimplement.pro^
 ||weekslw.com^
+||weeqmcq.cn^
 ||weeuqek.cn^
 ||wefoidnknsl.net^
 ||wegowan.com^
@@ -45960,6 +45970,7 @@ zzzyk.com###Tinfo
 ||xrewo.xyz^
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
+||xrkyqq.com^
 ||xrn8.xyz^
 ||xryjyfb.cn^
 ||xryrylt.cn^
