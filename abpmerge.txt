@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-04-20 16:07:00
-! Total count: 47522
+! Version: 2023-04-21 16:06:46
+! Total count: 47538
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1627,6 +1627,7 @@
 ##body > h1 > strong > title > a
 ##body#nr_body div.fixed ~ *
 ##body#nr_body font > [id]
+##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
@@ -12574,7 +12575,7 @@ baofeng.com##.ad-pop-wrap
 baofeng.com##.play-ads
 baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 baomidou.com##.sidebar-slot-top
-baomoi.com,zingnews.vn#$#abort-on-property-read _ssdz
+baomoi.com,zingnews.vn#$#abort-on-property-read URL.createObjectURL
 bato.to#$#abort-current-inline-script document.createElement _vwmso
 batporno.com#$#abort-on-property-read decodeURI
 baytorrent.eu.org,europixhd.com,europixhd.net,file-up.org,force-download.com,force-download.es,force-download.fr,force-download.net,gledajonline.net,hdeuropix.io,loadsubs.net,novom.ru,pirateproxy.earth,pirateproxy.live,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay10.org,topeuropix.net,tpb.party,uploadproper.com,uploadproper.net#$#abort-on-property-read atob
@@ -15893,9 +15894,9 @@ inmywordz.com,ants.tw##.acca-block
 instacart.com##a[href*="category_hero_id_"]
 instacart.com##div[data-testid="ads-promoted-aisle"]
 instacart.com##div[data-testid="storefront-category-hero-banner"]
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class]'
-instacart.com#$#race start; hide-if-matches-xpath './/div[@data-sp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-ssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-ssssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sssssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-spp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sppp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-spppp-eligible]/ancestor::div[@aria-label="Product"]'; hide-if-matches-xpath './/div[@data-sppppp-eligible]/ancestor::div[@aria-label="Product"]'; hide-if-matches-xpath './/div[@data-spppppp-eligible]/ancestor::div[@aria-label="Product"]'; race stop;
+instacart.com#$#race start; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section'; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::aside'; race stop;
+instacart.com#$#race start; hide-if-matches-xpath './/div[@data-sp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-ssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-ssssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sssssp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-spp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sppp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-spppp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sppppp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-spppppp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; hide-if-matches-xpath './/div[@data-sspp-eligible]/ancestor::div[@aria-label="Product"]/ancestor::li'; race stop;
 instantmanga.com###notice
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
@@ -20502,6 +20503,8 @@ x3cn.com#?#body > div#qmenu_menu ~ div[style]:has(> a[target="_blank"])
 x6d.com#?#li:-abp-has(>.myad)
 x6d.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
+xbeibeix.com##+js(no-setTimeout-if, /\.height\(\) == 0|adsbygoogle/)
+xbeibeix.com#@#.google-ad
 xbiquwx.la##.box_con > div[style="margin:10px auto;width: 930px;height: 250px;"]
 xblian.com##img[alt*="广告"]
 xboxforum.pl##.noticeContainer:not(.hidden)
@@ -22567,7 +22570,6 @@ zzzyk.com###Tinfo
 ||77qwq.com^
 ||77tel.com^
 ||77vcd.com/js/
-||77xn11.net/js/
 ||77xsw.la/novel/js/pagebottom.js
 ||77xsw.la/novel/js/pagetop.js
 ||77zz7.com^
@@ -23137,6 +23139,7 @@ zzzyk.com###Tinfo
 ||aaaaa663.com^
 ||aaaaa699.com^
 ||aaaaa855.com^
+||aaaaa882.com^
 ||aaaaaco.com^
 ||aaacompany.net^
 ||aaaesme.cn^
@@ -24542,6 +24545,7 @@ zzzyk.com###Tinfo
 ||anicli.click^$third-party
 ||anida.info^
 ||aniem44.cc^
+||anifk71.cc^
 ||anightsregalia.cam^
 ||animated-button.pro^
 ||anime-kimuchi.com/image/*.gif
@@ -24739,6 +24743,7 @@ zzzyk.com###Tinfo
 ||apptry.easylife.tw/pub/js/common/common.js
 ||appzeyland.com^
 ||apritifunbid.com^
+||aprlitj.cn^
 ||apsgo.com/assets/js/union.
 ||apsgo.com/go/
 ||aptimorph.com^
@@ -25814,6 +25819,7 @@ zzzyk.com###Tinfo
 ||beta.ad-maven.com^
 ||betads.xyz^
 ||beterrakionan.com^
+||betgdr.xyz^
 ||betgorebysson.club^
 ||betonpolite.com^
 ||betotodilea.com^
@@ -25995,6 +26001,7 @@ zzzyk.com###Tinfo
 ||bjws.xyz^
 ||bjytdqwx.com^
 ||bjzb.xyz^
+||bkae.top^
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
 ||bkill.com/css/js/xinbkill.js
@@ -32237,6 +32244,7 @@ zzzyk.com###Tinfo
 ||heibaizhibo.com/_nuxt/87a5efd04908651591f7.js
 ||heiguang.com/_r/2015/js/hrBottomBar.
 ||heiguang.com/f/uad/
+||heild.xyz^
 ||heima8.com^$third-party
 ||heinndoorhises.info^
 ||heip3keop.cyou^
@@ -33653,6 +33661,7 @@ zzzyk.com###Tinfo
 ||iqmbao.xyz^
 ||iqnew.com/d/js/m/thea
 ||iqshw.com/d/js/m/thea
+||iqybys.xyz^
 ||ir.mildlydoucely.com^
 ||ir.turbotaedile.com^
 ||ir002423.cn^
@@ -37336,6 +37345,7 @@ zzzyk.com###Tinfo
 ||ncoeqz.today^
 ||ncrkff.xyz^
 ||ncvkzz.cn^
+||ncyx.ltd^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndandinter.hair^
 ||ndegj3peoh.com^
@@ -38672,6 +38682,7 @@ zzzyk.com###Tinfo
 ||peckleooze.com^
 ||pectationselea.xyz^
 ||pedailyu.com^
+||pedjqkl.xyz^
 ||peecht.com^
 ||peelismsenoras.com^
 ||peensthapes.cam^
@@ -43792,6 +43803,7 @@ zzzyk.com###Tinfo
 ||u1.idongde.com^
 ||u1.qyxxpd.com^
 ||u1.shuaiku.com^
+||u10*.com/*.gif$domain=bhuai.top
 ||u1011.com^
 ||u1033.com^
 ||u1099.com^
@@ -43957,6 +43969,7 @@ zzzyk.com###Tinfo
 ||um5xcgngmart.xyz^
 ||umami.is^
 ||umbrellaomendear.com,^
+||umcpebi.cn^
 ||umdc.aliapp.org^
 ||umekana.ru^
 ||umeng.com^
@@ -45424,6 +45437,7 @@ zzzyk.com###Tinfo
 ||wwads.cn^$third-party
 ||wwfx.xyz^
 ||wwggnaw.xyz^
+||wwgqqq.com^
 ||wwkh9ku.xyz^
 ||wwnyubs.cn^
 ||wwoglde.top^
@@ -45631,6 +45645,7 @@ zzzyk.com###Tinfo
 ||x4jdm.tv/mdp.js
 ||x6img.com^$domain=picturedata.org
 ||x800.top^
+||x81zw.co/js/dsnmd.
 ||x8kwcr3l.xyz^
 ||x99skiu.top^
 ||xabaitai.com^
@@ -47114,6 +47129,7 @@ zzzyk.com###Tinfo
 ||zhe8000.pw^
 ||zhej78i1an8w6ceu.com^
 ||zhemaijs.net^
+||zhemu.xyz^
 ||zhenben.cc/2000/
 ||zhenbuka*/statics/js/toastr/jquery.toast.js
 ||zhenbuka.com/gg/lunbo.js
