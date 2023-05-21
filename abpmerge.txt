@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-05-20 16:05:36
-! Total count: 33017
+! Version: 2023-05-21 16:05:47
+! Total count: 33034
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1284,6 +1284,7 @@
 ##a[href*=".com/tg.html?id="]
 ##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
+##a[href*=".com?s="]
 ##a[href*=".covasco.com/"]
 ##a[href*=".cvezsacxz.com/"]
 ##a[href*=".dbrows.com/"]
@@ -1663,6 +1664,7 @@
 ##div#xinxi
 ##div.ad-area > [href]
 ##div.ad-frame-container
+##div.appad
 ##div.bf_qy DIV.copy_div_btn
 ##div.callApp_fl_btn.an
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
@@ -2042,6 +2044,7 @@ $websocket,domain=5nj.com|cechi8.com
 .life/ads/
 .live/hm.js$third-party
 .live/o.js
+.live/o.js$script,third-party
 .live/r/*/*_r=*
 .live/ty/*-*-*
 .live:*/o.js
@@ -14028,7 +14031,6 @@ phpvar.com##.post_content_linkad
 phpvar.com##.qrcode-swiper-container
 pianba.net###jiedoubanban
 pianba.tv,pianba.net##.play-btn > a[target="_blank"]
-pianbus.com,pianmas.com##li[class]:not(.index):not(.hidden-ps):not(.hidden-xs):not(.active)
 pianhd.com###myCarousel
 pianku.me###playad
 pianyuan.org###myModal
@@ -17698,6 +17700,7 @@ zzzyk.com###Tinfo
 ||3dmgame.com/tools/gamead?
 ||3dwwwgame.com^$third-party
 ||3ek9.cn^
+||3fa20230512.live^
 ||3fddkj.com^
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
@@ -19540,6 +19543,7 @@ zzzyk.com###Tinfo
 ||auction.unityads.unity3d.com^$third-party
 ||audid-api.taobao.com^
 ||audiofanzine.com/sorrier^$script
+||aup34.xyz^
 ||autdjng.cn^
 ||auto-online.com.tw/vendor_data/
 ||autofan.com.cn/UploadFiles/images/bAdImg.jpg
@@ -20291,6 +20295,7 @@ zzzyk.com###Tinfo
 ||bqnggnsv.fun^
 ||bqrkubs.cn^
 ||bqsm.com.cn^
+||bqsxqq.com^
 ||bqtwbx.xyz^
 ||br.bendan.shop^
 ||braincf.com^
@@ -21051,6 +21056,7 @@ zzzyk.com###Tinfo
 ||codenong.com/dq.png
 ||codesocang.com/js/a.js
 ||codesocang.com/plus/*baoyue
+||cofz9.top^
 ||cojia.net^
 ||colamanhua.com/sw.js
 ||collector.dcdn.baidu.com^
@@ -22032,6 +22038,7 @@ zzzyk.com###Tinfo
 ||eabids.com^
 ||eafyfsuh.net/Webservices/jsParseLinks.aspx$script,third-party
 ||eafyfsuh.net/visitScript/$script,third-party
+||eaica.xyz^
 ||ealdi.xyz^
 ||ealooov.cn^
 ||eap.big5.enorth.com.cn^
@@ -22253,6 +22260,7 @@ zzzyk.com###Tinfo
 ||eprice.com.tw/img/tw_m/ad/
 ||eprxasz.cn^
 ||eq.af31f.site^
+||eqknlsw.xyz^
 ||eqlidke.cn^
 ||eqnggnsw.fun^
 ||eqpzy.cyou^
@@ -22672,6 +22680,7 @@ zzzyk.com###Tinfo
 ||frgeob.xyz^
 ||friendshipmale.com^
 ||frontendjs.com/api/ad
+||fronttoad.com^
 ||frpns.com^
 ||frxcdn.xyz^
 ||fs0523.com^
@@ -24472,6 +24481,7 @@ zzzyk.com###Tinfo
 ||ipeen.com.tw/photo/ad/
 ||ipip.net/loveapp/ipip/tools/theme/partner/
 ||ipkruu.xyz^
+||iplm.cc^
 ||ipm.atm.youku.com^
 ||iporn.world/attachment/ad/
 ||ipqc5ejfe.icu^
@@ -26136,6 +26146,7 @@ zzzyk.com###Tinfo
 ||lvse.com/9
 ||lvuptech.com/wp-content/plugins/deblocker/
 ||lvxingzhe.store^
+||lvy0.cn^
 ||lw0mp.fun^
 ||lw54.com/js/
 ||lw881.com/public/js/gw.js
@@ -26953,6 +26964,7 @@ zzzyk.com###Tinfo
 ||ndfqoqo.cn^
 ||ndfsl.com^
 ||ndqzqmb.xyz^
+||ndruhz.xyz^
 ||neaqi.top^
 ||necmdow.cn^
 ||nedes.xyz^
@@ -27747,6 +27759,7 @@ zzzyk.com###Tinfo
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
 ||pincidao.cn^
+||pingfang.icu^
 ||pinggu.org/api/bbsgg.
 ||pingma.qq.com^
 ||pingmeibang.com/zt/zx.jpg
@@ -29683,6 +29696,7 @@ zzzyk.com###Tinfo
 ||sw76r85eda3k.com/need/h5.
 ||sw9t.ml^
 ||swadakesb.cyou^
+||swandlb.top^
 ||swicgq.xyz^
 ||swml.xyz^
 ||swogldb.top^
@@ -30414,6 +30428,7 @@ zzzyk.com###Tinfo
 ||u8hdqyug.co^
 ||u8hdqyug.live^
 ||u8hdqyugs.xyz^
+||u97jr.xyz^
 ||uadsaa.com^
 ||uanlisgt.fun^
 ||uasvyi.xyz^
@@ -30881,6 +30896,7 @@ zzzyk.com###Tinfo
 ||vxotu.com/i/*.gif
 ||vxsnk.com^
 ||vydbvp.xyz^
+||vydqknuy.xyz^
 ||vykeavz.cn^
 ||vyps.fun^
 ||vyule.com^
@@ -31730,6 +31746,7 @@ zzzyk.com###Tinfo
 ||xizi.com/js/rotator.js
 ||xjhjtz.cn^
 ||xjjkxcg.cn^
+||xjnyjt.xyz^
 ||xjpphoto.com^
 ||xjpsrb.xyz^
 ||xjrvwz.com^
