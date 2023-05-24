@@ -1656,6 +1656,7 @@
 ##div#gmright
 ##div#h2_player_prevideo > A[href][target='_blank']
 ##div#hengfu_wap_vod_xia > a
+##div#nr_body.nr_all.c_nr div.show-app2
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##div#xinxi
@@ -5958,6 +5959,7 @@ galacg.me,unecne.com##.metaslider
 game.macx.cn#@##google-ad
 game2.cn###pop-flash
 game2.cn###rb
+game3rb.com,kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURIComponent
 game4free.nl#@##adsense
 game735.com##div[id^="ysmAD"]
 game735.com#$#div[id^="gklobl"] { height: 1px!important; }
@@ -7269,6 +7271,7 @@ itavcn.com##.mb_right > .mt8:nth-child(3)
 itavcn.com##.topadvzone
 itavcn.com##img[width="722"]
 itbaoku.cn##+js(set-constant, killads, true)
+itbaoku.cn##.col-lg-12[style="padding-left: 0px;padding-top: 15px;padding-bottom: 15px;"]
 itboth.com,itkeyword.com##.ad_pop_left
 itboth.com,itkeyword.com##.ad_pop_left_txy
 itboth.com,itkeyword.com##a[href*=".aliyun."]
@@ -7797,7 +7800,6 @@ kinohome.net##a[data-i]
 kinoman.tv##IMG[src="http://static.kinoman.tv/assets/img/vip-info.png?v"]
 kiss-anime.ws#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse; abort-on-property-read _0x5c48; abort-on-property-read _0x43d1; abort-on-property-read _0x173b; abort-on-property-read _0x28f6
 kissasian.li,vizcloud.xyz#$#abort-on-property-read AaDetector
-kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURIComponent
 kissjojo99.com###text-16
 kissjojo99.com##.g-adv
 kissjojo99.com##.single-top
@@ -9810,6 +9812,7 @@ redocn.com###yc_adv_1_2
 redocn.com##.big_vip_gg
 redocn.com##.small_vip_gg
 redtube.com##.add-blocker-msg
+redtube.com,tube8.com,tube8.es,tube8.fr,tube8.net##a[href*="advertising"]
 referencemega.com###hebdotop_t
 reflex.cz###gl-nat
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
@@ -11689,6 +11692,7 @@ xuite.net##div[id^="index-ad-mid"]
 xunlei.com##.mini-pop
 xuongphim18z.com,phimdinhcao.com,phimtopz.com,truyensieuhay.com,tvchill.org,hiphimmoi.net,quangcaoyenbai.com,fullcrackpc.com,khoaiphim.com#$#abort-on-property-read document.cookie
 xvideo.cc##+js(set-constant, poped, true)
+xvideos.com##div[id^="video-ad"]+div[class]
 xvna.com##.articleAD
 xvna.com##.rctad
 xw.qq.com##.globalThemeTip
