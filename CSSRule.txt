@@ -1074,6 +1074,7 @@
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
 ##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
@@ -3761,7 +3762,6 @@ baidu.com,bdimg.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
 baidu.com,cntour2.com##.topBanner
 baidu.com,comefromchina.com#@#.ad-block
 baidu.com,youdao.com,yun.cn#@#.share-content
-baidu.com,~m.baidu.com##.ec_wise_ad
 baidu.dj###ETE
 baiduyun.wiki##.tecent-adsense
 baihe.com##.scrollULeft
@@ -9374,7 +9374,7 @@ planetatvonlinehd.blogspot.com#@#.adsantilok
 planetatvonlinehd.blogspot.com.ar#@#.adsantilok
 playallvideos.com,pron.co##.rmedia
 player-cdn.com###playback-fake
-player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
+player-cdn.com#$#override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 playerapp1.pw###divPanel
 playerapp1.pw##[id^="total"]
 playerhd1.pw,playerhd2.pw###divPanel
@@ -10141,6 +10141,7 @@ sina.com.cn##.ad_01_left
 sina.com.cn##.ad_01_right
 sina.com.cn##.ad_main_top
 sina.com.cn##.article-bottom-tg
+sina.com.cn##.article-botton-slide
 sina.com.cn##.blk_APP_JSl
 sina.com.cn##.blk_APP_JSr
 sina.com.cn##.center-pdps
@@ -11258,6 +11259,7 @@ vpsmm.com##.top_a1
 vpsmm.com##div[class*="xx"]
 vpsmm.com#?#.sidexbar div:-abp-has(>a>img)
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
+vsviti.com.ua#$#abort-on-property-read tdAnimationStack.init
 vuejs.org##.text-ad
 vuetifyjs.com##.v-sponsors
 vuukle.com##a[href*="news.vuukle.com/u/"]

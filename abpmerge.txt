@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-06-18 16:05:48
-! Total count: 32507
+! Version: 2023-06-19 16:06:59
+! Total count: 32538
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1079,6 +1079,7 @@
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
 ##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
@@ -8497,7 +8498,6 @@ baidu.com,bdimg.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
 baidu.com,cntour2.com##.topBanner
 baidu.com,comefromchina.com#@#.ad-block
 baidu.com,youdao.com,yun.cn#@#.share-content
-baidu.com,~m.baidu.com##.ec_wise_ad
 baidu.dj###ETE
 baiduyun.wiki##.tecent-adsense
 baihe.com##.scrollULeft
@@ -14148,7 +14148,7 @@ planetatvonlinehd.blogspot.com.ar#@#.adsantilok
 play/safety=^$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 playallvideos.com,pron.co##.rmedia
 player-cdn.com###playback-fake
-player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
+player-cdn.com#$#override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 playerapp1.pw###divPanel
 playerapp1.pw##[id^="total"]
 playerhd1.pw,playerhd2.pw###divPanel
@@ -14927,6 +14927,7 @@ sina.com.cn##.ad_01_left
 sina.com.cn##.ad_01_right
 sina.com.cn##.ad_main_top
 sina.com.cn##.article-bottom-tg
+sina.com.cn##.article-botton-slide
 sina.com.cn##.blk_APP_JSl
 sina.com.cn##.blk_APP_JSr
 sina.com.cn##.center-pdps
@@ -16056,6 +16057,7 @@ vpsmm.com##.top_a1
 vpsmm.com##div[class*="xx"]
 vpsmm.com#?#.sidexbar div:-abp-has(>a>img)
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
+vsviti.com.ua#$#abort-on-property-read tdAnimationStack.init
 vuejs.org##.text-ad
 vuetifyjs.com##.v-sponsors
 vuukle.com##a[href*="news.vuukle.com/u/"]
@@ -17027,6 +17029,7 @@ zzzyk.com###Tinfo
 ||08088.top^
 ||080999.cn^
 ||085cczz.com^
+||087tqb.cn^
 ||0885.net^$third-party
 ||08u6q.com^
 ||093yuht.com^
@@ -19849,6 +19852,7 @@ zzzyk.com###Tinfo
 ||bbads.vip^
 ||bbazhaheiv.top^
 ||bbbazlp.cn^
+||bbhktv.xyz^
 ||bbk5921.yncjsc.cn^$third-party
 ||bbnnnb.com^*.js
 ||bbs.a9vg.com/showit/img_show.php
@@ -20012,6 +20016,7 @@ zzzyk.com###Tinfo
 ||beareyes.com.cn/2/cat/js/*_right
 ||beareyes.com.cn^*/ad/
 ||beatricecathy.com^
+||beatricenba.com^
 ||becode.xiao84.com^
 ||become.songche.net^
 ||bedrapiona.com^
@@ -20283,6 +20288,7 @@ zzzyk.com###Tinfo
 ||braincf.com^
 ||brand.sogou.com/micro?yyid=
 ||brfgbn.xyz^
+||brfvyrrp.com^
 ||bridalplums.com^
 ||brkxgfs.cn^
 ||brkzczn.cn^
@@ -20295,6 +20301,7 @@ zzzyk.com###Tinfo
 ||bs.baidu.com/app-ads%
 ||bs777.net^$third-party
 ||bs7li.cn^
+||bsanciv.top^
 ||bsaq5.cn^
 ||bsdgjmy.com^
 ||bshare.cn/bshare_view?Callback=
@@ -20838,6 +20845,7 @@ zzzyk.com###Tinfo
 ||cifnews.com/yuguo3.0/live_dynamic/js/live_dynamic.js
 ||cifzuqopdpzi.com^
 ||cig.com.cn^$third-party
+||ciislunar.com^
 ||cilimao.*/amaod/
 ||cioccmit.cyou^
 ||cir-smart.baidu.com^
@@ -22323,6 +22331,7 @@ zzzyk.com###Tinfo
 ||f23jjd8.xyz^
 ||f2dsex1.com/public/fb*.png
 ||f3go4jpwa.shop^
+||f53a.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f8dy.tv/template/m1938/js/b
@@ -22364,6 +22373,7 @@ zzzyk.com###Tinfo
 ||fanpingbi*.gaokao.com^
 ||fanquanwang.com/uploads/ad/
 ||fans.*.space/fans/*.php
+||fanyi.baidu.com/wise/afd
 ||fanyi100.com.cn^
 ||fanyuelin208.club^
 ||fanzhuang.net.cn^$third-party
@@ -22554,6 +22564,7 @@ zzzyk.com###Tinfo
 ||foncc.cn^
 ||fontke.com/custom/
 ||foodmate.net/file/script/A
+||fooid.xyz^
 ||fool.ink^
 ||foot-live.info/images/adblok.mp3$media
 ||foot.footstream.tv/js/compteur1.js$script
@@ -22917,6 +22928,7 @@ zzzyk.com###Tinfo
 ||ghoffice.com/bbs/js/float.js
 ||ghost.wang^
 ||ghost580.com/js/nei4.js
+||ghsnhjk.cn^
 ||ghwsuoe.cn^
 ||giaoji.com/Runtime/Js/
 ||gimy.*/images/eee*.png
@@ -23446,6 +23458,7 @@ zzzyk.com###Tinfo
 ||hefei64.com^
 ||hefeng-group.net/attach/20200605/Fl05PJWEPUSuVt1x6PeHbHiaQ59J.png
 ||hefrpv.xyz^
+||hegk06a.top^
 ||heha2cpoe.icu^
 ||hehehe.buzz^
 ||heibaizhibo.com/_nuxt/87a5efd04908651591f7.js
@@ -26017,6 +26030,7 @@ zzzyk.com###Tinfo
 ||m.yinghuacd.com/bar
 ||m.ysxs8.com/js/content_db.js
 ||m.zwsteel.cn^$third-party
+||m03dv.xyz^
 ||m09mm.xyz^
 ||m1.100how.com^
 ||m1.27com.com^
@@ -26528,6 +26542,7 @@ zzzyk.com###Tinfo
 ||muer.cdn-baidu.fs-sywh.com^
 ||muhnbc.cn^
 ||muimg.com^$domain=lsjsoso.me
+||mujkdna.xyz^
 ||mukjozy.cn^
 ||muliglsn.space^
 ||mumessn.cn^
@@ -27203,6 +27218,7 @@ zzzyk.com###Tinfo
 ||owandlk.top^
 ||owdfxgc.cn^
 ||owihyg.xyz^
+||owiurjngsd.com^
 ||owlfolk.com^
 ||owlunimmvn.com^
 ||owogldk.top^
@@ -27460,7 +27476,7 @@ zzzyk.com###Tinfo
 ||pigwin.net^
 ||piimg.com/508806/d53a8d13a40f814d.gif
 ||piimg.com^$domain=kisssub.org|lsjsoso.me
-||pikabu.ru/ajax/?key=$xmlhttprequest,header=timing-allow-origin
+||pikabu.ru/ajax/?key=$xmlhttprequest,header=x-consumed-content-encoding
 ||pimlog.baidu.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
@@ -28432,6 +28448,7 @@ zzzyk.com###Tinfo
 ||ruyig.com/730x76.png
 ||ruyqiolnz.cyou^
 ||rvbztg.cn^
+||rvlgrb.xyz^
 ||rvyjbwr.cn^
 ||rwadakesz.cyou^
 ||rwefsw55.com^
@@ -29369,6 +29386,7 @@ zzzyk.com###Tinfo
 ||syzzhd.cn^
 ||sz7g.top^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
+||szafvjdd.icu^
 ||szcmcs.com^
 ||szdaqi88.com^
 ||szfcol.com/images/wxright240.jpg
@@ -29560,6 +29578,7 @@ zzzyk.com###Tinfo
 ||thepaper.cn/bottomBanner_
 ||theporn.xyz/static/bet365.gif
 ||theporn.xyz/static/tmp/
+||thesac8.top^
 ||theseblogs.com/Webservices/jsParseLinks.aspx$script,third-party
 ||theseblogs.com/visitScript/$script,third-party
 ||theseforums.com/Webservices/jsParseLinks.aspx$script,third-party
@@ -30104,6 +30123,7 @@ zzzyk.com###Tinfo
 ||uhyhdrh.cn^
 ||uibjhqwkl.com^
 ||uibqwl.xyz^
+||uifyeldt.top^
 ||uiiwzyv.cn^
 ||uiqatnpooq.com/0f8b73d477b554394e23077935e1fff4.js$script,domain=extratorrent.cc
 ||uisafnit.space^
@@ -30490,6 +30510,7 @@ zzzyk.com###Tinfo
 ||vyps.fun^
 ||vyule.com^
 ||vz81m4.top^
+||vzeuvcdi.icu^
 ||vzfizr.xyz^
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
@@ -30905,6 +30926,7 @@ zzzyk.com###Tinfo
 ||www.baidumanager.club^
 ||www.bibilm.com^
 ||www.bjjabc.com^
+||www.bjjxsb.net^
 ||www.bl2030.com^
 ||www.blnovel.com/cmjs/$script
 ||www.blnovel.com/e/$script
@@ -30920,6 +30942,7 @@ zzzyk.com###Tinfo
 ||www.dknindsl.com^
 ||www.dmhy.org^*.*?$image
 ||www.doca182.com^
+||www.dragonib.com^
 ||www.gelbooru.com/thumbnails/
 ||www.geodeep.org^
 ||www.govchengdu.cn^
@@ -31007,6 +31030,7 @@ zzzyk.com###Tinfo
 ||www.xiewje.com^
 ||www.xihufe.com^
 ||www.xingpingmaoyi.cn^
+||www.xiuxiu4.one^
 ||www.xjwrq.com^
 ||www.xpdyqax.cn^
 ||www.xxmh*.com^
@@ -31017,6 +31041,7 @@ zzzyk.com###Tinfo
 ||www.yueyuego.com^
 ||www.yuyue008.cn^
 ||www.ywquyq.com^
+||www.yymh1113.com^
 ||www.zbinview.com^
 ||www.zhangjiyi.top^
 ||www.zhaohainan.cn^
@@ -31714,6 +31739,7 @@ zzzyk.com###Tinfo
 ||ykg5.cn^
 ||ykghl.top^
 ||ykmh.com/js/aajquery.img01.js
+||ykotyeo.cn^
 ||ykoz.cn^
 ||yktj.yzz.cn^
 ||ykxwn.com^
@@ -32124,6 +32150,7 @@ zzzyk.com###Tinfo
 ||zencdn.net^$domain=freegaypornsex.net|www.gayvl.info
 ||zengbalg.fun^
 ||zenknho.cn^
+||zeookuv.xyz^
 ||zero.wewakir.top^
 ||zetcul.xyz^
 ||zevbzn.xyz^
@@ -32206,6 +32233,10 @@ zzzyk.com###Tinfo
 ||zhihu.com/sku/km_resource?token=feed-right-banner
 ||zhihu.xmcimg.com^
 ||zhijiangweidu.top^
+||zhimg.com/80/v2-503830bc48217331677fc5c7b67eee12.
+||zhimg.com/80/v2-725c659194eeebb8c6b970e52e2dc8aa.
+||zhimg.com/80/v2-c991beef44875fa5971c6bbfc6dc0ad2.
+||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
 ||zhimg.com^*_600x250
 ||zhimg.com^*adx
 ||zhipet.cn^
