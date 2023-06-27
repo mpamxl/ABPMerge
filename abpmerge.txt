@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-06-26 16:07:49
-! Total count: 32674
+! Version: 2023-06-27 16:07:39
+! Total count: 32700
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -9583,6 +9583,9 @@ cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"]
 cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
 cupfox.app#@#.adsbygoogle
 cupfox.app,hcomic.net##.swiper
+cvs.com##.stencil-criteo-shelf
+cvs.com#$#hide-if-contains-visible-text '/Sponsored/' 'div[style]' 'div[dir^="auto"]'
+cvs.com#$#hide-if-matches-xpath './/div[@class]/*[contains(@shelf-type,"criteo")]/ancestor::div[@class][1]'
 cw.com.tw##.cw__advertising
 cw.com.tw##.emailorder
 cw.com.tw#?#.adActive > .list-link:has(> ul > li > div[id^="div-gpt-ad"])
@@ -10263,7 +10266,8 @@ etextlib.ru##.head_bann
 etextlib.ru##.partners
 etnet.com.cn##.firstAD
 etsy.com##a[href*="listing_page_ad_row"]
-etsy.com#$#hide-if-matches-xpath './/div[@data-async-content]//div[@data-logger-id]//span[contains(@class,"wt-screen-reader-only") and not(@aria-hidden="true")][normalize-space(text())="Ad"]/ancestor::div[@data-logger-id][1]'
+etsy.com#$#hide-if-contains-visible-text '/ by Etsy seller/' '.responsive-listing-grid' 'div  li[class] .wt-text-caption>span'
+etsy.com#$#hide-if-contains-visible-text 'Ad vertisement by' 'div[data-listing-id].appears-ready' 'div[data-listing-id].appears-ready div.wt-text-caption>span:not(.wt-icon):not([aria-label])'
 ettoday.net###adsense-matched-content
 ettoday.net###for-ec
 ettoday.net###ticker_3
@@ -10771,6 +10775,9 @@ games.qq.com##.dc-kf_list
 gamestorrents.com,gamestorrents.nu,perfectgirls.es#$#abort-on-property-read open
 gametower.com.tw###tableAD
 gametv.vn#$#abort-current-inline-script $ homeModal
+gamicsoft.com##.mobileAd-slider
+gamicsoft.com##A[onclick*="'Advertisement"]
+gamicsoft.com##A[onclick*="'Advertisement"] + .absolute
 gamingroom.tv#@#.adsbygoogle
 gamme.com.tw###bd
 gamme.com.tw##.ad_down
@@ -11723,6 +11730,7 @@ igo.cn###NewigoBox
 igo.cn##.adBG
 igo.cn##DIV[class^="leyuBg"]
 igo99.cn##.adBG
+igromania.ru,kanobu.ru#$#json-prune results.fixed
 igroutka.ru#$#override-property-read Object.prototype.afg true
 iguarras.com,iputitas.net,ytanime.tv#$#abort-on-property-read afScript
 igxe.cn##.lion-flexd
@@ -12524,7 +12532,6 @@ kankan.com##.tuiguang_position
 kankan.com##div[id^="cm"].banner
 kankanmi.com##.listnewli
 kanman.com###\5f _acgn-virtual-coin__
-kanobu.ru#$#json-prune results.fixed
 kanqiuba.net##a[href*="bet"]
 kaolashuwu.com###ZF_tanchuang_p_right
 kaolashuwu.com###newmodule
@@ -13616,6 +13623,7 @@ newsmth.net##.ns-ad
 newstm.in,3pm.in##a[href*="/click.htm?"][target="_blank"]
 newsyou.info#$#abort-on-property-read localStorage
 newtalk.tw,phbzj.com##.ad-container
+newtoki.*##.banner
 newxue.com##.bd500
 newxue.com##.dashuggtop
 newxue.com##.dashuggtop1
@@ -14114,7 +14122,7 @@ pinshan.com##.b_adv
 pinshan.com##.b_adv2
 pinshan.com##.b_taobao
 pinshan.com##.bea_adv2
-pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#$#hide-if-matches-xpath './/div[@title]/style/ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div[@title][contains(text(),"Sponsorisée") or contains(text(),"Anzeige") or contains(text(),"Promocionado") or contains(text(),"Gesponsord") or contains(text(),"Promowane") or contains(text(),"Patrocinado") or contains(text(),"Publicidade") or contains(text(),"Sponsorizzato")]/ancestor::div[@data-test-id="pin"]'; 
+pinterest.ca,pinterest.at,pinterest.ch,pinterest.co.uk,pinterest.com,pinterest.com.mx,pinterest.de,pinterest.es,pinterest.fr,pinterest.it,pinterest.pt#$#hide-if-matches-xpath './/div[@title]/style/ancestor::div[@data-test-id="pin"]/ancestor-or-self::div[@role="listitem"][@style][1]'; hide-if-matches-xpath './/div[@title][contains(text(),"Sponsorisée") or contains(text(),"Anzeige") or contains(text(),"Promocionado") or contains(text(),"Gesponsord") or contains(text(),"Promowane") or contains(text(),"Patrocinado") or contains(text(),"Publicidade") or contains(text(),"Sponsorizzato")]/ancestor::div[@data-test-id="pin"]';
 pipi.cn#@#.ad-root
 pirlotv.tv###ad_overlay
 pirlotv.tv###ad_overlay_content
@@ -14398,6 +14406,7 @@ qingwk.com##.c-meiqia-Air
 qingwk.com##.c-meiqia-wrapper
 qingwk.com##.l-index-activity-entrance
 qingwk.com##.l-red-packet
+qiniu.com##.extra___2cdPz > div.pc___3nUEX.extraBlock___1mGPY
 qinzhou360.com##.Txtadv-show
 qinzhou8.com##div[id^="v4ad-"]
 qiuquan.cc##.sidebar .aligncenter
@@ -15241,7 +15250,6 @@ sports.qq.com##.focus_con > .item > a[href^="http"]:not([href*=".qq."])
 sports.qq.com##.topBnaner
 sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 sports.qq.com##a[href^="http://market.1hai.cn/"]
-sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayElement noopFunc
 sports.sohu.com##.allsee-list > .bd-wrap
 sports4u.tv,sports4u.live#@##adblock
 sportshubtv.com###ad_show
@@ -15969,7 +15977,7 @@ vaoroi13.online#$#override-property-read adsTvcs ''
 vardembed.xyz,videovard.sx###MyDickIsFat
 vardembed.xyz,videovard.sx###NotReallyYouHaveSmallOne
 vardembed.xyz,videovard.sx#$#json-prune ads_mode
-vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
+vcomic.net,truyen86.com,protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
 vdianying.cc##div[style^="display:block !important;"]
 vdisk.weibo.com###ads_layer
 vebotv.today#$#abort-current-inline-script $ vb-pr-box
@@ -16323,13 +16331,14 @@ www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write w
 www.facebook.com###pagelet_side_ads
 www.facebook.com##.egoOrganicColumn+*
 www.facebook.com,web.facebook.com##a[href*="ad_preferences"]>span[class][dir]
+www.facebook.com,web.facebook.com#$#hide-if-has-and-matches-style * 'html:is([lang="pl"]) div[class]~* h3~div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(width: [6-8])/'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="complementary"]//span/following::a[@aria-labelledby][@role="link"][@target="_blank"][@tabindex="0"]/ancestor-or-self::span'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[contains(@aria-label,"Marketplace")][@role="main"]//following::a[@class][@rel][@target]/parent::div/ancestor::div[@class][1]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/object[@type="nested/pressable"]/a[@role="link"]/span[contains("|Sponsoreret|Sponsrad|Patrocinado|Sponsa|Bersponsor|Commandité|Ditaja|Gesponsert|Gesponsord|Publicidad|Sponset|Sponsored|Sponsorisé|Sponsorizat|Sponsorizzato|Sponsorlu|Sponsorowane|Реклама|ממומן|تمويل شوي|دارای پشتیبانی مالی|سپانسرڈ|مُموَّل|प्रायोजित|সৌজন্যে|ได้รับการสนับสนุน|内容|贊助|Sponsoroitu|May Sponsor|Được tài trợ|", concat("|", text(), "|"))]/ancestor::span[2]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@id="ssrb_feed_start"]/following-sibling::div//div[@aria-labelledby and @aria-describedby]//div[contains(text(),"Sponsored")]/ancestor::div[@aria-labelledby and @aria-describedby]'
 www.facebook.com,web.facebook.com#$#race start; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}/ 'div#watch_feed div[class^="_"]' 'a[href^="?__cft__"]'; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}/ 'div#watch_feed div[class^="_"]' 'a[href="#"][role="link"]'; race stop;
 www.facebook.com,web.facebook.com#$#race start; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsrwae]{12}|[Patrocind]{11}|[Sponsrizat]{13}/ 'div[role=feed] div[role=article]' a[href="#"][role="link"]; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsrwae]{12}|[Patrocind]{11}|[Sponsrizat]{13}/ 'div[role=feed] div[role=article]' a[href^="?__cft__"]; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsrwae]{12}|[Patrocind]{11}|[Sponsrizat]{13}/ 'div[role=feed] div[role=article]' a[href="#"][role="link"]>span>span>b; hide-if-matches-xpath './/div[@role="feed"]//div[@role="article"]//a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Sponsrad" or .="Publicidad" or .="Sponsoreret" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ"]]/ancestor::div[@role="article"]'; race stop;
-www.facebook.com,web.facebook.com#$#race start; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3~div>div' 'div[class]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3~div>div' 'div[class]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-contains-visible-text /[Sponsred]{9}/ 'div[class]~* h3~div>div' a[href="#"][role="link"]>span>span; hide-if-contains-visible-text /[Sponsred]{9}/ 'span[id="ssrb_feed_start"]~* h3~div>div' a[href="#"][role="link"]>span>span; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3~div>div' 'div[class]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' ' a[href="#"][role="link"]>span>span>span' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3~div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3~div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-right : -[3-4][0-9].*width: 10)|(margin-right : -[4-5][0-9].*width: 11)|(margin-right : -[5-6][0-9].*width: 12)|(margin-right : -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href^="?__cft__"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href^="?__cft__"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id='ssrb_feed_start']~*>h3+div>div' 'span[id='ssrb_feed_start']~*>h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href^="/ads/about/?"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3+div>div span>a[href][target="_blank"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href^="#"]:last-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href^="#"][tabindex="0"] span:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span *>a[href="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; race stop;
+www.facebook.com,web.facebook.com#$#race start; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div~* h3+div[aria-hidden="true"]+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3~div>div' 'div[class]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3~div>div' 'div[class]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-contains-visible-text /[Sponsred]{9}/ 'div[class]~* h3~div>div' a[href="#"][role="link"]>span>span; hide-if-contains-visible-text /[Sponsred]{9}/ 'span[id="ssrb_feed_start"]~* h3~div>div' a[href="#"][role="link"]>span>span; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3~div>div' 'div[class]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' ' a[href="#"][role="link"]>span>span>span' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3~div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3~div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-right : -[3-4][0-9].*width: 10)|(margin-right : -[4-5][0-9].*width: 11)|(margin-right : -[5-6][0-9].*width: 12)|(margin-right : -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"] span:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href^="?__cft__"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href^="?__cft__"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id="ssrb_feed_start"]~*>h3+div>div' 'span[id="ssrb_feed_start"]~*>h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-left: -[3-4][0-9].*width: 10)|(margin-left: -[4-5][0-9].*width: 11)|(margin-left: -[5-6][0-9].*width: 12)|(margin-left: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) span[id='ssrb_feed_start']~*>h3+div>div' 'span[id='ssrb_feed_start']~*>h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(margin-right: -[3-4][0-9].*width: 10)|(margin-right: -[4-5][0-9].*width: 11)|(margin-right: -[5-6][0-9].*width: 12)|(margin-right: -[6-7][0-9].*width: 13)/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href^="/ads/about/?"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3+div>div span>a[href][target="_blank"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href^="#"]:last-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span>a[href^="#"][tabindex="0"] span:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) div[class]~* h3+div>div' 'div[class]~* h3+div>div span *>a[href="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; hide-if-has-and-matches-style * 'html:not([lang="pl"]):not([lang="it"]) span[id="ssrb_feed_start"]~* h3~div>div' 'span[id="ssrb_feed_start"]~* h3~div>div span>a[href^="#"]:first-of-type *>svg' '/./' '/(width: [4-6])/'; race stop;
 www.freehao123.com##A[href*="/go/"]
 www.ghxi.com##DIV.wpcom_ad_wrap
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
@@ -17867,6 +17876,7 @@ zzzyk.com###Tinfo
 ||5054399.com/js/rice/m.js
 ||5068.com/*gg
 ||5068.com/websleft.js
+||50aqzb.com^
 ||50bang.org^$third-party
 ||50i2n.top^
 ||50m.gkcyc.com^
@@ -19462,7 +19472,6 @@ zzzyk.com###Tinfo
 ||apic.91bixin.net/api/thirdadv/
 ||apic.in/mmd.gif
 ||apiimg.com/huaer/xiahe.
-||apiimg.com^$badfilter
 ||apistat.gao7.com^
 ||apistat.wasu.cn^
 ||apjiangte.com^
@@ -20589,6 +20598,7 @@ zzzyk.com###Tinfo
 ||cctvpic.com/photoAlbum/templet/common/*/game_
 ||ccymzg.cn^
 ||cdcc3.com^
+||cdcqee.com^
 ||cdeledu.com/ADVC/$domain=~chinaacc.com|~ruidaedu.com
 ||cderyu.club^
 ||cdfda.xyz^
@@ -21166,6 +21176,7 @@ zzzyk.com###Tinfo
 ||creative.xtendmedia.com^
 ||creawww.top^
 ||creepingbrings.com^
+||crf999.cn^
 ||crfrf.com^
 ||crhyqq.com^
 ||criteo.com^$third-party
@@ -21628,6 +21639,7 @@ zzzyk.com###Tinfo
 ||dig.qbao.com^
 ||dig.zjurl.cn^
 ||diggtp001.com^
+||digitaloceanspaces.com^*-Banner
 ||dikematou.com^
 ||dikmnhyxz.xyz^
 ||dilidd.com^
@@ -22729,6 +22741,7 @@ zzzyk.com###Tinfo
 ||fx110.*/Styles/1.0.0/dist/Ghz/MatrixAds.
 ||fx168.com/am.js
 ||fx678.com/htcount/count.js
+||fxbcpr.xyz^
 ||fxfhjs.com^
 ||fxjs.2541.com^
 ||fxx79.pro^
@@ -22782,6 +22795,7 @@ zzzyk.com###Tinfo
 ||gadscc.xyz^
 ||gagaz.cn^
 ||gaglxx.com/5_
+||gahvy6ww.icu^
 ||gaiqgs.xyz^
 ||galacg.me/wp-content/uploads/*750x
 ||galaxymedia.xyz/app/images/banner.gif
@@ -23344,6 +23358,7 @@ zzzyk.com###Tinfo
 ||h728.cn^
 ||h731.icu^
 ||habyc.com^
+||hacde5.icu^
 ||hacde6.icu^
 ||hackeraa.xyz^
 ||hackhome.com/js/*top.js
@@ -23503,6 +23518,7 @@ zzzyk.com###Tinfo
 ||hdtube.porn/hdt/hdt.js^$domain=hdtube.porn
 ||hdtvtuga.com/canais/jsads.js$script
 ||hdvkl.cn^
+||hdxjtl.xyz^
 ||hdypw.com^
 ||hdzb6.cc^
 ||healthcare.ink^
@@ -23663,6 +23679,7 @@ zzzyk.com###Tinfo
 ||hktvmall.com/api/preroll/getList?
 ||hladalliance.com^
 ||hlalliances.com^
+||hlbbn6ii.icu^
 ||hldwdz.xyz^
 ||hlggimg.com^
 ||hlryy.top^
@@ -24726,6 +24743,7 @@ zzzyk.com###Tinfo
 ||jieshimaya.xyz^
 ||jievf.cn^
 ||jiezoiq.cn^
+||jifyelda.top^
 ||jijidown.com/static/img/dongcidaci/
 ||jijidown.com/static/img/right_bottom.
 ||jijidy.com/640x200down.
@@ -25118,6 +25136,7 @@ zzzyk.com###Tinfo
 ||k366.com/images/smxs^
 ||k3gy2.xyz^
 ||k5ggua.xyz^
+||k7f67a6s7.xyz^
 ||k99.cc^$third-party
 ||k9w4m.xyz^
 ||ka185ly.site^
@@ -25319,6 +25338,7 @@ zzzyk.com###Tinfo
 ||kl.yditweb.cn^
 ||kl87n.xyz^
 ||klandmart.com/K-Landmart_0011.jpg
+||klbvqqqj.com^
 ||kldtmki.cn^
 ||klj4rw.site^
 ||klsnckalualkcn.com^
@@ -25961,6 +25981,7 @@ zzzyk.com###Tinfo
 ||ltht.tech^
 ||lthwsj.com^
 ||lthzd.cn^
+||ltkbyfd.icu^
 ||ltn.com.tw/js/ad_door.js
 ||lts*.qq.com^*.ts?index=$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||lts*.qq.com^*.ts?index=$media,rewrite=abp-resource:blank-mp3,domain=qq.com
@@ -26168,6 +26189,7 @@ zzzyk.com###Tinfo
 ||mail.qq.com/lview?
 ||main.jiukang.org^
 ||mainbx.com^
+||maiqi.xyz^
 ||majorleaguegaming.com/assets/ab.js$script
 ||majunguo.cn^
 ||makaidong.com/img/
@@ -26810,6 +26832,7 @@ zzzyk.com###Tinfo
 ||neg.hk^
 ||neg2zos.icu^
 ||neihhou.com^
+||neiod.xyz^
 ||neipa.xyz^
 ||nekomasu.ltd^
 ||nen.com.cn/eap/
@@ -26849,6 +26872,7 @@ zzzyk.com###Tinfo
 ||newspage.xilu.com/model/visitlog.js
 ||newspress.name^
 ||newsres.cn/temp/tempad
+||newtoki.*/banner/
 ||newume.com/v1/data/ume-
 ||newyx.net^*/down_yd.js
 ||nex.163.com/q?
@@ -27249,6 +27273,7 @@ zzzyk.com###Tinfo
 ||oqeohuc.cn^
 ||oqjfekdkc.net^
 ||oqnggnsk.fun^
+||oqpgq.top^
 ||oqshoyd.cn^
 ||oqxep.cn^
 ||orange-dc.youku.com^
@@ -27569,7 +27594,7 @@ zzzyk.com###Tinfo
 ||pigwin.net^
 ||piimg.com/508806/d53a8d13a40f814d.gif
 ||piimg.com^$domain=kisssub.org|lsjsoso.me
-||pikabu.ru/ajax/?key=$xmlhttprequest,header=x-consumed-content-encoding
+||pikabu.ru/ajax/?key=$xmlhttprequest,header=x-content-type-options
 ||pimlog.baidu.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
@@ -29240,6 +29265,7 @@ zzzyk.com###Tinfo
 ||spl.ztvx8.com^$third-party
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||sportingbet-affiliate.host.bannerflow.com/core_bannerviewer.swf$domain=record.xl.pt
+||sports.ru^$script,header=x-yandex-req-id
 ||sports747.com^$popup
 ||sportscn.com/js/commerical
 ||sportsdream.top^
@@ -29536,6 +29562,7 @@ zzzyk.com###Tinfo
 ||t2.picb.cc^$image,domain=dmxq1.com
 ||t22g.icu^
 ||t23o.cn^
+||t28goe.cn^
 ||t33ng.com^
 ||t34kk9.top^
 ||t3nlink.com^$third-party
@@ -29547,7 +29574,6 @@ zzzyk.com###Tinfo
 ||t984kfjt37kjdh.wdach.com^$domain=pianba.net
 ||ta.trs.cn^$third-party
 ||taboola.com^$domain=spaste.com
-||tacool.com^
 ||tad.suning.com^
 ||tafyeta.ru^$domain=pronpic.org
 ||tahltanboutell.com^
