@@ -1785,6 +1785,7 @@
 ##secion#ly LI[role='group'],secion#ly > H2
 ##section > SPAN[style='display: block; clear: both; overflow: hidden;']
 ##section.global_video_bottom_dbtc
+##section.wrap > section.f0
 ##span > A[href='###']
 ##span[title="neteasefooter"]
 ##style + .a-loading
@@ -2936,6 +2937,7 @@
 78dm.net##.container-fluid > a[href*=".taobao.com"]
 78dm.net##div[class^="couple-"]
 7b2.com,thh521.com,vikacg.com,zhujib.com#@#.social-top:not(html):not(body)
+7down.com,newasp.net###btndowns
 7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
 7hcn.com##.rCont
 7junshi.com##.breaknovel-ave
@@ -4442,6 +4444,7 @@ chineseinla.com##.forum_banner_ads
 chineseinla.com##.text-ads-col
 chineseinla.com##div[style^="position:absolute;"][style$=":0px;top:30px;"]
 chiphell.com###diy2 + div
+chjtx.com,fooish.com,jqgcw.com###ad
 chok8.com##div[onclick]
 chongbuluo.com###add
 chongbuluo.com###add + a
@@ -4597,6 +4600,7 @@ cnblogs.com##.h_ads
 cnblogs.com##.my_money
 cnblogs.com##.sidebar-image
 cnblogs.com##a[href*=".gridsumdissector.com/"]
+cncrk.com###gsxza
 cncrk.com##.dxzq
 cndesign.com##.index-add
 cnfol.com###CjAdvBt
@@ -5095,7 +5099,7 @@ dongao.com,zgsyz.com###ad
 dongmanhuayuan.myheartsite.com##DIV.card-body
 dongtw.com#@#.post-share-container
 donk69.com,wankflix.com,mofosex.com,keezmovies.com,extremetube.com,spankwire.com,pornxt.com,crazyshit.com,fantasti.cc,gfjizz.com,smutr.com,yuvutu.com#$#abort-on-property-read phtData
-dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.wf,dood.ws,doodstream.co,doodstream.com,streamsb.net#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
+dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.wf,dood.ws,doodstream.co,doodstream.com,dooood.com,streamsb.net#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
 dota2.ru#$#abort-on-property-read helpUsImproveSite
 douban.com##.bottom_ad_download
 douban.com##.channel_promo
@@ -5281,7 +5285,6 @@ dyhjw.com##.index_luckdraw
 dyhjw.com##.nn_link
 dyhs6.com##.mydl
 dyhs6.com,avcc.vip##.business
-dynamo.kiev.ua,liga.net,epravda.com.ua,pravda.com.ua,www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
 dysfz.cc##.adv_f
 dytt5.net##.detail-body > .fly-panel
 dytt5.net##body > div[style="overflow: hidden;"]:nth-child(3)
@@ -5369,7 +5372,7 @@ easylife.tw,ettoday.net##.idleAd
 easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph##div[data-view]>a[class="srp-1p__link"]
-ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph#$#race start; hide-if-matches-xpath './/div[@id="srp-river-results"]/ul[starts-with(@class,"srp-results")]/li[@data-viewport]//span[@role="text"][starts-with(@class,//span/@aria-labelledby)]/ancestor::li[@data-viewport]'; hide-if-contains-visible-text /S⁣p⁣o⁣n⁣s⁣o⁣r⁣e⁣d|A⁣n⁣z⁣e⁣i⁣g⁣e|S⁣p⁣o⁣n⁣s⁣o⁣r⁣i⁣s⁣é⁣⁣|S⁣p⁣o⁣n⁣s⁣o⁣r⁣i⁣z⁣z⁣a⁣t⁣o⁣⁣|S⁣p⁣o⁣n⁣s⁣o⁣r⁣o⁣w⁣a⁣n⁣e|G⁣e⁣s⁣p⁣o⁣n⁣s⁣o⁣r⁣d|P⁣a⁣t⁣r⁣o⁣c⁣i⁣n⁣a⁣d⁣o|贊⁣助/ 'ul[class^="srp-results"]>li[data-viewport]' 'span.s-item__sep>span[role="text"]' 'position:absolute'; race stop;
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph#$#hide-if-contains-visible-text /Sponsored|Anzeige|Sponsorisé|Sponsorizzato|Sponsorowane|Gesponsord|Patrocinado|贊助/ 'div[id="srp-river-results"] li[data-viewport]' 'div[id="srp-river-results"] li[data-viewport] div[class="s-item__details clearfix"]>div:last-child>span>span>span' 'color: rgba(0,0,0,1)' '-disable-bg-color-check: true' '-check-is-contained: true'
 ebay.de#$#hide-if-matches-xpath './/a[@*[contains(.,"UnifiedRankingScenario")]]/div[@class]//img[@src]/ancestor-or-self::li[starts-with(@class,"s-item")]'
 ebb.io##+js(set-constant, ga, noopFunc)
 ebb.io##+js(set-constant, google_empty_script_included, true)
@@ -5774,6 +5777,7 @@ flashx.pw,flashx.tv#$#abort-on-property-read affLink
 flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
 flightradar24.com##.noads
 flighty.cn###searchBox + #sidebarBox
+flipkart.com#$#hide-if-matches-xpath './/div[@class]/span[text()="Ad"]/ancestor::div[@class and @data-tkid]/parent::div[@data-id and @style]'; hide-if-matches-xpath './/div[@class]/span[text()="Ad"]/ancestor::div[@class and @data-tkid][1]/parent::div[@class and @style]'
 flyblog.cc###links > div[id] > div.hslice:not(#search):not(#counter):not(#category):not(#calendar):not([id*="-article"]):not(#latest-comment)
 flyblog.cc##.pixnavbar__top-bar__main-sites
 flyblog.cc,maxfoodfun.com#?#.article-body > div[style]:has(> div[style] > div[id] > ins.adsbyfalcon)
@@ -5839,6 +5843,7 @@ fqlook.cn###rtj1009_iho3
 fqlook.cn###rtj1009_ren_imme1
 fqsousou.com,kengso.com#@#.user-share
 fqzww.net##a[onclick="qinlintes11t2()"]
+frandroid.com#$#hide-if-matches-xpath './/div[contains(@class,"-ad-center")]/ancestor::div[@class][1][not(contains(@class,"with-sidebar"))]'
 frauporno.com#$#abort-current-inline-script document.querySelectorAll popMagic
 frdic.com,godic.net##a[onclick*="/ads/"]
 free.com.tw###custom_html-11
@@ -7089,17 +7094,12 @@ inforesist.org##aside[id="text-39"]
 inforesist.org##aside[id="text-44"]
 informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 inmywordz.com,ants.tw##.acca-block
-instacart.com##a[href*="category_hero_id_"]
-instacart.com##div[data-testid="ads-promoted-aisle"]
-instacart.com##div[data-testid="storefront-category-hero-banner"]
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::div[@id][contains(@class,"css-")][not(@id="store-wrapper") and not(@id="js-app")]'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::div[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"cloudfront.net/uploads/image_display_")][@alt]/ancestor::section[@class]'
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="css-wbvail"]'
-instacart.com#$#hide-if-matches-xpath './/div[@data-sp-eligiible]/ancestor::div[@aria-label="Product"]/ancestor::div[2]'
-instacart.com#$#hide-if-matches-xpath './/li[   descendant::*[(div[span[normalize-space(.) = "Spons"] and span[normalize-space(.) = "ored"]]) or (div[count(.//div[@*[contains(local-name(), "eligible")]]) = 1 and count(.//div/span[text()]) = 2])]]'
-instacart.com#$#hide-if-matches-xpath './/span[@class]/div[.//span[normalize-space(.) = "Spons"] and span[normalize-space(.) = "ored"]]//ancestor::div[@aria-label="Product"]'
-instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"ponsore")]/ancestor::div[@class][1]/parent::div'
-instacart.com#$#hide-if-matches-xpath '//li[descendant::div[count(.//div[@data-sp-eligiible]) = 1 and count(.//div/span) = 2]]'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="e-wbvail"]'
+instacart.com#$#hide-if-matches-xpath './/div[@data-sp-eliggible]/ancestor::div[@aria-label="Product"]/ancestor::div[2]'
+instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"Spon")]/ancestor::div[@class][1]/parent::div'
+instacart.com#$#hide-if-matches-xpath '//li[descendant::div[count(.//div[@data-sp-eliggible]) = 1 and count(.//div/span) = 2]]'
 instacart.com#$#race start; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::header'; hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::article'; race stop;
 instantmanga.com###notice
 instrument.com.cn###leftFlash
@@ -8190,6 +8190,7 @@ lvmama.com###centerDialog
 lvmama.com###leftDialog
 lwgod.me###wp > a:first-child
 lyd.com.cn##.ad:not(:nth-child(15))
+lysq.com###diyad
 lysq.com##div[id^="followDiv_"]
 lywww.com##.lianmengclass
 lz13.cn##.left_box3
@@ -11749,6 +11750,7 @@ xstud.org#$#abort-on-property-read _0xd07e
 xtuan.com###foot_zhaobiao_bar
 xueqiu.com##.ad-right-aside
 xueqiu.com##.widget__download-app
+xueqiu.com##div[class$="__ad"]
 xuite.net###side-special.special
 xuite.net###single-ad-300-250
 xuite.net###single-bottom-ad
