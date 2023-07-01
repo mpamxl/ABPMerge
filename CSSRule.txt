@@ -1815,7 +1815,6 @@
 04stream.com##[id^="closediv"]
 04stream.com##[id^="otclosediv"]
 0517w.com,1x6666.com,365kl.net,3qled.com,52ch.net,bbs.qbaobei.com,chinafix.com,cnyw.net,cqsq.com,gz0668.com,i5qs.com,mahoupao.com,mcncc.com,qilindao.com,susongbbs.com,xsool.com,xydai.cn###diynavtop
-0579.cn##.top_gg
 0594.com##div[id^="PCMSAD_"]
 0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,meiyouad.com,moe123.net,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wokao.co,yeeyi.com##.ads
 0597kk.com###cool_fixed
@@ -1826,7 +1825,6 @@
 0597kk.com##.lyhux_mu
 0597kk.com##div[style="width:960px; overflow:hidden; margin:2px auto; "]
 0597kk.com##img[width^="37"][height="30"]
-0597kk.com,tool.lu##.recommend-container
 0597ok.com,nongjitong.com,typecho.wiki##.div_ad
 0598yu.com##.v1100_ad
 060s.com###header4
@@ -3609,6 +3607,7 @@ baidu.com##.ad-platform-tips
 baidu.com##.ad-taishan
 baidu.com##.ad-vip-close
 baidu.com##.ad-vip-close-bottom
+baidu.com##.ad-wrapper
 baidu.com##.adLog
 baidu.com##.adTopImg
 baidu.com##.adver-one-item-wrapper
@@ -4837,6 +4836,7 @@ ctwant.com##.m-adpopup
 cupfox.app###page-wrap > div:nth-child(3)
 cupfox.app##.banner > div.banner-content.right
 cupfox.app##.banner-box
+cupfox.app##.cupfox-box
 cupfox.app##.t-img-box > a[target="_blank"] > img
 cupfox.app##IMG.cupfox-img[width='100%']
 cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"])
@@ -9570,6 +9570,9 @@ purepc.pl#@#.reklama
 purepc.pl#@#[class$="reklama"]
 purevid.com#@##ad
 putlocker.com,sockshare.com##INPUT[type="button"][value="Download Now"]
+pxedt.net##.ggtext
+pxedt.net##.index_nav_juzhong
+pxedt.net##.pf_dw
 pxstream.tv###ImpedeTela
 pxstream.tv###mg_dindin
 py.cn##.index-advert
@@ -10872,6 +10875,7 @@ tongren.gov.cn###tanchukuang
 tongxiang.net##.mmver.w-1200
 tongxiang.net##.x15sdv.display_3_3
 tongzhuo100.com###gold_banner
+tool.lu##.recommend-container
 toolfk.com###layui-layer100001
 toolfk.com##.geekgay
 toolfk.com##.layui-layer-content
