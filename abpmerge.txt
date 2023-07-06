@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-07-05 16:08:06
-! Total count: 32059
+! Version: 2023-07-06 16:08:00
+! Total count: 32068
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -996,7 +996,6 @@
 ##A[href*=".com/?Agent="]
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
-##A[href*="kdocs.cn"] > IMG[src*=".ax1x.com/"]
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
@@ -1535,6 +1534,7 @@
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
+##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
 ##a[href*="nnqp.vip"]
 ##a[href="/bbs/"] > img[src*=".bcebos.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
@@ -4013,7 +4013,7 @@ $websocket,domain=5nj.com|cechi8.com
 3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
 3dmgame.com#?#.downl_list:-abp-has(style)
-3dn.ru,a-point.info,addfiles.ru,asia-tv.su,at.ua,all-for-kompa.ru,autosimgames.ru,chernobyl-soul.com,clan.su,cliphq.ru,coop-lands.ru,db-energo.ru,devdrivers.ru,do.am,dtva-it-rus.gq,elegos.ru,elektronika56.ru,elektrosat.ru,fon-ki.com,for-gsm.ru,free-dream.ru,ftechedu.ru,fukushima-news.ru,gals.md,gamesdendy.ru,giginfo.ru,gloria-cedric.ru,goldformat.ru,greenflash.su,hero-empire.com,igrul-ka.ru,jetvis.ru,krasnickij.ru,krolmen.ru,kubik3.ru,megaclips.net,mod-rus.ru,mow-portal.ru,moy.su,mp3songs.ru,mp4android.ru,musiklip.ru,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,obschestvo-9999.gq,omsimclub.ru,online-supernatural.ru,onlinestargate.ru,only-paper.ru,others.name,pidru4nik.com,pkrc.ru,play-force.ru,pokatushki-pmr.ru,pro-zakupki.ru,project-ss.ru,psxworld.ru,radiodom.org,rocketdockfree.ru,sdr-deluxe.com,skidrowcrack.ru,soft-game.net,stalker-gsc.ru,stalker-zone.info,stalkermods.ru,svadbatomsk.ru,tes-game.ru,torm-egan.ru,torrent-file.top,torfiles.ru,ucoz.club,ucoz.com,ucoz.net,ucoz.org,ucoz.ru,ucoz.ua,usite.pro,vodopads.ru,vsthouse.ru,warcraftda.ru,xakevsoft.ru,xn--80aeshkkbdj.xn--p1ai,yaminecraft.ru,zona-stalkera.ru#$#abort-on-property-read Object.prototype.clunduse; abort-on-property-read k_init; abort-on-property-read Object.prototype.u_vastplayer
+3dn.ru,a-point.info,addfiles.ru,asia-tv.su,at.ua,all-for-kompa.ru,autosimgames.ru,chernobyl-soul.com,clan.su,cliphq.ru,coop-lands.ru,db-energo.ru,devdrivers.ru,do.am,dtva-it-rus.gq,elegos.ru,elektronika56.ru,elektrosat.ru,fon-ki.com,for-gsm.ru,free-dream.ru,ftechedu.ru,fukushima-news.ru,gals.md,gamesdendy.ru,giginfo.ru,gloria-cedric.ru,goldformat.ru,greenflash.su,hero-empire.com,igrul-ka.ru,jetvis.ru,krasnickij.ru,krolmen.ru,kubik3.ru,megaclips.net,mod-rus.ru,mow-portal.ru,moy.su,mp3songs.ru,mp4android.ru,musiklip.ru,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,obschestvo-9999.gq,omsimclub.ru,online-supernatural.ru,onlinestargate.ru,only-paper.ru,others.name,pidru4nik.com,pkrc.ru,play-force.ru,pohoronnoe-byuro.com,pokatushki-pmr.ru,pro-zakupki.ru,project-ss.ru,psxworld.ru,radiodom.org,rocketdockfree.ru,sdr-deluxe.com,skidrowcrack.ru,soft-game.net,stalker-gsc.ru,stalker-zone.info,stalkermods.ru,svadbatomsk.ru,tes-game.ru,torm-egan.ru,torrent-file.top,torfiles.ru,ucoz.club,ucoz.com,ucoz.net,ucoz.org,ucoz.ru,ucoz.ua,usite.pro,vodopads.ru,vsthouse.ru,warcraftda.ru,xakevsoft.ru,xn--80aeshkkbdj.xn--p1ai,yaminecraft.ru,zona-stalkera.ru#$#abort-on-property-read Object.prototype.clunduse; abort-on-property-read k_init; abort-on-property-read Object.prototype.u_vastplayer
 3g.163.com##.ne_rps
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###banner_call + div[id]
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
@@ -10990,6 +10990,7 @@ gtloli.live,gtloli.one##.sd_recpic
 gtloli.one###topbanner
 guagua.cn###floatRoomDiv
 guahao.com##.link-modal
+guailie.com#@#.google-ad
 guancha.cn###ewm_app
 guancha.cn###goapp
 guancha.cn##.full_nav1
@@ -11821,13 +11822,12 @@ inforesist.org##aside[id="text-39"]
 inforesist.org##aside[id="text-44"]
 informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 inmywordz.com,ants.tw##.acca-block
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::div[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"cloudfront.net/uploads/image_display_")][@alt]/ancestor::section[@class]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="e-wbvail"]'
+instacart.com#$#hide-if-matches-xpath './/div[@data-sp-eliggiible]/ancestor::div[@aria-label="Product"]/ancestor-or-self::li'
 instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"Spon")]/ancestor::div[@class][1]/parent::div'
 instacart.com#$#race start; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::header'; hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::article'; race stop;
-instacart.com#$#race start; hide-if-matches-xpath './/div[@data-sp-eliggible]/ancestor::div[@aria-label="Product"]/ancestor::div[2]'; hide-if-matches-xpath './/div[@data-sp-eligiible]/ancestor::div[@aria-label="Product"]/ancestor::div[2]'; race stop;
-instacart.com#$#race start; hide-if-matches-xpath '//li[descendant::div[count(.//div[@data-sp-eliggible]) = 1 and count(.//div/span) = 2]]'; hide-if-matches-xpath '//li[descendant::div[count(.//div[@data-sp-eligiible]) = 1 and count(.//div/span) = 2]]'; race stop;
 instantmanga.com###notice
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
@@ -12555,6 +12555,7 @@ kengso.com,pansoso.com,xgsoso.com##a[href*=".click.taobao.com"]
 keylol.com,steamcn.com##div[class*="rnd_"]
 keywin.org##.appdownload
 keywin.org##.pindaolist
+khoaiphim.com#$#abort-current-inline-script jQuery click_time
 khophimhd.net,downloadsachmienphi.com,tvhay.top#$#abort-current-inline-script JSON.parse atob
 kickassanime.io##.ka-ax-wrapper
 kickassanime.io##.ka-ax-wrp.mb-3
@@ -13658,6 +13659,7 @@ nfuwow.com##.adtopnewnewbox
 nfuwow.com##.bannermid3box
 nfuwow.com##.crightbtad
 nfuwow.com##.midbgdbox
+nfuwow.com##DIV[style*="width: 1160px;"]
 nfuwow.com##a[href*="myyj.net"]
 nfxhd.com##a[href*=".fa510.com"]
 nhentai.net#$#override-property-read _n_app.popunder null;
@@ -15291,6 +15293,7 @@ stevivor.com#$#hide-if-matches-xpath '//div[@id][@style]/div[contains(@id,"ad")]
 stgowan.com
 stheadline.com###jetso-wrapper
 stheadline.com##.section-popular
+sto520.com#?#.content > div.book > div[style^="text-align"]:has(> ins.adsbygoogle)
 stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
 stock87.com##div[id^="Javascript"]
 stock87.com##div[style^="position:relative;width:1000px;height:90px;"]
@@ -17288,6 +17291,7 @@ zzzyk.com###Tinfo
 ||1512a.com^
 ||154.196.143.171^
 ||154.212.147.231^
+||154.22.214.2^
 ||154.7.80.158^
 ||156.232.37.2^
 ||156.233.32.123^$third-party
@@ -22175,6 +22179,7 @@ zzzyk.com###Tinfo
 ||evenyw.xyz^
 ||everydaycarry.com^$popup
 ||everyonepiano.cn/Public/*0x
+||evidhjksdtgyxrh.xyz^
 ||evmnlpv.cn^
 ||evtubescms.phncdn.com^
 ||evunmc.xyz^
@@ -22398,6 +22403,7 @@ zzzyk.com###Tinfo
 ||fjnsnt.xyz^
 ||fjsen.com:81/mysql/count/
 ||fjshxjs.cn^
+||fjsytjs.cn^
 ||fjttbkoxer.xyz^
 ||fjzimaoqu.cn^$third-party
 ||fka06.site^
@@ -24842,6 +24848,7 @@ zzzyk.com###Tinfo
 ||ka5188.com^
 ||kaafu.cn^
 ||kagdf.com^
+||kahgjjd.com^
 ||kaiguangdou.com^
 ||kaipuyun.cn/count/
 ||kaixin001.com.cn/js/cpm-
@@ -24961,6 +24968,7 @@ zzzyk.com###Tinfo
 ||kfyg.xyz^
 ||kgacp.cyou^
 ||kgcyvd.com^
+||kgeesh.site^
 ||kgelugaz.com^
 ||kgeshe.site^
 ||kgfjrb711.com^
@@ -31197,6 +31205,7 @@ zzzyk.com###Tinfo
 ||ygwdai.cn^
 ||ygxgk.cn^
 ||yh.zg-zxzx.net^
+||yh18h8s.com^
 ||yh20230625tu.com^
 ||yhbdrnr.cn^
 ||yhbsk.cn^
