@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-07-06 16:08:00
-! Total count: 32068
+! Version: 2023-07-07 16:07:58
+! Total count: 32081
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1844,7 +1844,7 @@ $websocket,domain=5nj.com|cechi8.com
 .bid/ads/
 .blog/ads/
 .bt*.com/imgs.js?t=
-.buzz$domain=btsj6.com
+.buzz$domain=btsj6.com|yinghuavideo.com|dm99.me
 .buzz/*0*0*0*==$third-party
 .buzz/*=$object,third-party
 .cam/ads/
@@ -1855,7 +1855,6 @@ $websocket,domain=5nj.com|cechi8.com
 .cfd/video/index/index/user_login/
 .cilipa*/js/os.js
 .cloud/ads/
-.club$domain=yinghuacd.com
 .club/ads/
 .club/adv/
 .cn/*-*-*.xc$script,third-party
@@ -2114,8 +2113,7 @@ $websocket,domain=5nj.com|cechi8.com
 .wap.x4399.com^
 .work/ads/
 .xn--fiqs8s:7385/
-.xyz$domain=btsj6.com
-.xyz$domain=yinghuacd.com
+.xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
 .xyz/*.sdk?$script,third-party
 .xyz/*0*0*==$third-party
 .xyz/*?16$third-party
@@ -10256,7 +10254,8 @@ etextlib.ru##.partners
 etnet.com.cn##.firstAD
 etsy.com##a[href*="listing_page_ad_row"]
 etsy.com#$#hide-if-contains-visible-text '/ by Etsy seller/' '.responsive-listing-grid' 'div  li[class] .wt-text-caption>span'
-etsy.com#$#hide-if-contains-visible-text 'Ad vertisement by' 'div[data-listing-id].appears-ready' 'div[data-listing-id].appears-ready div.wt-text-caption>span:not(.wt-icon):not([aria-label])'
+etsy.com#$#hide-if-matches-xpath './/input[@name="plkey"][@value]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
+etsy.com#$#hide-if-matches-xpath '//span[@data-is-ad][@data-ad-label][contains(text(),"Ad by")]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
 ettoday.net###adsense-matched-content
 ettoday.net###for-ec
 ettoday.net###ticker_3
@@ -12037,6 +12036,7 @@ itavcn.com##.topadvzone
 itavcn.com##img[width="722"]
 itbaoku.cn##+js(set-constant, killads, true)
 itbaoku.cn##.col-lg-12[style="padding-left: 0px;padding-top: 15px;padding-bottom: 15px;"]
+itblogcn.com#?#.sidebar > div.widget:has(> div.item > aside > div.textwidget > a[href="https://www.itblogcn.com/vultr/t"])
 itboth.com,itkeyword.com##.ad_pop_left
 itboth.com,itkeyword.com##.ad_pop_left_txy
 itboth.com,itkeyword.com##a[href*=".aliyun."]
@@ -13659,8 +13659,8 @@ nfuwow.com##.adtopnewnewbox
 nfuwow.com##.bannermid3box
 nfuwow.com##.crightbtad
 nfuwow.com##.midbgdbox
-nfuwow.com##DIV[style*="width: 1160px;"]
 nfuwow.com##a[href*="myyj.net"]
+nfuwow.com##div[style*="width: 1160px;"]
 nfxhd.com##a[href*=".fa510.com"]
 nhentai.net#$#override-property-read _n_app.popunder null;
 niaogebiji.com##.adImgBox
@@ -16824,6 +16824,7 @@ zhihu.com##.MRelateFeedAd
 zhihu.com##.Pc-word
 zhihu.com##.QuestionAdBanner
 zhihu.com##.RelatedReadings-adItem
+zhihu.com##.RichText-Ecommerce
 zhihu.com##.Sticky > .Card[data-za-detail-view-path-module="ContentList"]
 zhihu.com##.TopstoryItem--advertCard
 zhihu.com##.WeiboAd-wrap
@@ -20006,6 +20007,7 @@ zzzyk.com###Tinfo
 ||bephb.in^
 ||beqokg.xyz^
 ||beryl3.cc^
+||berylnbb.com^
 ||besc.baidustatic.com^
 ||bestialvehemence.com^
 ||bestpush.pconline.com.cn^
@@ -20117,6 +20119,7 @@ zzzyk.com###Tinfo
 ||bjytdqwx.com^
 ||bjzb.xyz^
 ||bkae.top^
+||bkhblj.xyz^
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
 ||bkill.com/css/js/xinbkill.js
@@ -21751,6 +21754,7 @@ zzzyk.com###Tinfo
 ||dspczg.pw^
 ||dspdy.cn^
 ||dsqzk.cn^
+||dstbunkfw.xyz^
 ||dszhqww.cn^
 ||dt243100.com^
 ||dtckvpc.cn^
@@ -23290,6 +23294,7 @@ zzzyk.com###Tinfo
 ||hdherpc.cn^
 ||hdminfeng.com^
 ||hdmoli.com/static/js/pop_promotion.js
+||hdpdrandpd.xyz^
 ||hdsky.me/adv/
 ||hdslb.com/bfs/ad/
 ||hdslb.com/bfs/sycp/creative_img/$image
@@ -23665,6 +23670,7 @@ zzzyk.com###Tinfo
 ||huoche.net/public/huoche/ad/
 ||huodiyun.cn^
 ||huohuo1.huamuwo.com^$domain=knowbaike.com
+||huoju.asia^
 ||huojua.com^
 ||huojua1.com^
 ||huojub.com^
@@ -25278,6 +25284,7 @@ zzzyk.com###Tinfo
 ||lanrenzhijia.com/Public/images/head_right_top.gif
 ||lanrenzhijia.com/Public/images/sucaihuo_
 ||lanrenzhijia.com/Public/images/xiaozhua.jpg
+||lanver.fun^
 ||lanyes.org/content/templates/lanye2015/images/hb_banner.png
 ||laod.cn/wp-content/uploads/*/ad-
 ||laogu.com/cms/images/ad
@@ -27564,6 +27571,7 @@ zzzyk.com###Tinfo
 ||qhssjyb.xyz^
 ||qhvszsl.cn^
 ||qhvws.com^
+||qhx1h2g.com^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
 ||qiabayyds.com^
 ||qianduoduo.fit^
@@ -29748,6 +29756,7 @@ zzzyk.com###Tinfo
 ||uebabuf.cn^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 ||uehtjp.cn^
+||uejdsw.com^
 ||uejnmjdpd.xyz^
 ||uekqdec.cn^
 ||uengbalc.fun^
@@ -30543,6 +30552,7 @@ zzzyk.com###Tinfo
 ||www.dmhy.org^*.*?$image
 ||www.doca182.com^
 ||www.dragonib.com^
+||www.e1.ru^$script,header=x-yandex-req-id
 ||www.gelbooru.com/thumbnails/
 ||www.geodeep.org^
 ||www.govchengdu.cn^
@@ -30724,6 +30734,7 @@ zzzyk.com###Tinfo
 ||xcaukve.cn^
 ||xcf-bd-js.chuimg.com^
 ||xchina.co/upload/ad/
+||xchina.life/ad/
 ||xchina.pro/upload/ad/
 ||xcisleoa.cn^
 ||xcjwq.world^
@@ -31703,6 +31714,7 @@ zzzyk.com###Tinfo
 ||zenknho.cn^
 ||zeookuv.xyz^
 ||zero.wewakir.top^
+||zerolcp.cn^
 ||zetcul.xyz^
 ||zevbzn.xyz^
 ||zewfbw.buzz^
@@ -31720,6 +31732,7 @@ zzzyk.com###Tinfo
 ||zfnclk.buzz^
 ||zfood029.com^
 ||zfotrq.xyz^
+||zfteiv.xyz^
 ||zg.mmyuer.com^
 ||zgctig.cn^
 ||zgdshoes.com^
