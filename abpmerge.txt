@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-07-16 16:06:49
-! Total count: 32311
+! Version: 2023-07-17 16:07:45
+! Total count: 32327
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -522,6 +522,7 @@
 ##.adpc > .module
 ##.adpc > .promote-link
 ##.adpc > .promote-link-
+##.adpc > .promote-link_
 ##.ads
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
@@ -657,7 +658,6 @@
 ##.ct-ad-article-wrapper
 ##.ctm_ad
 ##.cui-pt-item[data-qhb]
-##.cupfox-content.right,.cupfox-content.left
 ##.d_banner_inner
 ##.davwheat-ad
 ##.deadblocker-header-bar
@@ -1862,7 +1862,6 @@ $websocket,domain=5nj.com|cechi8.com
 .cc/ads/
 .cc/js/ads/
 .cc/o.js$third-party
-.cfd/video/index/index/user_login/
 .cilipa*/js/os.js
 .cloud/ads/
 .club/ads/
@@ -1913,6 +1912,7 @@ $websocket,domain=5nj.com|cechi8.com
 .com/adx/
 .com/c.gif?
 .com/c.php?s=*=*=$third-party
+.com/candy*.js$third-party
 .com/code.php?a=index&z=$script,third-party,xmlhttprequest
 .com/core/js/the_pf.js
 .com/cpc/*.ashx?$script,third-party
@@ -2044,6 +2044,7 @@ $websocket,domain=5nj.com|cechi8.com
 .info/js/alls_top.js
 .info/topjs/
 .io/js/ads/
+.js?*&ssid=$third-party
 .js?advertID=
 .js?ssid=_$script,third-party
 .k618.cn/sytab/
@@ -2075,9 +2076,9 @@ $websocket,domain=5nj.com|cechi8.com
 .net/ads/
 .net/adv/
 .net/js/ads/
-.net/v2/stats/10*$third-party
+.net/v2/stats/1*$third-party
 .net/vh1/$script,third-party
-.net/vh1/15*$third-party
+.net/vh1/1*$third-party
 .net/vj1/$script,third-party
 .niusnews.com/upload/banners/
 .nyaa.fun/static/img/*_refesh.
@@ -2137,14 +2138,14 @@ $websocket,domain=5nj.com|cechi8.com
 .xyz/99x/
 .xyz/?channelCode=$csp=script-src
 .xyz/?token=
-.xyz/ack?s=
+.xyz/ack?s=$third-party
 .xyz/ad/
 .xyz/alpine?$third-party
 .xyz/base*.js?$third-party
-.xyz/bid?url=*
+.xyz/bid?url=*$third-party
 .xyz/foundation?$third-party
 .xyz/gatsby?$third-party
-.xyz/gif
+.xyz/gif$third-party
 .xyz/hm.html?s=
 .xyz/hm.js?$third-party
 .xyz/jque*.js?$third-party
@@ -2270,7 +2271,7 @@ $websocket,domain=5nj.com|cechi8.com
 /\/theme\/js\/[a-z0-9]{5,}\.js\?v=/$domain=novipnoad.com
 /\/upload\/[a-z0-9]{7}\/[0-9]+-[0-9]?\/[a-z0-9]{32}\.gif/$domain=higu.tv
 /^(?!.*(bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yandex.|yastatic.net|ytimg.com|zencdn.net|player|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|imgsmail.ru)).*$/$third-party,script,_____,domain=manshuxs.com|yemancomic.com|qimiaoxiaoshuo.com|gaofuwu.org|nxpaaq.com|dengbi2.com|92hm.top
-/^https?://www\.liveinternet\.ru/[^\s]{100,}/$xmlhttprequest,header=X-Yandex-Req-Id
+/^https?://www\.liveinternet\.ru/[^\s]{100,}/$script,header=report-to
 /^https?:\/\/www\.freeuseporn\.com\/[0-9a-f]{12}\.js/$script,domain=freeuseporn.com
 /_xa/ads?
 /_xa/ads_
@@ -2288,7 +2289,6 @@ $websocket,domain=5nj.com|cechi8.com
 /ad.php?
 /ad.php|$popup
 /ad/article_
-/ad/dhgg.js
 /ad/files/*
 /ad/images/*
 /ad1.
@@ -2808,7 +2808,6 @@ $websocket,domain=5nj.com|cechi8.com
 /js/gg123/*
 /js/ggtop.js
 /js/guanggao_gg.js
-/js/hhsyw.js
 /js/home/ad/ad.
 /js/index_adfloat.js
 /js/initsite.js^$domain=anysex.com|xcafe.com
@@ -3230,7 +3229,6 @@ $websocket,domain=5nj.com|cechi8.com
 /xxgg/app.js
 /xxgg/book.js
 /xxgg/dj*.js
-/xxgg/e13dj113a.js
 /xxgg/goodad.js
 /xxgg/pf*.js
 /xxgg/pv.js
@@ -3670,6 +3668,7 @@ $websocket,domain=5nj.com|cechi8.com
 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="20%"] > a[target="_blank"]
 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="25%"]
 18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="33%"]
+18board.com,18board.net,18p2p.com,18p2p.tv##.altbg2 > td[width="50%"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="320"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="330"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="900"]
@@ -7963,7 +7962,7 @@ adblockeronstreamtape.xyz,adblockplustape.com,adblockstreamtape.art,adblockstrea
 adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,adblockeronstreamtape.xyz,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.club,strcloud.link,streamadblockplus.com,streamadblocker.xyz,streamadblockplus.xyz,streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com,streamta.pe,strtapeadblock.me,strtape.cloud,strtape.site,strtape.tech,tapewithadblock.org,mixdrop.co#$#abort-on-property-write _pao
 adbuck.cc###col_publi
 adbug.cn#@#.google_ads
-adguard.com,adguard.app##.hello_from_adguard_chinese
+adguard.info,adguard.com,adguard.app##.hello_from_adguard_chinese
 admaimai.com##.in16_w01 > div[class*="_ad0"]
 admin5.com##.float_both_index
 admin5.com##.notice
@@ -9695,10 +9694,9 @@ cupfox.app##.banner > div.banner-content.right
 cupfox.app##.banner-box
 cupfox.app##.cupfox-box
 cupfox.app##.t-img-box > a[target="_blank"] > img
-cupfox.app##IMG.cupfox-img[width='100%']
+cupfox.app##IMG[class^='jsx-'][width='100%'],div.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"])
 cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
-cupfox.app#@#.adsbygoogle
 cupfox.app,hcomic.net##.swiper
 cvs.com##.stencil-criteo-shelf
 cvs.com#$#hide-if-contains-visible-text '/Sponsored/' 'div[style]' 'div[dir^="auto"]'
@@ -10228,7 +10226,7 @@ easylife.tw,ettoday.net##.idleAd
 easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph##div[data-view]>a[class="srp-1p__link"]
-ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph#$#hide-if-contains-image '/(793d272d38..272066(.*)6528302039)|(793d272d37..272066(.*)6528302038)|(793d272d36..272066(.*)6528302037)|(793d272d35..272066(.*)6528302036)|(793d272d34..272066(.*)6528302035)|(793d272d33..272066(.*)6528302034)|(793d272d32..272066(.*)6528302033)|(793d272d31..272066(.*)6528302032)|(793d272d..272066(.*)6528302031)|(793d2739..2720(.*)652830202d38)|(793d2738..2720(.*)652830202d37)|(793d2737..2720(.*)652830202d36)|(793d2736..2720(.*)652830202d35)|(793d2735..2720(.*)652830202d34)|(793d2734..2720(.*)652830202d33)|(793d2733..2720(.*)652830202d32)|(793d2732..2720(.*)652830202d31)|(793d2731..27(.*)652830202d..2e)|(793d27..27(.*)65283020..2e)/' li[data-viewport] 'span.s-item__sep>span[aria-labelledby]'
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph#$#hide-if-contains-image '/(6174652830202d(.+)302e35(.*)793d2[27]3(.+)322[27])|(6174652830202d(.+)312e35(.*)793d2[27]3(.+)332[27])|(6174652830202d(.+)322e35(.*)793d2[27]3(.+)342[27])|(6174652830202d(.+)332e35(.*)793d2[27]3(.+)352[27])|(6174652830202d(.+)342e35(.*)793d2[27]3(.+)362[27])|(6174652830202d(.+)352e35(.*)793d2[27]3(.+)372[27])|(6174652830202d(.+)362e35(.*)793d2[27]3(.+)382[27])|(6174652830202d(.+)372e35(.*)793d2[27]3(.+)392[27])|(6174652830202d(.+)382e35(.*)793d2[27]3(.+)302[27])|(6174652830202d(.+)392e35(.*)793d2[27]3(.+)312[27])|(793d2[27]3(.+)322[27](.*)6174652830202d(.+)302e35)|(793d2[27]3(.+)332[27](.*)6174652830202d(.+)312e35)|(793d2[27]3(.+)342[27](.*)6174652830202d(.+)322e35)|(793d2[27]3(.+)352[27](.*)6174652830202d(.+)332e35)|(793d2[27]3(.+)362[27](.*)6174652830202d(.+)342e35)|(793d2[27]3(.+)372[27](.*)6174652830202d(.+)352e35)|(793d2[27]3(.+)382[27](.*)6174652830202d(.+)362e35)|(793d2[27]3(.+)392[27](.*)6174652830202d(.+)372e35)|(793d2[27]3(.+)302[27](.*)6174652830202d(.+)382e35)|(793d2[27]3(.+)312[27](.*)6174652830202d(.+)392e35)|(6174652830203(.+)392e35(.*)793d2[27]2d(.+)382[27])|(6174652830203(.+)382e35(.*)793d2[27]2d(.+)372[27])|(6174652830203(.+)372e35(.*)793d2[27]2d(.+)362[27])|(6174652830203(.+)362e35(.*)793d2[27]2d(.+)352[27])|(6174652830203(.+)352e35(.*)793d2[27]2d(.+)342[27])|(6174652830203(.+)342e35(.*)793d2[27]2d(.+)332[27])|(6174652830203(.+)332e35(.*)793d2[27]2d(.+)322[27])|(6174652830203(.+)322e35(.*)793d2[27]2d(.+)312[27])|(6174652830203(.+)312e35(.*)793d2[27]2d(.+)302[27])|(6174652830203(.+)302e35(.*)793d2[27]2d(.+)392[27])|(793d2[27]2d(.+)392[27](.*)6174652830203(.+)302e35)|(793d2[27]2d(.+)382[27](.*)6174652830203(.+)392e35)|(793d2[27]2d(.+)372[27](.*)6174652830203(.+)382e35)|(793d2[27]2d(.+)362[27](.*)6174652830203(.+)372e35)|(793d2[27]2d(.+)352[27](.*)6174652830203(.+)362e35)|(793d2[27]2d(.+)342[27](.*)6174652830203(.+)352e35)|(793d2[27]2d(.+)332[27](.*)6174652830203(.+)342e35)|(793d2[27]2d(.+)322[27](.*)6174652830203(.+)332e35)|(793d2[27]2d(.+)312[27](.*)6174652830203(.+)322e35)|(793d2[27]2d(.+)302[27](.*)6174652830203(.+)312e35)/' li[data-viewport] 'span.s-item__sep>span[aria-labelledby]'
 ebay.de#$#hide-if-matches-xpath './/a[@*[contains(.,"UnifiedRankingScenario")]]/div[@class]//img[@src]/ancestor-or-self::li[starts-with(@class,"s-item")]'
 ebb.io##+js(set-constant, ga, noopFunc)
 ebb.io##+js(set-constant, google_empty_script_included, true)
@@ -11855,6 +11853,7 @@ ijiandao.com##div[class^="banner_h_"]
 ik123.com###aa960a
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
+ikandy1.com##A[href*="/ky-a.html"]
 ikjzd.com##.article-banner-wrap
 ikjzd.com##.foot-advert-box
 ikjzd.com##.wv-head-img > .wv-head-item-img:last-child
@@ -11954,6 +11953,7 @@ inmywordz.com,ants.tw##.acca-block
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"cloudfront.net/uploads/image_display_")][@alt]/parent::div[@class][1]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="e-wbvail"]'
+instacart.com#$#hide-if-matches-xpath './/a[@href]//img[@data-testid]/following::div[.//span[text()]/following-sibling::span[text()]][1]/parent::div[@class]/parent::a[@href]/ancestor::div[@class and @id][1]'
 instacart.com#$#hide-if-matches-xpath './/div[@class]/preceding::button[@disabled][@type="button"]/ancestor::div[@aria-label="Product"]/parent::div[1]'
 instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"Spon")]/ancestor::div[@class][1]/parent::div'
 instacart.com#$#race start; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section'; hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::article'; race stop;
@@ -13359,6 +13359,7 @@ mianbao99.com##.downApp
 mianhuatang520.com###addiv2
 miaopai.com##.footer_banner
 miaopai.com,renren.com##.swiper-container
+miaoshangmanhua.com##.cy_menuright
 miaozhen.com
 micast.tv###closediv
 micast.tv###up
@@ -14199,7 +14200,7 @@ pg-wuming.com##+js(abort-current-script, $, !document.getElementById(btoa)
 pharmnet.com.cn###img1
 pharmnet.com.cn##.ad9502
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
-phimgihd.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
+phimgivn.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
 phimlau.online#$#abort-current-inline-script atob /Y1/
 phimmoi4s.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimmoiiii123.com#$#abort-on-property-read matchMedia
@@ -17411,6 +17412,7 @@ zzzyk.com###Tinfo
 ||136.0.56.196^
 ||1368999.com^
 ||137.175.69.92^
+||1379a.xyz^
 ||1381a.xyz^
 ||1383a.xyz^
 ||1385a.xyz^
@@ -18224,6 +18226,7 @@ zzzyk.com###Tinfo
 ||6179a.com^
 ||61hhdp.com^
 ||62422.cn/ggimg/
+||627txt.com/da/*js
 ||628536nyv.com^
 ||62kjjhg.com^
 ||62mao.com/52
@@ -18793,6 +18796,7 @@ zzzyk.com###Tinfo
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||a666.one^
 ||a78wt.top^
+||a8age.com^
 ||a907907.com^
 ||a962m.xyz^
 ||aa.gushiwen.org^
@@ -19644,7 +19648,6 @@ zzzyk.com###Tinfo
 ||autoimg.cn/club/v1Content/images/heycar
 ||autoimg.cn/club/v1Content/images/heycar1111.jpg
 ||autoimg.cn/club/v1Content/images/young
-||autoimg.cn/engine/root/fggxl.js
 ||autonet.com.tw/90/
 ||autopiano.cn/data/jd_
 ||auwehnw.cn^
@@ -19870,6 +19873,7 @@ zzzyk.com###Tinfo
 ||baishui.me^
 ||baishuku.com/news/$script
 ||baitaiad.com^$third-party
+||baitaiz.com^
 ||baiten.cn/images/weInternation/
 ||baitu1llbkotsfthllcjeg.com^
 ||baitugu.com^$third-party
@@ -19929,6 +19933,7 @@ zzzyk.com###Tinfo
 ||bbads.vip^
 ||bbazhaheiv.top^
 ||bbbazlp.cn^
+||bbges.xyz^
 ||bbhktv.xyz^
 ||bbk5921.yncjsc.cn^$third-party
 ||bbnnnb.com^*.js
@@ -22278,6 +22283,7 @@ zzzyk.com###Tinfo
 ||erwgj.xyz^
 ||es3984.review/02_cn_ad/
 ||esanciw.top^
+||esgher.fun^
 ||esgher.site^
 ||esiws.com^
 ||esjzj.cyou^
@@ -23545,6 +23551,7 @@ zzzyk.com###Tinfo
 ||hflssy.com^
 ||hflwgg.xyz^
 ||hfqdipw.cn^
+||hgf8hck.com^
 ||hgiafe.site^
 ||hgibbei.cyou^
 ||hgjxp.cn^
@@ -23660,6 +23667,7 @@ zzzyk.com###Tinfo
 ||hnzzff.club^
 ||ho3ia.cn^
 ||hoaiig.com^$script
+||hohmaryt.com^
 ||hohpdld.cn^
 ||hoiea.xyz^
 ||hollg8023.745c.cn^
@@ -26251,6 +26259,7 @@ zzzyk.com###Tinfo
 ||miduoke.net^$third-party
 ||mifeng.buzz^
 ||mifengtd.cn/ad-
+||mifyeldx.top^
 ||miguyu.com/AD/
 ||mihouse.pw^
 ||mikanani.me/images/Masha/
@@ -26771,6 +26780,7 @@ zzzyk.com###Tinfo
 ||njcengpianwang.cn^
 ||njcyt.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
+||njogejt.icu^
 ||njslx.cn^
 ||njtprv.xyz^
 ||njupt-sacc.com^
@@ -30212,6 +30222,7 @@ zzzyk.com###Tinfo
 ||venienceilo.fun^
 ||venulaevavs.com^
 ||vercel.app/ads/
+||verysadfun.com/assets/publish/jquery.*.js
 ||veugcz8.com^
 ||vewdk.cyou^
 ||vezvpd.xyz^
@@ -30294,6 +30305,7 @@ zzzyk.com###Tinfo
 ||vnet.cn^*.html
 ||vnet.cn^*.html?$popup,third-party
 ||vnfjsus.xyz^
+||vnfsbl.xyz^
 ||vnlqcod.cn^
 ||vnq3.top^
 ||vns86.oss-*.aliyuncs.com^
@@ -31206,6 +31218,7 @@ zzzyk.com###Tinfo
 ||xorlsblw.cyou^
 ||xp85.com/common/js/allpage.js
 ||xpcha.com/js/notice.js
+||xpcwrgy.cn^
 ||xpdjsd.cn^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpqy.xyz^
@@ -31229,6 +31242,7 @@ zzzyk.com###Tinfo
 ||xstt5.com/template/js/fx
 ||xswape.top^
 ||xsxmvb.xyz^
+||xtbzff.xyz^
 ||xthrdyi.cn^
 ||xtpez.xyz^
 ||xtpwfb.xyz^
@@ -31945,6 +31959,7 @@ zzzyk.com###Tinfo
 ||zevbzn.xyz^
 ||zewfbw.buzz^
 ||zewfbw.xyz^
+||zexfzson.icu^
 ||zfcdirf.icu^
 ||zfcumb.xyz^
 ||zfehvv.buzz^
@@ -32066,6 +32081,7 @@ zzzyk.com###Tinfo
 ||zhy333.com^$third-party
 ||zhzyw.com/js/InsertJS.js
 ||ziedwr.com^
+||zifyeldq.top^
 ||zihuiguochao.top^
 ||zikao365.com/upload/js/pfgg/
 ||ziling.ink^
