@@ -517,8 +517,10 @@
 ##.adlist
 ##.adlistcss
 ##.adpc > .module
+##.adpc > .promo-link-
 ##.adpc > .promot-link-
 ##.adpc > .promot-link_
+##.adpc > .promt-link_
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads-1
@@ -1295,7 +1297,6 @@
 ##a[href*=".com/Register.aspx?aid="]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/tg.html?id="]
-##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
 ##a[href*=".com?s="]
 ##a[href*=".covasco.com/"]
@@ -2538,7 +2539,7 @@
 3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
 3dmgame.com##a[href^="https://down.hyds360.com/"] > div[style]
 3dmgame.com#?#.downl_list:-abp-has(style)
-3dn.ru,a-point.info,addfiles.ru,asia-tv.su,at.ua,all-for-kompa.ru,autosimgames.ru,chernobyl-soul.com,clan.su,cliphq.ru,coop-lands.ru,db-energo.ru,devdrivers.ru,do.am,dtva-it-rus.gq,elegos.ru,elektronika56.ru,elektrosat.ru,fon-ki.com,for-gsm.ru,free-dream.ru,ftechedu.ru,fukushima-news.ru,gals.md,gamesdendy.ru,giginfo.ru,gloria-cedric.ru,goldformat.ru,greenflash.su,hero-empire.com,igrul-ka.ru,jetvis.ru,krasnickij.ru,krolmen.ru,kubik3.ru,megaclips.net,mod-rus.ru,mow-portal.ru,moy.su,mp3songs.ru,mp4android.ru,musiklip.ru,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,obschestvo-9999.gq,omsimclub.ru,online-supernatural.ru,onlinestargate.ru,only-paper.ru,others.name,pidru4nik.com,pkrc.ru,play-force.ru,pohoronnoe-byuro.com,pokatushki-pmr.ru,pro-zakupki.ru,project-ss.ru,psxworld.ru,radiodom.org,rocketdockfree.ru,sdr-deluxe.com,skidrowcrack.ru,soft-game.net,stalker-gsc.ru,stalker-zone.info,stalkermods.ru,svadbatomsk.ru,tes-game.ru,torm-egan.ru,torrent-file.top,torfiles.ru,ucoz.club,ucoz.com,ucoz.net,ucoz.org,ucoz.ru,ucoz.ua,usite.pro,vodopads.ru,vsthouse.ru,warcraftda.ru,xakevsoft.ru,xn--80aeshkkbdj.xn--p1ai,yaminecraft.ru,zona-stalkera.ru#$#abort-on-property-read Object.prototype.clunduse; abort-on-property-read k_init; abort-on-property-read Object.prototype.u_vastplayer
+3dn.ru,a-point.info,addfiles.ru,akkordam.ru,asia-tv.su,at.ua,all-for-kompa.ru,autosimgames.ru,chernobyl-soul.com,clan.su,cliphq.ru,coop-lands.ru,db-energo.ru,devdrivers.ru,do.am,dtva-it-rus.gq,elegos.ru,elektronika56.ru,elektrosat.ru,fon-ki.com,for-gsm.ru,free-dream.ru,ftechedu.ru,fukushima-news.ru,gals.md,gamesdendy.ru,giginfo.ru,gloria-cedric.ru,goldformat.ru,greenflash.su,hero-empire.com,igrul-ka.ru,jetvis.ru,krasnickij.ru,krolmen.ru,kubik3.ru,megaclips.net,mod-rus.ru,mow-portal.ru,moy.su,mp3songs.ru,mp4android.ru,musiklip.ru,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,obschestvo-9999.gq,omsimclub.ru,online-supernatural.ru,onlinestargate.ru,only-paper.ru,others.name,pidru4nik.com,pkrc.ru,play-force.ru,pohoronnoe-byuro.com,pokatushki-pmr.ru,pro-zakupki.ru,project-ss.ru,psxworld.ru,radiodom.org,rocketdockfree.ru,sdr-deluxe.com,skidrowcrack.ru,soft-game.net,stalker-gsc.ru,stalker-zone.info,stalkermods.ru,svadbatomsk.ru,tes-game.ru,torm-egan.ru,torrent-file.top,torfiles.ru,ucoz.club,ucoz.com,ucoz.net,ucoz.org,ucoz.ru,ucoz.ua,usite.pro,vodopads.ru,vsthouse.ru,warcraftda.ru,xakevsoft.ru,xn--80aeshkkbdj.xn--p1ai,yaminecraft.ru,zona-stalkera.ru#$#abort-on-property-read Object.prototype.clunduse; abort-on-property-read k_init; abort-on-property-read Object.prototype.u_vastplayer
 3g.163.com##.ne_rps
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###banner_call + div[id]
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
@@ -4692,7 +4693,6 @@ comicat.org,cupfox.app,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,lib
 comicat.org,kisssub.org##a[href*="db."]
 comicsporno.xxx,eshentai.tv,felizporno.com,hentaila.com,hentaila.tv,hentaisenpai.org,latinohentai.com,mespornogratis.com,orgasmatrix.com,pornoreino.com,pornocolombiano.net,subtaboo.com,xculitos.com#$#abort-current-inline-script document.querySelectorAll popMagic
 commonhealth.com.tw##div[class*="ad--"]
-commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,99kubo.tv,manhuafen.com##.ad
 comopremium.com.ar###blanuncio
 comopremium.com.ar##IMG[src="templates/plugmod/images/a.png"]
 comprovendolibri.it#@#.myTestAd
@@ -5061,6 +5061,8 @@ dmzj.com##a[href*="qunhei.com"]
 dngz.net##.listright > a[target="_blank"] > img
 dnwx.com##.mt5_23
 dnwx.com#@#.ad_250
+dnxtc.net##.header > div[style*="margin-top:"]
+dnxtc.net##div[style="width:1200px;height:108px;margin:0 auto;margin-top:15px;"]
 dobreprogramy.pl#$#abort-on-property-read wp_adv_labels
 doc88.com##.adpx250
 doc88.com##.dk-side-gif
@@ -5810,6 +5812,7 @@ forum.gamer.com.tw##.a-mercy-d
 forum.gamespowerita.com#@##ad_block
 forum.gizmolord.com###announcement-container > #announcement-content > .no
 forum.hkgolden.com##div[id^="Super Banner"]
+forum.hkgolden.com#?#body > div[class^="jss"]:has(> div[class][style^="transform"]:only-child > div[class] > div[data-role="ad"])
 forum.pac-rom.com#@#.banner_ads
 forum.thgtr.com##.block_uyari
 forumdz.com###breadcrumb + center > [color="red"] > b
@@ -6608,6 +6611,7 @@ hkcards.com##.row > .col-12 > #ad-slot
 hkcards.com#@##ad-slot
 hkdm688.com##.bb01
 hkepc.com##.headBanner
+hkgolden.com##.hkg-ad
 hkmovie6.com##.hotmobad
 hktvyb.com##.myui-content__operate > a.btn-danger
 hktvyb.com##.myui-content__operate > a.btn-warm
@@ -7089,8 +7093,8 @@ instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[conta
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="e-wbvail"]'
 instacart.com#$#hide-if-matches-xpath './/a[@href]//img[@data-testid]/following::div[.//span[text()]/following-sibling::span[text()]][1]/parent::div[@class]/parent::a[@href]/ancestor::div[@class and @id][1]'
 instacart.com#$#hide-if-matches-xpath './/source[@media]/following-sibling::img[contains(@alt,"Sponsored")]/parent::picture/ancestor::div[@class][1]'
-instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"")]/preceding::div[@aria-label][@role]/div[@style]/parent::div[starts-with(@aria-label,"Product") and @role and @class]/ancestor::*[1]/parent::div[1]'
-instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"Spon")]/ancestor::div[@class][1]/parent::div'
+instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"sored")]/ancestor::div[@class][1]/parent::div'
+instacart.com#$#race start; hide-if-matches-xpath './/span[@class][contains(text(),"")]/preceding::div[@aria-label][@role]/div[@style]/parent::div[starts-with(@aria-label,"Product") and @role and @class]/ancestor::*[1]/parent::div[1]'; hide-if-matches-xpath './/div[@class]//div[@data-sp-eliggible]/ancestor::div[@aria-label="Product"]/parent::div[1]'; race stop;
 instantmanga.com###notice
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
@@ -7570,6 +7574,7 @@ jiuse710.com#?##main div.row > div.colVideoList:has(> div.video-elem > a[href][t
 jiyingdm.com###otherWindowBox
 jiyingdm.com##.abcde
 jiyingw.vip##.textwidget > p > a > img
+jiyingw.vip##div[style="text-align:center"] > a > img
 jjcast.com###timer1
 jjcast.com###timer2
 jjcast.com###timer3
@@ -8438,6 +8443,8 @@ mcdulll.com##body div[class*="-mib-ad-"]
 mcdulll.com,mcdulll.pixnet.net###box1290930
 mcdulll.com,mcdulll.pixnet.net###box1989082
 mcmod.cn###McmodDonate
+md.hkgolden.com##.hkg-ad
+md.hkgolden.com#?##viewpage > .post:has(> :is(div[id^="div-gpt-"], .hkg-ad))
 me360.com##.footer-booking-open
 med66.com##.banner
 med66.com##.coach_pic
@@ -8850,6 +8857,7 @@ news.gamebase.com.tw##.PcRightHomeMiddleAds
 news.gamebase.com.tw##.rightMiddleAD
 news.hf365.com##.main-r > div:first-child
 news.ifeng.com##.right1
+news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,99kubo.tv,manhuafen.com##.ad
 news.lyd.com.cn##table[cellspacing="5"]:nth-child(3)
 news.lyd.com.cn##td[width="300px"] > table[width="300"] > tbody > tr:nth-last-child(n+2)
 news.mydrivers.com##.baidu_left
@@ -12176,6 +12184,7 @@ zzzyk.com###Tinfo
 ~95504.net##.ggbox
 ~aircn.org,~steamcn.com,~x3cn.com##.wp.a_t
 ~alicdn.com##a > img[width="960"][src*=".alicdn.com/"]
+~allthingsopen.org##a[href*=".com?aff="]
 ~baidu.com##a[href*="/cpro."]
 ~baidu.com##a[href*="/cpro/"]
 ~car.kdslife.com,enet.com.cn,fjsen.com,hupu.com,kdslife.com,~my.hupu.com,mysteel.com,news.cnyes.com,pchome.net,rznews.cn##div[class^="ad"]
