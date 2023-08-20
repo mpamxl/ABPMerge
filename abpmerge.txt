@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-08-19 16:04:33
-! Total count: 32615
+! Version: 2023-08-20 16:04:28
+! Total count: 32630
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1849,7 +1849,7 @@ $websocket,domain=5nj.com|cechi8.com
 .bid/ads/
 .blog/ads/
 .bt*.com/imgs.js?t=
-.buzz$domain=btsj6.com|yinghuavideo.com|dm99.me
+.buzz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
 .buzz/*0*0*0*==$third-party
 .buzz/*=$object,third-party
 .cam/ads/
@@ -2126,7 +2126,7 @@ $websocket,domain=5nj.com|cechi8.com
 .wap.x4399.com^
 .work/ads/
 .xn--fiqs8s:7385/
-.xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
+.xyz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
 .xyz/*.sdk?$script,third-party
 .xyz/*0*0*==$third-party
 .xyz/*=$object,third-party
@@ -2478,6 +2478,7 @@ $websocket,domain=5nj.com|cechi8.com
 /banner468x60_live173.
 /bannerad.
 /banners/pr_advertising_ads_banner
+/bar/*.js$domain=yinghuavideo.com|yinghua8.tv
 /barbar7.*.js^$script,domain=hclips.com
 /bbhd_*_kkis.js
 /bcgg/*
@@ -4105,6 +4106,8 @@ $websocket,domain=5nj.com|cechi8.com
 500papa.com,papa03.com###content > div[align="center"] > a > img
 500papa.com,papa03.com##a[href*="9927.com"] img
 500px.com###hellobar
+5054399.com###gg
+5054399.com###gg2
 5054399.com##div[id^="gg"]
 5068.com,hgitv.com##.gg02
 5068.com,ifeng.com##.gg01
@@ -5191,6 +5194,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||aseanlegacy.net/senzement/ads.png
 @@||aseanlegacy.net/senzement/senzement.js.php
 @@||aspiringattempt.com^$script,xmlhttprequest
+@@||assbbs.com^$generichide
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
 @@||astyle.alicdn.com/??
 @@||atanx.alicdn.com/t/tanxssp.js$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
@@ -5587,7 +5591,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||cruisecenter.com.tw/data/ad/
 @@||crunchyroll.com/*/ads_enabled_flag.js$script
 @@||csdn.net/static/static/js/apps/popShow.js
-@@||css.yhdmtu.xyz^$domain=yinghuavideo.com
+@@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
 @@||cstnet.cn/r/cms/cstnet/zh_CN/ad/index/
 @@||ctrip.com/Customer-Market-Proxy/AdCallProxyV2.$~third-party
 @@||cubchannel.com^$script,xmlhttprequest
@@ -6089,6 +6093,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||hackintosh.computer/*ad$script
 @@||hackintosh.computer^$generichide
 @@||hackintosh.zone^*/ads.js$script
+@@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
 @@||halamadrid.pl/wp-content/plugins/noadblock-nice-message/assets/js/ads.js$script
 @@||haltingbadge.com^$script,xmlhttprequest
@@ -6701,6 +6706,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||pagead2.googlesyndication.com/pagead/js/*show_ads_impl.js$domain=buickforums.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alotof.software
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=assbbs.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dailydoge.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elfqrin.com
@@ -17952,6 +17958,7 @@ zzzyk.com###Tinfo
 ||360.cn/index/showjokes?callback=
 ||360.cn/int/getadurls?
 ||360.cn/popup/popinfo/
+||360114.xyz^
 ||36060.xyz^
 ||360600.xyz^
 ||360640.com^
@@ -20822,6 +20829,7 @@ zzzyk.com###Tinfo
 ||cdn.ay.gy/js/link-converter.js$script,third-party
 ||cdn.computerworld.com.au/compressor-staticfiles/adsmin/idg_gpt_pipeline_generated.js$script
 ||cdn.creative-bars1.com^
+||cdn.dashenya.com^
 ||cdn.galacg.me/img/*.gif
 ||cdn.galacg.me/img/*.jpg
 ||cdn.hanaya-m.com^
@@ -21400,6 +21408,7 @@ zzzyk.com###Tinfo
 ||ctfile.com/img/*ssp
 ||ctfile.com/iz.php?
 ||ctfile.com/popjump.php?$popup
+||ctienlf.top^
 ||ctobsnssdk.com^
 ||ctoyb.cyou^
 ||ctquh0q.xyz^
@@ -22923,6 +22932,7 @@ zzzyk.com###Tinfo
 ||fx168.com/am.js
 ||fx678.com/htcount/count.js
 ||fxbcpr.xyz^
+||fxeaobv.icu^
 ||fxfhjs.com^
 ||fxjs.2541.com^
 ||fxx79.pro^
@@ -23486,6 +23496,7 @@ zzzyk.com###Tinfo
 ||h6cp.icu^
 ||h731.icu^
 ||habyc.com^
+||hacde1.icu^
 ||hacde3.icu^
 ||hacde5.icu^
 ||hacde6.icu^
@@ -26066,6 +26077,7 @@ zzzyk.com###Tinfo
 ||lsbebm.xyz^
 ||lsforum.net/cam2/*.gif
 ||lsforum.net/yahooad/
+||lshuaibin.cn^
 ||lsj2.5aer.com^
 ||lsjxs.cc/js/html
 ||lskmipb.icu^
@@ -27033,6 +27045,7 @@ zzzyk.com###Tinfo
 ||nmkghh.com^
 ||nmm9i.xyz^
 ||nmrdnqn.cn^
+||nmssdbgmf.xyz^
 ||nmtibv.xyz^
 ||nmwbank.cn^
 ||nnfyxd.xyz^
@@ -27595,6 +27608,7 @@ zzzyk.com###Tinfo
 ||pg-ad-b1.nosdn.127.net^
 ||pgccaoy.cn^
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
+||pgght17.com^
 ||pgjcbz.xyz^
 ||pgl7.cn^
 ||pglstatp-toutiao.com^
@@ -27679,6 +27693,7 @@ zzzyk.com###Tinfo
 ||pinlue.com/error/bangolike.js
 ||pipi.cn/player/
 ||pipix.cc/gg.gif
+||piqtpbxo.icu^
 ||piroji.com^$domain=pronpic.org
 ||pirxzl.xyz^
 ||pitawastarkani.com^
@@ -31789,7 +31804,6 @@ zzzyk.com###Tinfo
 ||yingav.net/images/content/spot01.jpg
 ||yingce.asia^
 ||yinghuacd.com/bar/
-||yinghuavideo.com/bar/*.js
 ||yingnanyqq.com^
 ||yingnanyyds.com^
 ||yingshizxw.com/js/tc/
@@ -32530,6 +32544,7 @@ zzzyk.com###Tinfo
 ||zw2b9.cn^
 ||zwadakesq.cyou^
 ||zwdu.com/getuserinfo.php
+||zwfkxb.xyz^
 ||zwiaaop.cyou^
 ||zwjaoni.cn^
 ||zwlikv.cn^
