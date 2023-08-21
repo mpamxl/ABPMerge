@@ -747,7 +747,6 @@
 ##.indexad4
 ##.indexnews-ad
 ##.inner-advertise
-##.inset-sty > .banner.el-carousel
 ##.it618_firstad_flex
 ##.item-ad
 ##.itopbar + .container
@@ -944,6 +943,7 @@
 ##.video-item-ads
 ##.video_details > .banner
 ##.vodads
+##.w-full > .banner.el-carousel
 ##.w100b > .m_adv
 ##.w_ad
 ##.wbalist_thumb[style*="/upload/site/"]
@@ -2162,9 +2162,9 @@
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > center > a
 178.com,nga.cn#$#abort-on-property-write __LOAD_BBS_ADS_12
+17ce.com##SECTION[id*="top_banner"]
 17ce.com##a[href="/site/api"]
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
-17ce.com,cctime.com,doyo.cn###top_banner
 17house.com##.suiping
 17jiaoyu.com##.sy_ad
 17jita.com###wp > .wp > .pbm
@@ -2625,9 +2625,9 @@
 500papa.com,papa03.com###content > div[align="center"] > a > img
 500papa.com,papa03.com##a[href*="9927.com"] img
 500px.com###hellobar
-5054399.com###gg
 5054399.com###gg2
 5054399.com##div[id^="gg"]
+5054399.com,hitime5.com###gg
 5068.com,hgitv.com##.gg02
 5068.com,ifeng.com##.gg01
 50sen.com###box-ads
@@ -3331,6 +3331,7 @@ aoe.vn#$#abort-on-property-read parseInt
 aoji.cn##.xiaoxi_phone
 aoshitang.com###msg_win
 aoshu.com,zhongkao.com,zuowen.com##.bottomImg
+aotter.net##.ag-revenue
 aotu43.com##center > a[rel="nofollow"] > .king
 aovivoagora.com##div[id^="anuncio"]
 api.guailie.com##+js(set-constant, killAdKiller, noopFunc)
@@ -4271,6 +4272,7 @@ ccoo.cn##.n_adbox
 ccoo.cn,gw54.com,hackhome.com,xgw5.com##.adn
 cctime.com###ad_three
 cctime.com##.nav_banner
+cctime.com,doyo.cn###top_banner
 cctv.com###bgAd_div
 cctv.com##.anime_ewm
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
@@ -4843,7 +4845,7 @@ ctwant.com##.l-ad__article
 ctwant.com##.l-ad__wrapper
 ctwant.com##.m-adpopup
 cupfox.app###page-wrap > div:nth-child(3)
-cupfox.app##.a4-box[class^="jsx-"]
+cupfox.app##.a5-box[class^="jsx-"]
 cupfox.app##.banner > div.banner-content.right
 cupfox.app##.banner-box
 cupfox.app##.cupfox-box
@@ -6607,7 +6609,6 @@ histock.tw###tbadword
 histock.tw##.bottom-right
 hit180.com##.widget_ui_orbui:nth-child(-n+2)
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
-hitime5.com###gg
 hitime5.com###gg250
 hitime5.com###gg730
 hitomi.la#$#override-property-read popsource null; override-property-read adsdir null; override-property-read ad_cookieconsent false; override-property-read D4zz undefined; abort-on-property-read _pop; abort-on-property-read hitomi; abort-on-property-read open; override-property-read ad_idzone null; abort-on-property-read ylmkAp.addZone; override-property-read ad_popup_fallback false;
@@ -9355,6 +9356,7 @@ people.com.cn##.zh_left
 perfectmatch.tw#@#.right_ad
 perverzija.com,edoujin.net#$#abort-on-property-read JSON.stringfy; abort-on-property-read a3klsam
 petrochina.com.cn#@#.ggbox
+pexels.com##a[href*=".istockphoto.com"]
 pg-wuming.com##+js(abort-current-script, $, !document.getElementById(btoa)
 pharmnet.com.cn###img1
 pharmnet.com.cn##.ad9502
@@ -11639,7 +11641,7 @@ www.facebook.com,web.facebook.com#$#race start; hide-if-matches-xpath './/div[@a
 www.freehao123.com##A[href*="/go/"]
 www.ghxi.com##.wpcom_ad_wrap
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
-www.goha.ru,3dnews.ru,avtovzglyad.ru,baby.ru,dni.ru,ura.news#$#abort-on-property-read Ya
+www.goha.ru,3dnews.ru,avtovzglyad.ru,baby.ru,dni.ru,kufar.by,ura.news#$#abort-on-property-read Ya
 www.google.com##.ads-ad
 www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%E2%96%9B']),DIV[data-sokoban-container]:has([href*='%E3%80%90%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%BF%E3%80%91']),DIV[data-sokoban-container]:has([href*='%E2%8F%AA%29']),DIV[data-sokoban-container]:has([href*='%E2%9A%BD%E3%80%91']),DIV[data-sokoban-container]:has([href*='-%E3%80%90']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F'][href*='%E2%98%80%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='-('][href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%29']),DIV[data-sokoban-container]:has([href*='-%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%85%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%A1%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%AD%90']),DIV[data-sokoban-container]:has([href*='%E3%8A%99%EF%B8%8F'])
 www.haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
