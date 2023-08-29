@@ -516,11 +516,6 @@
 ##.adline
 ##.adlist
 ##.adlistcss
-##.adpc > .module
-##.adpc > .promo-link-
-##.adpc > .promot-link-
-##.adpc > .promot-link_
-##.adpc > .promt-link_
 ##.ads > #video_playr_sider
 ##.ads > a > img[src*=".sinaimg."]
 ##.ads-1
@@ -591,6 +586,7 @@
 ##.banner-cctv-A2
 ##.banner-cctv-Topping
 ##.bdyp-sygg-ul
+##.before_playing_cctv.yc
 ##.below_ads
 ##.bg > img[src*=".meituan.net"]
 ##.bg_ad
@@ -855,6 +851,8 @@
 ##.postmessage > #googleFirst
 ##.postmessage > #googleSecond
 ##.privilege-promote
+##.promolink-[style="position:relative;width:100%;height:100%;"]
+##.promtlink_[style="position:relative;width:100%;height:100%;"]
 ##.propa_bottom
 ##.pure-g[onclick*="float"]
 ##.qpdb + a[href]
@@ -2407,7 +2405,6 @@
 2cto.com##div[style^="float:left;width:300px;"]
 2cycomic.com,yemancomic.com##body > div > center
 2ddl.ms,thevideobee.to,dropapk.com,2ddl.vg#$#abort-on-property-write _pop
-2dfan.com,3dmgame.com,galge.fun###index_bg_box
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
@@ -7116,7 +7113,7 @@ instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[conta
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::header'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="e-wbvail"]'
 instacart.com#$#hide-if-matches-xpath './/a[@href]//img[@data-testid]/following::div[.//span[text()]/following-sibling::span[text()]][1]/parent::div[@class]/parent::a[@href]/ancestor::div[@class and @id][1]'
-instacart.com#$#hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-sp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'
+instacart.com#$#hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'
 instacart.com#$#hide-if-matches-xpath './/source[@media]/following-sibling::img[contains(@alt,"Sponsored")]/parent::picture/ancestor::div[@class][1]'
 instacart.com#$#hide-if-matches-xpath './/span[starts-with(@class,"e-1r5")][contains(text(),"d")]/parent::div[1]'
 instagram.com#$#hide-if-contains-visible-text '/Anzeige|Gesponsert|Sponsored|Geborg|Sponzorováno|Sponsoreret|Χορηγούμενη|Publicidad|Sponsoroitu|Sponsorisé|Bersponsor|Sponsorizzato|広告|광고|Ditaja|Sponset|Gesponsord|Sponsorowane|Patrocinado|Реклама|Sponsrad|ได้รับการสนับสนุน|May Sponsor|Sponsorlu|赞助内容|贊助|প্রযোজিত|પ્રાયોજિત|स्पॉन्सर्ड|Sponzorirano|ಪ್ರಾಯೋಜಿತ|സ്‌പോൺസർ ചെയ്‌തത്|पुरस्‍कृत|प्रायोजित|ਪ੍ਰਾਯੋਜਿਤ|මුදල් ගෙවා ප්‍රචාරය කරන ලදි|Sponzorované|விளம்பரதாரர்கள்|స్పాన్సర్ చేసింది|Được tài trợ|Спонсорирано|Commandité|Sponsorizat|Спонзорисано/' 'article[class]>div[class]'
@@ -8240,6 +8237,10 @@ lywww.com##.lianmengclass
 lz13.cn##.left_box3
 lz13.cn##.left_box4
 lz13.cn##.left_box5
+lzacg.one##.content-layout .zib-widget > .textwidget > a[target="blank"]
+lzacg.one##.sidebar .zib-widget > .textwidget > a[target="blank"]
+lzacg.one#?#.content-layout .zib-widget:has(> .textwidget:only-child > a[target="blank"])
+lzacg.one#?#.sidebar .zib-widget:has(> .textwidget:only-child > a[target="blank"])
 lzdcctv.cn##.ac_pc
 lzdcctv.cn##.focusmo + table
 lzdcctv.cn##.widget_ssr > a > img
@@ -8684,6 +8685,7 @@ mpyit.com##.cboxElement + center[style=" padding-top:10px; "]
 mpyit.com##.post-999999
 mrbird.cc#@#.social-icons
 mreader.co#$#abort-current-inline-script document.createElement _stlivuf
+mrmad.com.tw#?#div[id^="mrmad-"]:-abp-has(>.adsbygoogle)
 mrmad.com.tw#?#div[id^="mrmad-"][style]:has(> .adsbygoogle)
 mrpornx.com,myyouporn.com#$#abort-current-inline-script eval String.fromCharCode
 mrtzcmp3.net###hstp-bg-overlay
