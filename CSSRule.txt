@@ -908,7 +908,6 @@
 ##.textadlist
 ##.theme-dark > .ayx > a
 ##.theme_custom_slidebox-ad-below
-##.thumb-overlay-albums > .col-xs-12[style="display: flex;justify-content: center;"]
 ##.title > .gg
 ##.tmall_ad_container
 ##.tmall_bg15
@@ -1212,6 +1211,7 @@
 ##[src='/images/c_l.png']
 ##[src='http://m.guangzhoubingqing.com/88888.jpg']
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
+##[src^="https://img.sobot.com/chatres/"][title="sb"]
 ##[src^='/MDassets/images/']
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[src^='/banners/pr_advertising_ads_banner']
@@ -2196,15 +2196,11 @@
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="920"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width="950"]
 18board.com,18board.net,18p2p.com,18p2p.tv##a[target="_blank"] > img[width^="72"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
-18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
-18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win##div[style="cursor: pointer;"] > img[src*="/media/albums/"]
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#?#:-abp-has(>script+ins)
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18comic.org,18comic.vip###guide-modal
+18comic.org,18comic.vip##.modal-backdrop
+18comic.org,18comic.vip##a[href*="//"]:not([href*="18comic."]) > img
+18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18comic.org,18comic.vip,jm-comic2.club#?#:-abp-has(>script+ins)
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
@@ -2902,7 +2898,7 @@
 7k7k.com##.bgLink
 7k7k.com##.page-right-side-btns-img-link
 7k7k.com##.skin-link
-7ogorod.ru,autonevod.ru,shtrafsud.ru,zazloo.ru#$#abort-on-property-read flat_pm_arr
+7ogorod.ru,autonevod.ru,shtrafsud.ru,tophallclub.ru,zazloo.ru#$#abort-on-property-read fpm_attr
 7x7n.com##.down_load_1
 7x7n.com##.down_load_2
 8264.com##.advSection__wrapper
@@ -4018,7 +4014,10 @@ blog.163.com###topbar_randShowArea
 blog.163.com###topbar_yxpArea
 blog.163.com##.m-regGuideLayer.f-trans
 blog.163.com##.postadlayer
+blog.51cto.com##.ac-box
 blog.51cto.com##.relatedArt.box
+blog.51cto.com##li.creative > a.task
+blog.51cto.com##ul.Navigates > li.first > a[href][target="_blank"]
 blog.abit.vn#$#abort-on-property-read document.cookie
 blog.csdn.net###article_content > link + a
 blog.csdn.net##.t0
@@ -7098,6 +7097,7 @@ inforesist.org##aside[id="text-39"]
 inforesist.org##aside[id="text-44"]
 informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 inmywordz.com,ants.tw##.acca-block
+instacart.com#$#hide-if-contains-visible-text '/S(\\s)*p(\\s)*o(\\s)*n(\\s)*s(\\s)*o(\\s)*r(\\s)*e(\\s)*d/' li[data-testid] 'li div[aria-label]>div>div'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"cloudfront.net/uploads/image_display_")][@alt]/parent::div[@class][1]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::header'
@@ -7543,6 +7543,7 @@ jin10.com##.top-ad
 jin10.com##div[id^="J_wdgg_"]
 jin10.com#?#.jin-timeline:-abp-has(.jin-tag)
 jinbaodm.com##div[id^="a-loading"]
+jinbaodm.com##div[style^="position:fixed; top"]
 jingangjing.com##.free
 jingangjing.com##.free-popup
 jingdianlaoge.com##.baidu
@@ -7606,12 +7607,10 @@ jkpan.cc##+js(abort-current-script, jQuery, \u)
 jkpan.cc##+js(set-constant, killads, true)
 jlmhk.com##.bn
 jlpcn.net##.vodAd
-jm-comic2.club##a[href^="http"]:not([href*="jm-comic"]) > img
-jm-comic2.club#?#:-abp-has(>script+ins)
+jm-comic2.club##a[href*="//"]:not([href*="jm-comic"]) > img
 jmbbs.com###xjj_jmbbs2015_01
 jmbbs.com##.middle_guanggao
 jmbbs.com##img[width="1100"]
-jmcomic1.city,jmcomic1.win##a[href^="http"]:not([href*="jmcom"]) > img
 jmnews.com.cn##div[id^="couplet_"]
 jmw.com.cn##.coupon
 jmw.com.cn##.head_1b
@@ -8127,7 +8126,7 @@ ling-online.com#$#abort-current-inline-script document.documentElement JSON.pars
 linkdecode.com#@#.adsbygoogle
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__description span:-abp-contains(/促銷內容|广告/))
 linkedin.com#?#.core-rail > div > div[id^="ember"]:-abp-has(.feed-shared-actor__sub-description span:-abp-contains(/促銷內容|广告/))
-linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-on-property-read setTimeout noopFunc
+linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open
 linkshrink.net#@##overlay_ad
 linkshrink.net#@#.overlay_ad
 linovelib.com##+js(set-constant, adblock, 0)
@@ -8306,6 +8305,7 @@ m.toutiao.com##.recommendation-container + div[class]
 m.tvsou.com##.sogou-temp-hidden
 m.tvsou.com##.story_ad_android
 m.weather.com.cn##div[style^="position: fixed; width: 100%; bottom: 0px;"]
+m.xiaomiyoupin.com#@#[style*="mi-img.com"]
 m.youku.com###banner
 m.youku.com##.cmt-more
 m.youku.com##.cmt-more-cont
@@ -11325,7 +11325,7 @@ vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenk.com#$#abort-current-inline-script WebAssembly instantiate
+viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenk.com,yurineko.net#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
