@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-09-26 16:07:21
-! Total count: 31980
+! Version: 2023-09-27 16:07:22
+! Total count: 31996
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -3003,6 +3003,7 @@ $websocket,domain=5nj.com|cechi8.com
 /rass7.*.js^$script,domain=upornia.com|vjav.com
 /red2/ad/*
 /redbaiduct.com?s=
+/release100009ts?$script,third-party
 /remix_banner.gif
 /res/kj/hf*.js?v=
 /resource/common/tongzhuo/game_info.json
@@ -8452,6 +8453,7 @@ axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3p
 axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
 axutongxue.com##DIV[style='text-align:center']
 axutongxue.com,axutongxue.net###ccccc
+axutongxue.com,axutongxue.net##[style^="height:58px;"]
 axutongxue.net###uuuui
 axutongxue.net##+js(no-setTimeout-if, getCookie(")
 axutongxue.net##body > article[style]
@@ -12374,10 +12376,9 @@ ixueyi.com,shangxueba.com###rightfloatdiv
 iyaxin.com##.Information
 iyaxin.com##.gr-ggtag
 iyaxin.com##.huand3
-iyf.tv##.p-r > .ng-star-inserted
 iyf.tv##.player-right
 iyf.tv##.player-side > .block > *
-iyf.tv##.prr > .ng-star-inserted
+iyf.tv##.prrb > .ng-star-inserted
 iyf.tv##.video-player + div[class*=" "] > div.block
 iyf.tv##.video-player > app-gg-block.ng-star-inserted[style]
 iyf.tv##vg-pause-ads
@@ -13367,6 +13368,8 @@ manganelo.tv#$#abort-on-property-read document.createElement
 mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
 mangovideo.pw#$#abort-on-property-write puShown
 manhua.weibo.com###p-nav-fix + .p-area.w980
+manhuadb.com##.comicbook-index
+manhuadb.com##.d-flex.px-2
 manhuadb.com#@#a.d-block
 manhuagui.com##.gg_728
 manhuagui.com##.gg_950
@@ -13497,6 +13500,7 @@ memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mensxp.com##a[onclick*="mensxp.com//asddjm/"]
 mensxp.com##a[onclick][rel*="nofollow"]
 mercadolibre.com.ar,mercadolibre.com.bo,mercadolivre.com.br,mercadolibre.cl,mercadolibre.com.co,mercadolibre.co.cr,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.py,mercadolibre.com.pe,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#$#hide-if-matches-xpath './/div[@class="ui-search-item__pub-container"]/preceding::a[@rel="nofollow,sponsored"]/ancestor::div[contains(@class,"ui-search-result__wrapper")]'
+mercadolibre.com.ar,mercadolibre.com.bo,mercadolivre.com.br,mercadolibre.cl,mercadolibre.com.co,mercadolibre.co.cr,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.py,mercadolibre.com.pe,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#$#hide-if-matches-xpath './/span[@class="ui-search-sidebar-advertising__title"][text()]/ancestor::div[@class="ui-search-sidebar-advertising title-advertising"]/parent::div[@class="ui-search-sidebar-advertising__display"]'
 mercedesclub.cz#@#.reklama
 mesddl.cc###cboxContent
 metruyenchu.com#$#abort-on-property-write window.onclick
@@ -15720,7 +15724,7 @@ t3n.de##.abContentMsg
 t3n.de##.adb
 t411.me##.ads
 t411.me##IMG[src="http://www.t411.me/images/external/usenet.jpg"]
-t66y.com##+js(no-setTimeout-if, /tpc[0-9]?Html/)
+t66y.com##+js(no-setTimeout-if, /tpc.?[A-Z0-9].?tml/)
 t66y.com##.sptable_do_not_remove
 t66y.com##.tips
 t66y.com##.tpc_content.do_not_catch > span.f24
@@ -18039,10 +18043,12 @@ zzzyk.com###Tinfo
 ||365xuet.com/assets/web/js/main.jsr_
 ||36dfsa.com^
 ||36dm.club/javascripts/apsidemoot.js
+||36gv.com^
 ||36htg.fun^
 ||36kr.com/pp/api/ap/plan?
 ||36mghtd.xyz^
 ||36nl.com^
+||36uh.com^
 ||373nn.com/java/
 ||375772rug.com^
 ||3798.com^$third-party
@@ -19831,6 +19837,7 @@ zzzyk.com###Tinfo
 ||axcdt.cn^
 ||axcdy.cn^
 ||axjbt.com/dbxf/pctc.js
+||axutongxue.*/js/pp
 ||axutongxue.*/js/uuiiio.
 ||axutongxue.com/js/uuiiio.js
 ||axutongxue.net/js/ik474n.js
@@ -20401,6 +20408,7 @@ zzzyk.com###Tinfo
 ||bnhxxj.xyz^
 ||bnl2bii.icu^
 ||bnlg.fun^
+||bnpfdzp.xyz^
 ||bnrdnx.xyz^
 ||bnsdk.top^
 ||bny3.cn^
@@ -24593,6 +24601,7 @@ zzzyk.com###Tinfo
 ||jijidown.com/static/img/right_bottom.
 ||jijidy.com/640x200down.
 ||jijistatic.duapp.com/Squall/1.jpg
+||jijozdrg.xyz^
 ||jike001.top^
 ||jiliw.com^$third-party
 ||jilong.work^
@@ -26328,6 +26337,7 @@ zzzyk.com###Tinfo
 ||movieclassic.net/pub/js_min.js
 ||movieclassic.net/templates/frontend/airav/js/*avs-0.4.js
 ||movshow.com/*portal/
+||mowec.xyz^
 ||mowenxi.com/1.png
 ||moxiaoqihuoguo.com^
 ||mp3.haogeba.com^$image,object
@@ -26432,6 +26442,7 @@ zzzyk.com###Tinfo
 ||mw6.me/images/*.gif
 ||mwandlx.top^
 ||mwdwepok.xyz^
+||mwqucr.icu^
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
 ||mwzbp.iask.com.cn^
@@ -26687,6 +26698,7 @@ zzzyk.com###Tinfo
 ||nkgutoa.cn^
 ||nkvwvx.xyz^
 ||nlark.com^$domain=qfg34.com
+||nlrsbd.xyz^
 ||nlsynmlc.fun^
 ||nlvgxr.xyz^
 ||nlyuuy.cn^
@@ -27324,6 +27336,7 @@ zzzyk.com###Tinfo
 ||pjsbuhl.icu^
 ||pjtime.com/js/show_ad
 ||pjy55d.com^
+||pjzmbhf.cn^
 ||pkeog.cn^
 ||pki.net.cn/public/*/plugins/
 ||pki.net.cn/public/1/assets/js/custom/tt.
@@ -27999,6 +28012,7 @@ zzzyk.com###Tinfo
 ||reamhqf.xyz^
 ||rebies.xyz^
 ||rebunb.xyz^
+||recds4.icu^
 ||recds7.icu^
 ||recds8.icu^
 ||record.kuai.xunlei.com^
@@ -31487,6 +31501,7 @@ zzzyk.com###Tinfo
 ||z74lb.com^
 ||z82v0.icu^
 ||zabdybod*.club^
+||zacff.com^
 ||zahl4tf5z.world^
 ||zahl4tf5z.xyz^
 ||zahl4tf5zclub.xyz^
@@ -31812,6 +31827,7 @@ zzzyk.com###Tinfo
 ||znegiu.top^
 ||znllfp.xyz^
 ||znnodl.xyz^
+||znrtfj.xyz^
 ||znyjmbh.icu^
 ||zo6g.top^
 ||zobesmu.cn^
