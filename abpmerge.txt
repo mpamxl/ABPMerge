@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-09-30 16:05:48
-! Total count: 32059
+! Version: 2023-10-01 16:05:20
+! Total count: 32068
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1118,6 +1118,7 @@
 ##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
 ##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
+##IMG[src$='tywheying/vv2-960x80.gif']
 ##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##IMG[src*='qimanwu_wap/static/adimages/']
@@ -4664,7 +4665,6 @@ $websocket,domain=5nj.com|cechi8.com
 ?local_ga_js=
 ?method=baidu.ting.commercial.tactics&
 ?v127|$script,domain=iprima.cz
-@#div[class$="_0"]@www.jianshu.com
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.adserver.$domain=litv.tv
@@ -7996,6 +7996,7 @@ abczdrowie.pl#$#abort-on-property-read slot.parentElement
 abczdrowie.pl,parenting.pl,nerwica.com,twojeip.wp.pl,echirurgia.pl#$#abort-current-inline-script document.querySelector registerSlot
 abmedia.io###block-12
 abmedia.io##.pum
+abmedia.io##.widget_media_image
 abmedia.io##a[href^="https://ace.io/"]
 abmedia.io##a[href^="https://www.okx.com/"]
 abminbuy.com##body > a[rel="nofollow"] > img
@@ -16606,6 +16607,7 @@ win0168.com##div.item
 win7w.com###xldz
 win7xzb.com##.four_box
 win7xzb.com##.ware_gs
+winandmac.com##.widget_custom_html
 winandmac.com,nicekkk.com###custom_html-3
 windows7en.com##.fu-welcome
 winshang.com##.ggwrap
@@ -18832,6 +18834,7 @@ zzzyk.com###Tinfo
 ||999gg.net^
 ||999meiju.com/js/tj
 ||999pro.top^
+||999zz333zz.com^
 ||99danji.com/kchtml/
 ||99down.com/index.php?m=poster&
 ||99kubo.tv/static/img/adsfree.png
@@ -20911,6 +20914,7 @@ zzzyk.com###Tinfo
 ||chdbits.co/pic/*-*.gif
 ||cheda1.icu^
 ||cheda10.icu^
+||cheda2.icu^
 ||cheda7.icu^
 ||cheda8.icu^
 ||cheda9.icu^
@@ -23578,6 +23582,7 @@ zzzyk.com###Tinfo
 ||herogame.com^$subdocument,domain=gamer.com.tw
 ||heshun365.cn^
 ||hesramfi.com^
+||hesrod.icu^
 ||hevuabv.cn^
 ||hexun.*/hxpage/index.html
 ||hexun.com*/hx_news/hx_news_finalpage.js
@@ -26862,6 +26867,7 @@ zzzyk.com###Tinfo
 ||nypswiu.cn^
 ||nypyzx.xyz^
 ||nz04com.com/aabdd/
+||nzporf.xyz^
 ||nzq5.u95ivu.xyz^$third-party
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
@@ -28290,6 +28296,7 @@ zzzyk.com###Tinfo
 ||rxys.cn^
 ||rychlost.cz/_pub/jquery/scripts.js$script
 ||rychlost.cz/_pub/scripts/js.js$script
+||ryvexulg.xyz^
 ||rywnvzd.cn^
 ||rz261.cn^$third-party
 ||rzkptd.com^
@@ -30272,6 +30279,7 @@ zzzyk.com###Tinfo
 ||wbiao.cn/common/newsbannerAds/
 ||wbiao.co/src2/js/expand/fudong/
 ||wbnhqq.com^
+||wbnlwyj.xyz^
 ||wbqosw.xyz^
 ||wbupbv.com^
 ||wcanj.com/2345/
@@ -30443,6 +30451,7 @@ zzzyk.com###Tinfo
 ||wnacg.*/zec/
 ||wnacg.com/1sdfdc1/500_60-1.gif
 ||wneia.iaskhot.com^
+||wnnbvnj.cn^
 ||wnzle.com^
 ||wo1990.com^
 ||woaidu.org/images/20180802/3.jpg
