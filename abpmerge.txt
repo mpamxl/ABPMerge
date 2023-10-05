@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-10-04 16:07:40
-! Total count: 31616
+! Version: 2023-10-05 16:07:34
+! Total count: 31637
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -8317,6 +8317,7 @@ atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 atyun.com##.coupletbox
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require; abort-current-inline-script _audiofanzineProductStack
 audiofanzine.com#$#hide-if-matches-xpath './/img[contains(@src,"/advert/label-ad-")]/parent::div[1]'
+audiotruyenfull.com#$#abort-on-property-read adpiaListUrl
 aupetitparieur.com,meilleurpronostic.fr,mamieastuce.com,vitamiiin.com##div[class] > div[id] > main[class][id]
 aura.cn##.foot-xcx
 aura.cn##.left-zc
@@ -8870,7 +8871,9 @@ bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
 bilibili.com#?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com#?#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
+bilibili.com#?#.bili-video-card:has(> div.bili-video-card__wrap[style="display: none !important;"])
 bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
+bilibili.com#?#.feed-card:has(> div.bili-video-card > div.bili-video-card__wrap[style="display: none !important;"])
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
 bilibili.com#?#.video-page-special-card-small:-abp-has(>.card-box>.info>a[href^="http"]:not([href*=".bilibili.com/"]))
 bilibili.to###yytf
@@ -10719,6 +10722,7 @@ flyzy2005.com##.baidu_ad
 flyzy2005.com##.widget_kratos_ad
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 fmovies.hn,hurawatch.cc,theflixer.tv#$#abort-on-property-read window.zfgstorage
+fmprc.gov.cn,mfa.gov.cn#@#.adbox2
 fnjiasu.com##.layui-layer
 fnjiasu.com##.sidebar_download
 fnjiasu.com##.swiper-container
@@ -16016,6 +16020,7 @@ tropica.cn##.wp1.a_t
 trovesaurus.com###blocked
 truyen2u.net#$#abort-current-inline-script eval
 truyen35.vn#$#abort-current-inline-script jQuery click_ads
+truyenqqvn.com#$#abort-current-inline-script document.addEventListener window.open
 truyentuan.com#$#abort-current-inline-script $ btpop
 tsdm.live###ts_sidebar_base
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
@@ -16107,7 +16112,11 @@ tvsou.com##.story_ad_ios
 tvyb03.com##div[style^="position:fixed;"]
 tw.beanfun.com###flybeanfun
 tw.bid.yahoo.com###livePromote
+tw.news.yahoo.com###mrt-node-Lead-1-Ad
+tw.news.yahoo.com###sda-LDRB-iframe
+tw.news.yahoo.com###sda-LREC2-iframe
 tw.news.yahoo.com###sda-MON
+tw.news.yahoo.com###sda-WPS-iframe
 tw.news.yahoo.com##li[id^="ad-"]
 tw.nextapple.com##[class^="na-ad-"]
 tw.nextapple.com##[id^="lrec"]
@@ -17875,6 +17884,7 @@ zzzyk.com###Tinfo
 ||268de.com/js/
 ||26gg.bnq86.com^$third-party
 ||26niao20230505.live^
+||273knt.xyz^
 ||27ang.buzz/us/
 ||27gh.cc^$popup,third-party
 ||27niao20230506.live^
@@ -22924,6 +22934,8 @@ zzzyk.com###Tinfo
 ||gmbuluo.net/js/
 ||gmicu.cn^
 ||gmkmkn.xyz^
+||gmx27.top^
+||gmx30.top^
 ||gndmnrh.cn^
 ||gniew.xyz^
 ||gnqxd.cn^
@@ -23721,6 +23733,7 @@ zzzyk.com###Tinfo
 ||hwhefj.xyz^
 ||hwivedn.icu^
 ||hwnod.xyz^
+||hwuogmusthxfpk.xyz^
 ||hxbt.alading123.com^
 ||hxdwsfg.cn^
 ||hxhohd.xyz^
@@ -25130,6 +25143,7 @@ zzzyk.com###Tinfo
 ||kvhnn.com^$third-party
 ||kvkggg.top^
 ||kvmaa.com^
+||kvskknklssv.com^
 ||kvsqa.xyz^
 ||kvtfff.top^$third-party
 ||kvtggg.top^$third-party
@@ -25504,6 +25518,7 @@ zzzyk.com###Tinfo
 ||lniwe.xyz^
 ||lnnjnv.xyz^
 ||lnpqqq.com^
+||lnxpdj.xyz^
 ||lnzjlr.xyz^
 ||lnzqw.net/js/
 ||lobqpt.xyz^
@@ -25775,6 +25790,7 @@ zzzyk.com###Tinfo
 ||macx.cn/js/blockadblock.js
 ||macx.cn/js/jquery.$domain=game.macx.cn
 ||madadyaran.com/ga.js
+||mads7.icu^
 ||mafengwo.cn/uva/i.gif?
 ||magedu.com/wp-content/uploads/*/xwzx
 ||magnetdog.net^$popup
@@ -29649,6 +29665,7 @@ zzzyk.com###Tinfo
 ||vcvbnmto.xyz^
 ||vcydyzd.icu^
 ||vdebtqm.xyz^
+||vdggsd005.com^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdrfes.site^
@@ -30543,6 +30560,7 @@ zzzyk.com###Tinfo
 ||xmmnsl.com^
 ||xmrc.com.cn/net/info/html/
 ||xmsrd.com^
+||xmvmir.icu^
 ||xmxupz.xyz^
 ||xmywlyh.cn^
 ||xmzurh.xyz^
@@ -30645,6 +30663,7 @@ zzzyk.com###Tinfo
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
 ||xvrvgod.xyz^
+||xvzfyra.xyz^
 ||xwbspx.xyz^
 ||xwbxsw.com/js/app_wap.
 ||xwdsp.com^
@@ -30783,6 +30802,7 @@ zzzyk.com###Tinfo
 ||yemancomic.com/static/xiaomage.js
 ||yenauddk.com^
 ||yenyshy.com^
+||yepgdita.xyz^
 ||yerecpa.cn/uploadsb/app_adv/
 ||yes-24-go.cc^
 ||yes1.feng.com^$domain=feng.com
@@ -30821,6 +30841,7 @@ zzzyk.com###Tinfo
 ||yhsfsdv*.com^
 ||yhsfsdv03.com^
 ||yht7.com/web/assets/js/right.js
+||yhtpsy8888.cc^
 ||yhtuchuang.com^
 ||yhz18.com^
 ||yhzm.xyz^
