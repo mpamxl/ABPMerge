@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-12-02 16:06:25
-! Total count: 31939
+! Version: 2023-12-03 16:06:42
+! Total count: 31951
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -5259,7 +5259,6 @@ $websocket,domain=5nj.com|cechi8.com
 @@||bdimg.com/static/wkcore/widget/adControl/adControl_
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/po/??*,*,*,
-@@||bdstatic.com/r/www/cache/static/protocol/https/plugins/every_cookie_*.js$domain=rjno1.com
 @@||bdstatic.com/static/common/widget/ui/admanager/
 @@||bdstatic.com/static/exp-pc/article/widget/cms-banner-ads/cms-banner-ads_*.css
 @@||bdstatic.com/static/v1/mip$domain=biqugecom.com
@@ -6238,6 +6237,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||img.ads.tvb.com^
 @@||img.hentai-foundry.com/themes/default/js/adv.js$script
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
+@@||img3.126.net/ntesrich/*/adControl-indexx-$script,domain=rjno1.com
 @@||img4399.com/static/huodong/daily/fpv2.js
 @@||imgbb.net/js/ads.js$script
 @@||immensehoney.com^$script,xmlhttprequest
@@ -18077,6 +18077,7 @@ zzzyk.com###Tinfo
 ||2pmob.com^
 ||2pogg4c.cn^
 ||2pwja.cn^
+||2s8s.com^
 ||2tyne.ic^
 ||2tyne.icu^
 ||2u3v4w5x6y.com^
@@ -18752,6 +18753,7 @@ zzzyk.com###Tinfo
 ||88lajs4.com^
 ||88lajs6.com^
 ||88liu.com/data/attachment/portal/
+||88lm02.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -20340,6 +20342,7 @@ zzzyk.com###Tinfo
 ||bendibao.com/js/count.js
 ||bendibao.com/mo/adm_iframe.htm?
 ||bendibao.com/weixin_
+||bepmrb.xyz^
 ||berjzj.xyz^
 ||berrynicolo.com^
 ||berylnbb.com^
@@ -22542,6 +22545,7 @@ zzzyk.com###Tinfo
 ||f11.hackhome.com^
 ||f1lws.top^
 ||f1tfmxzg.icu^
+||f23al.xyz^
 ||f23jjd8.xyz^
 ||f2dsex1.com/public/fb*.png
 ||f4nfg.site^
@@ -24842,6 +24846,7 @@ zzzyk.com###Tinfo
 ||jqueryboots.com^
 ||jqueryboots.net^
 ||jquerydns.com^
+||jqvajfvs.xyz^
 ||jrds.net.cn^
 ||jrj.com.cn/h5Ad?
 ||jrj.com.cn/s?z=
@@ -26237,6 +26242,7 @@ zzzyk.com###Tinfo
 ||mgzjin.cn^$third-party
 ||mh3666.com^*.jsonp
 ||mh616.org^
+||mhdlll.com^
 ||mhdnspro.com^
 ||mhegew.xyz^
 ||mhglue.xyz^
@@ -26391,6 +26397,7 @@ zzzyk.com###Tinfo
 ||mortgagecentres.net/banner.gif
 ||mosangkeji.com^
 ||mosflower.cn^
+||motcmn.icu^
 ||motuopj.cn^
 ||mountain.zhidao.baidu.com^
 ||mouseflow.com^
@@ -26637,6 +26644,7 @@ zzzyk.com###Tinfo
 ||ndvfwlv.cn^
 ||neaqi.top^
 ||nedes.xyz^
+||needqnv.xyz^
 ||neets.cc/assets/js/dup.js
 ||neeujqf.cn^
 ||nefbjp.xyz^
@@ -28114,6 +28122,7 @@ zzzyk.com###Tinfo
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
 ||risrauj.cn^
+||rivdxb.xyz^
 ||rixgpx.xyz^
 ||rixqlvd.cn^
 ||rizgtf.xyz^
@@ -29591,6 +29600,7 @@ zzzyk.com###Tinfo
 ||twgzgqqu.com^
 ||twjsx.cn^
 ||twlcyc.cn^
+||twlmq.space^
 ||twnafj.xyz^
 ||two.fsylr.com^
 ||twrank.com^$third-party
@@ -29839,6 +29849,7 @@ zzzyk.com###Tinfo
 ||userscontent.com^$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 ||usfw2eu.icu^
 ||usingde.com^$third-party
+||uskoie.xyz^
 ||uslbaht.top^
 ||uslsjwnk.xyz^
 ||uslsxe.com^
@@ -30928,6 +30939,7 @@ zzzyk.com###Tinfo
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
 ||xrkyqq.com^
+||xrrhwgj.xyz^
 ||xryrylt.cn^
 ||xs.dmzj.com^
 ||xs.houyi.baofeng.net^
