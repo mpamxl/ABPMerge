@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-12-10 16:06:47
-! Total count: 32090
+! Version: 2023-12-11 16:08:18
+! Total count: 32109
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -8139,6 +8139,7 @@ aiyifan.tv,iyf.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
 aiyifan.tv,iyf.tv##+js(remove-class, publicplay, #main-player)
 aiyifan.tv,iyf.tv#$#.bg-overlayer { pointer-events: unset !important; }
 aiyifan.tv,iyf.tv#?#.video-player + div.ps > div:has(> div.bb)
+aiyingshi.tv###ADmask
 aiyuke.com###Playerpad
 aiyuke.com###js-ad-type4
 aiyuke.com##.GGad
@@ -10524,7 +10525,7 @@ etextlib.ru##.partners
 etnet.com.cn##.firstAD
 etsy.com##a[href*="listing_page_ad_row"]
 etsy.com#$#hide-if-matches-xpath './/h2[@class="wt-text-title-largest"][contains(text(),"By Etsy sellers")]/preceding::p[contains(text(),"Sponsored")]/ancestor-or-self::div[@data-appears-component-name="web_home_strv_ads"]'
-etsy.com#$#hide-if-matches-xpath './/span[@data-ad-label="Ad by Etsy seller"]/preceding::a[contains(@class,"b58")][not(contains(@class,"bbd"))][@data-palette-listing-image]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
+etsy.com#$#hide-if-matches-xpath './/span[@data-ad-label="Ad by Etsy seller"]/preceding::a[contains(@class,"b66")][not(contains(@class,"b08"))][@data-palette-listing-image]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
 etsy.com#$#hide-if-matches-xpath '//span[@data-is-ad][@data-ad-label][contains(text(),"Ad by")]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
 etsy.com#$#race start; hide-if-contains-visible-text '/[aA](\\s)*d(\\s)*by/' li 'li[class] div > :is(div, p)' 'width: /^[0-9]px/'; hide-if-contains-visible-text '/[aA](\\s)*d(\\s)*b(\\s)*y/' li 'li[class] div > :is(div, p)' 'width: /^[0-9]px/'; race stop;
 ettoday.net###adsense-matched-content
@@ -15713,6 +15714,8 @@ stat-nba.com###ad_video
 static.g.iqiyi.com
 static/pull/qwe1021.js
 statsy.net
+stbemucode.com##DIV.header-ads
+stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 stc.gov.cn###mov
 steachs.com##.sidebar:first-child
 stealjobs.com#@#.custom-ad
@@ -16937,6 +16940,9 @@ xanimu.com##div[id^="special-block"]
 xanimu.com#$#hide-if-matches-xpath './/a[contains(@href,"zlinkb.com")]/parent::*/ancestor::div[contains(@class,"col")][1]'
 xbeibeix.com##+js(no-setTimeout-if, /\.height\(\) == 0|adsbygoogle/)
 xbeibeix.com#@#.google-ad
+xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
+xbgame.net#@##google-ads
+xbgame.net#@#.google-ads
 xbiquwx.la##.box_con > div[style="margin:10px auto;width: 930px;height: 250px;"]
 xblian.com##img[alt*="广告"]
 xboxforum.pl##.noticeContainer:not(.hidden)
@@ -17045,10 +17051,10 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xnxx-sexfilme.com#$#abort-on-property-read open; abort-on-property-write SpacialUp;
 xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisement")]/parent::div[@class][1]'; hide-if-matches-xpath './/div[contains(@class,"logo")]/ancestor::div[@data-ga_action="join"]/ancestor::aside[@id][1]';
-xoilac95.tv##.modal.fade.show
-xoilac95.tv#$#abort-current-inline-script jQuery overlay
-xoilac95.tv#$#abort-current-inline-script jQuery popupBanners
-xoilac95.tv#$#abort-on-property-read adsRedirectPopups
+xoilac87.net##.modal.fade.show
+xoilac87.net#$#abort-current-inline-script jQuery overlay
+xoilac87.net#$#abort-current-inline-script jQuery popupBanners
+xoilac87.net#$#abort-on-property-read adsRedirectPopups
 xoivo2.online,vaoroi13.online#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 xstud.org#$#abort-on-property-read _0xd07e
 xtgreat.com
@@ -19396,6 +19402,7 @@ zzzyk.com###Tinfo
 ||aefmbeq.cn^
 ||aeletheacd.com^
 ||aelxock.cn^
+||aerbgpn.xyz^
 ||af29.com/banner/
 ||af31f.site^
 ||afablca.cn^
@@ -25305,6 +25312,7 @@ zzzyk.com###Tinfo
 ||kjwysxs.cn^
 ||kkddlt2f.site^$third-party
 ||kkeojk.xyz^
+||kkisoo.com^
 ||kkkjpg-522.cc^$third-party
 ||kkkkdm.com/js/comic-
 ||kkkkdm.com/mg/show
@@ -25722,6 +25730,7 @@ zzzyk.com###Tinfo
 ||lijunkai.com^
 ||likdie.com^
 ||limon.biz^$domain=pronpic.org
+||limopf.top^
 ||line1-log.biligame.net^
 ||linecg.com/uploads/banner/
 ||lingcde.cn^
@@ -27382,6 +27391,7 @@ zzzyk.com###Tinfo
 ||pharmnet.com.cn/js/float_div.js
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
+||phfqumvi.xyz^
 ||phk.nmkstcrt.xyz^
 ||phncdn.com/html5shiv-*.js
 ||phncdn.com/www-static/js/ph-tracking.js
@@ -27637,6 +27647,7 @@ zzzyk.com###Tinfo
 ||ptbus.com/s.js
 ||ptdofj.xyz^
 ||ptfish.com/*/ad$image,object
+||ptflrj.xyz^
 ||ptfxh.com^
 ||ptgdb.cn^
 ||ptmabek.cn^
@@ -27668,6 +27679,7 @@ zzzyk.com###Tinfo
 ||pv.zhiding.cn^
 ||pv4b.com^$popup
 ||pv966.us/js/tw.js
+||pvajlmhjjq.xyz^
 ||pvlnjwr.xyz^
 ||pvnzrr.xyz^
 ||pvtest.zol.com.cn^
@@ -28097,6 +28109,7 @@ zzzyk.com###Tinfo
 ||rarbt.cc/js/index960_
 ||rardi.cyou^
 ||ratedxbiz.com/d/
+||ravzbd.xyz^
 ||raxetyrw.xyz^
 ||rayli.com.cn^$third-party
 ||rayss.host^
@@ -28550,6 +28563,7 @@ zzzyk.com###Tinfo
 ||sessions.bugsnag.com^
 ||setn.com/js/advertisement?
 ||settings.luckyorange.net^
+||seutop.icu^
 ||sex141.com/img/banner/
 ||sex8.cc/plugin-e6-rebate.html
 ||sexad.net^$third-party
@@ -28805,6 +28819,7 @@ zzzyk.com###Tinfo
 ||sllo.top^
 ||slonlyuse.shop^
 ||slsuggestion.live^
+||sltle.icu^
 ||slutcmail.com^
 ||sm2kz.net^
 ||smabye.com^
@@ -29826,6 +29841,7 @@ zzzyk.com###Tinfo
 ||uc9.suinidai.com.cn^
 ||uchat6.com^
 ||uchks.com/2018/%
+||ucjevgue.xyz^
 ||uckmee.xyz^
 ||ucqihfh.cn^
 ||uczfl.com/data/content
@@ -29874,6 +29890,7 @@ zzzyk.com###Tinfo
 ||ujnkn.com^
 ||uk529u0.cn^
 ||ukjwyv.icu^
+||ukkkmg.xyz^
 ||ukpsal.icu^
 ||ukutuy.xyz^
 ||ulfex.cn^$third-party
@@ -31748,6 +31765,7 @@ zzzyk.com###Tinfo
 ||zewfbw.buzz^
 ||zewfbw.xyz^
 ||zexfzson.icu^
+||zf4.top^
 ||zfcdirf.icu^
 ||zfcumb.xyz^
 ||zfehvv.buzz^
@@ -32014,6 +32032,7 @@ zzzyk.com###Tinfo
 ||zxjrbz.xyz^
 ||zxpgfl.xyz^
 ||zxptw.cn^$third-party
+||zxpvalr.xyz^
 ||zxrcfw.com^
 ||zxsnllo.cn^
 ||zxw51.com^$third-party
