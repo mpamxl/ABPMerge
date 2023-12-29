@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2023-12-28 16:07:16
-! Total count: 32521
+! Version: 2023-12-29 16:08:11
+! Total count: 32551
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -846,6 +846,7 @@
 ##.pccb > .ng-star-inserted
 ##.pcd_ad
 ##.pcgg
+##.pggb > .ng-star-inserted
 ##.photo-two > a[onclick^="_czc."]
 ##.player + .sponsor
 ##.player-bottom-gg
@@ -1020,7 +1021,6 @@
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
 ##A[href*=".com/?Agent="]
-##A[href*="/dsf188.cc"]
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
 ##A[href*='-fghgdf.com']
@@ -1454,6 +1454,7 @@
 ##a[href*="/ck345.cc"]
 ##a[href*="/d27.tv"]
 ##a[href*="/d6586.com:"]
+##a[href*="/dsf188.cc"]
 ##a[href*="/h91.tv"]
 ##a[href*="/htbet1536.com"]
 ##a[href*="/hth104.com/"]
@@ -10169,6 +10170,7 @@ docs.cfw.lbyczf.com###推广
 docs.cfw.lbyczf.com###推广 + div.list
 docsmall.com##+js(set-constant, _AdBlockInit, noopFunc)
 docsmall.com##.modal-connection.show
+docsmall.com#@##google-ads
 dogedoge.com##.tag-home__item
 dogfight360.com##+js(abort-current-script, document.write, document.write(ad);)
 doii.cc##.w-\[200px\].fixed
@@ -16000,6 +16002,7 @@ techbang.com##.phone-ads
 techbang.com##.post-side > .related-article
 techbang.com##.techbang_i_m_970x250_1
 techbang.com##div[class^="techbang_inline_"]
+technews.tw##.inside_AD
 techug.com##a[href*="/222.html"]
 techug.com##a[href*="/eee.html"]
 techug.com,webhek.com##a[href*="/4r4.html"]
@@ -18235,6 +18238,7 @@ zzzyk.com###Tinfo
 ||2cq.com/third/tieba/sidebar
 ||2cursjb.com^
 ||2d4f.com/love/
+||2dctkld.com^
 ||2fa20230511.live^
 ||2g9x9uf.cn^
 ||2ghai.com/zz/
@@ -18254,6 +18258,7 @@ zzzyk.com###Tinfo
 ||2tyne.icu^
 ||2u3v4w5x6y.com^
 ||2ujj.com/js/bo.js
+||2wgolxk.com^
 ||2xmzazd.cn^
 ||2yjw.com/statics/js/jquery.min.
 ||2zzt.com/file/aliyun
@@ -18676,6 +18681,7 @@ zzzyk.com###Tinfo
 ||5nj.com/js/cnzz33.js
 ||5pub.com^
 ||5py1.xyz^
+||5q7eb.website^
 ||5r562.cn^
 ||5s98.com/img/
 ||5takaitu.xyz^
@@ -20410,6 +20416,7 @@ zzzyk.com###Tinfo
 ||bcquan.me/front/*_game
 ||bcquan.me/front/home/render
 ||bcsijjgck.xyz^
+||bcthd12.shop^
 ||bctxtl.xyz^
 ||bcvxfgy.xyz^
 ||bd*-ys.km.com^
@@ -20687,6 +20694,7 @@ zzzyk.com###Tinfo
 ||bkjia.com/bkjia/js/subnavtop.js
 ||bkjlf58.com^
 ||bkvps.com^$third-party
+||bkxuprh.cn^
 ||bl.emotionalworld.cn^
 ||bleumzr.icu^
 ||bljlrl.xyz^
@@ -20695,6 +20703,7 @@ zzzyk.com###Tinfo
 ||blogamethu.com^
 ||blogspot.com^*/s1600/drug.gif
 ||blsenpg.cn^
+||blthwbe.xyz^
 ||blue-rain.com.cn^
 ||blueidea.com/js/ajs.js
 ||blvhq.com^
@@ -20860,6 +20869,7 @@ zzzyk.com###Tinfo
 ||btmulu.com/assets/*/ad02.gif
 ||btn.onlylady.com^
 ||btn.pchome.net^
+||btnwxhjv.xyz^
 ||btpian.com/static/*960.js
 ||btpian.com/static/wenquan.js
 ||btschool.net/images/*/HDYGR
@@ -21198,6 +21208,7 @@ zzzyk.com###Tinfo
 ||cgmalight.com^
 ||cgqmss.xyz^
 ||cgqwgv.icu^
+||cgyx.tv^
 ||chabadokor.com^
 ||chahua.org/aimg/
 ||chakd.com/images/xitie160x60.gif
@@ -21968,6 +21979,7 @@ zzzyk.com###Tinfo
 ||desac2.icu^
 ||desac4.icu^
 ||desac7.icu^
+||despiteto.com^
 ||destc10.icu^
 ||destc8.icu^
 ||deude.ltd^
@@ -22116,6 +22128,7 @@ zzzyk.com###Tinfo
 ||dj930.cn^$third-party
 ||dj97.com/api.php?mod=ad&
 ||djahkee.xyz^
+||djcnetb.icu^
 ||djicdn.com/uploads/ad_image_file/
 ||djiuss.cn^
 ||djljz.cn/Plugins/Template/XJLY/js/app.
@@ -22319,6 +22332,7 @@ zzzyk.com###Tinfo
 ||dsbt7.com^
 ||dsbudkwq.xyz^
 ||dsctnsn.xyz^
+||dsdklnks.com^
 ||dsfd67.com^
 ||dshangyan.com/pc/advertising/
 ||dshapv.xyz^
@@ -24697,6 +24711,7 @@ zzzyk.com###Tinfo
 ||ip1398.com^
 ||ipad.pc899.cn^
 ||ipadf.xyz^
+||iparty.asia^
 ||ipc08dt.com^
 ||ipeef.xyz^
 ||ipeen.com.tw/js/frame/ad-actions.js
@@ -24751,6 +24766,7 @@ zzzyk.com###Tinfo
 ||islbaho.top^
 ||isna.top^
 ||isnd.top^
+||isoffss.com^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
 ||iswgnn.com^
@@ -25685,6 +25701,7 @@ zzzyk.com###Tinfo
 ||ktdlsb.com^
 ||ktienld.top^
 ||ktkkt.com/js/tvb/
+||ktnwxhjv.xyz^
 ||kttoo1.com^$domain=9xav.cc
 ||ktvtxir.xyz^
 ||ktzhk.com/file/adv/
@@ -26848,6 +26865,7 @@ zzzyk.com###Tinfo
 ||mtienlx.top^
 ||mtime.cn/library/*/ECommerce/GoodsAndFeatureCtrl.js
 ||mtime.cn/tg/
+||mtnwxhjv.xyz^
 ||mtur.xkmnbt.xyz^
 ||mu6m1.com^
 ||muchenzhongguo.com^
@@ -26979,6 +26997,7 @@ zzzyk.com###Tinfo
 ||n2.hk/promo/
 ||n2faw.site^
 ||n3567.com^
+||n522rv1.cn^
 ||n5725.com^
 ||n5m5.com/static/js/playcon.js
 ||n5ta9.site^
@@ -27014,6 +27033,7 @@ zzzyk.com###Tinfo
 ||nbsdk-baichuan.alicdn.com^
 ||nbsxazr.icu^
 ||nbtfbb.xyz^
+||nbudas92.shop^
 ||nbxymdy.cn^
 ||nbycjpo.cn^
 ||nbzabd.xyz^
@@ -27327,6 +27347,7 @@ zzzyk.com###Tinfo
 ||oghqvffmnt.com^
 ||ogkfuw.xyz^
 ||ognujxj.cn^
+||ogxstqna.xyz^
 ||oh100.com/js/pubuliu.
 ||ohchehw.cn^
 ||ohdvafp.xyz^
@@ -28476,6 +28497,7 @@ zzzyk.com###Tinfo
 ||redshu.com/js/www/jquerygg.js
 ||redyzlmc.xyz^
 ||reek.github.io/anti-adblock-killer/k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I.js|$script
+||refcjn.xyz^
 ||referentiel.nouvelobs.com/js/nobs;manifest-analytics.js$script
 ||reffnik.cn^
 ||regrfg33.com^
@@ -28904,6 +28926,7 @@ zzzyk.com###Tinfo
 ||sfg11rr.com^
 ||sfnmt.com/dq/
 ||sfp.safe.baidu.com^
+||sfqyck.xyz^
 ||sfsft.com/ckplayer/1config.js
 ||sftcdn.net/acmp^$image,domain=softonic.com
 ||sgegie.fun^
@@ -29139,6 +29162,7 @@ zzzyk.com###Tinfo
 ||slfindmarket.live^
 ||slit.cn/slimages/
 ||slkdfg.com^
+||slkdnlkfnskl.com^
 ||sllo.top^
 ||slonlyuse.shop^
 ||slsuggestion.live^
@@ -29991,6 +30015,7 @@ zzzyk.com###Tinfo
 ||ttgjwxp.icu^
 ||ttienli.top^
 ||ttly888.com^
+||ttnwxhjv.xyz^
 ||ttpybz.xyz^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tttxx.cn^$third-party
@@ -30349,6 +30374,7 @@ zzzyk.com###Tinfo
 ||usxuyr.icu^
 ||utienlt.top^
 ||utlove02.com^$third-party
+||utnwxhjv.xyz^
 ||uttlinediv.top^
 ||utywsi.cn^
 ||uu1.3gu.com^
@@ -31237,6 +31263,7 @@ zzzyk.com###Tinfo
 ||xdsahkln.xyz^
 ||xdw9.top^
 ||xdyjt.com^
+||xeazoj.icu^
 ||xecner.top^
 ||xeghes.fun^
 ||xegneils.com^
@@ -31491,6 +31518,7 @@ zzzyk.com###Tinfo
 ||xsxmvb.xyz^
 ||xtbzff.xyz^
 ||xtjpdfr.cn^
+||xtnwxhjv.xyz^
 ||xtpez.xyz^
 ||xtpwfb.xyz^
 ||xtube.com/js/ht.js
@@ -31519,6 +31547,7 @@ zzzyk.com###Tinfo
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
+||xvbnrh.xyz^
 ||xvideo.cc/etology2.js
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
@@ -32298,6 +32327,7 @@ zzzyk.com###Tinfo
 ||zikao365.com/upload/js/pfgg/
 ||zinzimo.info^$domain=pronpic.org
 ||ziravd.xyz^
+||zisnuthz.com^
 ||zisu.cn.com^
 ||ziyuanm.com/js/g11.js
 ||ziyzcu.buzz^
