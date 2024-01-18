@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-01-17 16:07:59
-! Total count: 32948
+! Version: 2024-01-18 16:07:41
+! Total count: 32960
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1393,6 +1393,7 @@
 ##a[href*=".icekingshop.com/"]
 ##a[href*=".impactyu.com/"]
 ##a[href*=".impreshunz.com/"]
+##a[href*=".kekexc.com/"]
 ##a[href*=".las88889999.com:"]
 ##a[href*=".mhtimes.cn"]
 ##a[href*=".mmrjmh.com/"]
@@ -13158,7 +13159,7 @@ komikdewasa.me#$#abort-on-property-write adsbyjuicy; override-property-read R un
 kongzhong.com###dn
 koolearn.com##.news_pf
 koolearn.com##.show_ad
-kop.net.ua,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,agroter.com.ua,alter-science.info,apnews.com.ua,argumentiru.com,asiaplustj.info,autotema.org.ua,autotheme.info,avtodream.org,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,ck.ua,cn.ua,comments.ua,cvnews.cv.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,firtka.if.ua,forpost.media,fraza.com,gazeta1.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,grad.ua,greenpost.ua,ifnews.org.ua,inforpost.com,inkorr.com,itechua.com,iz.com.ua,kh.ua,khersonline.net,kolizhanka.com.ua,kr.ua,krymr.com,kurskcity.ru,liga.net,lvnews.org.ua,mega-music.pro,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,narodna-pravda.ua,promin.cv.ua,nashbryansk.ru,newsua.one,newsoneua.tv,news24today.info,ngp-ua.info,nnews.com.ua,novavlada.info,novynarnia.com,np.pl.ua,odessa-life.od.ua,ogo.ua,oukr.info,panoptikon.org,pg11.ru,pik.net.ua,pingvin.pro,planetanovosti.com,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,pravdatutnews.com,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,reporter.ua,risu.ua,rivne.media,rivnenews.com.ua,rusjev.net,russianshowbiz.info,rv.ua,rvnews.rv.ua,showdream.org,sport-kr.com.ua,strana.news,strana.today,sud.ua,te.ua,tenews.org.ua,telekritika.ua,theageoffootball.com,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,ukranews.com,ukrrain.com,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,vlast.kzvnn24.ru,volnorez.com.ua,volyninfa.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wworld.com.ua,zbirna.com,zp.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
+kop.net.ua,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,agroter.com.ua,alter-science.info,apnews.com.ua,argumentiru.com,asiaplustj.info,autotema.org.ua,autotheme.info,avtodream.org,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,ck.ua,cn.ua,comments.ua,cvnews.cv.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,firtka.if.ua,forpost.media,fraza.com,gazeta1.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,grad.ua,greenpost.ua,ifnews.org.ua,inforpost.com,inkorr.com,itechua.com,iz.com.ua,kh.ua,khersonline.net,kolizhanka.com.ua,kr.ua,krymr.com,kurskcity.ru,liga.net,lvnews.org.ua,mega-music.pro,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,narodna-pravda.ua,promin.cv.ua,mistosumy.com,nashbryansk.ru,newsua.one,newsoneua.tv,news24today.info,ngp-ua.info,nnews.com.ua,novavlada.info,novynarnia.com,np.pl.ua,odessa-life.od.ua,ogo.ua,oukr.info,panoptikon.org,pg11.ru,pik.net.ua,pingvin.pro,planetanovosti.com,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,pravdatutnews.com,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,reporter.ua,risu.ua,rivne.media,rivnenews.com.ua,rusjev.net,russianshowbiz.info,rv.ua,rvnews.rv.ua,showdream.org,sport-kr.com.ua,strana.news,strana.today,sud.ua,te.ua,tenews.org.ua,telekritika.ua,theageoffootball.com,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,ukranews.com,ukrrain.com,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,vlast.kzvnn24.ru,volnorez.com.ua,volyninfa.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wworld.com.ua,zbirna.com,zp.ua#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 kostool.cn#?#div:-abp-has(> h1:-abp-contains(推广))
 koyi.pub##+js(set-constant, fuzqingAdPlus, {})
 koyi.pub#@#.main_ad
@@ -13497,6 +13498,7 @@ luyixian.cn##.side
 lvmama.com###centerDialog
 lvmama.com###leftDialog
 lwgod.me###wp > a:first-child
+lxapk.com##.custom-html-widget
 lxmanga.net#$#abort-current-inline-script $ PopUnder
 lyd.com.cn##.ad:not(:nth-child(15))
 lysq.com###diyad
@@ -14690,6 +14692,7 @@ pharmnet.com.cn##.ad9502
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
 phimgichill.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script eval $._Eu
 phimmoi4s.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
+phimtho.net#$#abort-current-inline-script $ p0pUpRandom
 phimvietsub.pro,api.anime3s.com,subnhanh.xyz#$#override-property-read maxAds 0
 phimvuihd.org#$#override-property-read urlAds ''
 phonearena.com##.adblock_awareness
@@ -17145,16 +17148,15 @@ www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
 www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 www.yizhibo.com##.register_guide
-www.youtube.com#$#hide-if-matches-xpath './/yta-ad-text[@style]/parent::*[contains(@class,"ad-badge")]/ancestor::ytlr-banner-cta-renderer'; hide-if-matches-xpath './/yta-ad-text[@style]/parent::*[contains(@class,"ad-badge")]/ancestor::ytlr-ad-attribution'
+www.youtube.com#$#hide-if-matches-xpath './/div[@style]/parent::*[contains(@class,"ad-badge")]/ancestor::div[contains(@class,"video-ads")]'
 www.youtube.com#$#hide-if-matches-xpath '//*[contains(@class,"ytlr-metadata-badge-renderer--ad-stark")][text()]/ancestor-or-self::ytlr-ad-slot-renderer'
-www.youtube.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]' 5;simulate-mouse-event 'button.ytp-ad-skip-button-modern'
 www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#simulate-mouse-event 'button.ytp-ad-skip-button$delay=0'
 www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#simulate-mouse-event 'button.ytp-ad-skip-button-modern$delay=0'
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#json-prune '0.playerResponse.adPlacements 0.playerResponse.playerAds 1.playerResponse.adPlacements 1.playerResponse.playerAds 2.playerResponse.adPlacements 2.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds ytInitialPlayerResponse.adPlacements ytInitialPlayerResponse.playerAds adPlacements playerAds'
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
-www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[contains(@class,"video-ads")]//div[@class="ytp-ad-player-overlay"]'
-www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytd-player//div[contains(@class,"ad-interrupting")]'
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="player-container"]//ytd-player//div[contains(@class,"ad-interrupting")]' 5;simulate-mouse-event 'button.ytp-ad-skip-button-modern$delay=100'
+www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[contains(@class,"video-ads")]//div[@class="ytp-ad-player-overlay"]' 5; simulate-mouse-event 'button.ytp-ad-skip-button-modern$delay=100'
 www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/ytlr-player//div[contains(@class,"ad-interrupting")]'
 www.zhihu.com##.KfeCollection-VipRecommendCard
 www.zhihu.com##.OpenInAppButton
@@ -21770,6 +21772,7 @@ zzzyk.com###Tinfo
 ||cped7.xyz^
 ||cpgo.xyz^
 ||cpm.cm.kankan.com^
+||cpmlwhra.xyz^
 ||cpms.now.com^
 ||cpnn.com.cn/cpnn2015g/neiyegg.gif
 ||cpnn.com.cn/cpnn_images/diangong.gif
@@ -22759,6 +22762,7 @@ zzzyk.com###Tinfo
 ||educity.cn/self_text/text_disp.aspx?id=
 ||eduizioq.com^
 ||eduuu.com/website/public_js/pc_aso.js
+||edvxgqx.com^
 ||ee.32z8d.cn^$third-party
 ||ee.m08pe.cn^$third-party
 ||ee.shixunwang.net^
@@ -23234,6 +23238,7 @@ zzzyk.com###Tinfo
 ||foirkrt.icu^
 ||foisml.com^
 ||foizico.cn^
+||fol9v.xyz^
 ||folha.uol.com.br/folha/furniture/paywall/$xmlhttprequest
 ||folha.uol.com.br/folha/furniture/paywall/loader.js$script
 ||folha.uol.com.br/paywall/js/$script
@@ -23969,6 +23974,7 @@ zzzyk.com###Tinfo
 ||haiyuer.com/uc
 ||halihali*.com/js/wap2-jm-ms.js
 ||halihali2.com/js/wap2-jm-100ftop.js
+||halqpt.xyz^
 ||hanadrmc.xyz^
 ||handerfix.com^
 ||handjob.tw/ad/
@@ -27163,6 +27169,7 @@ zzzyk.com###Tinfo
 ||mvcat.com/script/ad.js
 ||mvcat.com/sitefiles/services/cms/adv/
 ||mvcat.com/wx/follow.js
+||mvevgi.xyz^
 ||mvgucp.com^
 ||mvlkvth.cn^
 ||mvng.cn^
@@ -27974,6 +27981,7 @@ zzzyk.com###Tinfo
 ||pfdth.cn^
 ||pfhj89w.com^
 ||pfiparts.com^
+||pfjfjid.xyz^
 ||pfjtgxc.cn^
 ||pfjzzl.com^
 ||pflrv.cn^
@@ -29334,6 +29342,7 @@ zzzyk.com###Tinfo
 ||si1.go2yd.com^
 ||sibehgtq.xyz^
 ||sicongyyds.com^
+||sidfiz.icu^
 ||siejp.cyou^
 ||sifa.aak7.cn^
 ||sifyeldb.top^
@@ -30637,6 +30646,7 @@ zzzyk.com###Tinfo
 ||umengcloud.com^
 ||umkezbh.cn^
 ||ummnam.xyz^
+||umrstfl.cn^
 ||umyrn.xyz^
 ||un-acs.youku.com^
 ||un.ubaike.cn^
@@ -30884,6 +30894,7 @@ zzzyk.com###Tinfo
 ||vfzfrx.xyz^
 ||vgao.xyz/images/*.gif
 ||vgg5.cn^
+||vggg5.space^
 ||vghkncbu.xyz^
 ||vghnnh.xyz^
 ||vgijoh.com^
@@ -31218,6 +31229,7 @@ zzzyk.com###Tinfo
 ||wfndponfd.com^
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
+||wftyehw.cn^
 ||wgoeisdnlk.com^
 ||wgzgzmu.cn^
 ||whackyvidz.com/Webservices/jsParseLinks.aspx$script,third-party
