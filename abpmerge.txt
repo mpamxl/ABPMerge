@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-01-23 16:08:01
-! Total count: 33048
+! Version: 2024-01-24 16:08:22
+! Total count: 33069
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4472,6 +4472,7 @@ $websocket,domain=5nj.com|cechi8.com
 85wp.com###a3_diy2
 85wp.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
+8684.cn,8684.com,iyxdm.cc,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 8684.cn,8684.com,iyxdm.com,kugou.com,solarzoom.com,yesky.com##div[class^="adv"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
@@ -9227,6 +9228,11 @@ bnext.com.tw##div[id^="sponsor-"]
 boce.com##.page10Box1 > a[href^="http"]:not([href*="boce."])
 boce.com##div[class^="money"]
 bodu365.co###iside
+bodu365.co##.bdnav + .focus_show
+bodu365.co##.beside
+bodu365.co##.side_g_seat
+bodu365.co##.top_s_ad
+bodu365.co##.top_show
 bog.ac##.sidebar-url
 boke112.com###linkdh
 boke112.com###sidebar img
@@ -10011,6 +10017,7 @@ ctfile.com##a[href*=".henghost.com"]
 ctwant.com##.l-ad__article
 ctwant.com##.l-ad__wrapper
 ctwant.com##.m-adpopup
+cunghocvui.com#$#abort-current-inline-script document.addEventListener opened_window_shoppe
 cupfox.app##.banner > div.banner-content.right
 cupfox.app##.banner-box
 cupfox.app##.t-img-box > a[target="_blank"] > img
@@ -10866,7 +10873,7 @@ feed.baidu.com##a[data-type="ec_ad"]
 feeds.qq.com,lenovo.com.cn##.game
 feiwan.net##div[id*="_"][style]
 feixiaohao.com##.TopHomeLink
-fembed.com,femax20.com,m.blogtruyenvn.com,viettoons.tv,vinaurl.net,animet.net,anh.moe#$#abort-on-property-read open
+fembed.com,femax20.com,m.blogtruyenvn.com,viettoons.tv,vinaurl.net,animet.net,anh.moe,truyenhentaivn.com#$#abort-on-property-read open
 feng.com##.ad-aside
 feng.com##.dd305
 feng.com##.header
@@ -13501,7 +13508,7 @@ ludashi.com##.div_text
 lukedreyer.com##div[style$="width: 125px;z-index:2000;"]
 luogu.com.cn##.side > div:last-child:not([class])
 luoqiuzw.com##DIV[id^="a-loading-"]
-luotphim1.net,luotphim2.net,luotphimtv1.com,webphim2.com,cdnwp.icu#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
+luotphim1.net,luotphim2.net,luotphimtv1.com,luotphimtv1.net,webphim2.com,cdnwp.icu#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
 lusongsong.com###main > center
 luyixian.cn##.side
 lvmama.com###centerDialog
@@ -16399,7 +16406,8 @@ truyen-hentai.com#$#hide-if-matches-xpath './/*[@class]/ancestor-or-self::div[co
 truyen2u.net#$#abort-current-inline-script eval
 truyen35.vn#$#abort-current-inline-script jQuery click_ads
 truyenqqvn.com#$#abort-current-inline-script document.addEventListener window.open
-truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.win,sieudamtv.me,ephimchill.com,motphimhan.cc,maclife.io,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.com,khophim88.net,nhentaivn.com#$#abort-on-property-read document.cookie
+truyensextv.org#$#abort-current-inline-script document.addEventListener popup
+truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.win,sieudamtv.me,ephimchill.com,maclife.io,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.com,khophim88.net,nhentaivn.com,khophimchill.com#$#abort-on-property-read document.cookie
 truyentuanopm.com#$#abort-current-inline-script $ btpop
 tsdm.live###ts_sidebar_base
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
@@ -16730,7 +16738,7 @@ vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.red,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotvay.net,truyengihotnay.com,dualeotruyenvi.com,yurineko.net,vlxyz.tv,javhay.cam,phimsexhay669.co,cliphot69.vin,doctruyen3qup.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.tv,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,motphimz.cc,truyenvnhay.tv,cdnstream.sbs,javtiful.com,tuoi69.tv,quatvn.club#$#abort-current-inline-script WebAssembly instantiate
+viet69.red,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotvay.net,truyengihotnay.com,dualeotruyenvi.com,yurineko.net,vlxyz.tv,javhay.cam,phimsexhay669.co,cliphot69.vin,doctruyen3qup.com,hentaizz.vip,animehay.city,vlxx.xxx,heo69.top,top1sex.club,lenlut.net,xemsex.asia,hentai-vn.tv,sexphim1.com,cdn.streamvl.sbs,buomtv.tv,truyenvnhay.tv,cdnstream.sbs,javtiful.com,tuoi69.tv,quatvn.club#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
@@ -17160,6 +17168,7 @@ www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 www.yizhibo.com##.register_guide
 www.youtube.com#$#hide-if-matches-xpath './/div[@style]/parent::*[contains(@class,"ad-badge")]/ancestor::div[contains(@class,"video-ads")]'
 www.youtube.com#$#hide-if-matches-xpath '//*[contains(@class,"ytlr-metadata-badge-renderer--ad-stark")][text()]/ancestor-or-self::ytlr-ad-slot-renderer'
+www.youtube.com#$#skip-video 'video' './/div[contains(@class,"video-ads")]//div[@class="ytp-ad-player-overlay-instream-info"]' 5; simulate-mouse-event 'span>button.ytp-ad-skip-button-modern$delay=0'
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#json-prune '0.playerResponse.adPlacements 0.playerResponse.playerAds 1.playerResponse.adPlacements 1.playerResponse.playerAds 2.playerResponse.adPlacements 2.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds ytInitialPlayerResponse.adPlacements ytInitialPlayerResponse.playerAds adPlacements playerAds'
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
@@ -18470,6 +18479,7 @@ zzzyk.com###Tinfo
 ||36dm.club/javascripts/apsidemoot.js
 ||36gv.com^
 ||36htg.fun^
+||36img.com/ad/
 ||36kr.com/pp/api/ap/plan?
 ||36mghtd.xyz^
 ||36nl.com^
@@ -20717,6 +20727,7 @@ zzzyk.com###Tinfo
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||beezwol.com^
+||befyah.icu^
 ||behe.com^$third-party
 ||beijing-air.com/images/a/j
 ||beijing.buzhi5.com^
@@ -21801,6 +21812,7 @@ zzzyk.com###Tinfo
 ||cpnn.com.cn/cpnn_images/diangong.gif
 ||cpoml.iask.sina.com.cn^
 ||cpplay.com/inc/
+||cprdmnlo.xyz^
 ||cpro.baidu.com/cpro/ui/rt.js$script,redirect=noop.js,domain=rjno1.com
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
@@ -23373,6 +23385,7 @@ zzzyk.com###Tinfo
 ||funshipin.com/v1/js/footerhongbao.js
 ||fuoo1.top^$third-party
 ||fuvbbjl.xyz^
+||fv77e.icu^
 ||fvffd678.xyz^
 ||fvxlhn.xyz^
 ||fvzljv.xyz^
@@ -23501,6 +23514,7 @@ zzzyk.com###Tinfo
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
 ||gcqciiqk.com^
+||gcssem.xyz^
 ||gcw*.2liang.cn^
 ||gcwwsv.icu^
 ||gcxa.cn/a/gb.gif
@@ -25230,6 +25244,7 @@ zzzyk.com###Tinfo
 ||jghklz.xyz^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
+||jgygtv.cn^
 ||jh16csf.com^
 ||jhdvcjvsjkvjkb.com^
 ||jhkggrr.icu^
@@ -26598,6 +26613,7 @@ zzzyk.com###Tinfo
 ||lycc72.com/resources/js/content.js
 ||lychangxu.cn^$third-party
 ||lycjsix.cn^
+||lyckery.com^
 ||lyd.com.cn^*950-90.
 ||lydrnj.xyz^
 ||lyewe.xyz^
@@ -27488,6 +27504,7 @@ zzzyk.com###Tinfo
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,third-party
 ||niwota.com^$third-party
+||nixqvd.xyz^
 ||njcengpianwang.cn^
 ||njcyt.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
@@ -27646,6 +27663,7 @@ zzzyk.com###Tinfo
 ||oajfpqojev.net^
 ||oalmbmf.xyz^
 ||oapyrzde.xyz^
+||obdjzhq.xyz^
 ||obertsiamw.fun^
 ||obgbok.com^
 ||obzthda.xyz^
@@ -30491,6 +30509,7 @@ zzzyk.com###Tinfo
 ||twbqqq.com^
 ||twbymc.cn^
 ||twdjn.cn^
+||tweezesmalanga.com^
 ||twgzgqqu.com^
 ||twj6s.icu^
 ||twjsx.cn^
@@ -31960,6 +31979,7 @@ zzzyk.com###Tinfo
 ||xphcrjth.xyz^
 ||xpicj1.cc^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
+||xprdmnlo.xyz^
 ||xpyerxzn.xyz^
 ||xpyjyhny.xyz^
 ||xpynqq.com^
@@ -32376,6 +32396,7 @@ zzzyk.com###Tinfo
 ||ypffkbpq.xyz^
 ||ypoiea.xyz^
 ||ypojie.com/wp-content/uploads/*.js
+||yprdmnlo.xyz^
 ||yptqys.tianqistatic.com^
 ||ypvtw.com^
 ||ypyjyhny.xyz^
