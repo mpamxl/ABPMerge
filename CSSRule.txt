@@ -847,6 +847,7 @@
 ##.pagecon + .ad1
 ##.partialViewSlider-outerwrapper
 ##.pasuAD
+##.pause-ad
 ##.pccb > .ng-star-inserted
 ##.pcd_ad
 ##.pcgg
@@ -1026,7 +1027,6 @@
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
 ##A[href*=".com/?Agent="]
-##A[href*="/dsf66.cc"]
 ##A[href*="emprestimo.eu"]
 ##A[href*="googleme.eu"]
 ##A[href*='-fghgdf.com']
@@ -1415,6 +1415,7 @@
 ##a[href*=".sudun.com/"]
 ##a[href*=".supernfp.com/"]
 ##a[href*=".taobao.com"] > .top1
+##a[href*=".taobao.com"] > img[src*=".tucao."]
 ##a[href*=".tdchat.in"]
 ##a[href*=".tholikiranam.com/"]
 ##a[href*=".topnfb.com/"]
@@ -1469,6 +1470,7 @@
 ##a[href*="/d27.tv"]
 ##a[href*="/d6586.com:"]
 ##a[href*="/dsf188.cc"]
+##a[href*="/dsf66.cc"]
 ##a[href*="/dsf88.cc"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
@@ -1822,7 +1824,7 @@
 10086.cn##.advertisingOther_img
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
-100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,265g.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xchina.fun,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
+100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,265g.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,tmioe.com,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xchina.fun,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 100ksw.com###ad_move_sg
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -4913,6 +4915,9 @@ csdn.net##li[data-type="ad"]
 csdn.net#?##feedlist_id > li:has(> div[id^="kp_box_"])
 csdn.net#?#aside > div.slide-outer:has(> div.box > div[adsid])
 csdn.net,itboth.com,iteye.com,itkeyword.com###ad_pop
+csgoob.com###ADback
+csgoob.com##.lg\:basis-1
+csgoob.com##.lg\:sticky.lg\:top-22 > .card-shadow:not(.py-4)
 csgoob.com#$##ADback { background: none !important; }
 csgoob.com#?#div[class^="dark:shadow"]:has(> a[href^="https://www.k7csgo.com/"][target="_blank"])
 csgoob.com#?#div[class^="dark:shadow-none"]:has(> div.ant-carousel)
@@ -5524,7 +5529,7 @@ eepw.com.cn###startvideo
 eepw.com.cn##.AD300x200
 eeskill.com##.channel-featured-adv
 eet-china.com#?#.new-list > ul > li:has(> div.li-row > div > h2 > a[href^="http://pubads.g.doubleclick.net/gampad/"])
-eetop.cn,tucao.cam##.alert_windows
+eetop.cn##.alert_windows
 eeyy.cc###div_dn
 eeyy.cc##.ads650
 eeyy.com###beitou_box
@@ -10955,6 +10960,7 @@ taiwan.cn##div[style*="height:250px;padding:5px 17px 5px 18px;"]
 taiwancall.com##.gad
 taiwandaily.net##.gofollow[data-track] > img
 taiwanlibrarysearch.herokuapp.com##+js(no-fetch-if, www3.doubleclick.net)
+taiwanus.net##td[width="900"] + td[width="320"]
 taizhou.com.cn##.duilian
 taizhou.com.cn##.duilian2
 talkfx.co###frameff1Hu9_left
@@ -11196,7 +11202,6 @@ tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
 tmioe.com###custom_html-4
 tmioe.com##.__single_0
-tmioe.com##.ad
 tmioe.com##.ad_single_0
 tmioe.com##.entry-copyright
 tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
@@ -11300,7 +11305,6 @@ tube8.com#$#abort-on-property-write AdDelivery
 tubeload.co#$#abort-on-property-write BetterJsPop
 tubesafari.com#$#override-property-read initialize_page noopFunc
 tubesafari.com,youdbox.com#$#abort-on-property-read encodeURIComponent
-tucao.cam##.header_rmb
 tuchong.com##.float
 tugastream.com###closediv
 tugastream.com##IMG[src="http://i39.tinypic.com/sobxg2.gif"]
@@ -11774,7 +11778,7 @@ weibo.com#?#.card-wrap:-abp-has(>.card-top>.s-fr:-abp-contains(广告))
 weibo.com#?#.card-wrap:-abp-has(>.card>i[style*="%E5%B9%"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-auth-tag>div:-abp-contains(热推))
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class^="head-info_authtag_"]>img[src^="data"])
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"]>img[src^="data"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[class^="head-info_authicon_"][src^="data"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(/商|上新|好物/))
 weibo.com#?#.wbpro-side-panel:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(商))
@@ -12090,7 +12094,7 @@ xdf.cn##.footadv
 xdf.cn##.middleadv
 xdf.cn##.popup-wrap
 xdf.cn##div[style="position:fixed;top:120px;left:4px;width:210px;height:298px;isplay:block;background-position:initial initial;background-repeat:no-repeat no-repeat;"]
-xemphimhdc.net#$#abort-current-inline-script document.addEventListener linksToOpen
+xemphimhdc.net,motchill.uk#$#abort-current-inline-script document.addEventListener linksToOpen
 xfastest.com##.vw-header-ads-wrapper
 xfastest.com##iframe[src*="//ads.xfastest.com/"]
 xgan.cn##.bottom_fixed
