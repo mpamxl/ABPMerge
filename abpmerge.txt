@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-02-17 16:06:58
-! Total count: 31128
+! Version: 2024-02-18 16:06:06
+! Total count: 31141
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2904,6 +2904,7 @@ $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|zzzzz688.com
 /picad/*$domain=~ychr.com
 /pj5303.oss-
 /pj545.oss-
+/pj98co.oss-
 /pjk/mdk/*$subdocument,third-party
 /pjk/static/tp.php
 /pjk/xjk/*.php
@@ -10910,14 +10911,11 @@ iqiyi.com###scrollWrap-vipbuy
 iqiyi.com###videoBuyContainer
 iqiyi.com###widget-jingdongAd
 iqiyi.com###zbsp
-iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
-iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
-iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
 iqiyi.com##.ad-seed
 iqiyi.com##.adBanner980
 iqiyi.com##.banner3
 iqiyi.com##.banner980
-iqiyi.com##.black-screen[data-cupid=adblock-blackscreen]
+iqiyi.com##.black-screen[data-cupid=adblock-blackscreen], .qy-plist-ad
 iqiyi.com##.cell-left
 iqiyi.com##.cell-right
 iqiyi.com##.cupid-panel + div
@@ -15317,7 +15315,7 @@ weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains
 weibo.com#?#.card-wrap:-abp-has(>.card-top>.s-fr:-abp-contains(广告))
 weibo.com#?#.card-wrap:-abp-has(>.card>i[style*="%E5%B9%"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-ad-tag:-abp-contains(广告))
-weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(.wbpro-auth-tag>div:-abp-contains(热推))
+weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"]>div:-abp-contains(热推))
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(div[class*="head-info_"]>img[src^="data"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(img[class^="head-info_authicon_"][src^="data"])
 weibo.com#?#.vue-recycle-scroller__item-view:-abp-has(span[class^="wbpro-icon-search"]:-abp-contains(/商|上新|好物/))
@@ -16578,6 +16576,7 @@ zzzyk.com###Tinfo
 ||1l1.cc^
 ||1mxabnt.com^
 ||1ng2l.space^
+||1ny3r.icu^
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1ppt.com/ad$image
 ||1pwx.com/js/ck.js
@@ -18997,6 +18996,7 @@ zzzyk.com###Tinfo
 ||bendibao.com/js/count.js
 ||bendibao.com/mo/adm_iframe.htm?
 ||bendibao.com/weixin_
+||benpsbp.com^
 ||bepmrb.xyz^
 ||berjzj.xyz^
 ||berrynicolo.com^
@@ -19617,6 +19617,7 @@ zzzyk.com###Tinfo
 ||cdttxdqe.xyz^
 ||cdvsd9.com^
 ||cdxyb.cn^$third-party
+||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
 ||ce.wlaoc.cn^$third-party
 ||cee1.iteye.com^
@@ -23431,6 +23432,7 @@ zzzyk.com###Tinfo
 ||jfyb6.com^
 ||jg1668.com^$third-party
 ||jghklz.xyz^
+||jgmywh.icu^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
 ||jgygtv.cn^
@@ -24037,6 +24039,7 @@ zzzyk.com###Tinfo
 ||kkosiso.com^
 ||kkpgv2.xunlei.com^
 ||kksjoa.com^
+||kksjsa.top^
 ||kkyjfdj.xyz^
 ||kkylx.xyz^
 ||kl.yditweb.cn^
@@ -25708,6 +25711,7 @@ zzzyk.com###Tinfo
 ||npdkdb.xyz^
 ||npftmqv.cn^
 ||nphqw.cn^
+||nplahh.xyz^
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
 ||nqbcf.cn/html/top
@@ -25836,6 +25840,7 @@ zzzyk.com###Tinfo
 ||ogouawc.cn^
 ||ogxstqna.xyz^
 ||ogyoopo.cn^
+||ogznfgl.cn^
 ||oh100.com/js/pubuliu.
 ||ohchehw.cn^
 ||ohdvafp.xyz^
@@ -25967,6 +25972,7 @@ zzzyk.com###Tinfo
 ||oss-ap-southeast-1.aliyuncs.com/js/copy.js
 ||ossfile001.com^
 ||osswc.pplive.cn/cccms/$image
+||ostjpig.cn^
 ||oswowg.xyz^
 ||otbeksf.cn^
 ||other.v.duowan.com^
@@ -25987,6 +25993,7 @@ zzzyk.com###Tinfo
 ||ouypyu.xyz^
 ||ovbgeum.cn^
 ||ovfvkfc.xyz^
+||ovjlccs.xyz^
 ||ovnrmvg.cn^
 ||ovtyvnei.g00.closermag.fr^$script
 ||ovykq.online^
@@ -26869,6 +26876,7 @@ zzzyk.com###Tinfo
 ||qyuimi.xyz^
 ||qyun.vip/pic/*.gif
 ||qyzyd.top^
+||qzalsk.xyz^
 ||qzda.cc^
 ||qznjujv.xyz^
 ||qzone.la/Scripts/m.js
@@ -28341,6 +28349,7 @@ zzzyk.com###Tinfo
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tmioe.com/img/att/boom.jpg
+||tmjetb.xyz^
 ||tmjwlmhc.xyz^
 ||tmlwvxae.xyz^
 ||tmochyf.cn^
@@ -28517,6 +28526,7 @@ zzzyk.com###Tinfo
 ||tu.7j813.cn^$third-party
 ||tu.zx110.org^
 ||tu2.taohuaimg.com^$third-party
+||tu2024020388.com^
 ||tubesafari.com/*/new_popunder.js$domain=tubesafari.com
 ||tubeviral.com/Webservices/jsParseLinks.aspx$script,third-party
 ||tubeviral.com/visitScript/$script,third-party
@@ -28881,6 +28891,7 @@ zzzyk.com###Tinfo
 ||uu11881.com^
 ||uu22002.com^
 ||uu22332.com^
+||uu22662.com^
 ||uu3192uu.com^
 ||uu5731uu.com^
 ||uu6522uu.com^
@@ -29789,6 +29800,7 @@ zzzyk.com###Tinfo
 ||xdolhlwq.xyz^
 ||xdsahkln.xyz^
 ||xdttxdqe.xyz^
+||xdybwjpa.xyz^
 ||xdyjt.com^
 ||xdzjbn.xyz^
 ||xeazoj.icu^
@@ -30245,6 +30257,7 @@ zzzyk.com###Tinfo
 ||ydttxdqe.xyz^
 ||ydtykj.net^
 ||ydv7k.cyou^
+||ydybwjpa.xyz^
 ||ye120.com/swt.js
 ||ye120.com/zool.js
 ||yea.im/5hq.gif
