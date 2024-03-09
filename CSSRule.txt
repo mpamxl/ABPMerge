@@ -571,6 +571,7 @@
 ##.advert_nav
 ##.advertise
 ##.advertising_lightbox
+##.adwap
 ##.afc_popup
 ##.alert_windows > .q-card__actions > a
 ##.anniversary-wrap-2018
@@ -1228,6 +1229,9 @@
 ##[class][onclick^="window.location.href"][onclick*=".bcebos."]
 ##[class][onclick^="window.location.href"][onclick*=".pypyj.com"]
 ##[class][onclick^="window.location.href"][onclick*=".yueshuapp.com"]
+##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
 ##[class^="chapter_"] > .baiduCenter
 ##[data^='/banners/pr_advertising_ads_banner']
 ##[href$='/ads.aspx']
@@ -1237,6 +1241,7 @@
 ##[href*='.top/?token=']
 ##[href*='.xacg.info/']
 ##[href*='anrvl.com']
+##[href*='pojuko.buzz']
 ##[href*='slkdnlkfnskl.com']
 ##[href*='snnrb.com']
 ##[href*='sohu.com/hy-op']
@@ -1260,6 +1265,7 @@
 ##[href^='http://j6597v.hjlego.com']
 ##[href^='http://jg.awaliwa.com/']
 ##[href^='http://mm.alameinv.com/']
+##[href^='https://31jrx5y7.com/']
 ##[href^='https://65564535.com']
 ##[href^='https://97749516.com/']
 ##[href^='https://analytics.woozooo.com/jump.php?url=']
@@ -8243,8 +8249,8 @@ longzhu.com##.recommend-pop-up
 lookae.com##.zhongjian
 loveshang.com##div[class^="float-ad-"]
 lowes.com#$#hide-if-matches-xpath './/div[@class][contains(text(),"Sponsored")]/ancestor::div[@class="carousel-inner-container "]/preceding::h2[@class][@role][contains(text(),"Sponsored")]/ancestor-or-self::div[contains(@class,"recommended")][1]'
-lowes.com#$#hide-if-matches-xpath './/section[@id="listItems"]/div/div[@data-tile=//section[@id="listItems"]/div/div[@data-tile][@order]//span[text()="Sponsored"]/ancestor::div[@data-tile][@order]/@data-tile]/*'
-lowes.com#$#hide-if-matches-xpath './/section[@id="listItems"]/div[count(child::div) = 3]/div/div[contains(@class,"LormnProductBadgeStyle")]/ancestor::div[contains(@class,"tile_group")]/*'
+lowes.com#$#hide-if-matches-xpath './/section[@id="listItems"]/div/div[@data-tile=//section[@id="listItems"]/div/div[@class]//span[text()="Sponsored"]/ancestor::div[@data-tile]/@data-tile]/*'; hide-if-matches-xpath './/div[contains(@class,"ekndGJ")]//div[@data-tile=//section[@id="listItems"]//span[text()="Sponsored"]/ancestor::div[@data-tile]/@data-tile]'
+lowes.com#$#hide-if-matches-xpath './/section[@id="listItems"]/div[count(child::div) = 3]/div//div[contains(@class,"LormnProductBadgeStyle")]/ancestor::div[contains(@class,"tile_group")]/*'
 lqz.cn###ad_index
 lrepacks.net#$#abort-current-inline-script document.createElement 'delete window'
 lsj.ac##div[class="col-12"] > div[class="poster"]
