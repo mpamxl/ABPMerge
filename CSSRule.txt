@@ -285,6 +285,7 @@
 ###player_banner[style*="fixed;"]
 ###player_pause > .tip + a[target="_blank"]
 ###player_pause[style^="position"] > a[target="_blank"]
+###playlistbtn > a[href="/h0312.html"]
 ###pop_hongbao
 ###popadv_popmask
 ###popadv_popmenu
@@ -2196,7 +2197,7 @@
 1905.com##.pauseInfoWrap:remove()
 1905.com##.zx-pic
 1905.com##.zx-small-pic
-1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,99kubo.tv,manhuafen.com##.ad
+1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,99kubo.tv,manhuafen.com,world68.com##.ad
 1909.me,8se.me,crxs.me,litu100.xyz,xchina.biz,xchina.co,xchina.pro##.push-top
 199it.com,softwarebrother.com##.adsbygoogle
 19lou.com##.ad-980x40
@@ -5305,8 +5306,8 @@ duowan.com##.ui-business
 duplichecker.com#$#hide-if-matches-xpath './/a[contains(@href,"linksmgm1")]/parent::*[@class][@style][1]/ancestor::div[@class][1]'
 duplichecker.com,searchenginereports.net,plagiarismchecker.co,plagiarismdetector.net,smallseotools.com#$#abort-on-property-write $img_html; override-property-read ads_function undefined; override-property-read adpushup noopFunc; abort-on-property-read FITS.Config; strip-fetch-query-parameter /firebase-messaging.js/; abort-current-inline-script $ g_amamarly_model; abort-current-inline-script $ ga_rammarly-popup;
 dxqck.com##.myadswiper
-dy.xdf.cn##.ad2
 dy.xdf.cn##div[id^="adModel_"]
+dy.xdf.cn,haoweichi.com##.ad2
 dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
 dy2018.com,xiaopian.com##a[href^="http://www.xiacai.com/"]
 dyhjw.com##.guessEntranceOpen
@@ -5509,7 +5510,7 @@ enorth.com.cn##div[class^="guanggao"]
 enread.com##.box > ul[style="width:100%;overflow:hidden;"]
 enread.com##.channel-nav > .back
 enread.com##td[width="326"][height="250"]
-ent.163.com##.hotset
+ent.163.com,war.163.com##.hotset
 ent.qq.com###ent_ad
 envivotv.net,lucenpop.com.es,topflix.tv#$#abort-current-inline-script Math zfgloaded
 eol.cn###adfloat_l
@@ -5560,6 +5561,7 @@ esnai.com##table[width="960"] > tbody > tr > td[height="90"]
 esu.moe,esu.wiki###ASSPC
 esu.moe,esu.wiki###siteNotice
 esu.moe,esu.wiki##div[style*="position: relative; max-height: 400px;"]
+etellekt.com#$#abort-on-property-read adsRedirectPopups
 etest8.com###gads1
 etest8.com##.subtop2right
 etextlib.ru##.head_bann
@@ -5689,7 +5691,6 @@ fastpic.org,~new.fastpic.org#$#abort-current-inline-script addEventListener DOMC
 faxingw.cn##.detailadv
 faxingw.cn##.detailgc
 faxingw.cn##.indadv1
-fcbarcelonaclan.com#$#abort-on-property-read adsRedirectPopups
 fcw45.com##.bottom-adv
 fcw45.com##div[id^="layui-layer"]
 fdc.com.cn##.yifangbanner
@@ -6257,7 +6258,7 @@ golinksworld.com###btn_download
 gomovies.film,gomovies.sc,gomovies.es,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
 gongkong.com###dull_left
 gongkong.com###dull_right
-gonglue.us###custom_html-6
+gonglue.us,kocpc.com.tw###custom_html-6
 goodav17.com###sticky_ads
 goodav17.com##+js(abort-on-property-read, popunder)
 goodav17.com##.ads_pc
@@ -6520,7 +6521,6 @@ haosou.com,so.com###bottom_ask
 haote.com###playBox
 haote.com##.bigmainIn
 haoweichi.com##+js(no-setTimeout-if, adsbygoogle)
-haoweichi.com##.ad2
 haoweichi.com#$#.adsbygoogle { height: 1px !important; }
 haoxxoo.com##.nrad1
 haoxxoo.com##.nrad2
@@ -7166,16 +7166,14 @@ inforesist.org##aside[id="text-39"]
 inforesist.org##aside[id="text-44"]
 informator.ua,kriminal.tv,4studio.com.ua,112ua.tv,newsoneua.tv,gorodkiev.com.ua,volynpost.com,uanews.org.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,fakty.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 inmywordz.com,ants.tw##.acca-block
+instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div ^^sh^^ * li[data-testid] * div>div+div'
+instacart.ca,instacart.com#$#hide-if-contains-visible-text /./ div 'div ^^sh^^ article>div+div[aria-hidden]>span'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#cart-body li' '#cart-body li div[aria-label="Product"]>div ^^sh^^ div > div'
+instacart.ca,instacart.com#$#hide-if-has-and-matches-style 'img[alt="Sponsored"]' '#store-wrapper li' '#store-wrapper li div[aria-label="Product"]>div ^^sh^^ div > div'
 instacart.com#$#hide-if-matches-xpath './/img[@alt="Sponsored"][contains(@src,"spoonsored_")]/parent::div[1]'; hide-if-matches-xpath './/div[@class]/span/preceding::img[contains(@src,"image_display_banner")][contains(@alt,"Silk")][not(@type)][not(@srcset)]/ancestor-or-self::section[1]'
 instacart.com,instacart.ca#$#abort-on-property-write window.ADBLOCK_DETECTED
 instacart.com,instacart.ca#$#hide-if-contains-visible-text '/S(\\s)*p(\\s)*o(\\s)*n(\\s)*s(\\s)*o(\\s)*r(\\s)*e(\\s)*d/' 'div#item_details>div>div' 'div#item_details>div>div div>h2~div'
-instacart.com,instacart.ca#$#hide-if-contains-visible-text '/S(\\s)*p(\\s)*o(\\s)*n(\\s)*s(\\s)*o(\\s)*r(\\s)*e(\\s)*d/' li 'li div[aria-label="Product"]'
-instacart.com,instacart.ca#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/preceding::a[@class][contains(@href,"interaction_id")]/ancestor-or-self::div[@id and @class][1][not(@id="store-wrapper") and not(@id="js-app")]'
-instacart.com,instacart.ca#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@class]/ancestor-or-self::section[@id][1]'
 instacart.com,instacart.ca#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::div[@id="Featured Items"]'
-instacart.com,instacart.ca#$#hide-if-matches-xpath './/div[count(child::*[text()])=2]/parent::div/ancestor::article[@id and @class]'
-instacart.com,instacart.ca#$#hide-if-matches-xpath './/span[text()]/preceding::div[@aria-hidden="true"]/preceding::source[@media]/following-sibling::img[contains(@alt,"Sponsored")]/ancestor::*[@id][@class][1]'
-instacart.com,instacart.ca#$#hide-if-matches-xpath './/video[@disablepictureinpicture]/ancestor-or-self::div[contains(@id,"video-player")]/ancestor::div[@id][@class][1][not(@id="store-wrapper") and not(@id="js-app")]'
 instagram.com#$#race start; hide-if-contains-visible-text '/Anzeige|Gesponsert|Sponsored|Geborg|Sponzorováno|Sponsoreret|Χορηγούμενη|Publicidad|Sponsoroitu|Sponsorisé|Bersponsor|Sponsorizzato|広告|광고|Ditaja|Sponset|Gesponsord|Sponsorowane|Patrocinado|Реклама|Sponsrad|ได้รับการสนับสนุน|May Sponsor|Sponsorlu|赞助内容|贊助|প্রযোজিত|પ્રાયોજિત|स्पॉन्सर्ड|Sponzorirano|ಪ್ರಾಯೋಜಿತ|സ്‌പോൺസർ ചെയ്‌തത്|पुरस्‍कृत|प्रायोजित|ਪ੍ਰਾਯੋਜਿਤ|මුදල් ගෙවා ප්‍රචාරය කරන ලදි|Sponzorované|விளம்பரதாரர்கள்|స్పాన్సర్ చేసింది|Được tài trợ|Спонсорирано|Commandité|Sponsorizat|Спонзорисано/' 'article[class]>div[class]'; hide-if-matches-xpath '//article[@class]//span[text()]//following::a[contains(@class,"_ad")][contains(@href,"facebook.com/ads/ig_redirect/?")]/ancestor::div[5]'; hide-if-has-and-matches-style * 'article[class]~*>div' 'article[class]~*>div>div span:last-of-type *>svg[style]' '/./' '/(width: [2-9])/'; race stop;
 instantmanga.com###notice
 instrument.com.cn###leftFlash
@@ -7947,7 +7945,6 @@ km.com##.downloadApp
 kmf.com##.g-kmf-906banner
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 knowmore.cc##.ins
-kocpc.com.tw###custom_html-6
 kocpc.com.tw###scroll_div
 kocpc.com.tw##.Zi_ad_ar_O_3
 kocpc.com.tw##.kocpc_bot_ad
@@ -9477,7 +9474,7 @@ phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read local
 phimgichill.net#$#abort-current-inline-script jQuery popurl
 phimgichill.net,hhhay.tv,hh3dhay.pro,truyengihotnha.com,truyengihotnha.net#$#abort-current-inline-script eval $._Eu
 phimhdc.net,motchill.ac#$#abort-current-inline-script document.addEventListener linksToOpen
-phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,xx.phimsexnhathay.com,webx.ditnhau.cc#$#override-property-read video.adVast ''
+phimheovietnam.org,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,phim.clipsex.xxx,phim.xxxvietnam.tv,sex.gaimup.net,phim.phimsexvip.cc,webx.ditnhau.cc#$#override-property-read video.adVast ''
 phimmoi4s.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimtho.net#$#abort-current-inline-script $ p0pUpRandom
 phimvietsub.pro,api.anime3s.com,subnhanh.xyz#$#override-property-read maxAds 0
@@ -9690,7 +9687,6 @@ portablesoft.org##.downcenter
 portablesoft.org##.rightside > :nth-child(n+2)
 portablesoft.org##.sidebar-box
 portablesoft.org##.sidebar-widget:first-child
-positiverecords.ru#$#abort-current-inline-script document.querySelector ad-google
 power.baidu.com,www.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
 pp.ua###id_ad_image
@@ -11571,6 +11567,7 @@ walmart.ca,walmart.com##div[id*="Sponsored"]
 walmart.ca,walmart.com##div[id^="SEARCH-SponsoredProductCarousel"]
 walmart.com,walmart.ca#$#hide-if-contains-visible-text /Sponsored|Commandité/ 'section div[data-item-id]' div span
 wandhi.com##.table
+wandhi.com##.table img
 wandhi.com##.table-bordered
 wandhi.com##.unit-100
 wandhi.com##a[style="display: inline-block;position: relative"]
@@ -11584,7 +11581,6 @@ wap.zol.com.cn###waitrep
 wapwenku.baidu.com,wk.baidu.com###bottomFixed
 wapwenku.baidu.com,wk.baidu.com##.tout
 wapwenku.baidu.com,wk.baidu.com##a[href^="http://www.baidu.com/cpro.php?"]
-war.163.com##.hotset
 warting.com##.hz2
 wasu.cn###scan_qrcode
 wasu.cn##.info_ads
@@ -11769,7 +11765,6 @@ world.huanqiu.com##.ad_txt
 world.huanqiu.com##.img_flow.ad_all
 world.huanqiu.com##div[class^="ad_t"]
 world.huanqiu.com#@#.ad_all
-world68.com##.ad
 world68.com##.content_l_flml.zzs
 world68.com##.guanggao
 world68.com##.head_m
