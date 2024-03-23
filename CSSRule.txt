@@ -1095,6 +1095,7 @@
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
+##A[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##A[target='_blank'][href*='/auth/register?code=']
 ##BODY > DIV.ggcontainer
@@ -1377,7 +1378,6 @@
 ##a[href*=".337772.xyz"]
 ##a[href*=".8720018.cc"]
 ##a[href*=".asd245796.com:"]
-##a[href*=".bd379.vip"]
 ##a[href*=".blueyoko.com/"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".bvftxy.com/"]
@@ -1392,11 +1392,9 @@
 ##a[href*=".dearcabbage.top"]
 ##a[href*=".downok.com"]
 ##a[href*=".ds001qd3.cc"]
-##a[href*=".eampakt.com/"]
 ##a[href*=".erodatalabs.com/"]
 ##a[href*=".f2ocoin.com/"]
 ##a[href*=".hyenadata.com/"]
-##a[href*=".icekingshop.com/"]
 ##a[href*=".imiwang.com/"]
 ##a[href*=".impactyu.com/"]
 ##a[href*=".impreshunz.com/"]
@@ -1414,7 +1412,6 @@
 ##a[href*=".oidmwq2v.cn"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
-##a[href*=".rrrmrm.com/"]
 ##a[href*=".sng.link/"]
 ##a[href*=".ssmh"][href*="?u="]
 ##a[href*=".sudun.com/"]
@@ -1422,19 +1419,15 @@
 ##a[href*=".taobao.com"] > img[src*=".tucao."]
 ##a[href*=".tdchat.in"]
 ##a[href*=".umtrack.com/"]
-##a[href*=".urfatek.com/"]
 ##a[href*=".wzfqitm.com/"]
 ##a[href*=".xacg.info/"]
 ##a[href*=".xwrfr.com/"]
 ##a[href*=".xxmh"][href*="?u="]
-##a[href*=".xyanovo.com/"]
 ##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*=".yezere.com/"]
 ##a[href*=".ysmdhk.com/"]
 ##a[href*=".zcxnbj.com/"]
-##a[href*="/1124024.xyz"]
 ##a[href*="/122.51.121.126:"]
-##a[href*="/178heiliao.com/"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/333663.xyz"]
 ##a[href*="/33hth.cn"]
@@ -1462,10 +1455,7 @@
 ##a[href*="/hgcoolaa.top"]
 ##a[href*="/k849.top"]
 ##a[href*="/kt169.com"]
-##a[href*="/ky0001.vip"]
-##a[href*="/ky55004.com"]
 ##a[href*="/l1y9.com"]
-##a[href*="/l76fh.com"]
 ##a[href*="/lm01c.com"]
 ##a[href*="/mobads.php?"]
 ##a[href*="/mug749.vip"]
@@ -1474,15 +1464,9 @@
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/sm003r.tv"]
 ##a[href*="/sm033v.tv"]
-##a[href*="/sm27z.net"]
-##a[href*="/smch7.com"]
 ##a[href*="/st66st.cc"]
 ##a[href*="/tg.602.com/"]
 ##a[href*="/uu5566.cn.com/"]
-##a[href*="/x7458.cc"]
-##a[href*="/x7673.cc"]
-##a[href*="/x8345.cc"]
-##a[href*="/x9658.cc"]
 ##a[href*="/xchina.info/redirect/ad"]
 ##a[href*="/yfj8159.com"]
 ##a[href*="/yigeyuming3880.top"]
@@ -1667,7 +1651,6 @@
 ##div[onclick*="/ky"][onclick*="open"]
 ##div[onclick*="?i_code="]
 ##div[onclick*="ky01003.com"]
-##div[onclick*="ky55003.com"]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style*="jczunp.xyz"]
@@ -5292,7 +5275,7 @@ dshangyan.com##.advHeader
 dstar.pzk.pl#@#.adsbox
 dstar.pzk.pl#@#.adsbygoogle
 dtarihi.com#$#simulate-mouse-event 'xpath(.//div[@class][contains(@style,"display: block;")][@id]//following-sibling::div[@class]/div[contains(@class," ")][1])$delay=0'
-dualeotruyenme.com,m.blogtruyenmoi.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyenza.com,m.blogtruyenmoi.com#$#abort-current-inline-script document.addEventListener popunder
 duangks.com###a_d_sidebar
 duanwenxue.com##.qgzdwx
 duanwenxue.com##.shuang11_gg
@@ -11571,7 +11554,7 @@ vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.ca,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenme.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.org,cliphot69.city,doctruyen3qvn.net,hentaizz.pro,animehay.me,vlxx.xxx,heo69.vc,top1sex.club,lenlut.tv,phimsex.ai,hentaivn.day,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.club,cdnstream.sbs,javtiful.com,tuoi69.media,quatvn2.club,tenmientruyengi.net,ww2.topsexviet.com,phim18hd.top,web.sexviet88.day,sexdep9x.pro,demo.14412882.com#$#abort-current-inline-script WebAssembly instantiate
+viet69.ca,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenza.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.org,cliphot69.city,doctruyen3qvn.net,hentaizz.pro,animehay.me,vlxx.xxx,heo69.vc,top1sex.club,lenlut.tv,phimsex.ai,hentaivn.day,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.club,cdnstream.sbs,javtiful.com,tuoi69.media,quatvn2.club,tenmientruyengi.net,ww2.topsexviet.com,phim18hd.top,web.sexviet88.day,sexdep9x.pro,demo.14412882.com#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
@@ -12379,6 +12362,7 @@ yxssp.com##.td-main-content > div[id^="metaslider-id"]
 yxzp.net##img[width="770"]
 yy.com###rbappend
 yy.com,le.com##+js(nowebrtc)
+yyets.click#?#.MuiBadge-root:-abp-has(>a[href*="/maomao.cloud/"])
 yyrtv.com##.right-gg
 yyrtv.com##li[class*="baidu"]
 yzl333.com##a[href^="https://jump.9118ads.com/"]
