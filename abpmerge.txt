@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-03-26 16:07:47
-! Total count: 31229
+! Version: 2024-03-27 16:09:00
+! Total count: 31238
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4213,7 +4213,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn509.com##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn501.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -4278,7 +4278,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 58.com#?#LI[sortid]:-abp-has(.jinico)
 58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
 58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
-58.com,pcpop.com,phpernote.com##div[id^="ad_"]
+58.com,pcpop.com,phpernote.com,zh141.com##div[id^="ad_"]
 5888.tv###code_img
 5888.tv##.footer_fixed
 58avgo.com##.BillingLeft
@@ -6984,7 +6984,7 @@ apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkmirror.com##script:contains(canRunAds = false)
 apkmirror.com#@#.adsbygoogle
-apkpure.net##DIV.js-ad-slot
+apkpure.net,apkpure.com##DIV.js-ad-slot
 apowersoft.cn##.activity-poster
 appchina.com###yyh-bottom
 appinn.com###ranshownow
@@ -16086,7 +16086,6 @@ zglww.net##.tool
 zh.moegirl.org.cn#?#.swiper-slide:has(> a[href^="https://m.tb.cn/"])
 zh141.com###text1
 zh141.com##a[title*="廣告"]
-zh141.com##div[id^="ad_"]
 zhainanba.org##.marauto > p[style="text-align: left;"]
 zhakao.cn##.main > div[id^="_"][style^="box-sizing: content-box; display: block; position: fixed; z-index:"]
 zhangxinxu.com##a[href*=".taobao.com"]
@@ -16175,8 +16174,8 @@ zj.qq.com##.mod-side + div[style="width:300px;height:257px;"]
 zjhlcp.com##.middle_list
 zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
-zn509.com###klp_hdp
-zn509.com#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zn501.cc###klp_hdp
+zn501.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 znews.vn#$#abort-on-property-read adtimaConfig
 zol.com.cn###Article_Top_Banner
@@ -19203,6 +19202,7 @@ zzzyk.com###Tinfo
 ||bkjia.com/bkjia/js/subnavtop.js
 ||bkjlf58.com^
 ||bkxuprh.cn^
+||bkzmtp.xyz^
 ||bl.emotionalworld.cn^
 ||bleumzr.icu^
 ||bljlrl.xyz^
@@ -19382,6 +19382,7 @@ zzzyk.com###Tinfo
 ||btpian.com/static/*960.js
 ||btpian.com/static/wenquan.js
 ||btschool.net/images/*/HDYGR
+||btsgroup.cn^
 ||btsow.motorcycles/app/javu$image
 ||btsvad8.com^
 ||bttazsyk.icu^
@@ -21322,6 +21323,7 @@ zzzyk.com###Tinfo
 ||ettoday.net/style/mobileweb2014/js/smartbanner/jquery.smartbanner.
 ||ettoday.net/style/video-ad/
 ||ettoday.net^*/ad/
+||etyusiw.top^
 ||euitx.cn^
 ||eujxqgh.cn^
 ||eulaliadoradl.com^
@@ -21837,6 +21839,7 @@ zzzyk.com###Tinfo
 ||gavbus*.com/assets/common/js/admenu.js
 ||gbc27.online^
 ||gbcnvip15.com^
+||gblxtlo.xyz^
 ||gbrtyhnsc.xyz^
 ||gbsp002.com^
 ||gca.sh/static/linkreplacer.js$script,third-party
@@ -22213,6 +22216,7 @@ zzzyk.com###Tinfo
 ||gubgonx.cn^
 ||gucheng.com/2016/ggimg/
 ||gucheng.com/gcwad/
+||gueikw.xyz^
 ||guess.h.qhimg.com^
 ||guge.red^
 ||guhai.com.cn/AD/
@@ -23116,7 +23120,6 @@ zzzyk.com###Tinfo
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=hoy.tv
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=line.me
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,important,domain=linetv.tw
-||imasdk.googleapis.com^
 ||imbikh.icu^
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
@@ -23883,6 +23886,7 @@ zzzyk.com###Tinfo
 ||jv0rlf.com^
 ||jvjlkih.com^
 ||jvjmjt.xyz^
+||jvkqkzu.cn^
 ||jvljnb.xyz^
 ||jvmxrug.xyz^
 ||jvpyxve.cn^
@@ -24072,6 +24076,7 @@ zzzyk.com###Tinfo
 ||kflybplr.xyz^
 ||kfocoq.xyz^
 ||kfpicimage.xyz^
+||kfvjdvjzhddhc.com^
 ||kfyg.xyz^
 ||kgcyvd.com^
 ||kgeesh.site^
@@ -24640,6 +24645,7 @@ zzzyk.com###Tinfo
 ||lkoqtvvajktpjsk.xyz^
 ||lkot.top^
 ||lkpmprksau.com^
+||lkpxzt.xyz^
 ||lkqyqwk.xyz^
 ||lkrv.top^
 ||lkuygf.top^
@@ -25075,6 +25081,7 @@ zzzyk.com###Tinfo
 ||mdsahkln.xyz^
 ||mdt.qq.com^
 ||mdwhxw.com^
+||mdzwjra.cn^
 ||me360.com/swt/swt.js
 ||me680.com/js/*.js
 ||meaqcj.cn^
@@ -29133,6 +29140,7 @@ zzzyk.com###Tinfo
 ||verysadfun.com/assets/publish/jquery.*.js
 ||vexilorath.com^
 ||vezvpd.xyz^
+||vfchm.cyou^
 ||vfjsa6do.icu^
 ||vflorp.xyz^
 ||vfrdewsdg.xyz^
@@ -30864,6 +30872,7 @@ zzzyk.com###Tinfo
 ||zents7.top^
 ||zents8.top^
 ||zeookuv.xyz^
+||zeqvqb.icu^
 ||zero.wewakir.top^
 ||zerolcp.cn^
 ||zetcul.xyz^
