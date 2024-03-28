@@ -3337,6 +3337,7 @@ anisearch.com#@#.adsbygoogle
 anisubsia.com###de13
 anitube.be,anitube.cx,anitube.cz#$#abort-on-property-write _pop
 aniwatch.to#$#abort-current-inline-script XMLHttpRequest
+aniwatchtv.to#$#abort-current-inline-script document.createElement /break|case/
 aniworld.to#$#abort-current-inline-script JSON.parse /atob|break/
 anjia365.com#@#.adv_bg
 anjian.com##.ImgTop
@@ -4826,6 +4827,8 @@ cqnews.net##.taobao
 cr173.com##.downurl[data^="viewAds"]
 cr173.com,downcc.com,downyi.com,itmop.com##.downnowgaosu
 cr173.com,itmop.com,jisuxz.com##.xiazaiqi
+crazygames.com#$#hide-if-matches-xpath './/div[@class][contains(.,"Advertisement") and contains (@style,"width")]/parent::div[1]'
+crazyshit.com#$#abort-on-property-read window.cs.ads
 creaders.net###guanggao2
 creaders.net##.border_b > tbody > tr > td[height^="2"]
 creaders.net##.pinglun > .btmlist-title
@@ -7701,11 +7704,7 @@ jitashe.org##a[href*=".makeding.com/"]
 jiumodiary.com###forum-panel
 jiuse.io###main > div[id^="rd"]
 jiuse.io##.footer + .block
-jiuse.io##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 jiuse.io#?#.card:-abp-has(>.card-image>a[href^="http"])
-jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
-jiuse710.com###main > div[class]:not([class*="block"]):not([class*="container"])
-jiuse710.com#?##main div.row > div.colVideoList:has(> div.video-elem > a[href][target="_blank"])
 jiyingdm.com###otherWindowBox
 jiyingdm.com##.abcde
 jiyingw.vip##div[style="text-align:center"] > a > img
@@ -8326,6 +8325,7 @@ lowes.com#$#hide-if-matches-xpath './/section[@id="listItems"]/div/div[@data-til
 lowes.com#$#hide-if-matches-xpath './/section[@id="listItems"]/div[count(child::div) = 3]/div//div[contains(@class,"LormnProductBadgeStyle")]/ancestor::div[contains(@class,"tile_group")]/*'
 lqz.cn###ad_index
 lrepacks.net#$#abort-current-inline-script document.createElement 'delete window'
+lscomic.com#$#abort-on-property-read window.advanced_ads_ready;abort-on-property-write window.advanced_ads_ready_queue;
 lsj.ac##div[class="col-12"] > div[class="poster"]
 lspdfrcn.com###cancms_float_bar_fixed_bottom
 ltaaa.com##.lAds
@@ -8719,6 +8719,7 @@ mitbbs.ca,mitbbs.com##.index_add
 mitbbs.ca,mitbbs.com##.newskuang2
 mitbbs.ca,mitbbs.com##table[width="336"][height="280"]
 mitbbs.ca,mitbbs.com##table[width="915"] > tbody > tr:first-child > td[width]
+miushuo.com###leftDiv1
 mix.dj###maskads
 mix.dj##.classAds
 mjzj.com##div[id^="sidebar-top-carouse"]
@@ -9755,6 +9756,7 @@ pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
 pornlulu.com##.row.links
 pornlulu.com,pornbest.org###fullPageModal
 pornstarsyfamosas.es#$#abort-on-property-write _pop
+porntrex.com#$#abort-on-property-write preventDefault
 pornwhite.com###pre-spots
 pornwhite.com##.bottom-banners
 pornwhite.com##.content-aside
@@ -10158,7 +10160,7 @@ rjno1.com##+js(addEventListener-defuser, error, event.target.tagName)
 rjno1.com##main > div[class^="qnb"]
 rjno1.com#$#body #aswift_1:not(#style_important) { display: block !important; }
 rjno1.com#@#[id^="aswift_"]
-rjno1.com#@#ins.adsbygoogle
+rjno1.com#@#ins.adsbygoogle[data-ad-slot]
 rjno1.com#@#main > div[class^="qnb"]
 rkanr.com##.bill
 rlsbb.com###contentArea > .information
@@ -11566,7 +11568,7 @@ vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.ca,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenza.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.org,cliphot69.blog,doctruyen3qvn.net,hentaizz.pro,animehay.me,vlxx.xxx,heo69.vc,top1sex.club,lenlut.tv,phimsex.ai,hentaivn.day,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.club,cdnstream.sbs,javtiful.com,tuoi69.media,quatvn2.club,tenmientruyengi.net,ww2.topsexviet.com,phim18hd.top,web.sexviet88.day,sexdep9x.pro,demo.14412882.com#$#abort-current-inline-script WebAssembly instantiate
+viet69.ca,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenza.com,yurineko.net,vlxyz.vc,javhay.in,phimsexhay669.org,cliphot69.blog,doctruyen3qvn.net,hentaizz.pro,animehay.me,vlxx.xxx,heo69.vc,top1sex.club,lenlut.tv,phimsex.ai,hentaivn.day,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.club,cdnstream.sbs,javtiful.com,tuoi69.media,quatvn2.club,tenmientruyengi.net,topviet69.com,phim18hd.top,web.sexviet88.day,sexdep9x.pro,demo.14412882.com#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
@@ -12095,6 +12097,7 @@ xiaoz.me###mygg
 xiaoz.me##.gg5
 xiaoz.me##.gg6
 xiaoz.me##.sidebar a > img
+xiaozhongjishu.com##.apd > a[target="_blank"] > img
 xiashanet.com###top_content
 xiazaizhijia.com###gg_2
 xiazaizhijia.com###public_right_mid_ad
@@ -12332,7 +12335,14 @@ youtube.com###masthead-ad
 youtube.com###video-masthead
 youtube.com##+js(json-prune, playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com##.masthead-ad-control, .ad-div, .pyv-afc-ads-container, #promotion-shelf
+youtube.com##.ytd-banner-promo-renderer
+youtube.com##.ytd-in-feed-ad-layout-renderer
+youtube.com##.ytd-video-masthead-ad-v3-renderer
 youtube.com##AD-SLOT-RENDERER
+youtube.com##div #main-container.style-scope.ytd-promoted-video-renderer
+youtube.com##div #player-ads.style-scope.ytd-watch-flexy, div#panels.style-scope.ytd-watch-flexy
+youtube.com##div #root.style-scope.ytd-display-ad-renderer.yt-simple-endpoint
+youtube.com##div #sparkles-container.style-scope.ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer, ytm-promoted-sparkles-web-renderer, ytd-promoted-sparkles-web-renderer
 youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
