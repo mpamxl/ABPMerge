@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-03-28 16:06:53
-! Total count: 31259
+! Version: 2024-03-29 16:06:25
+! Total count: 31279
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6892,6 +6892,7 @@ amz123.com##.two-activity-style
 ana1.me##.videopos
 ananvod.com##.rbPicAll
 android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle
+android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,lspdfrcn.com,moa.tw,moe48.com,numberempire.com,playok.com,reh.tw,shenfendaquan.com,vaptcha.com#@#ins.adsbygoogle[data-ad-slot]
 androiddevtools.cn###auto-scroll-ad-box
 androidhellas.com##IMG[src="http://androidhellas.com/wp-content/uploads/2013/08/Android-Hellas-banner-728x90A.gif"]
 androiding.how##.jsXY6yjBmGN4
@@ -8776,6 +8777,7 @@ doc88.com##.dk-side-gif
 docer.com##.popup
 docin.com###docindex_ad
 docin.com##.cpro_mod
+docin.com##.moneyBox
 docin.com##.sider_gg
 docs.cfw.lbyczf.com###推广
 docs.cfw.lbyczf.com###推广 + div.list
@@ -8794,6 +8796,7 @@ dongmanhuayuan.myheartsite.com##.card-body
 dongtw.com#@#.post-share-container
 donk69.com,wankflix.com,mofosex.com,keezmovies.com,extremetube.com,spankwire.com,pornxt.com,crazyshit.com,fantasti.cc,gfjizz.com,smutr.com,yuvutu.com#$#abort-on-property-read phtData
 dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.wf,dood.ws,doods.pro,doodstream.co,doodstream.com,dooood.com,streamsb.net#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
+doordash.com#$#hide-if-matches-xpath '//*[@id="store_feed"]/div[3]/div[1]/div/div//following::span[contains(.,"Sponsored") or contains(.,"Commandité") or contains(.,"Patrocinado")]/ancestor::div[string-length(@class) >= 62][1]'
 dota2.ru#$#abort-on-property-read helpUsImproveSite
 douban.com##.bottom_ad_download
 douban.com##.channel_promo
@@ -11649,6 +11652,7 @@ kknews.cc,read01.com##.axslot
 kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 kkw360.com##a[href^="https://sourl.cn/"]
 kleinanzeigen.de#@#[data-adid]
+klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
 km.com##.downloadApp
 kmf.com##.g-kmf-906banner
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
@@ -13206,6 +13210,7 @@ phimmoi4s.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimtho.net#$#abort-current-inline-script $ p0pUpRandom
 phimvietsub.pro,api.anime3s.com,subnhanh.xyz#$#override-property-read maxAds 0
 phimvuihd.org#$#override-property-read urlAds ''
+phone-book.tw##+js(remove-node-text, script, yumayishop)
 phonearena.com##.adblock_awareness
 photopea.com##.flexrow > div[style^="padding-top:"]
 php.cn##.close_id
@@ -13983,7 +13988,7 @@ sex8.cc##.j-oscar
 sex8.cc##a[onclick^="window.open('/dasp.php?"]
 sexdiaryz.us#$#abort-on-property-read parseInt
 sexphimhd.net,gvnvh18.com#$#abort-current-inline-script Math
-sexvietmoi.io,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,clipsex.xxx,xxxvietnam.io,gaimup.net,phimsexvip.cc,xem.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
+sexvietmoi.io,londep.io,phimsexviet.io,ww1.phimsexvietnam.live,clipsex.xxx,xxxvietnam.io,gaimup.net,phimsexvip.cc,sex.ditnhau.cc,xx.phimsexnhathay.com#$#override-property-read video.adVast ''
 seznamzpravy.cz##[class^="dynamic_banner"]
 seznamzpravy.cz##article[data-dot="mol-timeline-item-advert"]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
@@ -14906,6 +14911,10 @@ trakt.tv##.huckster-dfp
 trakt.tv##DIV[id$='-wrapper']
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
 tree.tv#@##adverts
+tripadvisor.com#$#hide-if-matches-xpath './/a[contains(text(),"Sponsored")][@target="_blank"]/parent::div/ancestor::div[@class][2]'
+tripadvisor.com#$#hide-if-matches-xpath './/div[@id="typeahead_results"]//div[contains(text(),"Sponsored")]/ancestor::a[@href]'
+tripadvisor.com#$#hide-if-matches-xpath './/span[@class="listItem"]//div[@data-automation]//span[contains(text(),"Sponsored")]/ancestor::span/parent::div[1]'
+tripadvisor.com#$#hide-if-matches-xpath './/span[contains(text(),"Sponsored")]/ancestor::a[@target="_blank"]/ancestor::li[@class]'
 tropica.cn##.a_mu1
 tropica.cn##.bm.a_c1
 tropica.cn##.wp1.a_t
@@ -16704,6 +16713,7 @@ zzzyk.com###Tinfo
 ||1w73a5d.cn^
 ||1weorpu.com^
 ||1wkg.cn^
+||1x5jlh.xyz^$popup
 ||1x6666.com/img/
 ||1yv1phk.jaz.sportauto.fr^$script
 ||2.haoxue360.com^
@@ -17319,6 +17329,7 @@ zzzyk.com###Tinfo
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
 ||6play.fr/assets/js/vendors-3600848c1f.js$script
+||6slb0.cyou^
 ||6tofsu.com^
 ||6v4.cn^$third-party
 ||6v4.work^
@@ -17477,6 +17488,7 @@ zzzyk.com###Tinfo
 ||88lm05.com^
 ||88lm06.com^
 ||88lm07.com^
+||88lm08.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -19106,6 +19118,7 @@ zzzyk.com###Tinfo
 ||betgorebysson.club^
 ||betteredu.net/js/pop_tuiguang_
 ||betylife.com^
+||beyers.cn^
 ||bf99.com/User*/Ad_
 ||bf99.com/User/Images/bg_Blued.jpg
 ||bfbchr.xyz^
@@ -21229,6 +21242,7 @@ zzzyk.com###Tinfo
 ||elisium.cn^
 ||ellingsen.cn^
 ||elopatchwork.com^
+||elphhrj.xyz^
 ||elprput.xyz^
 ||elsbfby.com^$popup,third-party
 ||elsmom.xyz^
@@ -21315,6 +21329,7 @@ zzzyk.com###Tinfo
 ||esnysd.icu^
 ||esprit-click.com/display.php$subdocument,third-party
 ||esprit-click.com/ec-async.js$script,third-party
+||esqhsm.xyz^
 ||estcruden.biz^
 ||estixfl.cn^
 ||etadult.com*/images/20
@@ -22787,6 +22802,7 @@ zzzyk.com###Tinfo
 ||hsrgnac.cn^
 ||hssapp.shop^
 ||hstbrt.xyz^
+||hsutav.icu^
 ||hswfj.cn^
 ||hsyfcenter.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
@@ -23437,6 +23453,7 @@ zzzyk.com###Tinfo
 ||iyfbodn.com^
 ||iyingdi.com/goood?
 ||iyinghua.io/bar/
+||iykig.cn^
 ||iytrn.xyz^
 ||iyuedu.cn.com^
 ||iyybqzv.cn^
@@ -23535,6 +23552,7 @@ zzzyk.com###Tinfo
 ||jdpm.net.cn^
 ||jdrnpei.xyz^
 ||jdwx.info/api.php?mod=ad&
+||jedlnn.xyz^
 ||jeedi.xyz^
 ||jeepyy.com^$third-party
 ||jeidd.xyz^
@@ -24041,6 +24059,7 @@ zzzyk.com###Tinfo
 ||kcqpvqr.cn^
 ||kdcl.pchome.com.tw^
 ||kdcxhr.cn^
+||kdeh.cn^
 ||kdgjsf.com^
 ||kdh095.cn^
 ||kdjdpyrt.xyz^
@@ -30246,6 +30265,7 @@ zzzyk.com###Tinfo
 ||xwlyfl.xyz^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
+||xwvnhe.cn^
 ||xww360.com^
 ||xxba.cc^
 ||xxczdfb.cn^
