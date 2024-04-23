@@ -2121,6 +2121,7 @@
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##style + div[style="cursor: pointer; position: relative;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
@@ -4484,7 +4485,10 @@ chinanews.com,chinanews.com.cn###dingtong
 chinanews.com.cn###ad_right_fc1
 chinanews.com.cn##.tp_adv
 chinanews.com.cn##.wap_adv
+chinanewsx.com##.card-body > .my-3:last-child
+chinanewsx.com##.side-nav
 chinanewsx.com##a[href="/about/"]
+chinanewsx.com##a[href^="/go/"]
 chinapdf.com###floatleft
 chinapdf.com###floatright
 chinaqking.com###cnt-ad
@@ -5247,12 +5251,12 @@ douyu.com##.video-info-download
 douyu.com##a[href*=".miaozhen.com"]
 douyu.com##a[href*=".youzan.com"]
 douyu.com##a[href^="http://tracking.ad-survey.com/"]
-douyu.com##a[href^="https://g.wan."]
 douyu.com##div[class^="ChargeTask"]
 douyu.com##div[id^="sign_p_"]
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
 douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
+douyu.com,huya.com##a[href^="https://g.wan."]
 douyu.com,oschina.net#@#.follow-btn
 down-paradise.com,mega-p2p.net#$#abort-on-property-read open
 down.ali213.net,patch.ali213.net##.picBg
@@ -8383,7 +8387,7 @@ ludashi.com##.div_text
 lukedreyer.com##div[style$="width: 125px;z-index:2000;"]
 luogu.com.cn##.side > div:last-child:not([class])
 luoqiuzw.com##DIV[id^="a-loading-"]
-luotphim1.net,luotphim2.net,luotphimtv1.com,luotphimtv1.net,webphim2.com,cdnwp.icu#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
+luotphim1.net,webphim2.com,cdnwp.icu#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
 lusongsong.com###main > center
 luyixian.cn##.side
 lvmama.com###centerDialog
@@ -8483,6 +8487,7 @@ m.youku.com##.recommend
 m.youku.com##body > [style="width: 100px; height: 100px; position: fixed; top: auto; right: 0px; bottom: 0px; left: auto; z-index: 188;"]:not([class]):not([id])
 m.youku.com,v.youku.com##+js(set-constant, Object.prototype._adData, {})
 m.youtube.com###koya_child_6
+m.youtube.com,music.youtube.com#$#json-prune 'adPlacements adSlots playerAds';
 m.zhanqi.tv##.footer
 m4ff.com##.content2
 m4ff.com##.index_gg_wz
@@ -9047,6 +9052,7 @@ nettruyenus.net#$#abort-on-property-read sp
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
 netviagens.com###nvAdForm
+new-reporter.com##div[id^="mdl-elmt-"]
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 new.qq.com#@##TopAd
 newcger.com##.banner_recom
@@ -9101,6 +9107,10 @@ newsmth.net##.b-content > #sogou_banner:nth-child(3)
 newsmth.net##.ns-ad
 newstm.in,3pm.in##a[href*="/click.htm?"][target="_blank"]
 newsyou.info#$#abort-on-property-read localStorage
+newtalk.tw###_popIn_recommend
+newtalk.tw##.dable_response
+newtalk.tw##.extend_ad
+newtalk.tw##div[id^="ATS_"]
 newtalk.tw,phbzj.com##.ad-container
 newxue.com##.bd500
 newxue.com##.dashuggtop
@@ -11016,6 +11026,7 @@ telepolis.pl##DIV[style="width:750px; height:200px; background-color:black; colo
 telexplorer.com.ar##div[class] > div[id] > main[class][id]
 tencent.com##.cdc-commercial-swiper
 terrikon.com#$#abort-on-property-read bdy
+tesco.com#$#hide-if-contains-visible-text /Sponsored/ ul[class*="grid"]>li 'div>span>span'
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
 tgbus.com###guide-download
 tgbus.com###neck_970
@@ -11599,7 +11610,7 @@ vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.vet,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenkq.com,yurineko.net,vlxyz.tube,javhay.click,phimsexhay669.org,cliphot69.blog,doctruyen3qv.pro,hentaizz.cc,animehay.blog,vlxx.xxx,heo69.moe,top1sex.club,lenlut.tv,sexmup18.net,hentaivn.sh,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.fan,cdnstream.sbs,javtiful.com,tuoi69.viet69.biz,quatvn.fun,tenmientruyengi.net,topviet69.com,phim18hd.top,web.sexviet88.day,3xdam.pro,demo.14412882.com,sexmuptv.pro#$#abort-current-inline-script WebAssembly instantiate
+viet69.vet,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenkq.com,yurineko.net,vlxyz.tube,xem.javhay.in,phimsexhay669.org,cliphot69.blog,doctruyen3qv.pro,hentaizz.cc,animehay.blog,vlxx.xxx,heo69.moe,top1sex.club,lenlut.tv,sexmup18.net,hentaivn.sh,sexvn1.cc,cdn.streamvl.sbs,www.buomtv.app,truyenvn.fan,cdnstream.sbs,javtiful.com,tuoi69.viet69.biz,quatvn.fun,tenmientruyengi.net,topviet69.com,phim18hd.top,web.sexviet88.day,3xdam.pro,demo.14412882.com,sexmuptv.pro#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
