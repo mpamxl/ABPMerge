@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-05-04 16:06:30
-! Total count: 31488
+! Version: 2024-05-05 16:07:40
+! Total count: 31505
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1196,6 +1196,7 @@
 ##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##IMG[src$='tywheying/vv2-960x80.gif']
+##IMG[src*=".meiyida.tv/"]
 ##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##IMG[src*='//img4.qv1.ru/data/game/']
 ##IMG[src*='/ds3/ssmh/']
@@ -1429,6 +1430,7 @@
 ##a[href*=".yezere.com/"]
 ##a[href*=".ysmdhk.com/"]
 ##a[href*=".zcxnbj.com/"]
+##a[href*=".zxzja.com/"]
 ##a[href*="/04816632.com/"]
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/2e9c9aa9.com/"]
@@ -2049,6 +2051,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 .top/ads/
 .top/gluinfo.php?s=$third-party
 .top/upload/ad.js
+.top^*-960x80-*.gif
 .tor*/js/jquery.bpopup.
 .tv/ads/
 .tv/js/ads/
@@ -4215,7 +4218,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn501.cc##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn502.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -4803,8 +4806,10 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@/plugins/ad-blocking-detector/assets/js/*$script
 @@/plugins/blockalyzer-adblock-counter/js/advert.js$script
 @@/plugins/noadblock-nice-message/assets/js/ads.js?$script,~third-party
+@@/prebid-js-$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
+@@/pubads_impl.js$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/rwd_cap.js$domain=ibf.tw
 @@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
@@ -5417,7 +5422,6 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||doubleclick.infineoncorp.com^$domain=eventhubs.com
 @@||doubleclick.net/ddm/trackclk/$popup,domain=hongkongcard.com
 @@||doubleclick.net/gpt/pubads_impl$domain=www.gamer.com.tw
-@@||doubleclick.net/gpt/pubads_impl_$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@||doubleclick.net^$xmlhttprequest,domain=yyets.click
 @@||doubleclickbygoogle.com^$object-subrequest,domain=vercanalestv.com
 @@||douyucdn.cn^*-share-master/
@@ -5588,7 +5592,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||googleapis.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|mamibuy.com.tw|support.amd.com|warnermusic.com.tw
-@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
+@@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw|tvbs.com.tw
 @@||googletagservices.com^$domain=cenapaliw.pl
 @@||googletagservices.com^$script,domain=creaders.net
 @@||gooogle.how^$generichide
@@ -6659,6 +6663,7 @@ abczdrowie.pl,parenting.pl,nerwica.com,twojeip.wp.pl,echirurgia.pl#$#abort-curre
 ablesci.com##.able-container-body-right > div.fly-panel:has(> div[style="text-align: center; padding: 5px"] > img[src$="-alipay-hongbao.png"])
 ablesci.com##.fly-panel img[src*="-alipay-autumn-hongbao.png"]
 ablesci.com#?#.able-container-body-right > .fly-panel:has(> div > img[src*="-alipay-autumn-hongbao.png"])
+ablesci.com#?#.fly-panel:-abp-has(img[src*="-hongbao."])
 abmedia.io###block-12
 abmedia.io##.pum
 abmedia.io##a[href^="https://ace.io/"]
@@ -12075,6 +12080,7 @@ lzacg.one##.content-layout .zib-widget > .textwidget > a[target="blank"]
 lzacg.one##.sidebar .zib-widget > .textwidget > a[target="blank"]
 lzacg.one#?#.content-layout .zib-widget:has(> .textwidget:only-child > a[target="blank"])
 lzacg.one#?#.sidebar .zib-widget:has(> .textwidget:only-child > a[target="blank"])
+lzcfz2.com##body > .cl.wp
 lzcfz2.com##body > div.wp.cl
 lzdcctv.cn##.ac_pc
 lzdcctv.cn##.focusmo + table
@@ -16254,8 +16260,8 @@ zj.qq.com##.mod-side + div[style="width:300px;height:257px;"]
 zjhlcp.com##.middle_list
 zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
-zn501.cc###klp_hdp
-zn501.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zn502.cc###klp_hdp
+zn502.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 znews.vn#$#abort-on-property-read adtimaConfig
 zol.com.cn###Article_Top_Banner
@@ -17233,6 +17239,7 @@ zzzyk.com###Tinfo
 ||54new.com*/da/
 ||55555555555.xyz^
 ||555bbb333bbb.com^
+||555bbb555www.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55sky.com/js/diecuo/
@@ -19192,6 +19199,7 @@ zzzyk.com###Tinfo
 ||bgdgpbpm.xyz^
 ||bgdizsay.icu^
 ||bgeg1.fun^
+||bgidskiv.top^
 ||bh0874.online^
 ||bhaabom.cn^
 ||bhaoea.cn^
@@ -20184,6 +20192,7 @@ zzzyk.com###Tinfo
 ||connectreadoasis.com^
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
+||cooann.top^
 ||coolaler.com/index_ads/
 ||coolpc.com.tw/home/img/right2.html
 ||coolpc.com.tw/img/topweb.html
@@ -20650,6 +20659,7 @@ zzzyk.com###Tinfo
 ||dfgymtx.icu^
 ||dfjd.xyz^
 ||dfkd.xyz^
+||dflkndkzf.com^
 ||dfninp.xyz^
 ||dfsgppz.icu^
 ||dfsvhv88.com^
@@ -24244,6 +24254,7 @@ zzzyk.com###Tinfo
 ||kkddlt2f.site^$third-party
 ||kkeojk.xyz^
 ||kkisoo.com^
+||kkjhgfds.top^
 ||kkjshsj.com^
 ||kkkaii.cn^
 ||kkkjpg-522.cc^$third-party
@@ -25274,6 +25285,7 @@ zzzyk.com###Tinfo
 ||meng.360zuowen.com^
 ||mengbli.com^
 ||mengte.top^
+||mepupr486.top^
 ||meqanhm.icu^
 ||mercor.cn^
 ||merqieth.com^
@@ -25393,6 +25405,7 @@ zzzyk.com###Tinfo
 ||mlegyu.xyz^
 ||mlhdvjv.xyz^
 ||mlhtr.cn^
+||mlicci.xyz^
 ||mlog.aipai.com^
 ||mlstx.cn^
 ||mltmjevd.xyz^
@@ -28890,6 +28903,7 @@ zzzyk.com###Tinfo
 ||twbymc.cn^
 ||twdjn.cn^
 ||tweezesmalanga.com^
+||twerioi.top^
 ||twgzgqqu.com^
 ||twj6s.icu^
 ||twjsx.cn^
@@ -31128,6 +31142,7 @@ zzzyk.com###Tinfo
 ||zero.wewakir.top^
 ||zerolcp.cn^
 ||zetcul.xyz^
+||zeuqmpe.icu^
 ||zevbzn.xyz^
 ||zewfbw.buzz^
 ||zewfbw.xyz^
@@ -31398,6 +31413,7 @@ zzzyk.com###Tinfo
 ||zvnjvd.xyz^
 ||zvtnj.icu^
 ||zvvg678.xyz^
+||zwdtvx.xyz^
 ||zwdu.com/getuserinfo.php
 ||zwfkxb.xyz^
 ||zwjaoni.cn^
@@ -31412,6 +31428,7 @@ zzzyk.com###Tinfo
 ||zxpgfl.xyz^
 ||zxptw.cn^$third-party
 ||zxpvalr.xyz^
+||zxqiwe.cn^
 ||zxrcfw.com^
 ||zxsnllo.cn^
 ||zxw51.com^$third-party
