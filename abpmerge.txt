@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-05-07 16:07:12
-! Total count: 31529
+! Version: 2024-05-08 16:08:31
+! Total count: 31544
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12665,7 +12665,9 @@ mydrivers.com##a[href*=".dangbei.com"]
 mydrivers.com##div[class^="jdong11"]
 mydrivers.com##div[style*="/ad/"]
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
+mydrivers.com#?#.newslist > li:has(> span:contains(广 告))
 mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(广告))
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广 告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
 myexception.cn##.c_a_3
@@ -13973,6 +13975,7 @@ s.m2pub.com###adk2_img
 sac.net.cn###ad
 sac.net.cn###leftDiv
 sac.net.cn###rightDiv
+saigon24.net#$#abort-current-inline-script document.getElementById myModal
 samayam.com,indiatimes.com##a[onclick][rel="nofollow,noindex"]
 samehadaku.net#@##adsense
 samsclub.com##.sc-plp-cards-vast-ad
@@ -15010,6 +15013,7 @@ truyensextv.com#$#abort-current-inline-script document.addEventListener popup
 truyensieuhay.com,quangcaoyenbai.com,khoaiphim.com,phimmoi.win,sieudamtv.mobi,ephimchill.com,ophimhdvn3.net,thuvienhd.xyz,xemtv.tvhayhd.tv,www.khophim88s.com,nhentaivn.online,motphimtrung.net,mv.dailyphimz.com,mv.phimbathu.one#$#abort-on-property-read document.cookie
 truyentuan.xyz#$#abort-current-inline-script $ btpop
 tsdm.live###ts_sidebar_base
+tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
 tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tsviewer.com#@#.adsbygoogle
@@ -19541,6 +19545,7 @@ zzzyk.com###Tinfo
 ||by8428.com^
 ||bycxhgrp.xyz^
 ||bydcxdy.cn^
+||bydebd.xyz^
 ||bydzfldt.xyz^
 ||byjykj.xyz^
 ||bymahuxv.xyz^
@@ -21373,6 +21378,7 @@ zzzyk.com###Tinfo
 ||eol.cn/js/eol/
 ||eol.cn/js/global/jQuery_ads.js
 ||eoof.net/PicZone/qzgg
+||eoucxzw.icu^
 ||eoyqzzk.cn^
 ||epaes.com.cn^
 ||epebuk.xyz^
@@ -21868,6 +21874,7 @@ zzzyk.com###Tinfo
 ||fyexyd.icu^
 ||fytpft.xyz^
 ||fyvpzn.xyz^
+||fzasx.cn^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
 ||fzgetdy.cn^
@@ -23273,6 +23280,7 @@ zzzyk.com###Tinfo
 ||img.kuai.xunlei.com/js/statistics.js
 ||img.labnol.org/di/support.png$image
 ||img.lancdn.com/*-top-banner-
+||img.mikudm.net/img01/MP3/GG/20240415_CPS_960X75_general.gif
 ||img.scupio.com$domain=briian.com
 ||img.scupio.com/js/ad.js
 ||img.sex169.info^*.gif
@@ -24984,6 +24992,7 @@ zzzyk.com###Tinfo
 ||lw881.com/public/js/gw.js
 ||lwandll.top^
 ||lwdcnz.xyz^
+||lweriol.top^
 ||lwhffh.xyz^
 ||lwide.xyz^
 ||lwksxs.com^
@@ -25971,6 +25980,7 @@ zzzyk.com###Tinfo
 ||nqbcf.cn/html/top
 ||nqdufv.xyz^
 ||nqoxurf.icu^
+||nrbqgf.cn^
 ||nrfhbd.xyz^
 ||nrjzkj.cn^
 ||nrsfh.com/neirong/
@@ -26342,6 +26352,7 @@ zzzyk.com###Tinfo
 ||pagefair.net^$third-party
 ||pageview.kgsz.cn^
 ||pajhvd.xyz^
+||pajtll.xyz^
 ||pan.baidu.com/act/api/activityentry?
 ||panc.cc/uploads/hongbao.png
 ||panchaxumbilic.com^
@@ -26980,10 +26991,12 @@ zzzyk.com###Tinfo
 ||qlcbeg.xyz^
 ||qlogo.cn^$domain=chichiav1.xyz
 ||qm6ef.xyz^
+||qmbdta.cn^
 ||qmfcybwbf12.com^
 ||qmfcybwbf16.com^
 ||qmfcybwbf19.com^
 ||qmfcybwbf28.com^
+||qmgria.cn^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qmwxb.com/skins/2/images/qp001.gif
@@ -27372,6 +27385,7 @@ zzzyk.com###Tinfo
 ||rnpkxgfp.xyz^
 ||rntdqwc.xyz^
 ||rnzmynh.cn^
+||robudpw.cn^
 ||rofmjd.xyz^
 ||roio.top^
 ||romiyee.icu^
@@ -29790,6 +29804,7 @@ zzzyk.com###Tinfo
 ||wioboy.xyz^
 ||wipew.com^
 ||wisealty.com^
+||wismog.xyz^
 ||wit.qq.com^$third-party
 ||wiybthm.cn^
 ||wj.jiancai365.cn^
