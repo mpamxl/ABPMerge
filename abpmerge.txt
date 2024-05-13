@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-05-12 16:07:21
-! Total count: 31566
+! Version: 2024-05-13 16:08:40
+! Total count: 31581
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1745,7 +1745,6 @@ $script,subdocument,third-party,domain=dlkoo.com
 $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzhong8.com|miwens.com
 $script,subdocument,~third-party,websocket,xmlhttprequest,domain=m.6666xsw.com|m.biqugee6.com|m.bqg99.cc|m.chenkuan.com|m.jmshuwu.net|wodexiaoshuoh.com
 $script,third-party,denyallow=fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|yhdmjx.com|yinghuazy.xyz,_____,domain=wap.dmwenku.com|m.wfxs.tw|h.fkxs.net|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|ntdm9.com|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com
-$script,third-party,denyallow=myqcloud.com|bytecdntp.com|pddpic.com|googletagmanager.com,domain=yjys.me
 $script,third-party,domain=52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.net
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
@@ -5563,6 +5562,7 @@ $third-party,xmlhttprequest,domain=cocolamanhua.com|subhd.tv|subhdtw.com|xyg688.
 @@||gomein.net.cn^*,
 @@||goneviral.com/intermission/loadTargetUrl$xmlhttprequest
 @@||goodinfo.tw/StockInfo/image/*.png
+@@||goodinfo.tw^$generichide
 @@||google-analytics.com/analytics.js$domain=citytalk.tw|ebb.io|komica.org|lenovo.com.cn|linetv.tw|maminews.com.tw|support.amd.com
 @@||google-analytics.com/analytics.js$domain=ebb.io
 @@||google-analytics.com/plugins/ua/ec.js$domain=lenovo.com.cn
@@ -10420,6 +10420,7 @@ hkcards.com###ad-slot[style="min-width: 300px; min-height: 300px;"]
 hkcards.com##.row > .col-12 > #ad-slot
 hkcards.com#@##ad-slot
 hkdm688.com##.bb01
+hkepc.com###headBanner
 hkepc.com##.headBanner
 hkgolden.com##.hkg-ad
 hkmovie6.com##.hotmobad
@@ -10795,7 +10796,7 @@ ifooday.cn##.myzs
 ifsp.tv##.video-page-right
 ifxtx.com##.ppsy_content758
 igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#abort-on-property-write advanced_ads_ready; prevent-listener DOMContentLoaded; prevent-listener iframe; abort-current-inline-script addEventListener document.createElement;
-igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#hide-if-matches-xpath './/a[@href][@aria-label]/img[@loading="lazy"][@width="661"]/ancestor-or-self::a[1]'
+igg-games.com,pcgamestorrents.com,pcgamestorrents.org#$#hide-if-matches-xpath './/a[@href][@aria-label]/img[@loading="lazy"][@width="662"]/ancestor-or-self::a[1]'
 ign.com#$#abort-current-inline-script clearTimeout load
 ignboards.com#$#abort-current-inline-script JSON.stringify
 igo.cn###NewigoBox
@@ -11991,7 +11992,7 @@ live.bilibili.com##.fans-medal-item-ctnr
 live.gtcaster.com###bbb
 live.gtcaster.com##[id^="adc"]
 live.win007.com###notify > a[target="_blank"]
-live8.thapcam5.net#$#simulate-mouse-event '#modalasd$continue,delay=300'
+live10.thapcam5.net#$#simulate-mouse-event '#modalasd$continue,delay=300'
 liveball.cc,liveball.uno#$#abort-on-property-read ABNS
 liveforums.ru#$#abort-on-property-read tnAdditionalParams
 liveru.sx#$#abort-on-property-read window.b5bb198737
@@ -12703,6 +12704,8 @@ nasepenize.cz##a[target="_blank"][class="tracked-event"]>img:only-child
 nasepenize.cz#?#:-abp-has(>[class$="selfpromo"])
 nasyun.com##img[width="275"]
 nasyun.com##img[width="970"]
+natgeomedia.com##div[id^="AD-970x250"]
+natgeomedia.com,setn.com,eprice.com.tw##div[class^="ad-"]
 naughtymachinima.com#$#abort-on-property-read window.open; abort-on-property-read loadTool
 nb.zol.com.cn##.article-cont > div.zol-eshop
 nba.hupu.com##div[class^="nba-ad"]
@@ -13005,6 +13008,9 @@ novipnoad.com##.bg-ad
 novipnoad.com##img[src*="/bd/"] + span
 novipnoad.com#?#.video-item:-abp-has(img[src*="/bd/"])
 novom.ru#$#abort-on-property-read zoneNativeSett
+now.com##+js(set-constant, preBid, {})
+now.com##+js(set-constant, preBid.displayAd, noopFunc)
+now.com##+js(set-constant, preBid.getPrerollVASTUrl, noopFunc)
 nowcoder.com###jsSideTopicList
 nowcoder.com##.mini-banner
 nownews.com###ads-footer-bar
@@ -14051,7 +14057,6 @@ setn.com##.e_ad
 setn.com##.header-left-banner
 setn.com##.header-right-banner-b
 setn.com##.rightFloat
-setn.com,eprice.com.tw##div[class^="ad-"]
 settlersonlinemaps.com###prb
 sex-gen.com##.navi
 sex8.cc###nv > ul.cl > li > a[href^="http"]
@@ -20669,6 +20674,7 @@ zzzyk.com###Tinfo
 ||dfkd.xyz^
 ||dflkndkzf.com^
 ||dfninp.xyz^
+||dfprljx.xyz^
 ||dfsgppz.icu^
 ||dfsvhv88.com^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
@@ -21095,6 +21101,7 @@ zzzyk.com###Tinfo
 ||dy6d.com/js/hf
 ||dy8c.com/JieShaoBu-secret/uploads/hongbao
 ||dybz44.com/js/html
+||dyccdk.xyz^
 ||dycwt.cn^
 ||dydab.com^
 ||dydujb.xyz^
@@ -23254,6 +23261,7 @@ zzzyk.com###Tinfo
 ||imanhuapi.com/style/js/mpmh.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=hoy.tv
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=line.me
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=now.com,important
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,important,domain=linetv.tw
 ||imbikh.icu^
 ||imedown.info/03.jpg
@@ -24241,6 +24249,7 @@ zzzyk.com###Tinfo
 ||kgfjrb711.com^
 ||kggikf.icu^
 ||kghgmn.top^
+||kgidskid.top^
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgqcse.xyz^
 ||khcsvdc.icu^
@@ -25251,6 +25260,7 @@ zzzyk.com###Tinfo
 ||mdfsbn.com^$third-party
 ||mdhv3.icu^
 ||mdhxyhl.cn^
+||mdiygc.xyz^
 ||mdjdpyrt.xyz^
 ||mdkjefq.cn^
 ||mdqhyxe.cn^
@@ -25511,6 +25521,7 @@ zzzyk.com###Tinfo
 ||moegirl.org.cn/insight/MoegirlInsight.
 ||moerats.com/usr/affpc/
 ||mogtrmjz.xyz^
+||mohvxrvd.xyz^
 ||mojoplain.com^
 ||molibaike.com/images/ads/
 ||molibaike.com/js/ads.
@@ -25943,6 +25954,7 @@ zzzyk.com###Tinfo
 ||nlhpxj.xyz^
 ||nljrvdh.xyz^
 ||nlrsbd.xyz^
+||nltsvf.xyz^
 ||nlvgxr.xyz^
 ||nlyuuy.cn^
 ||nmdotj.xyz^
@@ -27460,6 +27472,7 @@ zzzyk.com###Tinfo
 ||rtmark.net^
 ||rtnuld.xyz^
 ||rtsdfw44.com^
+||rttnvz.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
 ||ruanjiancms.com^
@@ -29228,6 +29241,7 @@ zzzyk.com###Tinfo
 ||upresim.tk/berat/js/entry$script,domain=fakirdebrid.net
 ||upyerxzn.xyz^
 ||upytsgo.cn^
+||upyzqf.cn^
 ||upzabkw.cn^
 ||uqelxct.cn^
 ||uqeuxpl.cn^
@@ -29554,6 +29568,7 @@ zzzyk.com###Tinfo
 ||vps234.com/resources/images/hosting-promotion/
 ||vpsgu.cn^
 ||vpubmi.com^
+||vpwizuj.icu^
 ||vpzohx.xyz^
 ||vqbzpv.xyz^
 ||vrank.org/go/adblock_detect$subdocument
