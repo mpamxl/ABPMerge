@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-05-13 16:08:40
-! Total count: 31581
+! Version: 2024-05-14 16:08:20
+! Total count: 31594
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7595,6 +7595,7 @@ bigpixel.cn#$?##PAGE_AD_1 { remove: true; }
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###slide_ad + .ad-report
+bilibili.com##+js(spoof-css, .__adblockhidden > a, display, block)
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -7603,11 +7604,9 @@ bilibili.com##.ad-report, .ad-floor
 bilibili.com##.adblock-tips
 bilibili.com##.banner-card
 bilibili.com##.bili-dyn-ads
-bilibili.com##.bili-video-card > div[class^="extension-tips"]
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card__wrap > a[href^="http"]:not([href*=".bilibili.com/"])
-bilibili.com##.carousel-container > .carousel-transform > div[class^="carousel-slide"] > div[class^="extension-tips"]
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
 bilibili.com##.extension-tips
@@ -7635,6 +7634,8 @@ bilibili.com##div[style*="height:"][data-loc-id]
 bilibili.com##span[style*="height:"][data-loc-id]
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
+bilibili.com#$?#.bili-video-card > div[class]:only-child:matches-css(before, content: /Adblock/) { remove: true; }
+bilibili.com#$?#.carousel-container > .carousel-transform > div[class^="carousel-slide"] > div[class]:only-child:matches-css(before, content: /Adblock/) { remove: true; }
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
@@ -13035,7 +13036,7 @@ nowscore.com##div[style="background-color:#F0F0F0;line-height:25px;height:25px;t
 nowwatchtvlive.me##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 noy1.top##+js(no-xhr-if, /api/ads)
 nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
-nsportal.ru#$#simulate-mouse-event 'a#downloadLink[href^="https://nsportal.ru/sites/"]'; simulate-mouse-event 'a#downloadURL[href^="https://nsportal.ru/sites/"]'
+nsportal.ru#$#abort-on-property-read addDownloadPrefixToLinks false
 ntm.gov.tw#@#.ad-left
 ntp.msn.cn##recommended-sites
 ntpcb.com##img[width="1195"]
@@ -13457,6 +13458,7 @@ ponlatv.com###divPanel
 ponlatv.com##[id^="total"]
 popart.hk###slideshow
 popbee.com##.adblocker
+popdaily.com.tw##div[class^="ad-delimiter-"]
 popeoftheplayers.eu###html4
 popeoftheplayers.eu###mask1
 popo.tw#@#.header_ad
@@ -15208,6 +15210,7 @@ up01.cc###popad
 up01.cc##div[style="position:fixed;width:468px;left: 50%;transform:translate(-50%,0);height:60px;background:#fff;bottom:0px;text-align:center;z-index:9"]
 upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 upmedia.mg###divider_ad
+upsangel.com##a[href="https://upsangel.com/check/surfsharkvpn/"]
 uptobox.com#@##adblocktrap
 uptobox.com#@#.ad-leader
 uptobox.com#@#.ad-leader > div[id]
@@ -15476,7 +15479,7 @@ weather.com.cn##A[style="position:fixed;top:220px;left:50%;margin-left: -625px"]
 weather.com.cn##div[class^="adpos"]
 weather.com.cn##div[id^="adpos"]
 weather.com.cn,wed114.cn#@#.adpic
-web.motsex.net,clipsexvietnam.net,phimsexviet.io,phimsexvietnam.app,clipsex.xxx,web.phimsexnhanh.tv,gm.phimsexnhanh.tv,phimsexvip.cc,web.ditnhau.cc,phim.sexhayvl.org#$#override-property-read video.adVast ''
+web.motsex.net,clipsexvietnam.net,phimsexviet.io,phimsexvietnam.app,clipsex.xxx,web.phimsexnhanh.tv,gm.phimsexnhanh.tv,phimsexvip.cc,mobile.ditnhau.cc,phim.sexhayvl.org#$#override-property-read video.adVast ''
 webhd.top##.justify-content-center.pt-2
 webjx.com###middleimg
 webkaka.com##.pNavigateAd
@@ -15555,6 +15558,7 @@ wenku8.net###adv300
 wenku8.net#@##adtop
 wenmi114.com###xiezuo
 wenxuecity.com###adt
+wenxuecity.com###gg_multitext
 wenxuecity.com###marquee
 wenxuecity.com##+js(set-constant, adsbygoogle, noopFunc)
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
@@ -15684,7 +15688,7 @@ www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/object[@type="nest
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@id="ssrb_feed_start"]/following-sibling::div//div[@aria-labelledby and @aria-describedby]//div[contains(text(),"Sponsored")]/ancestor::div[@aria-labelledby and @aria-describedby]'
 www.facebook.com,web.facebook.com#$#race start; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsorizato]{11}/ 'div#watch_feed div[class^="_"]' 'a[href^="?__cft__"]'; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsorizato]{11}/ 'div#watch_feed div[class^="_"]' 'a[href="#"][role="link"]'; race stop;
 www.facebook.com,web.facebook.com#$#race start; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsrwae]{12}|[Patrocind]{11}|[Sponsrizat]{13}/ 'div[role=feed] div[role=article]' a[href="#"][role="link"]; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsrwae]{12}|[Patrocind]{11}|[Sponsrizat]{13}/ 'div[role=feed] div[role=article]' a[href^="?__cft__"]; hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}|[Sponsrwae]{12}|[Patrocind]{11}|[Sponsrizat]{13}/ 'div[role=feed] div[role=article]' a[href="#"][role="link"]>span>span>b; hide-if-matches-xpath './/div[@role="feed"]//div[@role="article"]//a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Sponsrad" or .="Publicidad" or .="Sponsoreret" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ" or .="ಪ್ರಾಯೋಜಿತ"]]/ancestor::div[@role="article"]'; race stop;
-www.facebook.com,web.facebook.com#$#race start; hide-if-has-and-matches-style * 'html:is([lang="pl"], [lang="it"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type>span' '/./' '/(width: [7-8][0-9])/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type>span' '/./' '/(width: [5-6][0-9])/'; hide-if-contains /Anzeige|Sponsored|Sponsorlu|Gesponsert|Patrocinado|Sponsorisé|Commandité|Gesponsord|Sponsorowane|Publicidad|Sponsrad|Sponsoreret|Sponsoroitu|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato/ 'div[aria-describedby][aria-labelledby]' 'span[aria-labelledby] svg[style] * ^^svg^^ * ^^svg^^'; race stop;
+www.facebook.com,web.facebook.com#$#race start; hide-if-has-and-matches-style * 'html:is([lang="pl"], [lang="it"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type>span' '/./' '/(width: [7-8][0-9])/'; hide-if-has-and-matches-style * 'html:is([lang="en"], [lang="es"], [lang="fr"], [lang="pt"]) div[class]~* h3+div>div' 'div[class]~* div>div span>a[href="#"] span:first-of-type>span' '/./' '/(width: [5-6][0-9])/'; hide-if-matches-xpath './/div[@aria-labelledby and @aria-describedby]//a[contains(@href,"__tn__=%2CP-R#?")]/ancestor::div[@aria-labelledby and @aria-describedby]'; hide-if-contains /Anzeige|Sponsored|Sponsorlu|Gesponsert|Patrocinado|Sponsorisé|Commandité|Gesponsord|Sponsorowane|Publicidad|Sponsrad|Sponsoreret|Sponsoroitu|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato/ 'div[aria-describedby][aria-labelledby]' 'span[aria-labelledby] svg[style] * ^^svg^^ * ^^svg^^'; race stop;
 www.freehao123.com##A[href*="/go/"]
 www.ghxi.com##.wpcom_ad_wrap
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
@@ -20675,6 +20679,7 @@ zzzyk.com###Tinfo
 ||dflkndkzf.com^
 ||dfninp.xyz^
 ||dfprljx.xyz^
+||dfryzh.xyz^
 ||dfsgppz.icu^
 ||dfsvhv88.com^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
@@ -24096,6 +24101,7 @@ zzzyk.com###Tinfo
 ||jyrd.com/statics/*/js/baizhu/
 ||jyt58.top^
 ||jytjw.com^
+||jyuskb.cn^
 ||jyuwkba.top^
 ||jyvith.xyz^
 ||jz5u.com/public/js/t$script
@@ -25577,6 +25583,7 @@ zzzyk.com###Tinfo
 ||mqjqripb.xyz^
 ||mql5.com/rq?
 ||mqrupjsm.xyz^
+||mqsjzm.cn^
 ||mqsnce.xyz^
 ||mqxnid.cn^
 ||mqznjujv.xyz^
@@ -26040,6 +26047,7 @@ zzzyk.com###Tinfo
 ||nvjqtz.xyz^
 ||nvsheng.com/js/gg.js
 ||nvswnur.cn^
+||nvvqrv.xyz^
 ||nwandlc.top^
 ||nwecd.xyz^
 ||nweon.com/wp-content/repo/ad/
@@ -26211,6 +26219,7 @@ zzzyk.com###Tinfo
 ||onifdlak.top^
 ||onkacspio.com^
 ||online.wsj.com/javascript/abm.js$script
+||onmstgh.icu^
 ||onosyej.icu^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
@@ -26809,6 +26818,7 @@ zzzyk.com###Tinfo
 ||pwuxnr.cn^
 ||px.ucweb.com^
 ||pxrs6.cn^
+||pxtjfmv.xyz^
 ||pxx.tnklrs.cn^$third-party
 ||pxxcyni.cn^
 ||pxxnejx.xyz^
@@ -27183,6 +27193,7 @@ zzzyk.com###Tinfo
 ||qwmamh.icu^
 ||qwnmfiti.xyz^
 ||qwrnkpow.com^
+||qwsanan.top^
 ||qxakzox.cn^
 ||qxrvmu.com^
 ||qxvp6.site^
@@ -27754,6 +27765,7 @@ zzzyk.com###Tinfo
 ||sgegie.fun^
 ||sgeth7.icu^
 ||sgg.southcn.com^
+||sgidskib.top^
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
 ||sglyd.cn^
@@ -30908,6 +30920,7 @@ zzzyk.com###Tinfo
 ||ypcngw.xyz^
 ||ypdronhu.xyz^
 ||ypffkbpq.xyz^
+||ypgjkk.xyz^
 ||ypkxahje.xyz^
 ||ypojie.com/wp-content/uploads/*.js
 ||yprdmnlo.xyz^
