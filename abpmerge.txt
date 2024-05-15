@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-05-14 16:08:20
-! Total count: 31594
+! Version: 2024-05-15 16:07:55
+! Total count: 31609
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7595,7 +7595,6 @@ bigpixel.cn#$?##PAGE_AD_1 { remove: true; }
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###slide_ad + .ad-report
-bilibili.com##+js(spoof-css, .__adblockhidden > a, display, block)
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -13391,6 +13390,7 @@ playerapp1.pw###divPanel
 playerapp1.pw##[id^="total"]
 playerhd1.pw,playerhd2.pw###divPanel
 playerhd1.pw,playerhd2.pw##[id^="total"]
+players.com.ua#$#abort-on-property-read localStorage
 playno1.com###frame8I822E
 playno1.com###m12
 playno1.com###m2
@@ -15181,6 +15181,7 @@ udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.ad_mask
 udn.com##.bg-banner--link
+udn.com##.inline-ads
 udn.com##.mag_topic > a[href][target="_blank"] > img[src^="https://p.udn.com.tw/upf/"][src*="_banners/Special/"]
 udn.com##.mag_topic > a[href^="https://goo.gl/"][target="_blank"] > img[src*="_banners/BD/"]
 udn.com##.more_ad
@@ -16208,8 +16209,10 @@ zhidao.baidu.com###act-link-banner
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com###main-content > div[class]:first-child > a
 zhidao.baidu.com###qb-content div.businessvip-wrapper
+zhidao.baidu.com###wap-youx-change-asp
 zhidao.baidu.com##.doodle-container
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
+zhidao.baidu.com##[class$='-ecom-ads']
 zhidao.baidu.com##a[class="cur"][href^="/mobile/board?"] > img
 zhidao.baidu.com##div[class^="cms-slide"] > p[class="cms-link-title"]
 zhidao.baidu.com#?#.wgt-ads
@@ -16439,6 +16442,7 @@ zzzyk.com###Tinfo
 ||073img.com/*/|
 ||074adzx.com^
 ||0755rc.com^$third-party
+||07dy.cc^
 ||08088.top^
 ||080999.cn^
 ||085cczz.com^
@@ -18748,6 +18752,7 @@ zzzyk.com###Tinfo
 ||awifi.cn^$third-party
 ||awiudbyqbpo.com^
 ||awoudsoo.xyz^
+||awunkse72.shop^
 ||awuvcq.xyz^
 ||awyyzx.com^
 ||awzddev.cn^
@@ -19417,6 +19422,7 @@ zzzyk.com###Tinfo
 ||bphcrjth.xyz^
 ||bpimg.com/4851/19f7543667f26682.jpg
 ||bplrpf.xyz^
+||bpxbzps.xyz^
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
 ||bqdyqq.com^
@@ -19825,6 +19831,7 @@ zzzyk.com###Tinfo
 ||ceiuip.icu^
 ||centurys.net/promo_
 ||ceodk.xyz^
+||cergbtb36.shop^
 ||ceshi1.ink^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cfateu.xyz^
@@ -21294,6 +21301,7 @@ zzzyk.com###Tinfo
 ||efvsyhbf.xyz^
 ||egadfe.xyz^
 ||eghyahl.cn^
+||egidskiw.top^
 ||egipsbvlgn.xyz^
 ||eglizqf.cn^
 ||egmontassets.net/random.js$script,domain=euroman.dk
@@ -22690,6 +22698,7 @@ zzzyk.com###Tinfo
 ||hfqdipw.cn^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
+||hgcgnfe.icu^
 ||hgehse.site^
 ||hgf8hck.com^
 ||hgfutf.xyz^
@@ -24186,6 +24195,7 @@ zzzyk.com###Tinfo
 ||kbae.qiqqh.cn^
 ||kbayke.xyz^
 ||kbbrptv.xyz^
+||kbexos.xyz^
 ||kbneks00.online^
 ||kbomku.xyz^
 ||kc-valves.com^
@@ -26043,6 +26053,7 @@ zzzyk.com###Tinfo
 ||nurahf.xyz^
 ||nutaku.net^
 ||nuucmzuc.com^
+||nuxwlc.cn^
 ||nvdtdsd.xyz^
 ||nvjqtz.xyz^
 ||nvsheng.com/js/gg.js
@@ -26742,6 +26753,7 @@ zzzyk.com###Tinfo
 ||propeller-tracking.com^
 ||property.hk/js/adside.js
 ||providentsopport.site^
+||prpmdp.xyz^
 ||prpops.com^$third-party
 ||prscripts.com^$third-party
 ||przbzr.xyz^
@@ -28454,6 +28466,7 @@ zzzyk.com###Tinfo
 ||t6.china-xian.com^
 ||t7x22m7c.com^
 ||ta.trs.cn^$third-party
+||ta20k.xyz^
 ||taboola.com^$domain=spaste.com
 ||tad.suning.com^
 ||tae0t.site^
@@ -29467,6 +29480,7 @@ zzzyk.com###Tinfo
 ||vfsdsdeq.xyz^
 ||vfsvv1.com^
 ||vfvad.top^
+||vfxrpl.xyz^
 ||vfzfrx.xyz^
 ||vgao.xyz/images/*.gif
 ||vggg5.space^
@@ -31300,6 +31314,7 @@ zzzyk.com###Tinfo
 ||zhengliyqq.com^
 ||zhengshaoze.com^
 ||zhengxiaoliu.top^
+||zhengzhou12.top^
 ||zhenjiang365.cn/*/ad_
 ||zhev.com.cn/file/weixin/
 ||zhflodsix.cn^
