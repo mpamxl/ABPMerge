@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-05-19 16:07:02
-! Total count: 31660
+! Version: 2024-05-20 16:08:31
+! Total count: 31671
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8662,7 +8662,6 @@ dayanzai.me##.down_show_intro_first_box
 dayanzai.me##.rban1
 dayanzai.me##.stopban
 dayanzai.me,yuepuwang.com##.topban
-daybuy.tw##body .code-block
 daydaycook.com##.ad-mask
 daydayin.com###adbn_UMU
 dayoo.com###ad-xl
@@ -8857,6 +8856,7 @@ doupe.zive.cz#@##adblock-leaderboard
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
+douyin.com#?#.page-recommend-container:-abp-has(span[style^="background"]:-abp-contains(广告))
 douyu.com###js-fix-download
 douyu.com###js-live-room-recommend
 douyu.com###js-room-activity
@@ -9637,6 +9637,7 @@ frauporno.com#$#abort-current-inline-script document.querySelectorAll popMagic
 frdic.com,godic.net##a[onclick*="/ads/"]
 free.com.tw###custom_html-11
 free.com.tw###custom_html-5
+free.com.tw,daybuy.tw##body .code-block
 freebitco.in,freedoge.co.in#@##box_ad_middle
 freebitco.in,freedoge.co.in#@##main_content_ad_left
 freebitco.in,freedoge.co.in#@#.ad-img
@@ -12602,6 +12603,7 @@ multicanais.tv#$#abort-current-inline-script document.createElement _whvbtwzo
 mumayi.com##.clientBox
 mumayi.com##.h80
 mumu.163.com##.pic-con
+music.wandhi.com##.google-auto-placed
 music.youtube.com#$#skip-video 'video.html5-main-video' './/div[contains(@class,"video-ads")]//div[@class="ytp-ad-player-overlay"]'; simulate-mouse-event 'button.ytp-ad-skip-button-modern$delay=0'
 music.youtube.com#$#skip-video 'video.html5-main-video' './/div[contains(@class,"video-ads")]//div[@class="ytp-ad-player-overlay"]'; simulate-mouse-event 'span.ytp-ad-preview-container$delay=0'
 musichq.cc###hgiks-top
@@ -15433,6 +15435,7 @@ walmart.ca,walmart.com##div[id*="Sponsored"]
 walmart.ca,walmart.com##div[id^="SEARCH-SponsoredProductCarousel"]
 walmart.com,walmart.ca#$#hide-if-contains-visible-text /Sponsored|Commandité/ 'section div[data-item-id]' div span
 wan.douyu.com
+wandhi.com##+js(no-fetch-if, /googlesyndication\.com|doubleclick\.net/)
 wandhi.com##.table img
 wandhi.com##.table-bordered
 wandhi.com##.unit-100
@@ -18287,6 +18290,7 @@ zzzyk.com###Tinfo
 ||ajfkwwpo.xyz^
 ||ajghca.xyz^
 ||ajijcy.xyz^
+||ajkggo.xyz^
 ||ajkjbcjbaaaed.com^
 ||ajtdumo.cn^
 ||ajzsa.xyz^
@@ -18772,6 +18776,7 @@ zzzyk.com###Tinfo
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
 ||ax7fv.space^
+||axa123.com^
 ||axbdlox.cn^
 ||axcdt.cn^
 ||axcdy.cn^
@@ -24558,6 +24563,7 @@ zzzyk.com###Tinfo
 ||kzgmpu.com^
 ||kzjkexn.cn^
 ||kznizrhd.xyz^
+||kzpizjp.cn^
 ||kzprugp.xyz^
 ||kzuxlydg.icu^
 ||l.glrcy.cn^
@@ -24979,6 +24985,7 @@ zzzyk.com###Tinfo
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lovespenhas.com^
 ||lowadec.cn^
+||lozmtk.cn^
 ||lpasdfgwer.com^
 ||lpeolfa.top^
 ||lpjxzs.com^
@@ -26180,6 +26187,7 @@ zzzyk.com###Tinfo
 ||og.zyzjpx.cn^$third-party
 ||oganilglk.cyou^
 ||oghqvffmnt.com^
+||ogidskik.top^
 ||ogmjhve.cn^
 ||ognujxj.cn^
 ||ogouawc.cn^
@@ -28510,6 +28518,7 @@ zzzyk.com###Tinfo
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tafyeta.ru^$domain=pronpic.org
+||tagtoo.co^$third-party
 ||tahltanboutell.com^
 ||tahznx.xyz^
 ||taijuba.com/js/*_
@@ -28576,6 +28585,7 @@ zzzyk.com###Tinfo
 ||tcvmtp.xyz^
 ||tdavopl.icu^
 ||tdhlmto.cn^
+||tdhnxf.xyz^
 ||tdid.m.qq.com^
 ||tdigcw.com^
 ||tdjdpyrt.xyz^
@@ -30818,6 +30828,7 @@ zzzyk.com###Tinfo
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
 ||yhhnjg.com^
+||yhimpnr.icu^
 ||yhjccj.cn^
 ||yhlpshi.xyz^
 ||yhlzadr.xyz^
