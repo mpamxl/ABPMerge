@@ -3447,6 +3447,7 @@ applefans.today#$#.timed-pup { display: none !important; }
 applefans.today#$#.tipi-overlay { display: none !important; }
 applefans.today#$#body { overflow: auto !important; }
 applnn.cc##+js(noeval-if, encodeURIComponent)
+applnn.cc##DIV.html-box
 apprcn.com##a[href*=".lizhi."]
 aqicn.org#$#abort-on-property-read alert
 arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
@@ -10337,6 +10338,7 @@ rjno1.com##+js(addEventListener-defuser, error, event.target.tagName)
 rjno1.com##main > div[class^="qnb"]
 rjno1.com#$#body #aswift_1:not(#style_important) { display: block !important; }
 rjno1.com#@#[id^="aswift_"]
+rjno1.com#@#ins.adsbygoogle[data-ad-client]
 rjno1.com#@#ins.adsbygoogle[data-ad-slot]
 rjno1.com#@#main > div[class^="qnb"]
 rkanr.com##.bill
