@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-07-15 16:08:32
-! Total count: 32460
+! Version: 2024-07-16 16:07:24
+! Total count: 32466
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10944,7 +10944,6 @@ image.baidu.com###ecomContainer
 image.baidu.com###imgCmsAdPart
 image.baidu.com###imgid > .fcimgpage
 image.baidu.com###only-lady-sec
-image.baidu.com###pageLayoutTipWindow
 image.baidu.com###plz-albums
 image.baidu.com###plz-head-banner
 image.baidu.com###relEcom
@@ -11058,7 +11057,6 @@ iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz#@#.adsbox
 iprima.cz#@#.bannerAd
 iprima.cz,www.seznam.cz,novinky.cz,super.cz,ahaonline.cz,kinobox.cz,horoskopy.cz#$#json-override ads ''
-ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > .result ~ div:not([class]):not([style])
@@ -12545,6 +12543,8 @@ minmote.no##.adblock-info
 minwt.com##.g-336-280
 mirrormedia.mg##.micro-ad
 mirrormedia.mg##.story__ad
+mirrormedia.mg##div[class^="gpt-placeholder"]
+mirrormedia.mg##div[class^="related-article-list__AdvertisementWrapper"]
 missyuan.com##.spaceborder
 mitbbs.ca,mitbbs.com##.index_add
 mitbbs.ca,mitbbs.com##.newskuang2
@@ -17183,6 +17183,7 @@ zzzyk.com###Tinfo
 ||373nn.com/java/
 ||3798.com^$third-party
 ||37bhof.com^
+||38.33.15.10^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
 ||387635.com^
@@ -19227,6 +19228,7 @@ zzzyk.com###Tinfo
 ||bavde3.icu^
 ||bavei.com/img/*.png
 ||bavkvoks.xyz^
+||bavotr.xyz^
 ||baxbyfn.cn^
 ||baytfede.xyz^
 ||bb1nn.com/js/i.js
@@ -21697,6 +21699,7 @@ zzzyk.com###Tinfo
 ||eileenjaney.com^
 ||eiqsky.xyz^
 ||eitb7.top^
+||eiuoom.xyz^
 ||eiv.baidu.com^
 ||eiykmtb.cn^
 ||ejdhmed.xyz^
@@ -24615,6 +24618,7 @@ zzzyk.com###Tinfo
 ||jy147a.com^
 ||jy8izgie.xyz^
 ||jyewkb.icu^
+||jyfdbj.xyz^
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
 ||jygiizv.icu^
@@ -29865,6 +29869,7 @@ zzzyk.com###Tinfo
 ||udb3n.icu^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||udd1i5.zhihu.com^
 ||udeztrb.cn^
 ||udheansv.com^
 ||udiab1.jianshu.com^
@@ -30705,6 +30710,7 @@ zzzyk.com###Tinfo
 ||wnllmyw.xyz^
 ||wnmaoc.xyz^
 ||wnnbvnj.cn^
+||wnootzc.icu^
 ||wnzle.com^
 ||wo1990.com^
 ||woaidu.org/images/20180802/3.jpg
