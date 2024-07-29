@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-07-28 16:09:09
-! Total count: 31844
+! Version: 2024-07-29 16:08:26
+! Total count: 31857
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4494,7 +4494,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 91lai.com##.D_guanggaotu3
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
-91porn.com##iframe[src$="/fans/ad.php"]
+91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
@@ -5856,6 +5856,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 @@||loxtk.com/gLoader.php?GID=$script,third-party
 @@||loxtk.com/gTemplate.php?GID=$subdocument,third-party
 @@||lumload.com/pop.js$script
+@@||luoxiadushu.com^$generichide
 @@||m.v.fwmrm.net/p/release/latest-JS/adm/prd/AdManager.js$domain=revision3.com
 @@||macauo2o.com/advertise/
 @@||mail.td^$generichide
@@ -6353,6 +6354,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 @@||snesfun.com/js/ads.js$script
 @@||sobot.com^
 @@||soft8ware.com^$generichide
+@@||softblog.tw^$generichide
 @@||softwarebrother.com^$generichide
 @@||sogou.com/adpub/cfg/sendmsg.
 @@||sogou.com/pv.gif?*&stype=showskinpanel
@@ -10685,6 +10687,7 @@ huya.com###huya-ab-fixed
 huya.com###hy-ad,#hy-ab,#huya-ab
 huya.com###template
 huya.com##.J_ad
+huya.com##.ab-content
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
 huya.com##.huya-ab
@@ -18418,6 +18421,7 @@ zzzyk.com###Tinfo
 ||aili.com^$third-party
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
+||aiqks.top^
 ||aiqu222.com/da/
 ||aiqu2727.com/da/
 ||aiqu28.com/da/
@@ -23880,6 +23884,7 @@ zzzyk.com###Tinfo
 ||izmiua.xyz^
 ||izqogb.cn^
 ||iztwp.com/images/
+||izwmfmu.icu^
 ||j.baminw.cn^
 ||j.dailiqing.net^
 ||j.diangon.com^
@@ -26233,6 +26238,7 @@ zzzyk.com###Tinfo
 ||nnocsin.cn^
 ||nnqwe.xyz^
 ||nnrbyty.xyz^
+||nnvjbb.xyz^
 ||no1.168abc.net/upload/
 ||noafoaji.xyz^
 ||nogff.top^
@@ -26782,6 +26788,7 @@ zzzyk.com###Tinfo
 ||photo.*.html?tk=$script,third-party
 ||photo.*/native?tk=$third-party
 ||photo07.xyz^
+||photos18.com/images/friend/
 ||php.cn/ad1.
 ||php.cn/hezuo/
 ||php1.cn/uploads/huayun.jpg
@@ -28055,6 +28062,7 @@ zzzyk.com###Tinfo
 ||shbzegs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
+||shbzpgs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||sheeroop.com^
@@ -28135,6 +28143,8 @@ zzzyk.com###Tinfo
 ||sifyeldb.top^
 ||sigjuw.xyz^
 ||sihbb.com/yang/
+||sikapo.top^
+||sikaq.top^
 ||simblotusitate.com^
 ||simi1234.com^
 ||simi2345.com^
@@ -29434,6 +29444,7 @@ zzzyk.com###Tinfo
 ||uhyhdrh.cn^
 ||ui8l2.xyz^
 ||uiakq.top^
+||uiatkc.xyz^
 ||uibjhqwkl.com^
 ||uicdns.xyz^
 ||uidwyx.icu^
@@ -30083,6 +30094,7 @@ zzzyk.com###Tinfo
 ||westca.com/server/
 ||weste.net/js/showpagead.js
 ||westover.cn^
+||wetlwse.top^
 ||wew.dushiwenxue.net^
 ||wewbnso.cn^
 ||wewlkq.com^
@@ -31787,6 +31799,7 @@ zzzyk.com###Tinfo
 ||zygkzytb.cn^
 ||zygscl.cn^
 ||zykwnj.cn^
+||zylizz.xyz^
 ||zypzzv.xyz^
 ||zyrwfd.xyz^
 ||zyzlpt.com^
