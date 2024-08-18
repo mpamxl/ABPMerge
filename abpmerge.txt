@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-08-17 16:08:13
-! Total count: 32056
+! Version: 2024-08-18 16:07:30
+! Total count: 32068
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15558,6 +15558,7 @@ vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gos
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 viet69.name,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenbi.com,yurineko.net,vlxyz.tube,javhay.click,phimsexhay669.pro,cliphot69.blog,doctruyen3qvn.pro,hentaizz.biz,animehay.in,heo69.moe,top1sex.club,sexmup18.com,hentaivn.today,sexvn1.cc,streamvl.top,www.buomtv.vip,truyenvn.cam,cdnstream.sbs,javtiful.com,sexvn.tuoi69s.com,quatvn.baby,tenmientruyengi.net,topviet69.com,phim18hd.sex,live.sexviet88.dev,sexnhe.biz,demo.14412882.com,sexphimhd.vip,ungtycomicsvip.net,xem.phim18c.org,vn.cliphot69.live,hhtq5.vip,sexdiary.club#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
+vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 vikacg.com,vikacg.xyz##a[href^="http"] > img[src^="/assets/main/"]
 ville-ideale.com###antyp
 ville-ideale.com###enc
@@ -16028,6 +16029,7 @@ wybg666.com##.container div[id$="ad"] > a[target="_blank"]:only-child > img
 x-mol.com###floatWindow
 x-mol.com###rightAllJournal
 x-mol.com##.news-white-content-right
+x.com/*/videoads/
 x3cn.com###portal_block_12045
 x3cn.com##div[style="margin:3px auto"] + table
 x3cn.com#?#body > div#qmenu_menu ~ div[style]:has(> a[target="_blank"])
@@ -16649,6 +16651,7 @@ zzzyk.com###Tinfo
 ||0310cn.com^
 ||031dfgh.com^
 ||0322cfmtl.cc^
+||033ajy.xyz^
 ||033dfgh.com^
 ||034dfgh.com^
 ||0351dvd.cn^$third-party
@@ -19773,6 +19776,7 @@ zzzyk.com###Tinfo
 ||btsvad8.com^
 ||bttazsyk.icu^
 ||bttt11.com/ad.
+||btvbnrwo.icu^
 ||btwuji.com/jsj1/
 ||btwwzqdx.xyz^
 ||btyhnbmn289.shop^
@@ -22024,6 +22028,7 @@ zzzyk.com###Tinfo
 ||filesonthe.net/Webservices/jsParseLinks.aspx$script,third-party
 ||filesonthe.net/visitScript/$script,third-party
 ||fillhr.xyz^
+||fingkndk.com^
 ||fintechpi.com^
 ||fionamignon.com^
 ||firearmtire.com^
@@ -22245,6 +22250,7 @@ zzzyk.com###Tinfo
 ||fydisk.com/images/showvip.gif
 ||fyexyd.icu^
 ||fytpft.xyz^
+||fywaaox.icu^
 ||fzasx.cn^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
@@ -22768,6 +22774,7 @@ zzzyk.com###Tinfo
 ||gwmrb.cn^
 ||gwrpceo.cn^
 ||gxbnp.cn^
+||gxcdgm.xyz^
 ||gxgbvmg.cn^
 ||gxhzv.cn^
 ||gxihcq.xyz^
@@ -25273,6 +25280,7 @@ zzzyk.com###Tinfo
 ||lnifdlal.top^
 ||lniwe.xyz^
 ||lnlkmr.xyz^
+||lnnsvj.xyz^
 ||lnxkrd.xyz^
 ||lnzjlr.xyz^
 ||lnzqw.net/js/
@@ -26025,6 +26033,7 @@ zzzyk.com###Tinfo
 ||muer.cdn-baidu.fs-sywh.com^
 ||muhnbc.cn^
 ||mujkdna.xyz^
+||mumnxiex.top^
 ||muntfd62.shop^
 ||muntswe58.shop^
 ||muoizbtl.xyz^
@@ -28203,6 +28212,7 @@ zzzyk.com###Tinfo
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzgkj.cn^
+||shbzhgs.cn^
 ||shbzhkj.cn^
 ||shbzigs.cn^
 ||shbzikj.cn^
@@ -29784,6 +29794,7 @@ zzzyk.com###Tinfo
 ||uunfybw.cn^
 ||uuoizbtl.xyz^
 ||uuoozz.com/L7QQ.js
+||uusjaq.top^
 ||uutytp.com^
 ||uuu9.com/photolog.html
 ||uuu9.tieba.com^$subdocument
@@ -29949,6 +29960,7 @@ zzzyk.com###Tinfo
 ||vghnnh.xyz^
 ||vgijoh.com^
 ||vgjaxnuw.xyz^
+||vgxbpf.xyz^
 ||vgzytn.xyz^
 ||vhgunzr.cn^
 ||vhhvldyuhm.xyz^
