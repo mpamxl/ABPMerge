@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-09-09 16:08:40
-! Total count: 32298
+! Version: 2024-09-10 16:08:40
+! Total count: 32331
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2143,6 +2143,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 .xyz/xling_*_*_*.js?
 .xyz/z/*/code.js$script,third-party
 .xyz:8009/11?x=
+.xyz:9002/*?x=$websocket,script,third-party
 .zone/ads/
 /*/*.add.*.add
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
@@ -4015,6 +4016,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 380cc.cc#@##adsbottom
 380cc.cc#@##myadfor_mobiletop
 39.net##.ad-tl
+39.net##.banner_g
 39.net##[id^="ac_im"]
 3987.com##.c-gg
 3987.com##.showdown > .mt20:first-child
@@ -4660,8 +4662,10 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 :701/gd_xueersi/$popup
 :7701/load.cw.js
 :800*/d/*n=$script,third-party
+:800*/d/*n=$third-party
 :800*/d/*t=$script,third-party
 :800*/sc/*n=$script,third-party
+:800*/sc/*n=$third-party
 :8007/*/*?is_not=
 :8008/*/*?is_not=
 :8080/ad/
@@ -5746,6 +5750,7 @@ $third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kktv.me
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowplayer.now.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.udn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=news.voicetv.co.th
 @@||imasdk.googleapis.com^$script,domain=slacker.com
@@ -9319,7 +9324,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.page-content-main-c
+element-plus.org##.page-content-main-d
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
 element-plus.org##aside > .page-content-main
 elle.com.hk##.tpc-container
@@ -14381,6 +14386,7 @@ sina.cn##.midThreeAds
 sina.cn##.module-finance-client3
 sina.cn##.p_newsmore
 sina.cn##.sw_c0.fix_top
+sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
 sina.cn##.xc_da
 sina.cn##.zhidi
 sina.cn##SECTION.sw_c0.sina_sliders_pos
@@ -17329,6 +17335,7 @@ zzzyk.com###Tinfo
 ||3k8.com/d/js/m/thea
 ||3ndra.icu^
 ||3p8801.co^
+||3pkf5m0gd.com^
 ||3prndxd.cn^
 ||3q1lsj.cn^
 ||3q3l.cn^
@@ -17553,6 +17560,7 @@ zzzyk.com###Tinfo
 ||591hx.com/js/sy.js
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
+||595image.com^
 ||59gt.cn^
 ||5axxw.com/extends/ad/
 ||5brxi.icu^
@@ -17697,6 +17705,7 @@ zzzyk.com###Tinfo
 ||70url.com/aiaike/bood.js$domain=yingwangtv.com
 ||7160.com/js/tiaozhuanquanju.js
 ||7299tu75.cc^
+||73336zubo25326.com^
 ||73652253191.com^$third-party
 ||738atf.xyz^
 ||75.125.41.29:8080/
@@ -19282,6 +19291,7 @@ zzzyk.com###Tinfo
 ||baomidou.com/_astro/CheckAdBlocked.*.js
 ||baomihua.com/yy/
 ||baomitu.duapp.com/js/layer.js
+||bapa215.top^
 ||barscreative1.com^
 ||bas.boshi.tv^
 ||batijian.com^
@@ -20842,6 +20852,7 @@ zzzyk.com###Tinfo
 ||dacedsfa.cn^
 ||dada.dadawm.cc^
 ||dada8828.com/js/aaa/
+||dadatuwz.com^
 ||dadatuwz.com^$third-party
 ||dadawm.cc^
 ||dadbj.cn^
@@ -21050,6 +21061,7 @@ zzzyk.com###Tinfo
 ||dfkd.xyz^
 ||dflkndkzf.com^
 ||dfprljx.xyz^
+||dfqzah.xyz^
 ||dfryzh.xyz^
 ||dfsgppz.icu^
 ||dfsvhv88.com^
@@ -21780,6 +21792,7 @@ zzzyk.com###Tinfo
 ||en8848.com.cn/js/lianxi.js
 ||enalzlw.top^
 ||endolift.cn^
+||endowmentoverhangutmost.com^
 ||enennsa.gushiwen.cn^
 ||enet.com.cn/counter.php
 ||enews10.yxlady.net^
@@ -21863,6 +21876,7 @@ zzzyk.com###Tinfo
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
+||ethicalads.io^
 ||etienlw.top^
 ||etjui.cn^
 ||etkht.cn^
@@ -22259,6 +22273,7 @@ zzzyk.com###Tinfo
 ||frtnqps358.shop^
 ||frtnqpw837.shop^
 ||fsclzs.com/Ad_User/
+||fsdf45.fun^
 ||fsgiosi.com^
 ||fsgsfaf6.com^
 ||fsjjrbz.cn^
@@ -22511,6 +22526,7 @@ zzzyk.com###Tinfo
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
+||gffedashb6.fun^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
 ||gfrzzzx.cn^
@@ -23081,6 +23097,7 @@ zzzyk.com###Tinfo
 ||hdcast.info/adcompany.php$subdocument
 ||hdchina.*/styles/topshow/AD/
 ||hdfdsdaw.com^
+||hdickeu.top^
 ||hdipsumu.top^
 ||hdjthzg.cn^
 ||hdoshbu.top^
@@ -23547,6 +23564,7 @@ zzzyk.com###Tinfo
 ||hynahyqq.xyz^
 ||hypwbv.xyz^
 ||hyretuu.top^
+||hyth74.fun^
 ||hytzp.cn^
 ||hyusnisu.top^
 ||hyuwkbu.top^
@@ -23713,6 +23731,7 @@ zzzyk.com###Tinfo
 ||ihcxue.xyz^
 ||ihgluu.xyz^
 ||ihhmh.com/mg/show
+||ihssdas.icu^
 ||ihtqqws.cn^
 ||ihwdun.xyz^
 ||ihwlek.com^
@@ -25048,6 +25067,7 @@ zzzyk.com###Tinfo
 ||kwqnki.xyz^
 ||kwtgntyu.xyz^
 ||kwumme.xyz^
+||kwyamu.xyz^
 ||kxcp365.com^
 ||kxd56.com/qq.js
 ||kxd56.com/tg.gif
@@ -25105,6 +25125,7 @@ zzzyk.com###Tinfo
 ||labuladong.github.io/algo/pictures/ad/
 ||ladepeche.fr/taffrail^
 ||lady177.com^$popup
+||lafacw.xyz^
 ||lafirx.xyz^
 ||lagou.com/js/cooperation/
 ||lahoo.ca/api.php?mod=ad&
@@ -25232,6 +25253,7 @@ zzzyk.com###Tinfo
 ||lfjslil.top^
 ||lfjtiuy.cn^
 ||lflmdm.com^
+||lfrdskwj.icu^
 ||lfrfzr.xyz^
 ||lftpvh.xyz^
 ||lfxozd.xyz^
@@ -29163,6 +29185,7 @@ zzzyk.com###Tinfo
 ||tcuqqhj.icu^
 ||tcvmtp.xyz^
 ||tdavopl.icu^
+||tdfqvx.xyz^
 ||tdhlmto.cn^
 ||tdhnxf.xyz^
 ||tdhserg.cn^
@@ -29561,8 +29584,13 @@ zzzyk.com###Tinfo
 ||ttzw.tv/tz/h.js
 ||ttzw.tv/tz/true.js
 ||tu.zx110.org^
+||tu1500919341.cc^
 ||tu2.taohuaimg.com^$third-party
 ||tu2024020388.com^
+||tu3168509469.cc^
+||tu3921276844.cc^
+||tu4038097360.cc^
+||tu6767109513.cc^
 ||tubesafari.com/*/new_popunder.js$domain=tubesafari.com
 ||tubeviral.com/Webservices/jsParseLinks.aspx$script,third-party
 ||tubeviral.com/visitScript/$script,third-party
@@ -29802,6 +29830,7 @@ zzzyk.com###Tinfo
 ||uewrutt.top^
 ||ufgg55.xyz^
 ||ufile.cc/crod.js
+||ufile.cc/pps.js
 ||ufile.cc^
 ||ufjslit.top^
 ||uflybplr.xyz^
@@ -30692,6 +30721,7 @@ zzzyk.com###Tinfo
 ||wwjtdjj.cn^
 ||wwkh9ku.xyz^
 ||www-dnwx-com.anquanbao.cn/pic
+||www.*yydstxt*/js/cdn.js
 ||www.16m.cc^
 ||www.200ps.com^
 ||www.288txt.com/da/*.js
@@ -31031,6 +31061,7 @@ zzzyk.com###Tinfo
 ||ximit8023.maijijo.com^
 ||xinbo-lora.cn^
 ||xinchl.xyz^
+||xindingwealth.com/js/39.
 ||xinerdact.com^
 ||xineurope.com/static/image/banner/
 ||xingwangzz.com/123/
@@ -31146,6 +31177,7 @@ zzzyk.com###Tinfo
 ||xn--gov-x68dy61b.shop^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
+||xn--mts60is5y5uk.com^
 ||xn--qrq171dxpq.com^
 ||xn--sssy7vrppusjyv0a.com^
 ||xn--swt207gl1hzc.net^
@@ -31158,6 +31190,7 @@ zzzyk.com###Tinfo
 ||xn--xhq326apqhcx0d.cn^
 ||xn--xhq9mt12cf5v.ren^
 ||xn--zw0autp42d.cn^
+||xnbuapwp.icu^
 ||xne1ocient87zxz.360doc.cn^
 ||xnfhxszj.xyz^
 ||xng02.com/api.php?mod=ad&
