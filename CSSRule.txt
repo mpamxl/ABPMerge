@@ -686,6 +686,7 @@
 ##.cui-pt-item[data-qhb]
 ##.d_banner_inner
 ##.dabc > .ng-star-inserted
+##.dabf > .ng-star-inserted
 ##.davwheat-ad
 ##.ddd.ng-star-inserted
 ##.deadblocker-header-bar
@@ -1762,7 +1763,7 @@
 ##ul#page-list.layui-clear.page-wz > ul > li:not([class])
 ##ul.thread_detail_ads
 ##vg-pause-ads
-##vg-pause-d
+##vg-pause-f
 #@##banner_ad
 #@##sponsored-ad
 #@#.afs_ads
@@ -6763,7 +6764,7 @@ happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 hardwareluxx.ru#$#abort-current-inline-script jQuery backgroundImage
 hawak.net,rotana.video#$#abort-on-property-read atob
 hayan.tv#@##uzcrsite
-hayhaytv.org,api.anime3s.com,subnhanh.xyz#$#override-property-read maxAds 0
+hayhaytv.org,api.anime3s.com,subnhanh1.org#$#override-property-read maxAds 0
 hayhaytv.vn#@#.ads_wrapper
 hb.qq.com##div[style*="width:960px; height:90px;"]
 hb.qq.com##div[style=" width:300px; height:250px; overflow:hidden"]
