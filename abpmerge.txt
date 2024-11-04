@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-11-03 16:09:04
-! Total count: 32845
+! Version: 2024-11-04 16:10:09
+! Total count: 32857
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1138,6 +1138,7 @@
 ##A[target='_blank'][href*='/auth/register?code=']
 ##BODY > DIV.ggcontainer
 ##DIV#advertisings.advertising
+##DIV#appss[style='padding:15px;']
 ##DIV#bannerCtrl.source_container.swiper-wrapper
 ##DIV#bfad
 ##DIV#bl_mobile_float
@@ -1346,6 +1347,7 @@
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##[onclick="window.open('http://682kg.com/')"]
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
+##[onclick='goAppHtml();']
 ##[onclick='gourl()'][src^='/images/bfq/']
 ##[onclick^="window.location.href='https://apps.apple.com/cn/app/%E9%80%9F%E9%98%85%E5%B0%8F%E8%AF%B4"]
 ##[poster^='https://dingbu.bj.bcebos.com/']
@@ -7082,7 +7084,7 @@ animesonline22.com#$#abort-current-inline-script JSON.parse /atob|btoa|break/
 animetaro.com#$#abort-on-property-read window.open
 animeunity.cc#$#abort-on-property-read zfgstorage; abort-current-inline-script document.documentElement break;case; abort-on-property-read decodeURI;
 animeunity.tv#$#abort-on-property-read localStorage
-animevietsubs.com#$#abort-on-property-read _0x3f9b
+animevietsubs.net#$#abort-on-property-read _0x3f9b
 animew.ru,freehat.cc,hlamer.ru,lostpix.com,oxax.tv,cunofilms.ru,potokcdn.com,prostoporno.help,tivix.co,tt-cup.com,uploadimagex.com,vmusi.ru,volynpost.com,wowskill.ru,xittv.net,zerno-ua.com#$#abort-on-property-read open
 animewld.club##.header-img
 animezone.pl#@#.myTestAd
@@ -15723,7 +15725,7 @@ vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded; abort-on-property-read window.open;
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-viet69.moi,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenbbq.com,yurineko.net,vlxyz.tube,hd.javhay.site,phimsexhay669.pro,cliphot69.art,doctruyen3qw.pro,ihentai.wiki,animehay.de,jav.vc,top1sex.me,sexmup18.com,hentaivn.today,sexvn1.cc,streamvl.top,www.buomtv.one,truyenvn.wiki,cdnstream.sbs,javtiful.com,sex.tuoi69.store,quatvn.fit,tenmientruyengi.net,topviet69.online,phim18hd.sex,vn.sexviet88.link,sexhdpro.net,demo.14412882.com,sexhdpro.net,ungtycomicsvip.org,xemphim18.vip,cliphot69.lat,hhtq5.vip,sexdiary.club#$#abort-current-inline-script WebAssembly instantiate
+viet69.moi,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenbbq.com,yurineko.net,vlxyz.tube,hd.javhay.site,phimsexhay669.pro,cliphot69.art,doctruyen3qw.pro,ihentai.wiki,animehay.de,jav.vc,top1sex.me,sexmup18.com,hentaivn.today,sexvn1.cc,streamvl.top,www.buomtv.one,truyenvn.wiki,cdnstream.sbs,javtiful.com,sex.tuoi69.store,quatvn.fit,tenmientruyengi.net,topviet69.vip,phim18hd.sex,vn.sexviet88.link,sexhdpro.net,demo.14412882.com,sexhdpro.net,ungtycomicsvip.org,xemphim18.vip,cliphot69.lat,hhtq5.vip,sexdiary.club#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 ville-ideale.com###antyp
 ville-ideale.com###enc
@@ -17343,6 +17345,7 @@ zzzyk.com###Tinfo
 ||2rbda.icu^
 ||2rwonuh.com^
 ||2s8s.com^
+||2sfpy.icu^
 ||2u3v4w5x6y.com^
 ||2vqgtxw.cn^
 ||2wgolxk.com^
@@ -22214,6 +22217,7 @@ zzzyk.com###Tinfo
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
 ||ezraahdn.icu^
+||ezrcowa.icu^
 ||ezu6rd5.houge.in^
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
 ||f1.06ps.com^
@@ -23516,6 +23520,7 @@ zzzyk.com###Tinfo
 ||hitime5.com/skin/css/*.js
 ||hitoxx.xyz^
 ||hixutb.xyz^
+||hj8gf.icu^
 ||hjammiz.icu^
 ||hjapi.com/v1/pageSoftText?
 ||hjbqnwb.com^
@@ -23718,6 +23723,7 @@ zzzyk.com###Tinfo
 ||htxwzp.xyz^
 ||hty9m.cn^
 ||htyusiu.top^
+||huaban.com^*/ads
 ||huaerdadi.com^$third-party
 ||huaiduoduo.info/Runtime/js/
 ||huancaicp.com/?pid=$popup
@@ -24260,6 +24266,7 @@ zzzyk.com###Tinfo
 ||iplm.cc^
 ||ipm.atm.youku.com^
 ||iporn.world/attachment/ad/
+||ipqajyy.icu^
 ||ipqc5ejfe.icu^
 ||iprefer.com.tw^$third-party
 ||ipryes.top^
@@ -25849,6 +25856,7 @@ zzzyk.com###Tinfo
 ||lotour.net/analytics/statsv2.js
 ||lotour.net/bcef/388.js
 ||lotuscard.cc/online/
+||loublil.top^
 ||louimg.com/i/2021/08/17/*.gif
 ||louimg.com/u/20191214/17512133.jpg
 ||love.furenkeji.com^
@@ -27189,6 +27197,7 @@ zzzyk.com###Tinfo
 ||ooqiu.com/ad_js/
 ||ooqwc.xyz^
 ||ootyx24.com^
+||ooublik.top^
 ||oouiqi.xyz^
 ||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
@@ -30508,6 +30517,7 @@ zzzyk.com###Tinfo
 ||uwerpyh.cn^
 ||uwgnpkd.cn^
 ||uwnvcxb.cn^
+||uwsaqoi.icu^
 ||uwumr.cn^
 ||uwursert.top^
 ||uxbd4id.xyz^
@@ -30780,6 +30790,7 @@ zzzyk.com###Tinfo
 ||vrrw.net//templets/default/js/ad.js
 ||vs1.exo01.xyz^$image,third-party
 ||vsjrnh.xyz^
+||vsojfsoj.com^
 ||vsping-*.myqcloud.com/ggw/
 ||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
@@ -31653,6 +31664,7 @@ zzzyk.com###Tinfo
 ||xmkmryu.icu^
 ||xmlgzr.xyz^
 ||xmlsxar.cn^
+||xmm.wxc.cc^
 ||xmmnsl.com^
 ||xmnkgi.cn^
 ||xmrc.com.cn/net/info/html/
