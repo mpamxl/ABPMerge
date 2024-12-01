@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-11-30 16:08:35
-! Total count: 33163
+! Version: 2024-12-01 16:08:43
+! Total count: 33176
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3725,7 +3725,6 @@ $websocket,domain=wap.yushuwu.cloud
 17yy.com###addiv
 17yy.com##.t2_3
 17yy.com##.t2r_3
-18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
 18-comicfrieren.xyz,18comic.org,18comic.vip###guide-modal
 18-comicfrieren.xyz,18comic.org,18comic.vip##.div_sticky2
 18-comicfrieren.xyz,18comic.org,18comic.vip##.modal-backdrop
@@ -4560,6 +4559,7 @@ $websocket,domain=wap.yushuwu.cloud
 90bifen.com###live > table[cellspacing="0"][cellpadding="0"]
 90bifen.com##div[id^="ShowTopAds_"]
 90bifen.com##td[bgcolor="#FFFEE0"][height="22"]
+90mh.org##[style$='background-size: 393px 125px !important;']
 90oo.com###right > div[style^="height:60px; width:750px;"]
 90oo.com##.mtswp_scbar_ad
 90oo.com##a[href^="http"]:not([href*=".90oo."]) > img[src*="/tp/"]
@@ -8478,6 +8478,7 @@ cn.bing.com##.b_bza_pole
 cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 cn.bing.com#?#.b_algo:-abp-has(p[class^="b_lineclamp2 b_algoSlug "])
+cn.bing.com#?#.sb_form_placeholder:-abp-has(>.ad-ghost-slug)
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
@@ -9628,6 +9629,7 @@ f2dsex1.com##a[href="https://kf2828.com/"]
 f2dsex1.com##div.link
 faayoo.com###footer_fd
 faayoo.com##.qr_code
+facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 facebookproxy.info###overlay-holder
 facet.wp.pl,ksiazki.wp.pl,tech.wp.pl,money.pl,moneyv.wp.pl#$#abort-on-property-read pbjs.bidderSettings
 factfeed.com,mdrntoday.com,travelroo.com###vidazooAd
@@ -18406,6 +18408,7 @@ zzzyk.com###Tinfo
 ||a2.b310.com^
 ||a2.xinhuanet.com^
 ||a2put.chinaz.com^
+||a2wx.icu^
 ||a3.jandan.net^
 ||a304.top^$image,domain=hihbt.com
 ||a32a.com.cn^$third-party
@@ -18728,6 +18731,7 @@ zzzyk.com###Tinfo
 ||aeyyck.xyz^
 ||af29.com/banner/
 ||af31f.site^
+||af6s.icu^
 ||af9dc9.xyz^
 ||afablca.cn^
 ||afafevk.com^
@@ -19089,19 +19093,21 @@ zzzyk.com###Tinfo
 ||anyshare.icu^*.js
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
-||ao11*kas.top/$script,third-party
+||ao1*kas.top/$script,third-party
 ||ao1118kas.top^
 ||ao1120kas.top^
 ||ao1122kas.top^
 ||ao1123kas.top^
+||ao1201kas.top^
 ||aoakss.com^
-||aoao11*iis.top/$script,third-party
+||aoao1*iis.top/$script,third-party
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
 ||aoao11201iis.top^
 ||aoao11211iis.top^
 ||aoao11241iis.top^
+||aoao12011iis.top^
 ||aobtwv.icu^
 ||aobuygo.com^
 ||aogk88.asia^
@@ -20036,7 +20042,6 @@ zzzyk.com###Tinfo
 ||book118.com^*/js/crm.
 ||book118.com^*/showRecommend.
 ||bookben.com/js/m/wap.js
-||bookbk.img.zhangyue01.com^
 ||booking.com^$domain=honglingjin.co.uk|sunnylife.tw
 ||bookrb.com/images/jtt
 ||books-analytics-events.apple.com^
@@ -20091,6 +20096,7 @@ zzzyk.com###Tinfo
 ||brfgbn.xyz^
 ||brfvyrrp.com^
 ||bridgetnbe.com^
+||brircel.com^
 ||brixel.cn^
 ||brookssa.com^
 ||brownfox.top^
@@ -20283,6 +20289,7 @@ zzzyk.com###Tinfo
 ||ca2686564a.com^
 ||caaie.xyz^
 ||caajol.icu^
+||caaqot.com^
 ||caardinal.com^
 ||cacafly.net^
 ||cache.ltn.com.tw/js/cache_ads_h1.js
@@ -21974,6 +21981,7 @@ zzzyk.com###Tinfo
 ||e3ol.com/inc/
 ||e49.xyz^
 ||e5yx.com^$popup
+||e8d7.icu^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||e9377f.com^$rewrite=abp-resource:blank-mp3,domain=eastday.com
 ||e95da74cd9.*.js^$domain=animefenix.tv
@@ -22062,6 +22070,7 @@ zzzyk.com###Tinfo
 ||ed.gumoda.top^
 ||ed2000k.com/ad/
 ||edadmy.xyz^
+||edamcsw.top^
 ||eddcc.icu^
 ||edghkc.xyz^
 ||edickew.top^
@@ -23361,6 +23370,7 @@ zzzyk.com###Tinfo
 ||h1.cfxinxi.cn^
 ||h1.kukuw.com^
 ||h1.wk2.com^
+||h1v3fa.com^
 ||h2ji5.xyz^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
@@ -24700,6 +24710,7 @@ zzzyk.com###Tinfo
 ||jcppcmqa.icu^
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
+||jcwlsofn.icu^
 ||jcwtml.icu^
 ||jczunp.xyz^
 ||jd-bbs.com^*/gif/
@@ -31215,6 +31226,7 @@ zzzyk.com###Tinfo
 ||wdadad.cn
 ||wdadad.cn^
 ||wdakda.cn^
+||wdamcse.top^
 ||wdcigo.xyz^
 ||wddsva0.com^
 ||wdff.buzz/hengf.
@@ -32930,6 +32942,7 @@ zzzyk.com###Tinfo
 ||zihuiguochao.top^
 ||zikao365.com/upload/js/pfgg/
 ||zinzimo.info^$domain=pronpic.org
+||zio8.icu^
 ||ziravd.xyz^
 ||zisnuthz.com^
 ||zisu.cn.com^
