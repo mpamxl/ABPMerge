@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-12-09 16:11:18
-! Total count: 33269
+! Version: 2024-12-10 16:10:58
+! Total count: 33277
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10668,6 +10668,7 @@ hf365.com,sina.com.cn,sohu.com##.adA
 hfxbs.cc##body > a:not([href*="hfxbs.cc"]):not([href^="/"]) > img
 hg6384.com-www.6u7u.com##.advert
 hgamefree.info###text-7
+hgamefree.info#@#.gridlove-ad
 hgitv.com##.gg09
 hgitv.com##.index_gg
 hgitv.com##.index_gg01
@@ -27130,6 +27131,7 @@ zzzyk.com###Tinfo
 ||nifyeldc.top^
 ||nijnqwem.xyz^
 ||nike666.com^
+||nilipuyn.com^
 ||nimaxrv.cn^
 ||nimg.jp/nicoad/instream/video/*.mp4$media,domain=nicovideo.jp
 ||nimoatl.icu^
@@ -27745,6 +27747,7 @@ zzzyk.com###Tinfo
 ||pdweoyw.cn^
 ||pdxdxl.xyz^
 ||pdxubxc.cn^
+||peclevnl.icu^
 ||peer-stream.com/api/AdvertisementPlugin$object-subrequest,domain=schoener-fernsehen.com
 ||pefufv.xyz^
 ||peise.net/Skin/js/global.
@@ -28708,6 +28711,7 @@ zzzyk.com###Tinfo
 ||richh.cn^
 ||richshredinger.com^
 ||ridirre.com^
+||riemutmh.com^
 ||rifyeldz.top^
 ||rigengjihua.cn/banner/
 ||right.com.cn/forum/static/image/common/logo
@@ -30170,6 +30174,7 @@ zzzyk.com###Tinfo
 ||tj.sosomp.com^
 ||tjappzvz.xyz^
 ||tjfbh.icu^
+||tjimtyi.top^
 ||tjj.com^
 ||tjjd83.xyz^
 ||tjnwfjy.cn^
@@ -30686,6 +30691,7 @@ zzzyk.com###Tinfo
 ||uiuaey.xyz^
 ||ujappzvz.xyz^
 ||ujgf120.com^
+||ujimtyt.top^
 ||ujnkn.com^
 ||ujovcb.cn^
 ||ujrspnbf.xyz^
@@ -31559,6 +31565,7 @@ zzzyk.com###Tinfo
 ||wswxsk.xyz^
 ||wsyfsg.xyz^
 ||wsyliee.top^
+||wt6.icu^
 ||wtiaw.top^
 ||wtienle.top^
 ||wtroytj33.fun^
@@ -32159,6 +32166,7 @@ zzzyk.com###Tinfo
 ||xtube.com/theme/v2/vendor/js-popunder/
 ||xtvrtrya.xyz^
 ||xu27r.com^
+||xu6.icu^
 ||xuakn.icu^
 ||xuanyaosp.com^
 ||xudarl.xyz^
