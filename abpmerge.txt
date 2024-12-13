@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-12-12 16:10:54
-! Total count: 33294
+! Version: 2024-12-13 16:10:10
+! Total count: 33311
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1623,6 +1623,7 @@
 ##body.page.player > div.popup.popup-tips.popup-icon.open
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
+##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
 ##body[ontouchstart] > div[id^="content_"][style="display: block;"]
 ##button[onclick*=".xacg.info/"]
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
@@ -7795,6 +7796,7 @@ bilibili.com##.container > div.feed-card:not(:has(> div > *))
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
 bilibili.com##.extension-tips
+bilibili.com##.feed-card:has(>div:only-child),div.bili-video-card:has(>div:only-child)
 bilibili.com##.floor-single-card:has(.floor-skeleton):not(:has(> div.bili-video-card__skeleton))
 bilibili.com##.gg-floor-module
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
@@ -10409,6 +10411,7 @@ hall123.com,hi.people.com.cn##img[width="1000"]
 hamibook.com.tw##.custom-banners-cycle-slideshow
 hamivideo.hinet.net###overlays-ad
 hamivideo.hinet.net##+js(set-constant, myPlayer.adDisplay, undefined)
+hanime1.me##.search-rows-wrapper > .content-padding-new > .row > .multiple-link-wrapper:has(> a[href*=".labsda.com"])
 hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-align:"]
 hanime1.me##div[style*="width: 310px; height: 282px;"]
 hanjutv2020.com##a[href*=".hujiang.com"]
@@ -10550,6 +10553,7 @@ happymh.com##a[href*=".taobao.com"]
 hardwareluxx.ru#$#abort-current-inline-script jQuery backgroundImage
 hawak.net,rotana.video#$#abort-on-property-read atob
 hayan.tv#@##uzcrsite
+haychillz.com#$#abort-current-inline-script Object.defineProperty fromCharCode
 hayhaytv.org,animet.org,subnhanh1.org#$#override-property-read maxAds 0
 hayhaytv.vn#@#.ads_wrapper
 hb.qq.com##div[style*="width:960px; height:90px;"]
@@ -13703,7 +13707,7 @@ pharmnet.com.cn##.ad9502
 phimdinhcao.net,phimlongtieng.net,www.phimdinhcaoz.com#$#abort-on-property-read localStorage
 phimgichill.net#$#abort-current-inline-script jQuery popurl
 phimgichill.net,hhhay.ink,hh3dhay.life,truyengihotnha.com,truyengihotnha.net,tram3d.net,animevietsub.cx#$#abort-current-inline-script eval $._Eu
-phimhdctv.com,motchill.plus#$#abort-current-inline-script document.addEventListener linksToOpen
+phimhdc.wiki,motchill.plus#$#abort-current-inline-script document.addEventListener linksToOpen
 phimmoi.club,motphimww.net#$#abort-current-inline-script addEvent popu
 phimmoi4s.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 phimtho.net#$#abort-current-inline-script $ p0pUpRandom
@@ -15750,7 +15754,7 @@ v2rayssr.com#?#.content-area > .single-bottom-html:has(> div[align="center"] > .
 v2rayssr.com#?#.sidebar-innter > .widget:has(.adsbygoogle)
 v2rayssr.com#?#.single-top-html:has(> div:only-child > a[target="_blank"] > img)
 va.huya.com
-vailonxx.co,phimlongtieng.com,phimlongtieng.net#$#abort-current-inline-script jQuery window.open
+vailonxx.vip,phimlongtieng.com,phimlongtieng.net#$#abort-current-inline-script jQuery window.open
 vanpeople.com##.advlr
 vanpeople.com##.banneradv-newbox
 vanpeople.com##.main-adv
@@ -16883,6 +16887,7 @@ zzzyk.com###Tinfo
 ||*.com/*fbeea*.js^$domain=footfetishvid.com
 ||*.e437040a9a.com/api/senddata?^$xmlhttprequest,domain=porntrex.com
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
+||*.top^$domain=ltswu.org
 ||*/ad/$redirect=noop-0.1s.mp3,domain=huaren.tv,media
 ||*/ad/$rewrite=abp-resource:blank-mp3,domain=huaren.tv
 ||*xav.*/guang/*.gif
@@ -18156,6 +18161,7 @@ zzzyk.com###Tinfo
 ||8d7hhh8x.com^
 ||8d8d.me/images/dealer.gif
 ||8en.net^$third-party
+||8et.icu^
 ||8feichai.com^
 ||8g0j.cn^
 ||8gp4wjq3.com^
@@ -21100,6 +21106,7 @@ zzzyk.com###Tinfo
 ||ctfile.com/popjump.php?$popup
 ||cthbini.xyz^
 ||ctienlf.top^
+||ctimiyf.top^
 ||ctkyom.xyz^
 ||ctlacnh.icu^
 ||ctlrarz.xyz^
@@ -21394,6 +21401,7 @@ zzzyk.com###Tinfo
 ||dd778899dd.com^
 ||ddaixdz.cn^
 ||ddbuwo.cn^
+||dddstew6cw8.fun^
 ||ddgjjj.com^
 ||ddgjjj.com^$third-party
 ||ddielv.cn^
@@ -21509,6 +21517,7 @@ zzzyk.com###Tinfo
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dhkqqe.top^
 ||dhl.135320.com^
 ||dhukul.com^
 ||dhxrop.com^
@@ -22616,6 +22625,7 @@ zzzyk.com###Tinfo
 ||fjshxjs.cn^
 ||fjsytjs.cn^
 ||fjtroip.cn^
+||fjuga.top
 ||fjxstt.xyz^
 ||fjzimaoqu.cn^$third-party
 ||fkesfg.com^
@@ -23927,6 +23937,7 @@ zzzyk.com###Tinfo
 ||hthivr.xyz^
 ||hthvc.icu^
 ||htienlu.top^
+||htimiyu.top^
 ||htjrlm.com^
 ||html-load.com^$domain=talkwithstranger.com|heureka.cz|the-crossword-solver.com|nyitvatartas24.hu|oraridiapertura24.it|horairesdouverture24.fr|oeffnungszeitenbuch.de|palabr.as|cruciverba.it|motscroises.fr|crosswordsolver.com|dziennik.pl|convertcase.net|raetsel-hilfe.de|manta.com|tportal.hr|petitfute.com|laleggepertutti.it|wfmz.com|golf-live.at|word-grabber.com|kreuzwortraetsel.de|verkaufsoffener-sonntag.com|wort-suchen.de|rostercon.com|woxikon.de|woxikon.es|woxikon.se|woxikon.com|woxikon.fr|woxikon.mx|woxikon.it|woxikon.nl|woxikon.com.br|woxikon.co|woxikon.dk|woxikon.pl|woxikon.cl|woxikon.pt|woxikon.ru|woxikon.bg|woxikon.co.uk|eurointegration.com.ua
 ||htoetgk.icu^
@@ -27599,6 +27610,7 @@ zzzyk.com###Tinfo
 ||owlinggnomist.com^
 ||owlunimmvn.com^
 ||owrkwilxbw.com^
+||owsrgljb.icu^
 ||owurserk.top^
 ||owyame.xyz^
 ||oxj8hcfg.xyz^
@@ -30339,6 +30351,7 @@ zzzyk.com###Tinfo
 ||trc.taboola.com^
 ||trebleperfect.com^$third-party
 ||treferty33.fun^
+||treimphens.com^
 ||trektinyreproduce.com^
 ||trendmicro.com.tw/wp-content/uploads/*Banner
 ||trends.com.cn/k.js
@@ -31476,6 +31489,7 @@ zzzyk.com###Tinfo
 ||wkybwa.xyz^
 ||wkywrc.cn^
 ||wkzsmj.icu^
+||wkzw.me^
 ||wl.uqwjdhgv.top^
 ||wlgxaij.cn^
 ||wlhcb.cn^
@@ -32629,6 +32643,7 @@ zzzyk.com###Tinfo
 ||yrqwnc.cn^
 ||yrr56.com/mp4/pt_720.
 ||yrszy.com.cn^
+||yruadj.top^
 ||yruws6.com^
 ||ys2000.cdn.bcebos.com^
 ||ys630.com^$third-party
@@ -33061,6 +33076,7 @@ zzzyk.com###Tinfo
 ||zikeke7.com^
 ||zinzimo.info^$domain=pronpic.org
 ||zio8.icu^
+||ziqniduy.com^
 ||ziravd.xyz^
 ||zisnuthz.com^
 ||zisu.cn.com^
@@ -33163,6 +33179,7 @@ zzzyk.com###Tinfo
 ||zqgixxp.icu^
 ||zqkxlf.com^
 ||zqzq*.com:*/da.aspx
+||zr3.icu^
 ||zrakpxsf.com^
 ||zrblog.net/gg/
 ||zrblog.net/zanzhu/virpus.gif
