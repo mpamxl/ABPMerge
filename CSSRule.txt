@@ -3468,6 +3468,7 @@ app.n26.com#@#.bl > .gg
 appchina.com###yyh-bottom
 appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
+appinn.com###sidebar > .widget_block > a
 appinn.com###sidebar a[rel*="sponsored"]
 appinn.com##.ads-m
 appinn.com##a[href*=".houdeyun.cn"]
@@ -6274,6 +6275,7 @@ fxykx.com,pantsu.cat#@##banner_ad
 fydisk.com###vbox
 fz.se###AdBlockerInfo
 fznews.com.cn##.kuang100_right
+g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 g-years.com,ghoffice.com,gpsuu.com,mydigit.cn###main > .textMes
 gaara-fr.com###ga-skin-left
 gaara-fr.com###ga-skin-right
@@ -8025,6 +8027,7 @@ jmw.com.cn##.mr_1
 jmw.com.cn##.rightCouplet
 jmw.com.cn##.top_pic
 jmw.com.cn##[class^="advertising"]
+jnhulz5yys.shop,wuwuplus.shop##.small-icon-container
 jnnc.com###float_layer
 jnnc.com##.basehr + div
 jokeji.cn##.ad360_280
@@ -9408,6 +9411,7 @@ news.mydrivers.com##div[style="width:1000px;padding-top:16px;padding-bottom:12px
 news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
 news.owlting.com##.profit-wrapper
+news.pchome.com.tw###head-area > div[align="center"]
 news.pchome.com.tw##.adfloat
 news.pchome.com.tw##div[class^="adnewlist"]
 news.pchome.com.tw##div[style="width:300px;height:250px"]
@@ -11171,7 +11175,6 @@ sports.sohu.com##.allsee-list > .bd-wrap
 sports4u.tv,sports4u.live#@##adblock
 sportshubtv.com###ad_show
 sportshubtv.com###ad_tekst
-sportsplanetmag.com##.adshow
 sportsv.net##.adv01
 sporttery.cn###newDiv
 sporttvdireto.com#@##ads1
