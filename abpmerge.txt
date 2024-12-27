@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-12-26 16:09:35
-! Total count: 32440
+! Version: 2024-12-27 16:09:00
+! Total count: 32451
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6954,6 +6954,7 @@ aizhan.com##.btn
 ajaxshowtime.com##div.leaderboard_ad + div
 ajaxshowtime.com#?#div:-abp-properties(content: "Advertentie";)
 akhbara24.news,anime4up.art,anime4up.com,arabseed.me,asia2tv.cn,asia2tv.com,baramjak.com,cima-club.cc,cima-club.in,cima-club.io,cima-club.lol,cima-club.vip,cima4u.cloud,cima4u.film,cima4u.ink,cima4u.tube,cima4u.tv,cima4u.ws,cimalina.me,cimalina.net,egy-live.online,egynow.cam,egynow.live,faselhd.ac,faselhd.co,faselhd.live,hawak.net,iegybest.co,lodynet.cloud,lodynet.co,lodynet.dev,lodynet.ink,lodynet.tv,lodynet.win,manga.ae,moshahda.net,movizland.online,egyanime.com,egydead.com,egydead.live,shahed4u.*,shaheed4u.*,shahid4uu.cam,tuktukcinema.co,tuktukcinema.net,witanime.com,yalla-shoot.today#$#abort-current-inline-script document.documentElement /atob|case|JSON.parse/; abort-current-inline-script String.fromCharCode /atob|break/; abort-on-property-write JSON.parse; abort-current-inline-script Math /atob|break/;
+akkxs.net##+js(abort-current-script, eval, _0x)
 akwam.cc,akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,akwam.us,gateanime.com#$#abort-on-property-read String.fromCharCode
 alexa.cn##.importantList
 alexa.cn##.importantTop
@@ -8058,6 +8059,7 @@ buzzorange.com#?#.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
 bytzbiorowy.pl###stickymsg
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
+bzmh.org,g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 c.biancheng.net##.ggxc-box > a[target="_blank"] > img
 c114.com.cn###ad_r1
 c114.com.cn###barrage_ad
@@ -9995,7 +9997,6 @@ fxykx.com,pantsu.cat#@##banner_ad
 fydisk.com###vbox
 fz.se###AdBlockerInfo
 fznews.com.cn##.kuang100_right
-g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 g-years.com,ghoffice.com,gpsuu.com,mydigit.cn###main > .textMes
 g.huya.com
 gaara-fr.com###ga-skin-left
@@ -18312,7 +18313,6 @@ zzzyk.com###Tinfo
 ||a.qinghua5.com^
 ||a.qncye.net^
 ||a.qsjiajiao.com^
-||a.quangushi.com^
 ||a.qunzou.com^
 ||a.rensheng5.com^
 ||a.shenchuang.com^
@@ -18349,6 +18349,7 @@ zzzyk.com###Tinfo
 ||a1.bajiu.cn^
 ||a1.bestopview.com^
 ||a1.bookapka.com^
+||a1.cyyangqiguan.com^
 ||a1.firefoxchina.cn^
 ||a1.itc.cn^
 ||a1.lshou.com^
@@ -18774,7 +18775,6 @@ zzzyk.com###Tinfo
 ||aiyuke.com/position_js*_*_
 ||aizhan.com/images/img/ios-sign.png
 ||aizhan.com/imagesa/
-||aizhantj.com^
 ||aj4j.icu^
 ||ajax.googleapis.com/ajax/libs/jquery/$domain=darkcomet-rat.com
 ||ajbpcxi.xyz^
@@ -20062,6 +20062,7 @@ zzzyk.com###Tinfo
 ||bw66.cn/template/default_pc/bbs/
 ||bwdhuanbao.com^
 ||bweriov.top^
+||bwilmiv.top^
 ||bwjfnj.xyz^
 ||bwurserv.top^
 ||bwz4e.icu^
@@ -20671,6 +20672,7 @@ zzzyk.com###Tinfo
 ||cnc.cdn.dopc.cz^*?format=js$script,domain=ahaonline.cz|info.cz|onetv.cz
 ||cnc.cdn.dopc.cz^*?format=js$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 ||cncnails.net^
+||cncover.godamanga.online/ad/
 ||cndns.com/incs/js/website_mobile.js
 ||cndzys.com/huanlian/
 ||cnfol.com/Count.html
@@ -22542,6 +22544,7 @@ zzzyk.com###Tinfo
 ||fywaaox.icu^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
+||fzdwtage.icu^
 ||fzgetdy.cn^
 ||fzjbsvgz.icu^
 ||fzllis.cn^
@@ -22834,8 +22837,10 @@ zzzyk.com###Tinfo
 ||gmgbmzz.xyz^
 ||gmicu.cn^
 ||gmmlmo.xyz^
+||gmso1*oka.top/$script,third-party
 ||gmso12251oka.top^
 ||gmso12261oka.top^
+||gmso12271oka.top^
 ||gmxvmvptfm.com^
 ||gmxysb.icu^
 ||gndmnrh.cn^
@@ -23062,6 +23067,7 @@ zzzyk.com###Tinfo
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
 ||gw2cddpt2hao.site^
+||gw8.icu^
 ||gwbnsh.net.cn/hd/unicom/ad.html
 ||gwertyuadf.com^
 ||gwg51.com^
@@ -25871,6 +25877,7 @@ zzzyk.com###Tinfo
 ||m.uscdn.top^
 ||m.vcsoat.cn^
 ||m.wantemachine.com.cn^
+||m.xsbiquge.la/js/detail.js
 ||m.xylmdm.top^
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m.ygexing.com/d/js/acmsd
@@ -26537,6 +26544,7 @@ zzzyk.com###Tinfo
 ||n6579.com^
 ||n7181.com^
 ||n7a.icu^
+||n8u.icu^
 ||na06.cn^
 ||naajie.com/float.js
 ||naemailom.fun^
@@ -26566,6 +26574,7 @@ zzzyk.com###Tinfo
 ||nclljn.xyz^
 ||ncmxwhf.icu^
 ||ncnfjasd.net^
+||ncvwnp.icu^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndbaxn.xyz^
 ||ndfsl.com^
@@ -28351,6 +28360,7 @@ zzzyk.com###Tinfo
 ||sa8zdui.com^
 ||saccac11.com^
 ||sacfasv.com^
+||sachaits.com^
 ||sacre.cn^
 ||sacredperpetratorbasketball.com^
 ||sacvmb.icu^
@@ -28419,6 +28429,7 @@ zzzyk.com###Tinfo
 ||sconat.com^
 ||sconline.com.tw/top/coolpc_
 ||scorebull.com/adv/$popup
+||screddoit.com^
 ||screspoy.com^
 ||script-bd.baixing.net^
 ||script.banstex.com/script/
