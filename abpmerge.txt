@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2024-12-29 16:08:16
-! Total count: 32480
+! Version: 2024-12-30 16:09:18
+! Total count: 32491
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8462,6 +8462,7 @@ cnbeta.com##div[id][style^="position: fixed; bottom: 0px;"]
 cnbeta.com##div[style^="display:block !important;"]
 cnbeta.com.tw##.article-global
 cnbeta.com.tw##.cbv:not(#cb_share) a
+cnbeta.com.tw##.meta > .fr > a[target="_blank"] > img
 cnbeta.com.tw##.tks
 cnbeta.com.tw##[class^="cbv"]
 cnbeta.com.tw##div[id^="cbh"]
@@ -17842,6 +17843,7 @@ zzzyk.com###Tinfo
 ||5xdmw.com/tb.jpg
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
+||5yl.icu^
 ||5z0d3.cyou^
 ||5z2oy.icu^
 ||6.cn/coop/pub/getRand.php?
@@ -21762,6 +21764,8 @@ zzzyk.com###Tinfo
 ||dytt8.com/js1y/
 ||dytt8.net/js3/
 ||dytt8.net/jsd
+||dyxz*.com/static/gdw.js
+||dyxz*.com/static/jquery.js?
 ||dyzgdp.xyz^
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
@@ -24962,6 +24966,7 @@ zzzyk.com###Tinfo
 ||kbomku.xyz^
 ||kc-valves.com^
 ||kccdk.com/Content/img/*.gif
+||kclimid.top^
 ||kcnwe.xyz^
 ||kdamcsd.top^
 ||kdcl.pchome.com.tw^
@@ -26857,6 +26862,7 @@ zzzyk.com###Tinfo
 ||o1b04.cyou^
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
+||o3t.icu^
 ||o8zoz.icu^
 ||oa-panther.data.aliyun.com^$third-party
 ||oa.hinews.cn/work/img/
@@ -27629,6 +27635,7 @@ zzzyk.com###Tinfo
 ||pygokay.cn^
 ||pyjqhb.xyz^
 ||pypwxvo.cn^
+||pytexb.icu^
 ||pzfqzv.xyz^
 ||pzjizsyf.icu^
 ||pzkrgcp.cn^
@@ -28448,6 +28455,7 @@ zzzyk.com###Tinfo
 ||scint-x.com/js/
 ||scjpqut.cn^
 ||sckyf.com^
+||sclimib.top^
 ||scoev.cn^
 ||scoldak.com^
 ||sconat.com^
@@ -28673,6 +28681,7 @@ zzzyk.com###Tinfo
 ||shnpetdb638.shop^
 ||shnpetdn185.shop^
 ||shoagooy.net^
+||sholphot.com^
 ||shop.yipanhaocai.com^
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
 ||shouji.com.cn/static/v1/js/appinfo.js
@@ -31080,6 +31089,7 @@ zzzyk.com###Tinfo
 ||xadulxs.cn^
 ||xafuzcxr.xyz^
 ||xahycw.com^
+||xamniksq.com^
 ||xamssp.icu^
 ||xanimu.com/*.php$domain=xanimu.com
 ||xanimu.com/ablck$domain=xanimu.com
@@ -31088,6 +31098,7 @@ zzzyk.com###Tinfo
 ||xayjbz.com/static/images/apc.
 ||xazbts.com^
 ||xbbhwggj.icu^
+||xbfebqya.icu^
 ||xbiqu5.com/12345678.
 ||xbiqu5.com/12345678.js
 ||xbiquge99.cc/js/dj
