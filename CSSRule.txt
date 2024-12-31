@@ -2054,6 +2054,7 @@
 163.com##.fixed_foot_ad
 163.com##.gkk_bj_yw
 163.com##.gkk_default_yw
+163.com##.hp_textlink1_ad
 163.com##.idx_textlink_ad
 163.com##.idx_tonglan_ad
 163.com##.idx_top_ad
@@ -2067,6 +2068,7 @@
 163.com##.mod_ad_toutu
 163.com##.ns-side-qrcode
 163.com##.post_adtop_main
+163.com##.post_columnad_top
 163.com##.post_recommend_ad
 163.com##.quickmark
 163.com##.redpacket-footer
@@ -7049,6 +7051,7 @@ howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 howbuy.com#@#.ad_wrapper
 howdyho.net,howdyho.pro#@#:not(my-obnaruzhili-adblock)
 howdyho.net,howdyho.pro#@#:not(my-obnaruzhili-blokirovshchik)
+howdyho.net,howdyho.pro#@#html[lang="ru"] :not(my-obnaruzhili-adblock)
 hpjav.tv##body > div[style^="position: fixed;"]
 hqdoor.com##.index_ad2
 hqdoor.com##.index_newad
