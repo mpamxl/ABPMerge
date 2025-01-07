@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-01-06 16:09:37
-! Total count: 32030
+! Version: 2025-01-07 16:26:00
+! Total count: 32046
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2235,6 +2235,7 @@ $websocket,domain=wap.yushuwu.cloud
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
+/\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
@@ -4275,6 +4276,7 @@ $websocket,domain=wap.yushuwu.cloud
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
 52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn510.cc##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn511.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -16215,7 +16217,7 @@ www.youtube.com#$#override-property-read Object.prototype.videoSkipJob_ noopFunc
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,music.youtube.com,youtubekids.com,youtube-nocookie.com#$#override-property-read ytInitialPlayerResponse.adPlacements undefined;
 www.youtube.com,m.youtube.com,youtube-nocookie.com#$#skip-video 'video.html5-main-video' './/div[@id="ytlr-player__player-container"]//div[contains(@class,"ad-interrupting") or contains(@class,"ad-showing")]';
-www.youtube.com,youtube-nocookie.com#$#race start; skip-video '#primary .video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1010' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1020' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-start-from:1030' '-stop-on-video-end:true'; race stop;
+www.youtube.com,youtube-nocookie.com#$#race start; skip-video '.video-stream' './/ytd-player/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1010' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]/div[@id]//div[contains(@class,"ad-interrupting")]' '-start-from:1020' '-stop-on-video-end:true'; skip-video 'video.html5-main-video' './/div[@id="player"]//div[contains(@class,"ad-interrupting")]' '-start-from:1030' '-stop-on-video-end:true'; race stop;
 www.zhihu.com##.KfeCollection-VipRecommendCard
 www.zhihu.com##.OpenInAppButton
 www.zhihu.com##A.MBannerAd
@@ -16722,6 +16724,8 @@ zjst.net##body > style ~ *,.vod-gd
 zk001.cc##section[class^="ch"]
 zn510.cc###klp_hdp
 zn510.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zn511.cc###klp_hdp
+zn511.cc#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 znds.com###diy_mobanbus_view_right2
 znews.vn#$#abort-on-property-read adtimaConfig
 zol.com.cn###Article_Top_Banner
@@ -17518,6 +17522,7 @@ zzzyk.com###Tinfo
 ||4399.com/loadimg/iframe_
 ||4399.com/loadimg/loading.htm
 ||4399sj.com^*/mask-ad
+||43a.icu^
 ||4438x*.com/Runtime/js/
 ||44629.com^
 ||44pd.com^*xds/
@@ -18327,6 +18332,7 @@ zzzyk.com###Tinfo
 ||abc.douguo.com^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
+||abc.ruodian360.com^
 ||abc.yebaike.com^
 ||abcache.com/tg/
 ||abcache.com/xc/image/
@@ -18960,6 +18966,7 @@ zzzyk.com###Tinfo
 ||aolusb.com/forever/
 ||aoqinglv.cn^
 ||aornkmae.com^
+||aos01070ss.xyz^
 ||aoshi.com/rbc.jpg
 ||aotu43.com/templates/defboot/js/duilian.js
 ||aourgk.xyz^
@@ -20697,6 +20704,7 @@ zzzyk.com###Tinfo
 ||cpro.zol.com.cn^
 ||cpro88.vip^
 ||cpt.9136.com/img/b_special/
+||cpu.baidu.com/block/wap/
 ||cpu.baidu.com^$third-party
 ||cpucdn.baidu.com^
 ||cpwlctfk.xyz^
@@ -21652,6 +21660,7 @@ zzzyk.com###Tinfo
 ||e3c7.com/love/
 ||e3ol.com/inc/
 ||e49.xyz^
+||e50.icu^
 ||e5yx.com^$popup
 ||e8d7.icu^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
@@ -21755,6 +21764,7 @@ zzzyk.com###Tinfo
 ||educity.cn/self_text/text_disp.aspx?id=
 ||eduizioq.com^
 ||eduuu.com/website/public_js/pc_aso.js
+||edyurliw.top^
 ||ee.m08pe.cn^$third-party
 ||ee.shixunwang.net^
 ||ee021.com/Runtime/js/
@@ -22626,6 +22636,7 @@ zzzyk.com###Tinfo
 ||ghabnq.xyz^
 ||gheqien.com^
 ||gherkax.com^
+||gheslosy.com^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
@@ -24270,6 +24281,7 @@ zzzyk.com###Tinfo
 ||jf2v.mnpool.cn^
 ||jfjslia.top^
 ||jfnkjr.xyz^
+||jfrrnf.icu^
 ||jfsdiwmnbsk009.top^
 ||jfyb6.com^
 ||jg1668.com^$third-party
@@ -25149,6 +25161,7 @@ zzzyk.com###Tinfo
 ||lawtv.com.cn/skin/newplayer/ads_dianshi.php
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
 ||lb5o9.com^
+||lbfuvlyp.icu^
 ||lbjekygz.icu^
 ||lbnqnp.xyz^
 ||lbprjdi.cn^
@@ -28123,6 +28136,7 @@ zzzyk.com###Tinfo
 ||scint-x.com/js/
 ||scjpqut.cn^
 ||scjtfh.xyz^
+||sckfcn.cn^
 ||sckyf.com^
 ||sclimib.top^
 ||scoev.cn^
@@ -28185,6 +28199,7 @@ zzzyk.com###Tinfo
 ||sdtsad.com^
 ||sdvfvgj.cn^
 ||sdvsv.com^
+||sdyurlib.top^
 ||sdzbcg.com/images/sdfhyl
 ||sdzhongke.cn^
 ||se533.com/template/new/css/*.js
@@ -28712,6 +28727,7 @@ zzzyk.com###Tinfo
 ||ssyy881.com/zz/
 ||st-fly.b-cdn.net^
 ||stadig.ifeng.com^
+||staivoiks.com^
 ||star-media.cn^$third-party
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||staramuse.com/bmip/showg
