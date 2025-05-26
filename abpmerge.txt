@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-05-25 16:12:15
-! Total count: 33708
+! Version: 2025-05-26 08:21:56
+! Total count: 33719
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7355,6 +7355,7 @@ apple.com.cn#$##ac-globalnav { top: 0 !important; }
 apple.com.cn#$#.ac-gn-blur { top: 0 !important; }
 apple.com.cn#$#html #globalnav { top: 0 !important; }
 apple.com.cn#$#html { margin-top: 0 !important; }
+applealmond.com##div[id^="applealmond_inread_"]
 applealmond.com##div[style*="height: 260px;"][style*="text-align: center;"]
 appledaily.com###ebBannerTopDiv + A[href^="http://bit.ly/"]
 appledaily.com.tw##.THISISANADHERE
@@ -19415,6 +19416,7 @@ zzzyk.com###Tinfo
 ||aoyou5.top^
 ||aparvibices.com^
 ||apdfmhp.cn^
+||apeacc.icu^
 ||apfobmfr.cn^
 ||api-a.ganjingworld.com/*/adsserver/get-vast-xml/
 ||api-access.pangolin-sdk-toutiao-b.com^
@@ -19566,6 +19568,7 @@ zzzyk.com###Tinfo
 ||aty.sohu.com^
 ||atyun.com/wp-content/themes/xmag/js/ad.js
 ||atzhcjv.xyz^
+||au.adhacker.online^$third-party
 ||au6w0.xyz^
 ||auction.unityads.unity3d.com^
 ||audid-api.taobao.com^
@@ -20118,6 +20121,7 @@ zzzyk.com###Tinfo
 ||bgbyzv.xyz^
 ||bgdizsay.icu^
 ||bgf05251lko.com^
+||bgf05261lko.com^
 ||bghebf.xyz^
 ||bgidskiv.top^
 ||bh0874.online^
@@ -22048,6 +22052,7 @@ zzzyk.com###Tinfo
 ||downxia.com/dgjs/download.js
 ||downyi.com/tg/
 ||doxihz.xyz^
+||dozu5h9yql.com^
 ||dp3.qq.com/qqcom/
 ||dp3.qq.com^
 ||dpbgnf.xyz^
@@ -22837,6 +22842,7 @@ zzzyk.com###Tinfo
 ||fgdkfr.xyz^
 ||fgetmzx.icu^
 ||fgfhgvtj.com^
+||fghggng.com^
 ||fghghh.cn^
 ||fgnfpnae.icu^
 ||fgnzdb.xyz^
@@ -23117,6 +23123,7 @@ zzzyk.com###Tinfo
 ||fzjbsvgz.icu^
 ||fzllis.cn^
 ||fzlol.com/images/$script
+||fznidd.top^
 ||fzpchome.com/txt/$script
 ||fzpzrqou.icu^
 ||fztyrv.xyz^
@@ -23392,6 +23399,7 @@ zzzyk.com###Tinfo
 ||gklox.cn^
 ||gknybkl.cn^
 ||gkutca.xyz^
+||gkxqt.cn^
 ||gkypgw.xyz^
 ||gl.zle.com^
 ||glczys.xyz^
@@ -25085,6 +25093,7 @@ zzzyk.com###Tinfo
 ||jcokamia.top^
 ||jcpecb.com^
 ||jcppcmqa.icu^
+||jcquhetqcp.com^
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
 ||jcwlsofn.icu^
@@ -26668,6 +26677,7 @@ zzzyk.com###Tinfo
 ||m6j37.xyz^
 ||m7g2v1b9.com^
 ||m8zgls6zt.com^
+||m9s3h265lq.com^
 ||ma1.meishij.net^
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
@@ -31502,6 +31512,7 @@ zzzyk.com###Tinfo
 ||vizacasa.xyz^
 ||vjharl.xyz^
 ||vjie.com^$third-party
+||vjml.cn^
 ||vjvj.vj24co.com^
 ||vjzqfh.icu^
 ||vjzvgvgz.icu^
