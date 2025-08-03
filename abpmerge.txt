@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-02 16:13:40
-! Total count: 34398
+! Version: 2025-08-03 08:15:16
+! Total count: 34407
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20988,6 +20988,7 @@ zzzyk.com###Tinfo
 ||cheda10.icu^
 ||cheda7.icu^
 ||chedethw.com^
+||cheesevp.com^
 ||cheh9k4t.com^
 ||chengdu.cn/acts/phoneqss/openCornerWin/
 ||chengtongled.com/gg/
@@ -21508,6 +21509,7 @@ zzzyk.com###Tinfo
 ||cuaeblh.icu^
 ||cucnmtf.top^
 ||cuevana3.eu/edgeSystemV1.js^$domain=cuevana3.eu
+||cui3875.xyz^
 ||cuioxbqi.com^
 ||cukuix.com^
 ||cultofmac.com/wp-content/plugins/com2014-ads/static/js/frontend-functionality.js$script
@@ -25849,6 +25851,7 @@ zzzyk.com###Tinfo
 ||jujcjz.xyz^
 ||juji.tv/Runtime/js/
 ||jun01.oss-cn-beijing.aliyuncs.com^
+||junpjmg96.com^
 ||junshi8181.com^
 ||junshizhanlue.com^$third-party
 ||juqingw.com/js/tad
@@ -26269,6 +26272,7 @@ zzzyk.com###Tinfo
 ||kryeia.xyz^
 ||ks66666661.com^
 ||ksadrewrty.com^
+||ksaef6idy.com^
 ||kscly.com^
 ||ksdayhtj.shop^
 ||ksdayhtl.xyz^
@@ -26331,6 +26335,7 @@ zzzyk.com###Tinfo
 ||kuwo.cn/static/swf/xctg.swf
 ||kuxkddg.cn^
 ||kv8899.com^
+||kvbh.cn^
 ||kvhee.com^
 ||kvkcei.xyz^
 ||kvqp.cn^
@@ -28017,6 +28022,7 @@ zzzyk.com###Tinfo
 ||nug08011lu.com^
 ||nug08020lu.com^
 ||nug08021lu.com^
+||nug08030lu.com^
 ||nuheoub.cn^
 ||nuhgpx.xyz^
 ||nuiknnf.icu^
@@ -29025,6 +29031,7 @@ zzzyk.com###Tinfo
 ||qbcyr5tfd.com^
 ||qbhmz3.com^
 ||qbhzghb.xyz^
+||qbibsy.icu^
 ||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qbsday.xyz^
@@ -29664,6 +29671,7 @@ zzzyk.com###Tinfo
 ||rjhbjv.xyz^
 ||rjpvnl.icu^
 ||rjsos.com/channel/laomo_dibu.png
+||rjsq7ljyp.com^
 ||rjvzjn.top^
 ||rjwpwod.icu^
 ||rjxvff.icu^
@@ -30809,6 +30817,7 @@ zzzyk.com###Tinfo
 ||syiwgwsqwngrdw.xyz^
 ||sykzow.xyz^
 ||sylnk.net/adblock-detector.htm$subdocument
+||symjgg.icu^
 ||synacast.com^
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=noop.txt,important,domain=hboav.com
 ||syndication.jsadapi.com^$third-party
