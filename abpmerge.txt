@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-04 08:18:57
-! Total count: 34412
+! Version: 2025-08-04 16:17:14
+! Total count: 34419
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -22240,6 +22240,7 @@ zzzyk.com###Tinfo
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
 ||dqjojx.xyz^
+||dqjrxj.icu^
 ||dqlhuf.icu^
 ||dqlrfmwp.icu^
 ||dqrdwz.icu^
@@ -28826,6 +28827,7 @@ zzzyk.com###Tinfo
 ||popcash.net^$third-party
 ||popmyads.com^$third-party
 ||popsvg.xyz^
+||popularr3.top^
 ||poqiod.com^
 ||poqjnkdsou.net^
 ||poqwnllkm.com^
@@ -28920,6 +28922,7 @@ zzzyk.com###Tinfo
 ||ptfish.com/*/ad$image,object
 ||ptfxh.com^
 ||ptgdb.cn^
+||ptju.cn^
 ||ptmabek.cn^
 ||ptrmnx.icu^
 ||pttzjo.top^
@@ -30368,6 +30371,7 @@ zzzyk.com###Tinfo
 ||sknkggfnm.com^
 ||skogsborg.net^
 ||sksbgm.xyz^
+||sksi91y8rs.com^
 ||skskssso.com^
 ||skxuueby.cn^
 ||sky.dunsuan.com^
@@ -31179,6 +31183,7 @@ zzzyk.com###Tinfo
 ||tjnwfjy.cn^
 ||tjqwb.cn^
 ||tjuspyk.icu^
+||tjv250730ads.com^
 ||tjvcffap.icu^
 ||tjwzyjx.icu^
 ||tk.504pk.com^
@@ -32309,6 +32314,7 @@ zzzyk.com###Tinfo
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
 ||w3.ting55.com^
+||w3cfba6ufr.com^
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||w3cschool.cn/index/*Advert
 ||w3xue.com/js/pro541.js
@@ -32420,6 +32426,7 @@ zzzyk.com###Tinfo
 ||webview.unityads.unity3d.com^
 ||wecfgy36.shop^
 ||wedvmr.xyz^
+||weewci.icu^
 ||wefoidnknsl.net^
 ||weggrq0p42.com^
 ||wegowan.com^
