@@ -1601,6 +1601,7 @@
 ##body > div#inplayer[align="center"]
 ##body > div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
+##body > embed[id][src*="://"][src$="="]
 ##body#chapterbody.novel_chapter [style='padding-top: 150px;']
 ##body#nr_body #appss
 ##body#nr_body [onclick='goAppHtml();']
@@ -9649,6 +9650,7 @@ nodejs.cn###pagead
 nodejs.cn###pagead0
 nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
 nodejs.cn##+js(set-constant, adsbygoogle, {})
+nodejs.cn##+js(set-constant, adsbygoogle.loaded, true)
 nodeloc.com###wghtml
 nodeloc.com##.AfruxWidgets-sideNavAlt
 nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
@@ -11506,6 +11508,7 @@ tbtdg.com##.s11text
 tbxt.com###headad2
 tctruyen.cc,abtruyenmoi.com#$#abort-current-inline-script $ popup
 teachinghand.com##.actions__wrapper
+tech.ifeng.com##body > div[style^="width:"][style*="margin: 0px auto; transition:"][style*="position: fixed; z-index:"]
 tech.qq.com##.kjad2
 techbang.com###stickies
 techbang.com##.ad_grey_floor
@@ -12035,6 +12038,7 @@ v.163.com##div[style^="width: 140px; height: 199px;"]
 v.baidu.com##a[href^="http://www.602.com/"]
 v.baidu.com##div[id^="adv_asp_"]
 v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
+v.ifeng.com##+js(set-constant, allData.safeLevel, 1)
 v.ifeng.com##.keyword
 v.pptv.com###video-download-game
 v.qq.com###iwan-gamependant-page

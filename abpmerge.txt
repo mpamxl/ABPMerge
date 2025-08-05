@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-05 08:17:59
-! Total count: 34420
+! Version: 2025-08-05 16:13:37
+! Total count: 34426
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1606,6 +1606,7 @@
 ##body > div#inplayer[align="center"]
 ##body > div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
+##body > embed[id][src*="://"][src$="="]
 ##body#chapterbody.novel_chapter [style='padding-top: 150px;']
 ##body#nr_body #appss
 ##body#nr_body [onclick='goAppHtml();']
@@ -13550,6 +13551,7 @@ nodejs.cn###pagead
 nodejs.cn###pagead0
 nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
 nodejs.cn##+js(set-constant, adsbygoogle, {})
+nodejs.cn##+js(set-constant, adsbygoogle.loaded, true)
 nodeloc.com###wghtml
 nodeloc.com##.AfruxWidgets-sideNavAlt
 nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
@@ -15431,6 +15433,7 @@ tbtdg.com##.s11text
 tbxt.com###headad2
 tctruyen.cc,abtruyenmoi.com#$#abort-current-inline-script $ popup
 teachinghand.com##.actions__wrapper
+tech.ifeng.com##body > div[style^="width:"][style*="margin: 0px auto; transition:"][style*="position: fixed; z-index:"]
 tech.qq.com##.kjad2
 techbang.com###stickies
 techbang.com##.ad_grey_floor
@@ -15968,6 +15971,7 @@ v.163.com##div[style^="width: 140px; height: 199px;"]
 v.baidu.com##a[href^="http://www.602.com/"]
 v.baidu.com##div[id^="adv_asp_"]
 v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
+v.ifeng.com##+js(set-constant, allData.safeLevel, 1)
 v.ifeng.com##.keyword
 v.pptv.com###video-download-game
 v.qq.com###iwan-gamependant-page
@@ -19084,8 +19088,8 @@ zzzyk.com###Tinfo
 ||aegzoils.com^
 ||aeinkailrupe.com^
 ||aeletheacd.com^
-||aem.three.com.hk/content/three/sosim/app/tc/*/promo-
-||aem.three.com.hk/content/three/sosim/app/tc/*/promotion/
+||aem.three.com.hk/content/three/sosim/app/*/promo-
+||aem.three.com.hk/content/three/sosim/app/*/promotion/
 ||aeryt111.fun^
 ||aesxgy.xyz^
 ||aewgwu.icu^
@@ -24721,6 +24725,7 @@ zzzyk.com###Tinfo
 ||i-part.com.tw/js2/newShineStar
 ||i.alipayobjects.com/i/ecmng/$image,domain=my.alipay.com
 ||i.cidianwang.com^
+||i.flive.ifeng.com/baidu_*.html?parentId=frondAd_
 ||i.imgur.com^$domain=av.movie
 ||i100.cao-gao.xyz/aimgs/
 ||i2wq4.icu^
@@ -32872,6 +32877,7 @@ zzzyk.com###Tinfo
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||x-resource05.com/media_orange/server-img/*_1200_120.
 ||x.yaohuo.me^
+||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js
 ||x05occvjw.com^
 ||x08jd.top^
 ||x0or8.icu^
