@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-10 08:14:54
-! Total count: 34448
+! Version: 2025-08-10 16:13:39
+! Total count: 34450
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18412,6 +18412,7 @@ zzzyk.com###Tinfo
 ||7r227ut.cn^
 ||7rag9q1on.com^
 ||7scs.com/Public/img/list-
+||7strqfn56s.com^
 ||7tc.fun^
 ||7u4b8l1zt.com^
 ||7vviw.cyou^
@@ -19996,6 +19997,7 @@ zzzyk.com###Tinfo
 ||bb999.net/pic/n/agents/C-79.gif
 ||bbbazlp.cn^
 ||bbbtttjjj.com^
+||bbcz4tta.top^
 ||bbges.xyz^
 ||bbhktv.xyz^
 ||bbjzly.top^
@@ -27680,7 +27682,6 @@ zzzyk.com###Tinfo
 ||myhack58.com^*0$script
 ||myhaitang.cc/assets/public/*.js
 ||myhaitang.xyz/assets/public/
-||myhuaweicloud.com^
 ||mykch.top^
 ||mylikechat.com^$third-party
 ||mylmad.com^
@@ -32039,6 +32040,7 @@ zzzyk.com###Tinfo
 ||vaykjwn.top^
 ||vbc08091op.com^
 ||vbc08100op.com^
+||vbc08101op.com^
 ||vbdbmqzu.com^
 ||vbiakpu.icu^
 ||vbjm.cn^
