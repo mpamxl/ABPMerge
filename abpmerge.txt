@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-11 08:18:38
-! Total count: 34462
+! Version: 2025-08-11 16:15:31
+! Total count: 34470
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3962,7 +3962,7 @@ $websocket,domain=wap.yushuwu.cloud
 1kkk.com,dm5.com,dm5.hk###beitou
 1kkk.com,dm5.com,dm5.hk##.adform_1
 1kkk.com,dm5.com,dm5.hk##.adform_2
-1lou.icu,1lou.me,1lou.one,1lou.pro###advert > :not(.card)
+1lou.info,1lou.icu,1lou.me,1lou.one,1lou.pro###advert > :not(.card)
 1m3d.com###klp_adtop
 1point3acres.com###portal_block_479
 1point3acres.com##div[style="width: 450px; min-height: 210px;"]
@@ -8014,6 +8014,7 @@ bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 bing.com,cn.bing.net###bnp_rich_div
 bing.com,cn.bing.net##.ad_sc
 bing.com,cn.bing.net##.adsMvC
+bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
@@ -8021,6 +8022,7 @@ bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad
+bing.com,cn.bing.net##li:has(a[h$=",Ads"])
 bingdou.com.cn,hoteastday.com##.float_ad
 bingfeng.tw###adbt
 bingfeng.tw##+js(abort-current-script, setTimeout, COOKIE_NAME)
@@ -8660,6 +8662,7 @@ cn.bing.com##.b_bza_pole
 cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 cn.bing.com#?#.b_algo:-abp-has(p:-abp-properties(content:*Jr8IbslwuuoZ9kr8cTrXXkY8lfZL5p8v2TTht91DQxXZU9AB6BpwzkAAU2AAAAAElFTkSuQmCC))
+cn.bing.com,cn.bing.net##.b_bza_pole
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
 cna.com.tw,ettoday.net##.ad_970
@@ -11578,7 +11581,7 @@ iqiyi.com###scrollWrap-vipbuy
 iqiyi.com###videoBuyContainer
 iqiyi.com###widget-jingdongAd
 iqiyi.com###zbsp
-iqiyi.com##+js(json-prune, data.template.tabs.*.blocks.*.data.data.videos.*.ad)
+iqiyi.com##+js(json-prune, items.*.video.*.data.[-].ad.adScene data.template.tabs.*.blocks.*.data.data.*.videos.feature_ad data.template.tabs.*.blocks.*.data.data.videos.*.ad)
 iqiyi.com##+js(nano-setInterval-booster, adUI, 1000, 0.02)
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
@@ -20176,6 +20179,7 @@ zzzyk.com###Tinfo
 ||bdu.focus.cn^
 ||bdu1.coozhi.cn^
 ||bdunion1.suxiazai.com^
+||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
 ||bdxpdz.xyz^
 ||bea-s.dinghuoche.com^
@@ -25111,6 +25115,7 @@ zzzyk.com###Tinfo
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||imtmp.net^
+||imuchalo.com^
 ||imusye.xyz^
 ||in-page-push.com^
 ||inalzlo.top^
@@ -25201,6 +25206,7 @@ zzzyk.com###Tinfo
 ||iqilu.com/static_files/multiads/
 ||iqilu.com/static_files/richmedia/
 ||iqilu.com/static_files/zones/
+||iqiyi.com/*/ad/*/feature_feed_ad?
 ||iqiyi.com/common/*/cupid/
 ||iqiyi.com/etx?
 ||iqiyi.com/js/common/mars_v.js
@@ -29700,6 +29706,7 @@ zzzyk.com###Tinfo
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
 ||river49xx.org^
+||rivullvwg.com^
 ||rixgpx.xyz^
 ||rixpbp.icu^
 ||riym.cn^
@@ -31327,6 +31334,7 @@ zzzyk.com###Tinfo
 ||towmfs.com^
 ||tp.sgcn.com^
 ||tp1902abd.com^
+||tpaxot.cn^
 ||tpjw.cn^
 ||tpkv.cn^
 ||tptgvh.xyz^
