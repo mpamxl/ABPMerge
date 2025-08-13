@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-13 08:16:27
-! Total count: 34498
+! Version: 2025-08-13 16:12:01
+! Total count: 34502
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18190,6 +18190,7 @@ zzzyk.com###Tinfo
 ||5azvpjx8xj.com^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
+||5dm.link/ablgld/
 ||5dm.link/ancblmszmd/
 ||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
@@ -21670,6 +21671,7 @@ zzzyk.com###Tinfo
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d3nfknbv.icu^
 ||d3pk579obpqv7b.cloudfront.net^$script
+||d3s9in1sg.com^
 ||d3t4q9r0y6a1oz.cloudfront.net^$script,image
 ||d4.sina.com.cn^$object,script
 ||d49-a.sdn.cz^$image,domain=ahaonline.cz|info.cz|iprima.cz|kinobox.cz|kupi.cz|lidovky.cz|nasepenize.cz|novinky.cz|onetv.cz|sport.cz|super.cz
@@ -23768,6 +23770,7 @@ zzzyk.com###Tinfo
 ||gog.cn/sys/online_calc.js
 ||gogorenti.wang/js/m_cp
 ||goi08130kh.com^
+||goi08131kh.com^
 ||goikbnjksdf.com^
 ||goingsranchange.com^
 ||gokrafxr.icu^
@@ -31189,6 +31192,7 @@ zzzyk.com###Tinfo
 ||tieba.baidu.com/game/markConf?
 ||tieba.baidu.com/mo/q/appSpecialThread
 ||tieba.baidu.com/tbapp/user/getRecommendApp
+||tiengrelby.com^
 ||tietuku.com/b975a9f7c494738b.gif
 ||tietuku.com/d57c01987e74d8f8.gif
 ||tiexing.com^$third-party
