@@ -2034,6 +2034,8 @@
 123putlocker.club#$#abort-current-inline-script _0xbc13
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
+131400.best,vikacg.com,vikacg.icu,vikacg.xyz##.post-card-list > a
+131400.best,vikacg.com,vikacg.icu,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
 131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/next/"]
 131458.com###header_gg
@@ -10649,6 +10651,7 @@ rfidworld.com.cn##div[style="width: 100%;position: fixed;top: 0;margin:0;"]
 ria.ru##.antiblock
 riaway.com##.info_message_container
 right.com.cn###hd > div.wp > div.hdc > h2
+right.com.cn##.wp > .a_t:has(> table > tbody > tr > td > .adsbygoogle)
 right.com.cn##a[href^="https://jd.dangbei.com/"]
 right.com.cn#@##sitefocus.focus
 rightwingnews.com##.z-ad-inline
@@ -12080,7 +12083,6 @@ v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block
 v2ex.com##.fr > a[href^="https://www.digitalocean.com/"]
 v2ex.com##.sidebar_compliance
 v2ex.com##.sidebar_units
-v2ex.com##div[class^="wwads-"]
 v2ex.com##div[style][onclick*="geekhub."]
 v2ex.com#?##Rightbar > .box > .inner > .sidebar_units:not(:has(+strong)):upward(2)
 v2ex.com#?##Rightbar > .box > .inner:has(>a[href]:only-child) + .sidebar_compliance > a[href="/advertise"]:upward(2)
