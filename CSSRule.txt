@@ -5396,6 +5396,7 @@ dmzj.com##a[href*="qunhei.com"]
 dngz.net##.hezuo
 dngz.net##.listright > a[target="_blank"] > img
 dngz.net##.tongji
+dns.iui.im##.span12 > a[target="_blank"] > img
 dnwx.com##.mt5_23
 dnwx.com#@#.ad_250
 dnxtc.net##.header > div[style*="margin-top:"]
