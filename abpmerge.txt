@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-16 08:14:40
-! Total count: 34539
+! Version: 2025-08-16 16:12:37
+! Total count: 34543
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19271,6 +19271,7 @@ zzzyk.com###Tinfo
 ||akamaihd.net^*/sid.html?p=
 ||akcnkancklankl.com^
 ||akdie.xyz^
+||akhirzaea.com^
 ||akjdbjkcbacj.com^
 ||akmh074.vip^
 ||akmh080.vip^
@@ -24899,6 +24900,7 @@ zzzyk.com###Tinfo
 ||ifeng.com/*&adids=
 ||ifeng.com/a_if/
 ||ifeng.com/iframe/quickbet
+||ifeng.com/relateshare?
 ||ifeng.com/showcode
 ||ifeng.com/showcode?
 ||ifeng.com/showjs?*apids=
@@ -24918,6 +24920,7 @@ zzzyk.com###Tinfo
 ||ifengimg.com/a/2017/*600.
 ||ifengimg.com/auto/js/*enquiry
 ||ifengimg.com/c337cf1a3749e953/2015/0301/rdn_54f25a4228062.jpg
+||ifengimg.com/feprod/
 ||ifengimg.com/iamsImg/*_w100_h550.
 ||ifengimg.com/ifeng/sources/
 ||ifengimg.com/iis/iis_
@@ -28250,6 +28253,7 @@ zzzyk.com###Tinfo
 ||ohoyao.com^
 ||ohqp.cn^
 ||ohtusgy.icu^
+||ohwb.cn^
 ||oi9rp7.online^
 ||oia04300klq.com^
 ||oibihevlr.com^
