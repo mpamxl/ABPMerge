@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-16 16:12:37
-! Total count: 34543
+! Version: 2025-08-17 08:15:05
+! Total count: 34552
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18025,6 +18025,7 @@ zzzyk.com###Tinfo
 ||4ve.fun^
 ||4vgyjja.cn^
 ||4we.icu^
+||4wg67b9vb.com^
 ||4wm.fun^
 ||4wu3gf.cn^
 ||4xicd08qs.com^
@@ -18695,6 +18696,7 @@ zzzyk.com###Tinfo
 ||9kp.cc/js/bbk/
 ||9ku.com/aaa/
 ||9miwo.com^
+||9o29nhxgp.com^
 ||9odes.ltd^
 ||9oru1vh0w.com^
 ||9s64g.icu^
@@ -19799,6 +19801,7 @@ zzzyk.com###Tinfo
 ||aykibra.cn^
 ||aymtdcg.cn^
 ||aynanjianyy.com^
+||ayodanuauw.com^
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
 ||ayybzhd.cn^
@@ -20525,6 +20528,7 @@ zzzyk.com###Tinfo
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
 ||bqdhrr.top^
+||bqdisnocj.com^
 ||bqdzvl.xyz^
 ||bqg126.com/js/hf
 ||bqg23.cc/js/hf
@@ -21244,6 +21248,7 @@ zzzyk.com###Tinfo
 ||click.taobao.com^$popup,domain=steamcn.com
 ||click.tianyaui.com^
 ||clicksor.net^$third-party
+||cliffed.top^
 ||cliffnsc.xyz^
 ||clkdbbvy.xyz^
 ||clkwnl.xyz^
@@ -23797,6 +23802,7 @@ zzzyk.com###Tinfo
 ||goi08141kh.com^
 ||goi08160kh.com^
 ||goi08161kh.com^
+||goi08170kh.com^
 ||goikbnjksdf.com^
 ||goingsranchange.com^
 ||gokrafxr.icu^
@@ -27999,6 +28005,7 @@ zzzyk.com###Tinfo
 ||nkbpft.xyz^
 ||nkdgnsfsk.com^
 ||nkfith.xyz^
+||nkif.cn^
 ||nkjkvn.xyz^
 ||nktydx.icu^
 ||nl2cq0jr.xyz^
@@ -31801,6 +31808,7 @@ zzzyk.com###Tinfo
 ||uewotga.top^
 ||uewrutt.top^
 ||uewzjy.xyz^
+||ueyuww.icu^
 ||ufeuca.icu^
 ||ufgg55.xyz^
 ||ufgl.cn^
@@ -31823,6 +31831,7 @@ zzzyk.com###Tinfo
 ||uhi02130uik.xyz^
 ||uhityllhn.com^
 ||uhmcjdc.icu^
+||uhnd2ru20.com^
 ||uhuf56.fun^
 ||uhwnrfu.cn^
 ||uhyf.cn^
