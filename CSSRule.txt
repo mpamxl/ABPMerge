@@ -4094,7 +4094,6 @@ benxiang.com##.w-hot-link-txt
 benyixiwang.com##p img[src*=".dlssyht.cn/u/"][title]
 benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
 beppegrillo.it#@#div[id^="div-gpt-ad-"]
-beqg.cc,biquge321.com##+js(addEventListener-defuser, touchend, window.location.href)
 beritabaru.news,solusi.cyou#$#override-property-read setTimeout noopFunc
 bestcclm.com##.wp.cl > a
 bestopview.com###pubtextnone
@@ -4215,6 +4214,7 @@ biqle.org,biqle.ru#$#prevent-listener /click|mousedown/ 'popunder'
 biquge001.com###content > a
 biquge345.com##.puaxqbxs_b
 biquge345.com##div[style^="position:fixed;"]
+biquge543.com,beqg.cc,biquge321.com##+js(addEventListener-defuser, touchend, window.location.href)
 bitauto.com###advCarsumType1
 bitauto.com###bitAd_background
 bitauto.com###bitAd_floatFlash
@@ -11715,7 +11715,7 @@ tmall.com###J_Recommend
 tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
-tmioe.com##.ekxxhn
+tmioe.com##.gorand
 tmioe.com##.widget_image_img
 tmioe.com##.zttimg
 tmioe.com##a[href*=".zps.im"]
@@ -12768,6 +12768,8 @@ xnxx-sexfilme.com#$#hide-if-matches-xpath './/span[contains(text(),"Advertisemen
 xoilacxj.cc#$#abort-on-property-read adsRedirectPopups
 xoivo2.online,tructiepdabong5.co,vaoroi14.live#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 xpiaotian.net#@#.pagead
+xslca.cc##.footer ~ div[class$="fanye"][onclick$="fanye()"]
+xslca.cc##div:not([id]):not([class]) > div[style="width: 412px;"]
 xstud.org#$#abort-on-property-read _0xd07e
 xtuan.com###foot_zhaobiao_bar
 xueqiu.com##.ad-right-aside
