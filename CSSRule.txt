@@ -659,6 +659,7 @@
 ##.con_section > .da
 ##.conch-ads-box
 ##.container + .container > .warp > .cate
+##.container .t-img-box:first-child
 ##.container > #dhshtml
 ##.container > .index-ad
 ##.container > .slide-baidu
@@ -4813,6 +4814,7 @@ cloud.189.cn#@#.ad-container
 cloud.jasaku.net##.adblock
 cloud.tencent.com##.cdc-commercial-swiper
 cloud.tencent.com##.mod-commercial
+cloudme.one#@#.ad-button
 cls.cn#@#.share-body
 club.6parkbbs.com##.body_center:has(> div.adv-6park)
 clubedohardware.com.br#@##banner
