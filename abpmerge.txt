@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-21 08:16:03
-! Total count: 34618
+! Version: 2025-08-21 16:13:34
+! Total count: 34624
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21594,6 +21594,7 @@ zzzyk.com###Tinfo
 ||cupfox*.com/statics/js/ing.js
 ||cupfox.app^$third-party
 ||cupid.iqiyi.com/mixer?
+||cupid.iqiyi.com/mixer?$domain=www.iqiyi.com,badfilter
 ||cupid.iqiyi.com/show2?
 ||cuqpi.cn^
 ||curesdf.top^
@@ -23837,6 +23838,7 @@ zzzyk.com###Tinfo
 ||goi08200kh.com^
 ||goi08201kh.com^
 ||goi08210kh.com^
+||goi08211kh.com^
 ||goikbnjksdf.com^
 ||goingsranchange.com^
 ||gokrafxr.icu^
@@ -26584,6 +26586,7 @@ zzzyk.com###Tinfo
 ||laosiji.com/static/js/lib/od_statistics.js
 ||laowang81.com/getfuolist
 ||laowangblog.com^*-ad
+||laowanglm.com^
 ||laozuo.org/banner/
 ||laprovence.com/fatalistic^
 ||larbcc.xyz^
@@ -27741,6 +27744,7 @@ zzzyk.com###Tinfo
 ||mvxz.com/img/
 ||mw6.me/images/*.gif
 ||mwandlx.top^
+||mwbncf22w.com^
 ||mwcnmtx.top^
 ||mwdwepok.xyz^
 ||mwerilxx.top^
@@ -31116,6 +31120,7 @@ zzzyk.com###Tinfo
 ||tciqgx.xyz^
 ||tclimii.top^
 ||tcmap.com.cn/js/b_
+||tcragarnh.com^
 ||tcsgcdn.top^
 ||tcss.qq.com^
 ||tcuqqhj.icu^
@@ -32223,6 +32228,7 @@ zzzyk.com###Tinfo
 ||venetrigni.com^
 ||venienceilo.fun^
 ||vercel.app/ads/
+||vernaellac.com^
 ||verysadfun.com/assets/publish/jquery.*.js
 ||veryt111.fun^
 ||vevhjj.xyz^
