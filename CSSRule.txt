@@ -7610,6 +7610,8 @@ ipcfun.com###sidebar > ul > li[style]
 ipcfun.com##div[style="height:280px;width:336px;margin:-10px auto 20px auto"]
 iphones.ru##DIV[style="background-color: rgb(222, 71, 0); margin-bottom: 20px; padding: 60px 0px;"]
 ipip.net##.row[style="width:1000px;margin:0px auto 25px auto;"]
+iplark.com##+js(addEventListener-defuser, DOMContentLoaded, localStorage)
+iplark.com##body > div:not([class]):not([style])
 iplaysoft.com###_cblzx
 iplaysoft.com###link1111
 iplaysoft.com###section_postbanner
