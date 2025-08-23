@@ -4122,7 +4122,6 @@ bigpixel.cn#$?##PAGE_AD_1 { remove: true; }
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com##+js(json-prune, data.cm_info.ads)
-bilibili.com##+js(json-prune-fetch-response, data.item.[-].business_info.ad_desc, , /feed/rcmd)
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -12834,7 +12833,6 @@ yahoo.com###my-adsFPL
 yahoo.com###my-adsHPSPON
 yahoo.com###sda-mid-right-2-iframe
 yahoo.com###sda-mid-right-iframe
-yahoo.com###sda-top-center-iframe
 yahoo.com###sda-top-right-iframe
 yahoo.com##.GeminiPortalStreamAd_handleViewport
 yahoo.com##.ad-tl2b
