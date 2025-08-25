@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-24 16:12:12
-! Total count: 34674
+! Version: 2025-08-25 08:17:26
+! Total count: 34685
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17327,6 +17327,7 @@ zzzyk.com###Tinfo
 ||0uvt8b.cn^
 ||0uyt5b.cn^
 ||0vc.fun^
+||0vllsf2g2.com^
 ||0w58wpq55.com^
 ||0x7iufg8hy.com^
 ||0yq00i.cn^
@@ -20417,6 +20418,8 @@ zzzyk.com###Tinfo
 ||bjk08231ip.com^
 ||bjk08240ip.com^
 ||bjk08241ip.com^
+||bjk08250ip.com^
+||bjk08251ip.com^
 ||bjkedv*.xyz^
 ||bjmama.net/a/spc_
 ||bjmantis.net^
@@ -21275,6 +21278,7 @@ zzzyk.com###Tinfo
 ||ckyriuf.icu^
 ||clarin.com/static/CLAClarinV3/js/comprimido.js$script
 ||clarity.ms^
+||clarityid.top^
 ||classic.39health.com^
 ||clb.biz/Public/static/js/common-v2.js
 ||clcimo.icu^
@@ -21477,6 +21481,7 @@ zzzyk.com###Tinfo
 ||cp2.eastmoney.com^
 ||cpatrendreklam.com^$third-party,script
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
+||cpcxke.icu^
 ||cpdronhu.xyz^
 ||cpffkbpq.xyz^
 ||cpglqg.icu^
@@ -24631,6 +24636,7 @@ zzzyk.com###Tinfo
 ||hp8g6.icu^
 ||hpcwwd.com^
 ||hpd.baidu.com^
+||hpfkvr.icu^
 ||hpg786n.cn^
 ||hpgmkbt.icu^
 ||hpiekt.cn^
@@ -26328,6 +26334,7 @@ zzzyk.com###Tinfo
 ||kksjoa.com^
 ||kksjsa.top^
 ||kkylx.xyz^
+||kkzv9rhek.com^
 ||kl.67it.com^
 ||kl.yditweb.cn^
 ||kl91ccp.com^
@@ -27220,6 +27227,7 @@ zzzyk.com###Tinfo
 ||m1vvvv1k2.com^
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
+||m4fxreb5s.com^
 ||m4pgay.com^
 ||m4r.fun^
 ||m5.66077.cn^
@@ -27358,6 +27366,7 @@ zzzyk.com###Tinfo
 ||mebohjhh.xyz^
 ||mecv.cn^
 ||med66.com/lamu/
+||medaahmo.com^
 ||media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/js/blocked.min.js$script,domain=smashingmagazine.com
 ||media.pussycash.com^$third-party
 ||media.rencontreshard.com^$third-party,script
@@ -28648,6 +28657,7 @@ zzzyk.com###Tinfo
 ||p4gdt4um6.com^
 ||p4p.sina.com.cn^
 ||p52q.cn^
+||p70y44odg.com^
 ||p7jroq6xco.com^
 ||p8u.hinet.net^
 ||pa026n1waq.com^
@@ -30581,6 +30591,7 @@ zzzyk.com###Tinfo
 ||slcmvgr.icu^
 ||slfango.ltd^
 ||slit.cn/slimages/
+||sliw.cn^
 ||slkkbnsgn.com^
 ||slonlyuse.shop^
 ||slsuggestion.live^
