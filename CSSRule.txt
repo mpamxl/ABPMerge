@@ -2942,6 +2942,7 @@
 699pic.com##.springtime-floatLink
 699pic.com##.springtime-pop
 699pic.com##.winpopbg
+69shumi.com,biquge543.com,beqg.cc,biquge321.com##+js(addEventListener-defuser, touchend, window.location.href)
 69story.com###main > div[style="margin-top: 15px;"]
 69story.com##aside#secondary > section[id="text-2"]
 69vj.com###nta
@@ -4216,7 +4217,6 @@ biqle.org,biqle.ru#$#prevent-listener /click|mousedown/ 'popunder'
 biquge001.com###content > a
 biquge345.com##.puaxqbxs_b
 biquge345.com##div[style^="position:fixed;"]
-biquge543.com,beqg.cc,biquge321.com##+js(addEventListener-defuser, touchend, window.location.href)
 bitauto.com###advCarsumType1
 bitauto.com###bitAd_background
 bitauto.com###bitAd_floatFlash
@@ -5451,6 +5451,7 @@ doupe.zive.cz#@##adblock-leaderboard
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com###videoSideBar iframe
+douyin.com##xg-controls + div[class]:has(> div[style] > a[href^="https://gad.netease.com/gad/"])
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
 douyin.com#?##videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
@@ -8093,6 +8094,9 @@ jisuxz.com##.dl_gaosu
 jitashe.org##.bc_side_250
 jitashe.org##a[href*=".makeding.com/"]
 jiumodiary.com###forum-panel
+jiuse.io###rd0
+jiuse.io###rd1
+jiuse.io##div[class^="column is-one-quarter-tablet"]
 jiyingdm.com###otherWindowBox
 jiyingdm.com##.abcde
 jiyingw.vip##div[style="text-align:center"] > a > img
@@ -8509,6 +8513,7 @@ lan-sha.com#?#.post-list > li.post-item:not(:has(> div.post-item-container a[hre
 landiannews.com###block-2
 landiannews.com##.sidebar > section#block-4
 landiannews.com##a[href*="ourl.co"]
+landiannews.com##article > .content-gg > a[target="_blank"][rel="nofollow"]
 landiannews.com##section[id^="media_image"]
 lanrentuku.com###advbox
 lanrentuku.com###divjdgg
@@ -8708,6 +8713,7 @@ liues.cn##.widget-graphic-cover
 live.bilibili.com##.container-wrapper[style="height:180px;min-width:1280px"]
 live.bilibili.com##.container-wrapper[style="height:446px;min-width:1280px"]
 live.bilibili.com##.fans-medal-item-ctnr
+live.bilibili.com##.layerWrapperRoot > div[class^="_root_bhaoj_"]
 live.gtcaster.com###bbb
 live.gtcaster.com##[id^="adc"]
 live.thapcam17.net#$#simulate-mouse-event '#modalasd$continue,delay=300'
