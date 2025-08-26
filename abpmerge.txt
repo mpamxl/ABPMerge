@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-26 08:17:02
-! Total count: 34706
+! Version: 2025-08-26 16:13:39
+! Total count: 34711
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9305,6 +9305,8 @@ doupe.zive.cz#@##adblock-leaderboard
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com###videoSideBar iframe
+douyin.com##+js(adjust-setTimeout, .current=setTimeout, 5000, 0.001)
+douyin.com##.playerContainer #video-info-wrap > .video-info-detail:has(a[href="https://gad.netease.com/gad/access"])
 douyin.com##xg-controls + div[class]:has(> div[style] > a[href^="https://gad.netease.com/gad/"])
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
 douyin.com#?##videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
@@ -18300,6 +18302,7 @@ zzzyk.com###Tinfo
 ||63ys.com/*/gct.js
 ||63ys.com/ggg/
 ||644446.com^
+||64lv69ncb9.com^
 ||64ma.com/tv/images/web.png
 ||65432.pw^
 ||66.fmx.cn/js/
@@ -25456,6 +25459,7 @@ zzzyk.com###Tinfo
 ||itopdog.cn/itopdog/d*.js
 ||itoqals.com^
 ||itpest.cn^
+||itqseeh.icu^
 ||itqwesk.icu^
 ||itsmore.cn^$third-party
 ||ittaels.com^
@@ -28571,6 +28575,7 @@ zzzyk.com###Tinfo
 ||osujcq.xyz^
 ||osusjsga.com^
 ||osyliek.top^
+||otfx.cn^
 ||otfy.cn^
 ||other.v.duowan.com^
 ||otheve.beacon.qq.com^
