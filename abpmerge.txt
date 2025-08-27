@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-27 08:15:00
-! Total count: 34725
+! Version: 2025-08-27 16:13:49
+! Total count: 34728
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -23778,6 +23778,7 @@ zzzyk.com###Tinfo
 ||ghozokodq.com^
 ||ghrs.cn^
 ||ghsnhjk.cn^
+||ghwmbue.icu^
 ||ghwqbii.icu^
 ||gi0.icu^
 ||giaoji.com/Runtime/Js/
@@ -24433,6 +24434,7 @@ zzzyk.com###Tinfo
 ||hfawdgz.cn^
 ||hfbfbvmjdmxc.com^
 ||hfctx.cn^
+||hfezidhmmm.com^
 ||hffxc.com^
 ||hfisngksng.com^
 ||hfjk3wa.com^
@@ -32395,6 +32397,7 @@ zzzyk.com###Tinfo
 ||vip.ludu319.com^$third-party
 ||vip.min1319.com^$third-party
 ||vip.panggugu.com^
+||vip.video.qq.com/rpc/trpc.vip_ad_promotion
 ||vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png$domain=ddrk.me
 ||vipdage.com/wp-content/uploads/ad/
 ||vipgogo123.site^
