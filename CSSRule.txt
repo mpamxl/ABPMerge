@@ -3358,6 +3358,7 @@ ali213.net###ali-js-4
 ali213.net###tmp_ggao
 ali213.net###tv
 ali213.net##.ali-photo-carousel-pic > li > a[href*=".fhyx."]
+ali213.net##.box-shadow-right:has(> div[id^="ali-ad-"])
 ali213.net##.coopSteambox
 ali213.net##.detailAlertBox > a[style]
 ali213.net##.head-left
@@ -3365,6 +3366,7 @@ ali213.net##.newright
 ali213.net##.placeholderforpromotion
 ali213.net##.qztf
 ali213.net##.video-window
+ali213.net##.weixincode
 ali213.net##.zadmainholder
 ali213.net##div[class^="GG"]
 ali213.net##div[id^="ali-ad-js-"]
