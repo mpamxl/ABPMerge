@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-28 08:15:12
-! Total count: 34739
+! Version: 2025-08-28 16:14:17
+! Total count: 34749
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7984,6 +7984,7 @@ bilibili.com##.floor-single-card:has(.floor-skeleton):not(:has(> div.bili-video-
 bilibili.com##.gg-floor-module
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
 bilibili.com##.index-promote
+bilibili.com##.layerWrapperRoot > div[style^="width: 1220px;"]
 bilibili.com##.online + .adpos
 bilibili.com##.operate-card[data-target-url*=".miaozhen."]
 bilibili.com##.operate-card[data-target-url*="doubleclick."]
@@ -12400,6 +12401,7 @@ lalulalu.com###overture_main_banner
 lalulalu.com##.overture_banner
 lan-sha.com#?#.post-list > li.post-item:not(:has(> div.post-item-container a[href^="https://www.lan-sha.com/"][href$=".html"]))
 landiannews.com###block-2
+landiannews.com##.content-gg
 landiannews.com##.sidebar > section#block-4
 landiannews.com##a[href*="ourl.co"]
 landiannews.com##article > .content-gg > a[target="_blank"][rel="nofollow"]
@@ -17449,6 +17451,7 @@ zzzyk.com###Tinfo
 ||115img.com/static/115tj.js
 ||115img.com/static/pc/d_
 ||115mm.com/js/
+||116xs.com/js/backbone.js
 ||1188.com^$third-party
 ||119xiazai.com^$subdocument
 ||11dyw.com^
@@ -18009,6 +18012,7 @@ zzzyk.com###Tinfo
 ||4399sj.com^*/mask-ad
 ||43a.icu^
 ||43eksc8w59.com^
+||440012.xyz/js/wapm.js
 ||4438x*.com/Runtime/js/
 ||445nan.com/ad/
 ||44629.com^
@@ -18271,6 +18275,7 @@ zzzyk.com###Tinfo
 ||5odd5zsn.xyz^
 ||5pub.com^
 ||5s98.com/img/
+||5tmobi.cn^$third-party
 ||5uazcu2o1.com^
 ||5uxmusq.cn^
 ||5vdd.com/360
@@ -21261,6 +21266,7 @@ zzzyk.com###Tinfo
 ||cidianwang.com/js/left
 ||cidianwang.com/js/right
 ||cidianwang.com/js/zdtop.js
+||cientch.360doc.cn^
 ||cifnews.com/ajax/adrequest/
 ||cifnews.com/common/js/d/d/tea.js
 ||cifnews.com/yuguo3.0/live_dynamic/js/live_dynamic.js
@@ -26045,6 +26051,7 @@ zzzyk.com###Tinfo
 ||juandou.com^$third-party
 ||juapp5.com/geek_image/chaopai.jpeg
 ||jubnpx.xyz^
+||jubsg4r6qy.com^
 ||jucnwta.top^
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||juiceads.net^
@@ -26643,6 +26650,7 @@ zzzyk.com###Tinfo
 ||lalaping.com^
 ||laljjn.xyz^
 ||lamkghx.icu^
+||lancdn.com/public/images/view/Tencent-
 ||lancdn.com/tmp3/GG_Notice.png
 ||langxi.org/langxi/*900$image,object
 ||langya.cn/2014html/2014ad_
@@ -28101,6 +28109,7 @@ zzzyk.com###Tinfo
 ||nimoatl.icu^
 ||nio08270lt.com^
 ||nio08271lt.com^
+||nio08281lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -28888,6 +28897,7 @@ zzzyk.com###Tinfo
 ||photo.*/native?tk=$third-party
 ||photo07.xyz^
 ||photos18.com/images/friend/
+||phozatoi.com^
 ||phozeksr.com^
 ||php.cn/ad1.
 ||php.cn/hezuo/
