@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-28 16:14:17
-! Total count: 34749
+! Version: 2025-08-29 08:14:59
+! Total count: 34759
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7975,6 +7975,7 @@ bilibili.com##.bili-dyn-ads
 bilibili.com##.bili-feed-card:has(> div.bili-video-card[style*="display: none !important;"])
 bilibili.com##.bili-video-card.is-rcmd:has(> div.bili-video-card__wrap .bili-video-card__stats--icon > path[d*="M16.9122 1.50323C17.4366 1.48358 17.99745 1.54938 18.4701 1.8207C18.9423 2.09168 19.28085"])
 bilibili.com##.bili-video-card__wrap > a[href^="http"]:not([href*=".bilibili.com/"])
+bilibili.com##.container > .bili-feed-card:has(> div.bili-video-card  div.bili-video-card__info--no-interest + h3 > a[target="_blank"]:not([href^="https://www.bilibili.com/"]))
 bilibili.com##.container > div.bili-video-card.is-rcmd:not(:has(> *))
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
@@ -10573,7 +10574,6 @@ guitarchina.com,iqiyi.com##.banner4
 guofs.com##.style2
 guokr.com##.guokr-layer-beforelogin
 guokr.com##.side-adv
-guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 guozhivip.com##.tit > a[style="color: #f80"]
 guruma.net##.s_body_top
 gvm.com.tw###cboxOverlay
@@ -11499,6 +11499,7 @@ ipinyou.com
 ipip.net##.row[style="width:1000px;margin:0px auto 25px auto;"]
 iplark.com##+js(addEventListener-defuser, DOMContentLoaded, localStorage)
 iplark.com##body > div:not([class]):not([style])
+iplark.com##div[class^="banner"]
 iplaysoft.com###_cblzx
 iplaysoft.com###link1111
 iplaysoft.com###section_postbanner
@@ -12313,6 +12314,7 @@ kkw360.com##a[href^="https://sourl.cn/"]
 klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
 kmf.com##.g-kmf-906banner
 knews.com.tw,1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,manhuafen.com,world68.com##.ad
+knews.com.tw,shiyrj.top,yalishi.com,guozaoke.com,100ec.cn,159i.com,1905.com,22vd.com,2345.cn,234fang.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,dngz.net,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,ltn.com.tw,luo8.com,maxpda.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,toolfk.com,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com##.ad
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 knowmore.cc##.ins
 koc.com.tw##.single_ads
@@ -16833,7 +16835,6 @@ yahoo.com#?#.js-stream-content:-abp-has(a[href*=".promotions."])
 yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
 yahoo.com#?#.stream-item:-abp-has(>div>div>div>span:-abp-contains(即日熱搜))
 yahoo.com#?#.wafer-beacon:-abp-has(a[data-ylk*=":ad;"])
-yalishi.com##.ad
 yam.com##.axdBox
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
 yanaifei.net#$?#.swiper-wrapper > .swiper-slide:has(> .banner[href^="https://"][target="_blank"]) { remove: true; }
@@ -21469,6 +21470,7 @@ zzzyk.com###Tinfo
 ||comptoir-hardware.com/edi/edi7_lb.php$subdocument
 ||comptoir-hardware.com/edi/edi7_sk.htm$subdocument
 ||comptoir-hardware.com/edi/edi7_sq.php$subdocument
+||comxei.icu^
 ||con-article.hjapi.com/v1/txs/
 ||conf.hpplay.cn^
 ||config.unityads.unity3d.com^
@@ -24672,6 +24674,7 @@ zzzyk.com###Tinfo
 ||howbuy.com/subject/js/layer/layer.js
 ||howtoremoveadblock.com/js/adblock-detector.js$script
 ||hoxdotye.icu^
+||hoznpn.icu^
 ||hp7.fun^
 ||hp8g6.icu^
 ||hpcwwd.com^
@@ -28110,6 +28113,7 @@ zzzyk.com###Tinfo
 ||nio08270lt.com^
 ||nio08271lt.com^
 ||nio08281lt.com^
+||nio08290lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -30077,6 +30081,7 @@ zzzyk.com###Tinfo
 ||ruyig.com/730x76.png
 ||rvbztg.cn^
 ||rvgtaai.top^
+||rvkhazel.com^
 ||rvlgrb.xyz^
 ||rvnaxwqe.icu^
 ||rvtfwryz.icu^
@@ -31016,6 +31021,7 @@ zzzyk.com###Tinfo
 ||suidodo.com/public/*/plugins/
 ||suidodo.com/public/1/assets/js/custom/tt.
 ||suiyishop.cn/zhuangxiu_
+||summerwm1.com^
 ||sump4.cc/js/wcount.js
 ||sums.suning.com^$third-party
 ||sun66387567606.online^
@@ -31157,6 +31163,7 @@ zzzyk.com###Tinfo
 ||t7cp4fldl.com^
 ||t7t.icu^
 ||t7x22m7c.com^
+||t8t8jyxsr.com^
 ||ta.trs.cn^$third-party
 ||ta20k.xyz^
 ||taboola.com^$domain=spaste.com
@@ -32495,6 +32502,7 @@ zzzyk.com###Tinfo
 ||vqlwoy.xyz^
 ||vqnjrz.top^
 ||vqqf.cn^
+||vqta.cn^
 ||vraataidz.com^
 ||vragridsn.com^
 ||vrank.org/go/adblock_detect$subdocument
@@ -32958,6 +32966,7 @@ zzzyk.com###Tinfo
 ||wtyusie.top^
 ||wu2088-605.shop^
 ||wu2088-606.shop^
+||wu2088-607.shop^
 ||wu2088-608.shop^
 ||wubizigeng.com^
 ||wucnmte.top^
@@ -34508,6 +34517,7 @@ zzzyk.com###Tinfo
 ||zikeke7.com^
 ||zinzimo.info^$domain=pronpic.org
 ||zio8.icu^
+||ziqi462ni.com^
 ||ziqniduy.com^
 ||ziravd.xyz^
 ||zisnuthz.com^
