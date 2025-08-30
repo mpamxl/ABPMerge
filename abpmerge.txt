@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-29 16:13:17
-! Total count: 34769
+! Version: 2025-08-30 08:13:17
+! Total count: 34780
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18040,6 +18040,7 @@ zzzyk.com###Tinfo
 ||4e9ynqm47d.com^
 ||4etsr.xyz^
 ||4f3tsea1m.com^
+||4fptsi5zxo.com^
 ||4fr.icu^
 ||4fs3r.icu^
 ||4gamers.com.tw/ads-
@@ -19180,6 +19181,7 @@ zzzyk.com###Tinfo
 ||aefmbeq.cn^
 ||aegzoils.com^
 ||aeinkailrupe.com^
+||aeisqs.icu^
 ||aeletheacd.com^
 ||aem.three.com.hk/content/three/sosim/app/*/promo-
 ||aem.three.com.hk/content/three/sosim/app/*/promotion/
@@ -19729,6 +19731,7 @@ zzzyk.com###Tinfo
 ||assets.msn.cn/bundles/v1/microsoftNews/latest/placement-manager.*.js$domain=microsoftnews.msn.cn
 ||assp.sohu.com^
 ||assurance-conseil.net/popup.js
+||assure66.top^
 ||astrill.com/bnrs/
 ||asvysvxr.com^
 ||asycxtz.cn^
@@ -27151,6 +27154,7 @@ zzzyk.com###Tinfo
 ||lvphbj.xyz^
 ||lvqg.cn^
 ||lvqo.cn^
+||lvrq.cn^
 ||lvrvdn.xyz^
 ||lvse.cn/output/block/html/
 ||lvse.com/9
@@ -28034,6 +28038,7 @@ zzzyk.com###Tinfo
 ||networld.hk^$third-party
 ||neuralstemcell.com.cn/img/js.js
 ||nevercoll.com^
+||nevfbf.icu^
 ||nevtrelathgd.com^
 ||new-icon.ol-img.com/jslib/ad
 ||new.xiongzhangad.com^
@@ -28122,6 +28127,8 @@ zzzyk.com###Tinfo
 ||nio08281lt.com^
 ||nio08290lt.com^
 ||nio08291lt.com^
+||nio08300lt.com^
+||nio08301lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -30102,6 +30109,7 @@ zzzyk.com###Tinfo
 ||rwbqll.top^
 ||rwdjrn.icu^
 ||rwix.cn^
+||rxaqwhu54d.com^
 ||rxdxzb.top^
 ||rxfygd.cn^
 ||rxlidz.ink^
@@ -30141,6 +30149,7 @@ zzzyk.com###Tinfo
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s.zixuntop.com^
+||s0drxaq4v7.com^
 ||s1-a1.dnvodcdn.me^*.mp4
 ||s1-a1.dnvodcdn.me^*.svg
 ||s1.dugoogle.com^
@@ -30161,6 +30170,7 @@ zzzyk.com###Tinfo
 ||s65m.win^
 ||s6in.cc^
 ||s7fpxh6fz.com^
+||s7ki0dcd96.com^
 ||s7tu.com/images/*.gif
 ||s7vf.cn^
 ||s8.pw^$third-party
@@ -32344,6 +32354,7 @@ zzzyk.com###Tinfo
 ||ve0ke.icu^
 ||veaiyl.icu^
 ||vecggfp.icu^
+||vedhalmin.com^
 ||vegaingi.com^
 ||veilengh.com^
 ||vejhln.xyz^
