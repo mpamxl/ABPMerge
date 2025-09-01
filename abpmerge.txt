@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-08-31 16:12:01
-! Total count: 34795
+! Version: 2025-09-01 08:16:54
+! Total count: 34807
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21795,6 +21795,7 @@ zzzyk.com###Tinfo
 ||d5.sina.com.cn^$object,script
 ||d56p.com/love/
 ||d5r.icu^
+||d5xogy0qi.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d6hvvn5jvc.com^
@@ -22686,6 +22687,7 @@ zzzyk.com###Tinfo
 ||easyicon.net/gg2019/
 ||easyliao.com^$third-party
 ||eatnontf.icu^
+||ebcf.cn^
 ||ebhaliragd.com^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
@@ -27532,6 +27534,7 @@ zzzyk.com###Tinfo
 ||mgivkqk.cn^
 ||mgmuye.xyz^
 ||mgqtcs.xyz^
+||mgrwaui4.top^
 ||mgux.cn^
 ||mgzjin.cn^$third-party
 ||mh3666.com^*.jsonp
@@ -27977,6 +27980,7 @@ zzzyk.com###Tinfo
 ||nagvaxvy.com^
 ||nahjzx.xyz^
 ||naiep.xyz^
+||naivtyu.icu^
 ||najnus.com^
 ||naljjd.top^
 ||nalyxg.top^
@@ -28138,6 +28142,8 @@ zzzyk.com###Tinfo
 ||nio08301lt.com^
 ||nio08310lt.com^
 ||nio08311lt.com^
+||nio09010lt.com^
+||nio09011lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -28163,6 +28169,7 @@ zzzyk.com###Tinfo
 ||njjavt.xyz^
 ||njnhzh.icu^
 ||njogejt.icu^
+||njpilt.icu^
 ||njtprv.xyz^
 ||njupt-sacc.com^
 ||njxraqb.xyz^
@@ -28324,6 +28331,7 @@ zzzyk.com###Tinfo
 ||nxledn.xyz^
 ||nxnjw.com^
 ||nxrajr.xyz^
+||nxu3l4c8u.com^
 ||nxwm44neo.com^
 ||nxxkxr.xyz^
 ||nxxyjn.com^
@@ -28872,6 +28880,7 @@ zzzyk.com###Tinfo
 ||pepnsnq.cn^
 ||perlmaven.com/img/*0x2
 ||perlmaven.com/img/sticker-you.jpg
+||perspective44.top^
 ||peryt111.fun^
 ||petalen88.top^
 ||pevmdv.top^
@@ -30061,6 +30070,7 @@ zzzyk.com###Tinfo
 ||rswqfiy.top^
 ||rsyepnq.icu^
 ||rszkhn.xyz^
+||rtau9pif4.com^
 ||rtborp.xyz^
 ||rte.fuoo1.top^
 ||rtfgvz.icu^
@@ -31556,6 +31566,7 @@ zzzyk.com###Tinfo
 ||toazdkl.top^
 ||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
+||tocr.cn^
 ||todayapp.tv^$popup,third-party
 ||toggle.qq.com^
 ||togmoxwnw.com^
@@ -33973,6 +33984,7 @@ zzzyk.com###Tinfo
 ||yiqiv.com^$third-party
 ||yiren34.com/js/
 ||yirendajiankang.com^
+||yirst6pfi.com^
 ||yitongfang.com^$third-party
 ||yitongkan.com/splash.xml$redirect=noop.js,domain=yitongkan.com,script
 ||yitongkan.com/splash.xml$rewrite=abp-resource:blank-js,domain=yitongkan.com
