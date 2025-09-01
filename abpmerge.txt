@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-01 08:16:54
-! Total count: 34807
+! Version: 2025-09-01 16:13:26
+! Total count: 34812
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2597,6 +2597,7 @@ $websocket,domain=wap.yushuwu.cloud
 /assets/publish/react.3.js$~third-party
 /assets/sidebar/*$domain=v2ex.com
 /assets/t_j/tongji.js
+/astyle/wap.js$~third-party
 /atrk.js
 /attachment/freeaddon_banner/*
 /attachments/ad/*$domain=~edushida.com
@@ -2789,6 +2790,7 @@ $websocket,domain=wap.yushuwu.cloud
 /getcode.jsp?uid=$script,third-party
 /getfuolist|$xmlhttprequest
 /gg.php
+/gg/gg.js
 /gg54.oss-
 /gg7f5kv/*
 /gg_d.php
@@ -20795,6 +20797,7 @@ zzzyk.com###Tinfo
 ||c.tvsou.com^
 ||c0.ifengimg.com^
 ||c05ua.icu^
+||c08ls11j.top^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
 ||c1.china.cn^
@@ -23239,6 +23242,7 @@ zzzyk.com###Tinfo
 ||fgnzdb.xyz^
 ||fgre9.top^
 ||fgsfghn.com^
+||fgtyhocutb.com^
 ||fgwuw.com^
 ||fh21.com.cn/js/passport/createQuickMenu.js
 ||fh21.com.cn/partners/
@@ -34489,6 +34493,7 @@ zzzyk.com###Tinfo
 ||zhangjiaqi.top^
 ||zhangqifeng12.top^
 ||zhangyumo.top^
+||zhangyuyidong.cn^$third-party
 ||zhangzishi.cc/cdn-cgi/apps/
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 ||zhanzhang.baidu.com/push.js
