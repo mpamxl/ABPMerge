@@ -1602,6 +1602,7 @@
 ##body > a[id*='hudie_']
 ##body > div#bottommob.bottommob
 ##body > div#inplayer[align="center"]
+##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
 ##body > div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
@@ -7739,7 +7740,7 @@ iqiyi.com###scrollWrap-vipbuy
 iqiyi.com###videoBuyContainer
 iqiyi.com###widget-jingdongAd
 iqiyi.com###zbsp
-iqiyi.com##+js(json-prune, items.*.video.*.data.[-].ad.adScene data.template.tabs.*.blocks.*.data.data.*.videos.feature_ad data.template.tabs.*.blocks.*.data.data.videos.*.ad)
+iqiyi.com##+js(json-prune, data.[-].ad.adScene items.*.video.*.data.[-].ad.adScene data.template.tabs.*.blocks.*.data.data.*.videos.feature_ad data.template.tabs.*.blocks.*.data.data.videos.*.ad)
 iqiyi.com##+js(nano-setInterval-booster, adUI, 1000, 0.02)
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
@@ -12814,6 +12815,7 @@ xvideos.com##div[id^="video-ad"]+div[class]
 xvna.com##.articleAD
 xvna.com##.rctad
 xw.qq.com##.globalThemeTip
+xx.knit.bid##.clickadu-container
 xxooo.cf###overlay
 xxt.cn#@##mainAd
 xxx-image.com###footer > font > b

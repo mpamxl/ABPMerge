@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-02 08:16:07
-! Total count: 34822
+! Version: 2025-09-02 16:13:44
+! Total count: 34826
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1607,6 +1607,7 @@
 ##body > a[id*='hudie_']
 ##body > div#bottommob.bottommob
 ##body > div#inplayer[align="center"]
+##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
 ##body > div[style$=";background: #000;opacity:0.01;"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
@@ -11621,7 +11622,7 @@ iqiyi.com###scrollWrap-vipbuy
 iqiyi.com###videoBuyContainer
 iqiyi.com###widget-jingdongAd
 iqiyi.com###zbsp
-iqiyi.com##+js(json-prune, items.*.video.*.data.[-].ad.adScene data.template.tabs.*.blocks.*.data.data.*.videos.feature_ad data.template.tabs.*.blocks.*.data.data.videos.*.ad)
+iqiyi.com##+js(json-prune, data.[-].ad.adScene items.*.video.*.data.[-].ad.adScene data.template.tabs.*.blocks.*.data.data.*.videos.feature_ad data.template.tabs.*.blocks.*.data.data.videos.*.ad)
 iqiyi.com##+js(nano-setInterval-booster, adUI, 1000, 0.02)
 iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
 iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
@@ -16781,6 +16782,7 @@ xvideos.com##div[id^="video-ad"]+div[class]
 xvna.com##.articleAD
 xvna.com##.rctad
 xw.qq.com##.globalThemeTip
+xx.knit.bid##.clickadu-container
 xxooo.cf###overlay
 xxt.cn#@##mainAd
 xxx-image.com###footer > font > b
@@ -28154,6 +28156,7 @@ zzzyk.com###Tinfo
 ||nio09010lt.com^
 ||nio09011lt.com^
 ||nio09020lt.com^
+||nio09021lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -31292,6 +31295,7 @@ zzzyk.com###Tinfo
 ||tcss.qq.com^
 ||tcuqqhj.icu^
 ||tcwouq1gmw.com^
+||tcx0wyp0nn.com^
 ||td86hsmlmggym.top^
 ||tdamcsi.top^
 ||tdavopl.icu^
