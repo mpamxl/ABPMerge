@@ -12041,6 +12041,7 @@ uisdc.com##.post-pm-content
 ukvarminting.com#@#.ipsAd
 ulifestyle.com.hk#$#body { overflow: auto !important; }
 umahdroid.blogspot.com###energysaving
+umbooks.com##+js(abort-current-script, document.writeln)
 umbooks.com,vikacg.com##+js(window.open-defuser)
 un-block-voe.net,voe-un-block.com,voe.bar,voe.sx,voeun-block.net,voeunbl0ck.com,voeunblck.com,voeunblk.com,voeunblock.com,voeunblock1.com,voeunblock2.com,voeunblock3.com#$#abort-on-property-read VODMonetisation
 unfair.co###awesomemessage
