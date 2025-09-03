@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-02 16:13:44
-! Total count: 34826
+! Version: 2025-09-03 08:14:43
+! Total count: 34838
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15489,6 +15489,8 @@ taoguba.com.cn##.NewH_top_left + .left
 taoguba.com.cn##.ct_app
 taoguba.com.cn##.wz_ad
 taohuayun.cn##img[width="150"][height="60"]
+taotu.org###ad
+taotu.org##a[href="/jbb"]
 taoziba.cc##.vddb2 + a
 tapochek.net#$#abort-on-property-read ads_script
 taptap.com###bottomBanner
@@ -17499,6 +17501,7 @@ zzzyk.com###Tinfo
 ||127.net/external/js6public163_
 ||127.net/m/*/promPic.jpg
 ||12img.com/ad/
+||12ybs41sa.com^
 ||131458.com/union/
 ||1328f.com/js/jquery.js
 ||1339.cf/yuzrmji.js$script,domain=imgnova.xyz
@@ -18048,6 +18051,7 @@ zzzyk.com###Tinfo
 ||4fptsi5zxo.com^
 ||4fr.icu^
 ||4fs3r.icu^
+||4fzfc1irq.com^
 ||4gamers.com.tw/ads-
 ||4gamers.com.tw/site/api/aols/media?
 ||4gamers.com.tw/site/iframe-aols/
@@ -20109,6 +20113,7 @@ zzzyk.com###Tinfo
 ||bborxjkan.com^
 ||bbphonix.xyz^
 ||bbqoa.top^
+||bbrav96ax.com^
 ||bbs.a9vg.com/showit/img_show.php
 ||bbs.gmbbk.com^*.js
 ||bbs.hotavxxx.com/images/201*.gif
@@ -20477,6 +20482,7 @@ zzzyk.com###Tinfo
 ||bjwj2y.com/JS/LsJS.aspx
 ||bjxfnn.xyz^
 ||bjxty88.com/js/foot.js
+||bkad13gfu.com^
 ||bkhblj.xyz^
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
@@ -25556,6 +25562,7 @@ zzzyk.com###Tinfo
 ||iwilmio.top^
 ||iwmigu.xyz^
 ||iwpkp.xyz^
+||iwqx.cn^
 ||iwursero.top^
 ||ix4.icu^
 ||ixbua.xyz^
@@ -25933,6 +25940,7 @@ zzzyk.com###Tinfo
 ||jpcctez.icu^
 ||jpfans.com/jpfans.jpg
 ||jpg1.oss-cn-beijing.aliyuncs.com^
+||jphyjv.icu^
 ||jpqed.xyz^
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
@@ -28001,6 +28009,7 @@ zzzyk.com###Tinfo
 ||nanrenvip2021.com/old.html
 ||naqiwjj.icu^
 ||naryvz.xyz^
+||naturallon.com^
 ||naukreatn.com^
 ||nawpush.com^
 ||nawpyd.icu^
@@ -28157,6 +28166,8 @@ zzzyk.com###Tinfo
 ||nio09011lt.com^
 ||nio09020lt.com^
 ||nio09021lt.com^
+||nio09030lt.com^
+||nio09031lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -29922,6 +29933,7 @@ zzzyk.com###Tinfo
 ||res.office365.com/*/scripts/microsoft.owa.adsbar.js
 ||res.office365.com/*/scripts/owa.AdsPanel.js
 ||res.pinpai8.cn^
+||res.taotu.org/adimages/
 ||res.vps234.com/resources/images/hosting-promotion/
 ||resource.baomihua.com^
 ||restorationbowelsunflower.com^
