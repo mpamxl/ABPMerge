@@ -10286,6 +10286,7 @@ pornhub.com,tube8.fr,tube8.es,tube8.com###adBlockAlertWrap
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
 pornlulu.com##.row.links
 pornlulu.com,pornbest.org###fullPageModal
+pornlulu.com,pornbest.org,ptt.sex###fullPageModal
 pornstarsyfamosas.es#$#abort-on-property-write _pop
 porntrex.com#$#abort-on-property-write preventDefault
 pornwhite.com###pre-spots

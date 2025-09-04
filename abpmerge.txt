@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-04 08:14:37
-! Total count: 34849
+! Version: 2025-09-04 16:13:48
+! Total count: 34851
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14213,6 +14213,7 @@ pornhub.com,tube8.fr,tube8.es,tube8.com###adBlockAlertWrap
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
 pornlulu.com##.row.links
 pornlulu.com,pornbest.org###fullPageModal
+pornlulu.com,pornbest.org,ptt.sex###fullPageModal
 pornstarsyfamosas.es#$#abort-on-property-write _pop
 porntrex.com#$#abort-on-property-write preventDefault
 pornwhite.com###pre-spots
@@ -25923,6 +25924,7 @@ zzzyk.com###Tinfo
 ||johojima.com/wp-content/uploads/*/bn_*.jpg
 ||johojima.com/wp-content/uploads/*/bnr_*.jpg
 ||johojima.com/wp-content/uploads/*/cropped-johojima_fabicon-*.jpg
+||joi09041pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
