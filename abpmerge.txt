@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-03 16:13:26
-! Total count: 34839
+! Version: 2025-09-04 08:14:37
+! Total count: 34849
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17834,6 +17834,7 @@ zzzyk.com###Tinfo
 ||2xmzazd.cn^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
+||2zjftxgl5s.com^
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
 ||3.5646.cn^
@@ -23062,6 +23063,7 @@ zzzyk.com###Tinfo
 ||extmaps-api.yandex.net^
 ||extopae.icu^
 ||eybstar.com^
+||eyhv.cn^
 ||eyislow.top^
 ||eyny.com/data/cache/js_show_ads.js
 ||eyq3nog.icu^
@@ -27331,6 +27333,7 @@ zzzyk.com###Tinfo
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
+||m9sz0hh3f7.com^
 ||ma1.meishij.net^
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
@@ -28739,6 +28742,7 @@ zzzyk.com###Tinfo
 ||oyysbc.xyz^
 ||ozhmig.cn^
 ||ozkbdxdu.icu^
+||oztg6i0ass.com^
 ||ozykeor.icu^
 ||p.7060.la^
 ||p.junshi881.com^
@@ -28915,6 +28919,7 @@ zzzyk.com###Tinfo
 ||pexels.com^*/sponsored_
 ||pexnjio.cn^
 ||pfbmht.icu^
+||pfdqvf.icu^
 ||pfdth.cn^
 ||pfhe.cn^
 ||pfhj89w.com^
@@ -29896,6 +29901,7 @@ zzzyk.com###Tinfo
 ||realwanghao.com^
 ||rebojf.xyz^
 ||recds7.icu^
+||receiptgg.top^
 ||record.kuai.xunlei.com^
 ||record.xl.pt/common/images/pub/
 ||record.xl.pt/pub/
@@ -31202,6 +31208,7 @@ zzzyk.com###Tinfo
 ||szjjzs.com/js/d*.js
 ||szjjzs.com/js/fe
 ||szjjzs.com/js/piao.js
+||szlite.cn^$third-party
 ||sznews.com/s?z=
 ||szonline.net/static/js/ads.js
 ||szxf4.icu^
@@ -32936,6 +32943,7 @@ zzzyk.com###Tinfo
 ||wmcbld.top^
 ||wmeng.feihuadns.com^
 ||wmktew.icu^
+||wmnqifp98t.com^
 ||wmnraj.icu^
 ||wmol.cn^
 ||wmqfey.com^
@@ -34353,6 +34361,7 @@ zzzyk.com###Tinfo
 ||zaiqnethl.com^
 ||zaiyuanyqq.com^
 ||zalnouiy.com^
+||zamiasfinable.com^
 ||zanghaihua.org/js/
 ||zangtankqq.com^
 ||zantainet.com^
@@ -34586,6 +34595,7 @@ zzzyk.com###Tinfo
 ||zhuwang.cc/api.php?op=ad_
 ||zhuys.com/js/ysmm.
 ||zhuys.com^*.php
+||zhwzsym.top^
 ||zhy333.com^$third-party
 ||zhzyw.com/js/InsertJS.js
 ||ziajretrs.com^
