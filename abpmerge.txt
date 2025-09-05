@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-04 16:13:48
-! Total count: 34851
+! Version: 2025-09-05 08:15:03
+! Total count: 34865
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2082,6 +2082,7 @@ $websocket,domain=wap.yushuwu.cloud
 .html?android=hx*&_$csp=script-src
 .html|$domain=www.gamer.com.tw
 .hur0*kns.com/$script,xmlhttprequest,third-party
+.icu/$domain=cidetxt.cc
 .icu/*?ssid=_$third-party
 .icu/*_*_*.js$third-party
 .icu/*_*_rony.js
@@ -2366,6 +2367,7 @@ $websocket,domain=wap.yushuwu.cloud
 /Static/Home/GongGao/img/kaiyuan.gif
 /V.aspx?Bln=$script,third-party
 /View/img/b72890.jpg
+/[a-z0-9]+\.[a-z0-9]+\//$denyallow=cidetxt.cc,domain=cidetxt.cc,subdocument,script
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top|xyz)\/(j|K)\/[0-9]{6}$/$script,third-party
 /\.(cyou|ink)\/[a-z]{4}_[0-9]{5}_[a-z]{5}js\?/$script,third-party
@@ -8613,6 +8615,7 @@ cibaipuki.com##A[href^='/article-list-id']
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##[href*=":"]
+cidetxt.cc##+js(no-setTimeout-if, try{e()}catch(e){if(t[e.message])return;)
 cilil.cn,magnet2048.com##.hotwords
 cilimao.co,cilimao.one##div[class^="FixBanner"]
 cima-club.cam#$#abort-on-property-read window.zfgstorage
@@ -21938,6 +21941,7 @@ zzzyk.com###Tinfo
 ||dayujs.top^
 ||dazhantai.com^$third-party
 ||db11yy.com^
+||db8b41ie5.com^
 ||dbdophuz.icu^
 ||dbhfre.xyz^
 ||dbigboq.top^
@@ -23597,6 +23601,7 @@ zzzyk.com###Tinfo
 ||g3f3.com/love/
 ||g41i.icu^
 ||g4y7uuk.com^
+||g4yk4cyyw.com^
 ||g6tgashb.fun^
 ||g7ghdash2.fun^
 ||g7htk7ls7.com^
@@ -25629,6 +25634,8 @@ zzzyk.com###Tinfo
 ||jacksonyee.club^
 ||jads.co^
 ||jads.co^$domain=avgle.com
+||jadxs.org/themes/*/js/fixed.js
+||jadxs.org/themes/*/js/test.js
 ||jakid.xyz^
 ||jakisity.top^
 ||janapi.jd.com^
@@ -25925,6 +25932,8 @@ zzzyk.com###Tinfo
 ||johojima.com/wp-content/uploads/*/bnr_*.jpg
 ||johojima.com/wp-content/uploads/*/cropped-johojima_fabicon-*.jpg
 ||joi09041pt.com^
+||joi09050pt.com^
+||joi09051pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -28153,6 +28162,7 @@ zzzyk.com###Tinfo
 ||niecarsg.com^
 ||nievolmqn.com^
 ||nifyeldc.top^
+||nijlfx.icu^
 ||nijnqwem.xyz^
 ||nike666.com^
 ||nilipuyn.com^
@@ -28455,6 +28465,7 @@ zzzyk.com###Tinfo
 ||offer.alibaba.com^$popup
 ||offerwall.yandex.net^
 ||ofincm.icu^
+||ofja.cn^
 ||ofjslik.top^
 ||ofkcww.xyz^
 ||ofooe.cn^
@@ -28842,6 +28853,7 @@ zzzyk.com###Tinfo
 ||pbmp.ali213.net/js/
 ||pbtsjh.xyz^
 ||pbvdlb.xyz^
+||pbwlwdzje.com^
 ||pc6.com/img/
 ||pc841.com/show/
 ||pcauto.com.cn/forum/1508/intf7631.js
@@ -30882,6 +30894,7 @@ zzzyk.com###Tinfo
 ||spl.ztvx8.com^$third-party
 ||spoaven.top^
 ||spoh.cn^
+||spongeds.com^
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||sportingbet-affiliate.host.bannerflow.com/core_bannerviewer.swf$domain=record.xl.pt
 ||sports.ru^$script,header=x-robots-tag
@@ -34159,6 +34172,7 @@ zzzyk.com###Tinfo
 ||yquqoj.com^
 ||yrarhzuq.xyz^
 ||yrccils0spqnkc3.xyz^
+||yrgsqi0zc.com^
 ||yrhxttwa.xyz^
 ||yrqwnc.cn^
 ||yrr56.com/mp4/pt_720.

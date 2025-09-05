@@ -4765,6 +4765,7 @@ cibaipuki.com##A[href^='/article-list-id']
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##[href*=":"]
+cidetxt.cc##+js(no-setTimeout-if, try{e()}catch(e){if(t[e.message])return;)
 cilil.cn,magnet2048.com##.hotwords
 cilimao.co,cilimao.one##div[class^="FixBanner"]
 cima-club.cam#$#abort-on-property-read window.zfgstorage
