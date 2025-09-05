@@ -943,7 +943,7 @@
 ##.rightAd
 ##.right_advert
 ##.rightadv
-##.rm-two > a[href*=".umtrack.com"]
+##.rm-twoa > a[href*=".umtrack.com"]
 ##.room-ad-bottom
 ##.room-ad-top
 ##.room-ad-video-down
@@ -5817,7 +5817,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.doc-s-content
+element-plus.org##.doc-content-zosdsoycx
 element-plus.org##div[class*="-sidebar-"]
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
@@ -10285,6 +10285,8 @@ pornhub.com#$#abort-on-property-read HTMLElement.prototype.attachShadow; overrid
 pornhub.com,tube8.fr,tube8.es,tube8.com###abAlert
 pornhub.com,tube8.fr,tube8.es,tube8.com###adBlockAlertWrap
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
+pornlulu.com##.container-fluid[style="background:#000;height:40px;"]
+pornlulu.com##.links:not([role="menu"]:last-child)
 pornlulu.com##.row.links
 pornlulu.com,pornbest.org###fullPageModal
 pornlulu.com,pornbest.org,ptt.sex###fullPageModal
@@ -11747,7 +11749,7 @@ tmall.com###J_Recommend
 tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
-tmioe.com##.gorand
+tmioe.com##.dsawss
 tmioe.com##.widget_image_img
 tmioe.com##.zttimg
 tmioe.com##a[href*=".zps.im"]

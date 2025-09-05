@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-05 08:15:03
-! Total count: 34865
+! Version: 2025-09-05 16:13:29
+! Total count: 34870
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -948,7 +948,7 @@
 ##.rightAd
 ##.right_advert
 ##.rightadv
-##.rm-two > a[href*=".umtrack.com"]
+##.rm-twoa > a[href*=".umtrack.com"]
 ##.room-ad-bottom
 ##.room-ad-top
 ##.room-ad-video-down
@@ -5050,6 +5050,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@/fingerprint2.min.js$domain=csdn.net|neets.cc|passport.vpgame.com|shixiseng.com
 @@/fingerprintjs2.min.js$domain=imooc.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
+@@/ggjs/*$domain=tingfm.com
 @@/google-ad-block-test-googleadservices-gpt-pubads.js$script,domain=viki.mx|viki.com
 @@/gtm.js$domain=amd.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
@@ -9684,7 +9685,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##.doc-s-content
+element-plus.org##.doc-content-zosdsoycx
 element-plus.org##div[class*="-sidebar-"]
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
@@ -14214,6 +14215,8 @@ pornhub.com#$#abort-on-property-read HTMLElement.prototype.attachShadow; overrid
 pornhub.com,tube8.fr,tube8.es,tube8.com###abAlert
 pornhub.com,tube8.fr,tube8.es,tube8.com###adBlockAlertWrap
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
+pornlulu.com##.container-fluid[style="background:#000;height:40px;"]
+pornlulu.com##.links:not([role="menu"]:last-child)
 pornlulu.com##.row.links
 pornlulu.com,pornbest.org###fullPageModal
 pornlulu.com,pornbest.org,ptt.sex###fullPageModal
@@ -15695,7 +15698,7 @@ tmall.com###J_Recommend
 tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
-tmioe.com##.gorand
+tmioe.com##.dsawss
 tmioe.com##.widget_image_img
 tmioe.com##.zttimg
 tmioe.com##a[href*=".zps.im"]
@@ -28184,6 +28187,7 @@ zzzyk.com###Tinfo
 ||nio09021lt.com^
 ||nio09030lt.com^
 ||nio09031lt.com^
+||nio09051lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -33273,6 +33277,7 @@ zzzyk.com###Tinfo
 ||wxmmji.xyz^
 ||wxsicu.xyz^
 ||wxymag.xyz^
+||wxynyij.icu^
 ||wy12cewh4.com^
 ||wy213.com^$popup,third-party
 ||wyisloe.top^
