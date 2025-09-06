@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-05 16:13:29
-! Total count: 34870
+! Version: 2025-09-06 08:12:25
+! Total count: 34885
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1818,6 +1818,7 @@ $script,third-party,denyallow=unpkg.zhihu.com,domain=52niuyan.cc
 $script,third-party,domain=cilimao.co|cilimao.one
 $script,third-party,domain=colamanga.com
 $script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.se|torrentkitty.tv|torrkitty.com
+$script,third-party,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
 $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoxintv.cc|xiaoxintv.com|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
@@ -21290,6 +21291,7 @@ zzzyk.com###Tinfo
 ||chzjidgc.xyz^
 ||ci38iu1ch.com^
 ||ciadre.fun^
+||ciajifmfsp.com^
 ||ciarde.fun^
 ||cibntv.net/youku/$media
 ||cibntv.net/youku/*.mp4?$media,redirect=noop-1s.mp4,domain=v.youku.com,important
@@ -21821,6 +21823,7 @@ zzzyk.com###Tinfo
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d6hvvn5jvc.com^
+||d7fl3a3vwh.com^
 ||d8962a.xyz^
 ||d9q4aa05g4.com^
 ||da-ads.com^$third-party
@@ -22498,6 +22501,7 @@ zzzyk.com###Tinfo
 ||dtrcw.cc^
 ||dtscout.com^
 ||dtsxn.cn^
+||dtths.cn^
 ||du1.bbdj.com^
 ||duanmeiwen.com/static/cpt/img/write_right_float.png
 ||duapp.com^$domain=bjmama.com|ccav1.com|gzmama.com
@@ -25189,6 +25193,7 @@ zzzyk.com###Tinfo
 ||ilade.xyz^
 ||ilcq.cn^
 ||ildopxge.com^
+||ilgt04vkw4.com^
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||ilyf4amifh.com^
 ||ilzies.com^
@@ -25937,6 +25942,8 @@ zzzyk.com###Tinfo
 ||joi09041pt.com^
 ||joi09050pt.com^
 ||joi09051pt.com^
+||joi09060pt.com^
+||joi09061pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -26299,6 +26306,7 @@ zzzyk.com###Tinfo
 ||kdamcsd.top^
 ||kdcl.pchome.com.tw^
 ||kdcxhr.cn^
+||kdfjglkdflg.com^
 ||kdicked.top^
 ||kdinmid.top^
 ||kdipsumd.top^
@@ -27238,6 +27246,7 @@ zzzyk.com###Tinfo
 ||lyckery.com^
 ||lyd.com.cn^*950-90.
 ||lyewe.xyz^
+||lyfdrh.icu^
 ||lygjgzc.com^
 ||lyislol.top^
 ||lyretul.top^
@@ -28550,6 +28559,7 @@ zzzyk.com###Tinfo
 ||okvt.cn^
 ||okwan.cn^
 ||okwjmii.top^
+||okzsb7l5bl.com^
 ||ol-img.com/channel/tuku/js/tukuPopup.js
 ||older-women-porn.com/black-credit-71cc^$domain=older-women-porn.com
 ||oldh.cn^
@@ -29326,6 +29336,7 @@ zzzyk.com###Tinfo
 ||pwvt.cn^
 ||pwxlbsie.icu^
 ||px.ucweb.com^
+||px02mouzas.com^
 ||pxhuiben.com^
 ||pxqqytk.icu^
 ||pxrbnf.icu^
@@ -30035,6 +30046,7 @@ zzzyk.com###Tinfo
 ||rizihao.top^
 ||rjdmhl.icu^
 ||rjhbjv.xyz^
+||rjif.cn^
 ||rjpvnl.icu^
 ||rjsos.com/channel/laomo_dibu.png
 ||rjsq7ljyp.com^
@@ -30914,6 +30926,7 @@ zzzyk.com###Tinfo
 ||sqevnrb.com^
 ||sqif.cn^
 ||sqszcg.top^
+||squarewave.top^
 ||sravga.xyz^
 ||srbzw.cn^
 ||srmdz.vip^
@@ -32199,6 +32212,7 @@ zzzyk.com###Tinfo
 ||uoublit.top^
 ||uouvxlit.top^
 ||uowr.cn^
+||uoxm.cn^
 ||up.qingdaonews.com/up/$object,script
 ||upaiyun.com/system/post_tile/new_web_banners/
 ||upaiyun.com/wp-content/uploads/2016/12/wenzhangyouce
@@ -32574,6 +32588,7 @@ zzzyk.com###Tinfo
 ||vnet.cn^*.html?$popup,third-party
 ||vnfjsus.xyz^
 ||vnfsbl.xyz^
+||vnig0.cn^
 ||vns86.oss-*.aliyuncs.com^
 ||vnuuh.icu^
 ||vnvmif.cn^
