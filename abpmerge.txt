@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-06 16:11:14
-! Total count: 34886
+! Version: 2025-09-07 08:12:31
+! Total count: 34895
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7666,6 +7666,7 @@ baidu.com##.container:has( > .bottom-section > .item_voice_room[data-yysid])
 baidu.com##.container_frs:has( > .voice_room_card_frs[data-url*="yylive"])
 baidu.com##.content-adv
 baidu.com##.corneradv
+baidu.com##.cos-rich-video-player-video
 baidu.com##.cpc-adv-container
 baidu.com##.desktop-guide
 baidu.com##.download-app-parent
@@ -7805,6 +7806,7 @@ baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar)
+baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#.share-line
 baidu.com#@#div[class*="ads"]
 baidu.com,bdimg.com,tieba.com###aside-ad
@@ -12738,7 +12740,6 @@ m.babytree.com##script + a[class]
 m.baidu.com##.ec_adv
 m.baidu.com##.news_ad
 m.baidu.com##a[href*="m.lecai.com"]
-m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 m.biqiugege8.com##+js(set-constant, lists, undefined)
 m.chouti.com##.m_download_box
 m.guancha.cn##.g_header.go-to-app
@@ -17673,6 +17674,7 @@ zzzyk.com###Tinfo
 ||1l1.cc^
 ||1l27pkxp5w.com^
 ||1lqw75ogo.com^
+||1nrlydgrr.com^
 ||1ny3r.icu^
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1p3yg.icu^
@@ -18013,6 +18015,7 @@ zzzyk.com###Tinfo
 ||3vnofjidlv.com^
 ||3vp.icu^
 ||3wk.cc/images/*.gif
+||3x5h6x434.com^
 ||3xl.icu^
 ||3yej.xyz^
 ||3yq51wjim.com^
@@ -24215,6 +24218,7 @@ zzzyk.com###Tinfo
 ||gzasiatech.net^
 ||gzfsqrc.icu^
 ||gzfzcj.cn^
+||gzk72wa1f.com^
 ||gzqvd.cn^
 ||gzsjym.xyz^
 ||gzzkjdam.cn^$third-party
@@ -25677,6 +25681,7 @@ zzzyk.com###Tinfo
 ||jb.ecar168.cn^
 ||jb51.net/imgby/logo_
 ||jbazhaheia.top^
+||jbbydz.icu^
 ||jbdch1.appmobile.cn^
 ||jbhhxd.xyz^
 ||jbkqemk.icu^
@@ -25944,6 +25949,7 @@ zzzyk.com###Tinfo
 ||joi09051pt.com^
 ||joi09060pt.com^
 ||joi09061pt.com^
+||joi09070pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -28198,6 +28204,7 @@ zzzyk.com###Tinfo
 ||nio09031lt.com^
 ||nio09051lt.com^
 ||nio09061lt.com^
+||nio09070lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -28321,6 +28328,7 @@ zzzyk.com###Tinfo
 ||nrephihe.com^
 ||nrgv.cn^
 ||nrjzkj.cn^
+||nrki.cn^
 ||nrlupu.top^
 ||nroeoxk.icu^
 ||nrqrbwi.top^
@@ -31491,6 +31499,7 @@ zzzyk.com###Tinfo
 ||thrumulr.com^
 ||thruudrad.com^
 ||thrzbf.xyz^
+||thumbb86.com^
 ||thunnqyo.com^
 ||thustilpn.com^
 ||thvx9i.icu^
