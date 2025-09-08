@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-07 16:11:16
-! Total count: 34898
+! Version: 2025-09-08 08:16:27
+! Total count: 34912
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10871,6 +10871,9 @@ heirui.cn##.index711-mask
 heirui.cn##div[id$="MASK"]
 helloyishi.com.tw##.article-desktop-ad-wrapper
 help.xunlei.com#@#.a_fr
+helper-employer.com##+js(no-fetch-if, adsbygoogle.js)
+helper-employer.com##+js(spoof-css, .adsbygoogle, display, block)
+helper-employer.com##div[class^="mantine-"][style^="display:"]
 hentai-flix.net###wppa-overlay-bg
 hentai-flix.net##.trs_sticky_notice_text_box
 hentaicomic.*,wnacg1.cc,wnacg.*##+js(abort-current-script, document.write, /\.(gif|php)/)
@@ -15930,6 +15933,7 @@ twavking.com##.da_single_video
 twinsyang.net#@#.Zi_ad_a_H
 twinsyang.net,free.com.tw###custom_html-7
 twitter.com##.presented
+twkan.com###mobile-ad
 twkan.com##.txtcenter
 two.game.tw#@##ad_02
 twojeip.wp.pl#@##adverts
@@ -17933,7 +17937,7 @@ zzzyk.com###Tinfo
 ||380tv.com/upload/*-ad-
 ||387635.com^
 ||38kmute.xyz^
-||38ksw.com^*/082903.
+||38ksw.com^*/0
 ||39.net/PictureLib/A/f76/20160825/org_749281.png
 ||39.net/PictureLib/A/f76/20170814/org_1428963.gif
 ||39.net/a.htm?
@@ -18079,6 +18083,7 @@ zzzyk.com###Tinfo
 ||4kwu.cc/static/js/tj.js
 ||4kxczstxil.com^
 ||4oz4n.icu^
+||4p04u96158.com^
 ||4p68.com^
 ||4paradigm.com^$domain=sina.com.cn
 ||4po6iqp9.cn^
@@ -18640,6 +18645,7 @@ zzzyk.com###Tinfo
 ||8u0.fun^
 ||8u6stvyww.top^
 ||8v08mjri7.com^
+||8x14khzwmi.com^
 ||8x3wolchw.com^
 ||8xbook.org/scripts/ad/
 ||8xly.cn^
@@ -20927,6 +20933,7 @@ zzzyk.com###Tinfo
 ||cbcvou.xyz^
 ||cbdm.weathercn.com^
 ||cbdqzbi.icu^
+||cbembusgcl.com^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbgrqi.xyz^
 ||cbgyhe.cn^
@@ -22728,6 +22735,7 @@ zzzyk.com###Tinfo
 ||ebioweb.com/newsf/js/inpic.js
 ||ebioweb.com/newsf/js/news_top_banner.js
 ||eblnzoq.cn^
+||eboobuv0rk.com^
 ||ebp.renren.com^
 ||ebrid.cn^
 ||ebroktean.com^
@@ -25953,6 +25961,8 @@ zzzyk.com###Tinfo
 ||joi09061pt.com^
 ||joi09070pt.com^
 ||joi09071pt.com^
+||joi09080pt.com^
+||joi09081pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -28208,6 +28218,8 @@ zzzyk.com###Tinfo
 ||nio09051lt.com^
 ||nio09061lt.com^
 ||nio09070lt.com^
+||nio09080lt.com^
+||nio09081lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -30084,6 +30096,7 @@ zzzyk.com###Tinfo
 ||rljjt.cn^
 ||rlogs.youdao.com^
 ||rlqoyht.icu^
+||rlri.cn^
 ||rltdxt.com/files/h5/
 ||rlw86.cyou^
 ||rmbsfh.icu^
@@ -31663,6 +31676,7 @@ zzzyk.com###Tinfo
 ||tongji.xinmin.cn^
 ||tongjiniao.com^
 ||tongjiniao.com^$third-party
+||tongueq2.top^
 ||tonnn.com/promotion2/*.js
 ||tonxzq.com^
 ||toolfk.com/common/zfb.jpg

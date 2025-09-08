@@ -6989,6 +6989,9 @@ heirui.cn##.index711-mask
 heirui.cn##div[id$="MASK"]
 helloyishi.com.tw##.article-desktop-ad-wrapper
 help.xunlei.com#@#.a_fr
+helper-employer.com##+js(no-fetch-if, adsbygoogle.js)
+helper-employer.com##+js(spoof-css, .adsbygoogle, display, block)
+helper-employer.com##div[class^="mantine-"][style^="display:"]
 hentai-flix.net###wppa-overlay-bg
 hentai-flix.net##.trs_sticky_notice_text_box
 hentaicomic.ru#@#.Flagrow-Ads-under-header
@@ -11975,6 +11978,7 @@ twavking.com##.da_single_video
 twinsyang.net#@#.Zi_ad_a_H
 twinsyang.net,free.com.tw###custom_html-7
 twitter.com##.presented
+twkan.com###mobile-ad
 twkan.com##.txtcenter
 two.game.tw#@##ad_02
 twojeip.wp.pl#@##adverts
