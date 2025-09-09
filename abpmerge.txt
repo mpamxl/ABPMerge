@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-08 16:13:06
-! Total count: 34918
+! Version: 2025-09-09 08:16:17
+! Total count: 34937
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1798,7 +1798,7 @@
 #@#.has-ad
 #@#.uk-container.uk-container-expand
 #@#div[itemtype="http://schema.org/WPAdBlock"]
-$csp=script-src 'self' * 'unsafe-inline',domain=biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
+$csp=script-src 'self' * 'unsafe-inline',domain=8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com
 $csp=script-src 'self' * 'unsafe-inline',domain=bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
 $csp=script-src 'self' *,domain=52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us|zk01.net
@@ -4329,6 +4329,8 @@ $websocket,domain=wap.yushuwu.cloud
 423down.com#?#.excerpt > li:has(.info .cat a[rel$="tag"]):contains(产品推荐)
 423down.com#?#.post-related > ul > li:-abp-has(> a[href^="http"]:not([href*="423down."]))
 423down.com#?#li:-abp-has(> .pic[href^="http"]:not([href*="423down."]))
+423down.com#?#li:-abp-has(>.info>.cat>a[rel="category tag"]:-abp-contains(推广))
+423down.com#?#li:-abp-has(>.item-thumb>.item-category:-abp-contains(推广))
 4275.com##div[style="width:580px;margin:0 auto;"]
 42xz.com##.xzbox-lf > ul:not(:last-child)
 42xz.com##[onclick*="godownload"]
@@ -8304,6 +8306,7 @@ buzzorange.com#?#.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
 bytzbiorowy.pl###stickymsg
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
+bz88888.net##+js(abort-current-script, document.getElementsByTagName, _mtj)
 c.biancheng.net##.ggxc-box > a[target="_blank"] > img
 c114.com.cn###ad_r1
 c114.com.cn###barrage_ad
@@ -18299,6 +18302,7 @@ zzzyk.com###Tinfo
 ||5imx.com/image/image/
 ||5ips.net/love/
 ||5kmp7.top^
+||5kmqy60r7.com^
 ||5lfgdju.com^
 ||5lu8.com^$popup,third-party
 ||5mgrgsc.cn^
@@ -20800,6 +20804,7 @@ zzzyk.com###Tinfo
 ||bytravel.cn/js/s_
 ||byuwkbv.top^
 ||byvlph.xyz^
+||bz88888.net/js/cdn.js
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
 ||bzelzfnj.xyz^
 ||bzhanyy.com^*.gif
@@ -21101,6 +21106,7 @@ zzzyk.com###Tinfo
 ||ceh.cehbh.com^
 ||ceiqox.com^
 ||ceisip.com/static/js/plugin.js
+||cekdew.icu^
 ||cengqinglin.cn^
 ||centurys.net/promo_
 ||cenyou.net/wp-content/uploads/1200-200.
@@ -22442,6 +22448,7 @@ zzzyk.com###Tinfo
 ||dqlrfmwp.icu^
 ||dqrdwz.icu^
 ||dqzsteel.com/Website/Image/Index/ytgg.gif
+||dr7dsx6u9.com^
 ||dragon-guide.net/pic001/hezuo/
 ||dragon-guide.net/pic001/pic/shangcheng/
 ||draktash.com^
@@ -24067,6 +24074,7 @@ zzzyk.com###Tinfo
 ||grs.hicloud.com^
 ||grtarpcf963.top^
 ||grtimed.com/material/*_960x110_
+||gru07o6y3.com^
 ||grulphaens.com^
 ||gscatk.cn^
 ||gsdcbsjh55xsc.top^
@@ -25560,6 +25568,7 @@ zzzyk.com###Tinfo
 ||ityusio.top^
 ||iucnwto.top^
 ||iufjkdjmsm.xyz^
+||iugvoo.icu^
 ||iummqg.xyz^
 ||iuou.myadobe.cn^
 ||iuou.ysw365.com^
@@ -25964,6 +25973,8 @@ zzzyk.com###Tinfo
 ||joi09071pt.com^
 ||joi09080pt.com^
 ||joi09081pt.com^
+||joi09090pt.com^
+||joi09091pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -27274,6 +27285,7 @@ zzzyk.com###Tinfo
 ||lyszsz.cn^
 ||lyua.cn^
 ||lyuwkbl.top^
+||lywaelm.online^
 ||lywdoo.cn^
 ||lywww.com/data/js.php?id=
 ||lywww.com/header_pic.php
@@ -28221,6 +28233,7 @@ zzzyk.com###Tinfo
 ||nio09070lt.com^
 ||nio09080lt.com^
 ||nio09081lt.com^
+||nio09090lt.com^
 ||nisihu.com.cn^
 ||nissifresh.com^
 ||nithisp.cn^
@@ -28385,6 +28398,7 @@ zzzyk.com###Tinfo
 ||nunuyy11.com/xx/d.js
 ||nunxhv.com^
 ||nutaku.net^
+||nutlzt.icu^
 ||nuucmzuc.com^
 ||nuvaioqds.com^
 ||nuwurorwbr.com^
@@ -29562,7 +29576,7 @@ zzzyk.com###Tinfo
 ||qingkai.com/2009/html/top.htm
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
-||qingqingxs.top/static/xbiquge/wap.js
+||qingqingxs.*/static/xbiquge/wap.js
 ||qingsedhh.com/images/gg.gif
 ||qiniucdn.com^$domain=enrz.com,image
 ||qinxue100.com/qinxue/pc/js/add_js.js
@@ -31830,6 +31844,7 @@ zzzyk.com###Tinfo
 ||ttdpxh.xyz^
 ||tteferty33.fun^
 ||ttgbnmk.top^
+||tthrirgud.com^
 ||ttienli.top^
 ||ttimiyi.top^
 ||ttly888.com^
@@ -32367,6 +32382,8 @@ zzzyk.com###Tinfo
 ||uwerpyh.cn^
 ||uwgnpkd.cn^
 ||uwilmit.top^
+||uwkz.cn^
+||uwlovullbg.com^
 ||uwnvcxb.cn^
 ||uwsaqoi.icu^
 ||uwtewvalgil.com^
@@ -32777,6 +32794,7 @@ zzzyk.com###Tinfo
 ||w51t.com^$subdocument
 ||w59g.icu^
 ||w5ftl8bhu3.com^
+||w6xdba54n.com^
 ||w7044.com^
 ||w9uwz5966.com^
 ||wa.kuwo.cn/lyrics/img/kwgg/
@@ -32944,6 +32962,7 @@ zzzyk.com###Tinfo
 ||whfpbc.99.com.cn^
 ||whgh1.icu^
 ||whichav.*/qq/qq.js
+||whistle35.com^
 ||whnews.cn/wh_public/xuxu/
 ||whrwlxg.icu^
 ||whsir.com/wp-content/themes/wh-blog/js/modal.js
