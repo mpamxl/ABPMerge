@@ -1462,6 +1462,7 @@
 ##a[href*=".imiwang.com/"]
 ##a[href*=".kaiyunty.live"]
 ##a[href*=".labsda.com"]
+##a[href*=".labsda.com"] > img[src^="/game/20"]
 ##a[href*=".lui8426.xyz"]
 ##a[href*=".moo8923.net"]
 ##a[href*=".mp388.com/"]
@@ -9309,6 +9310,7 @@ msn.cn##.intra-article-ad-full
 msn.cn##.nativeadserversidecontentmodule
 msn.cn##.rc > a[href^="https://sp.booking.com/"]
 msn.cn##.views-right-rail-top-display
+msn.cn##[ad]
 msn.cn##[class^="articlePage_eoabContent"]
 msn.cn##above-river-block
 msn.cn##casual-games-carousel-card
