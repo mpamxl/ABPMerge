@@ -8938,6 +8938,8 @@ macd.cn###hbad
 macdaxue.com##.content > div.asb
 macfans.org###portal_block_180
 macos-app.com#@##adsense
+macromicro.me##+js(abort-current-script, $, /deposit-bonus?platform=26&utm_source=)
+macromicro.me##+js(abort-current-script, $, mmPopup() {)
 macwk.com#@#.adBanner
 madouqu.com#$#abort-current-inline-script document.querySelectorAll popMagic
 mafengwo.cn###ad1

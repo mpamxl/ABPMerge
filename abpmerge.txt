@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-10 16:13:39
-! Total count: 34971
+! Version: 2025-09-11 08:15:26
+! Total count: 34983
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12835,6 +12835,8 @@ macd.cn###hbad
 macdaxue.com##.content > div.asb
 macfans.org###portal_block_180
 macos-app.com#@##adsense
+macromicro.me##+js(abort-current-script, $, /deposit-bonus?platform=26&utm_source=)
+macromicro.me##+js(abort-current-script, $, mmPopup() {)
 macwk.com#@#.adBanner
 madouqu.com#$#abort-current-inline-script document.querySelectorAll popMagic
 mafengwo.cn###ad1
@@ -18434,6 +18436,7 @@ zzzyk.com###Tinfo
 ||6qo.fun^
 ||6quspne.com^
 ||6qyxeob.xyz^
+||6s8w2ck1g.com^
 ||6slb0.cyou^
 ||6t51r3ge18.com^
 ||6tofsu.com^
@@ -19798,6 +19801,7 @@ zzzyk.com###Tinfo
 ||atsgiu.icu^
 ||att.ydss.cn/attachments/portal/
 ||attelaoe.com^
+||attraction85.com^
 ||aty.sohu.com/
 ||aty.sohu.com/v?
 ||aty.sohu.com^
@@ -20125,6 +20129,7 @@ zzzyk.com###Tinfo
 ||baomitu.duapp.com/js/layer.js
 ||bapa215.top^
 ||baphullpet.com^
+||baqwo74y8.com^
 ||barscreative1.com^
 ||bas.boshi.tv^
 ||batijian.com^
@@ -22743,6 +22748,7 @@ zzzyk.com###Tinfo
 ||easyicon.net/gg2019/
 ||easyliao.com^$third-party
 ||eatnontf.icu^
+||eaylmi.icu^
 ||ebcf.cn^
 ||ebhaliragd.com^
 ||ebiotrade.com/jslibrary/js
@@ -25993,6 +25999,7 @@ zzzyk.com###Tinfo
 ||joi09091pt.com^
 ||joi09100pt.com^
 ||joi09101pt.com^
+||joi09110pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -27917,8 +27924,8 @@ zzzyk.com###Tinfo
 ||muiuim.icu^
 ||mujkdna.xyz^
 ||mumnxiex.top^
-||mumu66666.com/js/cdn.js
-||mumu66666.com/js/html*.js$script
+||mumu*.com/js/cdn.js$~third-party
+||mumu*.com/js/html*.js$script,~third-party
 ||munkrudhhv.com^
 ||muntfd62.shop^
 ||muntswe58.shop^
@@ -29440,6 +29447,7 @@ zzzyk.com###Tinfo
 ||q1bp.icu^
 ||q1gel.icu^
 ||q27sz.com^
+||q2fwgl4q8.com^
 ||q2usj.icu^
 ||q3rlg1flo.com^
 ||q5sn40kmp2.com^
@@ -29942,6 +29950,7 @@ zzzyk.com###Tinfo
 ||rakkuxw.com^
 ||rakuten-static.com^$domain=cwyuni.tw
 ||rakuya.com.tw/position?task=
+||ralyxv.icu^
 ||rapfdf.xyz^
 ||rapsmnz.cyou^
 ||rarbt.cc/js/index960_
@@ -31820,6 +31829,7 @@ zzzyk.com###Tinfo
 ||trfmxf.xyz^
 ||tribalfusion.com^
 ||tridroin.com^
+||trigminp.com^
 ||trimmoits.com^
 ||trip.com/partners/ad/
 ||tristaspd.com^
@@ -32718,6 +32728,7 @@ zzzyk.com###Tinfo
 ||vruzexzl.com^
 ||vryoacs.icu^
 ||vs1.exo01.xyz^$image,third-party
+||vsct.cn^
 ||vsjavu.top^
 ||vsjrnh.xyz^
 ||vsojfsoj.com^
@@ -33939,6 +33950,7 @@ zzzyk.com###Tinfo
 ||y3600.cc/js/jquery.min.js
 ||y4l.icu^
 ||y4re1yokqv.com^
+||y63eay93i.com^
 ||y66xvgo5i.chuimg.com^
 ||y6oiuyphb.com^
 ||y74s.xyz^
