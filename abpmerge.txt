@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-11 08:15:26
-! Total count: 34983
+! Version: 2025-09-11 16:13:33
+! Total count: 34989
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18283,6 +18283,7 @@ zzzyk.com###Tinfo
 ||59xx2yr9i.com^
 ||5axxw.com/extends/ad/
 ||5azvpjx8xj.com^
+||5b025cnm.top^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
 ||5dm.link/a$image
@@ -26000,6 +26001,7 @@ zzzyk.com###Tinfo
 ||joi09100pt.com^
 ||joi09101pt.com^
 ||joi09110pt.com^
+||joi09111pt.com^
 ||joiwnq2.cn^
 ||jojog.com^
 ||jokerlu.com/upload/addon/
@@ -27104,6 +27106,7 @@ zzzyk.com###Tinfo
 ||lnnahh.xyz^
 ||lnnsvj.xyz^
 ||lnptph.icu^
+||lnwe.cn^
 ||lnxkrd.xyz^
 ||lnzjlr.xyz^
 ||lnzqw.net/js/
@@ -28643,6 +28646,7 @@ zzzyk.com###Tinfo
 ||olgcpwc.icu^
 ||olgrae.com^
 ||oliver.pub^
+||oljqmw.icu^
 ||olkoins.com^
 ||olmnvbgufy.top^
 ||olmsoneenh.info^$domain=avgle.com
@@ -34372,6 +34376,7 @@ zzzyk.com###Tinfo
 ||yupov6ks.icu^
 ||yuqmok.xyz^
 ||yuqnyudug.com^
+||yur09111og.com^
 ||yushuwen.com/astyle/wap.js
 ||yuske2.xyz^
 ||yusnw.cc^
@@ -34851,6 +34856,7 @@ zzzyk.com###Tinfo
 ||zqydulfzxb.com^
 ||zr3.icu^
 ||zrakpxsf.com^
+||zrblog.net*/gg/
 ||zrblog.net/gg/
 ||zrblog.net/zanzhu/virpus.gif
 ||zrbnte.top^
