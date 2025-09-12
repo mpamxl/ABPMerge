@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-12 08:14:54
-! Total count: 35004
+! Version: 2025-09-12 16:11:34
+! Total count: 35011
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8027,6 +8027,7 @@ bilibili.com##span[style*="height:"][data-loc-id]
 bilibili.com#$#.container > div[class*="-card"]:has(div[style="display: none !important;"]) { position: absolute !important; left: -3000px !important; }
 bilibili.com#$?#.container > .feed-card:has(> .bili-video-card.is-rcmd > div.bili-video-card__wrap .bili-video-card__stats--icon > path[d*="M16.9122 1.50323C17.4366 1.48358 17.99745 1.54938 18.4701 1.8207C18.9423 2.09168 19.28085"]) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
+bilibili.com#$?#.feed-card:has(> div.bili-feed-card > div > div > div.bili-video-card__no-interest + a[target="_blank"]:not([href^="https://www.bilibili.com/"])) { remove: true; }
 bilibili.com#$?#.feed-card:has(> div.bili-feed-card > div.shortcut-bg:empty ~ div.bili-video-card[style*="display: none !important;"]) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
 bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card__info--ad)
@@ -18289,7 +18290,7 @@ zzzyk.com###Tinfo
 ||5b025cnm.top^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
-||5dm.link/a$image
+||5dm.link/htm1/$image
 ||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
 ||5dmail.net/image/ORF_1000.gif
@@ -21117,6 +21118,7 @@ zzzyk.com###Tinfo
 ||cduy.cn^
 ||cdvsd9.com^
 ||cdxyb.cn^$third-party
+||cdxyspa.com/js/e
 ||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
 ||cdyurlif.top^
@@ -22497,6 +22499,7 @@ zzzyk.com###Tinfo
 ||druqodrly.com^
 ||drustren.com^
 ||drvsky.com/js/jolimark.gif
+||dryvoa.cn^
 ||ds.ruanwengfa.com^
 ||ds1.kaijia.com^
 ||dsa22.com^
@@ -25668,6 +25671,7 @@ zzzyk.com###Tinfo
 ||izalflh.cn^
 ||izcqyy.xyz^
 ||izgl.cn^
+||izjmlg.cn^
 ||izmiua.xyz^
 ||izopsg.icu^
 ||izqeyo.xyz^
@@ -26174,6 +26178,7 @@ zzzyk.com###Tinfo
 ||jtimiya.top^
 ||jtjh.tw^
 ||jtpu9s.icu^
+||jtvwbp.cn^
 ||jtyusia.top^
 ||jtzdld.xyz^
 ||juandou.com^$third-party
@@ -28486,6 +28491,7 @@ zzzyk.com###Tinfo
 ||nz04com.com/aabdd/
 ||nzfcvv.xyz^
 ||nzhzzd.xyz^
+||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpvpp.icu^
 ||nzrlx6wc.icu^
@@ -34863,6 +34869,7 @@ zzzyk.com###Tinfo
 ||zpplsii.xyz^
 ||zpsovpgyk.xyz^
 ||zpxw.vip^
+||zpzatutb.com^
 ||zq.lansedir.com^
 ||zqgixxp.icu^
 ||zqifmyt.icu^
