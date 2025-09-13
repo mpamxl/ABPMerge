@@ -10097,6 +10097,7 @@ phimtuoitho.site#$#abort-current-inline-script document.documentElement break;ca
 phimvuihd.org#$#override-property-read urlAds ''
 phone-book.tw##+js(remove-node-text, script, yumayishop)
 phonearena.com##.adblock_awareness
+photonmedia.net#@#.ads-banner
 photopea.com##.flexrow > div[style^="padding-top:"]
 php.cn##.close_id
 php.cn##.layui-show > UL > .top-img
