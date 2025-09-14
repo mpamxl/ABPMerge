@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-13 16:11:04
-! Total count: 35031
+! Version: 2025-09-14 08:12:50
+! Total count: 35042
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18112,6 +18112,7 @@ zzzyk.com###Tinfo
 ||4sq.icu^
 ||4t6u.icu^
 ||4ufutzmihl.com^
+||4v6a7i3dkz.com^
 ||4ve.fun^
 ||4vgyjja.cn^
 ||4we.icu^
@@ -18469,6 +18470,7 @@ zzzyk.com###Tinfo
 ||73336zubo25326.com^
 ||75.125.41.29:8080/
 ||75b9dfiyb.com^
+||766lnwfo7h.com^
 ||7676.com^$third-party
 ||767drv.cn^
 ||76e.org^
@@ -19736,6 +19738,7 @@ zzzyk.com###Tinfo
 ||aqlife.com/data/attachment/portal/
 ||aquvg.com^
 ||aqvwn18102h.com^
+||aqxh9x1o7m.com^
 ||aqy103.com/js/aqy/
 ||arewcdf116.cn^
 ||areyoutherenow.com^
@@ -22056,6 +22059,7 @@ zzzyk.com###Tinfo
 ||deb.gs/visitScript/$script,third-party
 ||debilizator.tv/static/ab.min.js$script
 ||debugease.com/static/js/show.js
+||decision567.com^
 ||dedcrfvdj.xyz^
 ||deeterno.cn^
 ||def2g1kz2t.top^
@@ -24247,6 +24251,7 @@ zzzyk.com###Tinfo
 ||gwmrb.cn^
 ||gwogrgq.icu^
 ||gwrpceo.cn^
+||gwwquc.icu^
 ||gxam.cn^
 ||gxbnp.cn^
 ||gxcdgm.xyz^
@@ -27318,6 +27323,7 @@ zzzyk.com###Tinfo
 ||lwurserl.top^
 ||lwvrv.icu^
 ||lwzdzf.xyz^
+||lwzgfp.icu^
 ||lxapk.com/wp-content/uploads/*.gif
 ||lxbjs.baidu.com^$third-party
 ||lxbndh.xyz^
@@ -28013,6 +28019,7 @@ zzzyk.com###Tinfo
 ||mxafaw.icu^
 ||mxcmwk.xyz^
 ||mxevdii.cn^
+||mxvl.cn^
 ||mxzmz.com/js/
 ||my0511.com/*/ad_
 ||my0538.com^*/thumb_1000_70_
@@ -30296,6 +30303,7 @@ zzzyk.com###Tinfo
 ||ruten.com.tw/search/imp_ad_
 ||ruten.com.tw^*/ahd_
 ||ruvgbv.icu^
+||ruvowe4xeo.com^
 ||ruyig.com/730x76.png
 ||rvbztg.cn^
 ||rvgtaai.top^
@@ -32633,6 +32641,7 @@ zzzyk.com###Tinfo
 ||vhxzfz.icu^
 ||vhzivz.xyz^
 ||vickyellend.com^
+||victoriaelmae.com^
 ||victoriajumpc.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video.da.mgtv.com/$media
@@ -34417,6 +34426,8 @@ zzzyk.com###Tinfo
 ||yur09121og.com^
 ||yur09130og.com^
 ||yur09131og.com^
+||yur09140og.com^
+||yur09141og.com^
 ||yushuwen.com/astyle/wap.js
 ||yuske2.xyz^
 ||yusnw.cc^
