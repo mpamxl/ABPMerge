@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-14 16:10:49
-! Total count: 35042
+! Version: 2025-09-15 08:15:58
+! Total count: 35053
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1839,6 +1839,7 @@ $websocket,domain=wap.yushuwu.cloud
 &uid=ssp-$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 &xhtml?$script,third-party
 *$denyallow=123dua.com,domain=123dua.com,script,xmlhttprequest
+*$denyallow=biqege.com,domain=biqege.com,script,xmlhttprequest
 *$denyallow=efuxs.com,domain=efuxs.com,script,subdocument,xmlhttprequest
 *$denyallow=qiexs.cc|ququge.cc,domain=qiexs.cc|ququge.cc,xmlhttprequest,image,script
 *$denyallow=tszw.org,subdocument,script,xmlhttprequest,domain=tszw.org
@@ -22951,6 +22952,7 @@ zzzyk.com###Tinfo
 ||emoney.cn/www/officalWebStatic/js/slideAd.js
 ||emphidaho.com^
 ||ems.youku.com^
+||emslgm.icu^
 ||emsq.cn^
 ||en6.icu^
 ||en8848.com.cn/js/ad
@@ -23123,6 +23125,7 @@ zzzyk.com###Tinfo
 ||execuri.com^
 ||exevcl.cn^
 ||exinariuminix.info^
+||existences2.top^
 ||exoclick.com^$third-party
 ||exocoed.top^
 ||exoh.cn^
@@ -23426,6 +23429,7 @@ zzzyk.com###Tinfo
 ||flkgjlfghm.com^
 ||flo.uri.sh/visualisation/14819166/embed?auto=$subdocument,domain=tw.news.yahoo.com
 ||floozycity.com/ad/$popup
+||flqa83yic.com^
 ||flsfzr.cn^
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
 ||fm086.com/Plugins/search
@@ -26078,6 +26082,7 @@ zzzyk.com###Tinfo
 ||jrmianban.com/img/images/g-g/
 ||jrmrijv.icu^
 ||jrpolj.xyz^
+||jrq39d1r8.com^
 ||jrtlisa.top^
 ||jrutvnca.top^
 ||jrzj.com/images/bgright_ad.jpg
@@ -29530,6 +29535,7 @@ zzzyk.com###Tinfo
 ||qcmm05.com^
 ||qcogiellq.com^
 ||qcohkm.xyz^
+||qcra.cn^
 ||qcsvku.xyz^
 ||qctcu.com^
 ||qcvf.ifeng.com^
@@ -30001,6 +30007,7 @@ zzzyk.com###Tinfo
 ||rayajmp.icu^
 ||razlozhi.ru^$script,header=report-to
 ||razrzh.xyz^
+||rb51rh02h.com^
 ||rbbko.com^
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
@@ -30199,6 +30206,7 @@ zzzyk.com###Tinfo
 ||rmbsfh.icu^
 ||rmbvzh.xyz^
 ||rmduuv.icu^
+||rmfbrz.icu^
 ||rmhfrtnd.com^$third-party
 ||rmioswx.icu^
 ||rmtxdn.icu^
@@ -31019,6 +31027,7 @@ zzzyk.com###Tinfo
 ||sovelswpq.com^
 ||sowsuwm.icu^
 ||sowwoy.xyz^
+||soy5c00zc.com^
 ||sozi.cn/images/tj/downad
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/szdown
@@ -34428,6 +34437,8 @@ zzzyk.com###Tinfo
 ||yur09131og.com^
 ||yur09140og.com^
 ||yur09141og.com^
+||yur09150og.com^
+||yur09151og.com^
 ||yushuwen.com/astyle/wap.js
 ||yuske2.xyz^
 ||yusnw.cc^
