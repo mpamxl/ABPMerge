@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-15 16:13:40
-! Total count: 35056
+! Version: 2025-09-16 08:15:43
+! Total count: 35068
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18498,6 +18498,7 @@ zzzyk.com###Tinfo
 ||77ds.vip/js/shichuang.js
 ||77nnv9.xyz^
 ||77qwq.com^
+||77v6jk9itk.com^
 ||77zz7.com^
 ||786yfvedhcbxjk.top^
 ||789peizi.com^
@@ -18668,6 +18669,7 @@ zzzyk.com###Tinfo
 ||8sh.fun^
 ||8suis.top^
 ||8t9he.cyou^
+||8tbllquzr6.com^
 ||8u0.fun^
 ||8u6stvyww.top^
 ||8v08mjri7.com^
@@ -18754,6 +18756,7 @@ zzzyk.com###Tinfo
 ||98.126.219.*/ads/
 ||98158.com^
 ||9831tb.com^
+||9867.org^
 ||986qka.cn^
 ||98765.pw^
 ||98765432100.online^
@@ -24123,6 +24126,7 @@ zzzyk.com###Tinfo
 ||grmzwc.icu^
 ||gromore.pangolin-sdk-toutiao.com^
 ||grondrens.com^
+||growthol22.com^
 ||grs.hicloud.com^
 ||grtarpcf963.top^
 ||grtimed.com/material/*_960x110_
@@ -26623,6 +26627,7 @@ zzzyk.com###Tinfo
 ||koytqo.xyz^
 ||kpmose.xyz^
 ||kpmsoq.xyz^
+||kpogse.icu^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpshx.douguo.com^
@@ -26943,6 +26948,7 @@ zzzyk.com###Tinfo
 ||lftpvh.xyz^
 ||lfxozd.xyz^
 ||lfzk2cp.icu^
+||lg0lh2qfj4.com^
 ||lgaicreal.com^
 ||lganilgll.cyou^
 ||lgecqrb.com^
@@ -29322,6 +29328,7 @@ zzzyk.com###Tinfo
 ||poyc.cn^
 ||pozrwj.icu^
 ||pp1hl.xyz^
+||ppbtdj.icu^
 ||ppedp.cn^
 ||ppio1*ios.top/$script,third-party
 ||ppio12181ios.top^
@@ -32284,6 +32291,7 @@ zzzyk.com###Tinfo
 ||ujrspnbf.xyz^
 ||uk0.icu^
 ||uk529u0.cn^
+||ukew6uo7u1.com^
 ||ukfp.cn^
 ||ukitert.top^
 ||ukjwyv.icu^
@@ -34156,6 +34164,7 @@ zzzyk.com###Tinfo
 ||yhmeinv.com/mh/
 ||yhnvgdkw.xyz^
 ||yhp4an7.cn^
+||yhrh.cn^
 ||yhsbgm.icu^
 ||yhsdwjes.xyz^
 ||yhsfsdv*.com^
@@ -34419,6 +34428,7 @@ zzzyk.com###Tinfo
 ||yujianmeihao179.cn^
 ||yukariyakumo.cn^
 ||yukbsa.xyz^
+||yulx.cn^
 ||yun-hl.3g.qq.com^
 ||yun.baidu.com/act/api/activityentry?
 ||yundaquan.com/data/attachment/portal/
@@ -34442,6 +34452,8 @@ zzzyk.com###Tinfo
 ||yur09141og.com^
 ||yur09150og.com^
 ||yur09151og.com^
+||yur09160og.com^
+||yur09161og.com^
 ||yushuwen.com/astyle/wap.js
 ||yuske2.xyz^
 ||yusnw.cc^
