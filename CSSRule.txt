@@ -2948,7 +2948,6 @@
 699pic.com##.springtime-floatLink
 699pic.com##.springtime-pop
 699pic.com##.winpopbg
-69shumi.com,biquge543.com,beqg.cc,biquge321.com##+js(addEventListener-defuser, touchend, window.location.href)
 69story.com###main > div[style="margin-top: 15px;"]
 69story.com##aside#secondary > section[id="text-2"]
 69vj.com###nta
@@ -8859,6 +8858,7 @@ m.baidu.com##.ec_adv
 m.baidu.com##.news_ad
 m.baidu.com##a[href*="m.lecai.com"]
 m.biqiugege8.com##+js(set-constant, lists, undefined)
+m.biquge12345.com,69shumi.com,biquge543.com,beqg.cc,biquge321.com##+js(addEventListener-defuser, touchend, window.location.href)
 m.chouti.com##.m_download_box
 m.guancha.cn##.g_header.go-to-app
 m.hao123.com##.tuizhan
