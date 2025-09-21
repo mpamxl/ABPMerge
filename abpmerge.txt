@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-20 16:11:55
-! Total count: 35120
+! Version: 2025-09-21 08:12:27
+! Total count: 35131
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18328,6 +18328,7 @@ zzzyk.com###Tinfo
 ||5ips.net/love/
 ||5kmp7.top^
 ||5kmqy60r7.com^
+||5lf5cujc5.com^
 ||5lfgdju.com^
 ||5lu8.com^$popup,third-party
 ||5mgrgsc.cn^
@@ -22151,6 +22152,8 @@ zzzyk.com###Tinfo
 ||dfi09191kq.com^
 ||dfi09200kq.com^
 ||dfi09201kq.com^
+||dfi09210kq.com^
+||dfi09211kq.com^
 ||dfjd.xyz^
 ||dfkd.xyz^
 ||dflkndkzf.com^
@@ -23830,6 +23833,7 @@ zzzyk.com###Tinfo
 ||geewdashb3.fun^
 ||gegeoq.icu^
 ||gegeyingshi.com/template/*/images/g_js/
+||geih.cn^
 ||geilicdn.com/img*_960_60.
 ||geinkroll.com^
 ||geiod.xyz^
@@ -25169,6 +25173,7 @@ zzzyk.com###Tinfo
 ||iephrenhq.com^
 ||ieryt111.fun^
 ||ietlwso.top^
+||ieubws.icu^
 ||iewruto.top^
 ||ieymhkx.icu^
 ||if8hhbrk4.com^
@@ -25560,6 +25565,7 @@ zzzyk.com###Tinfo
 ||irkrors.com^
 ||irlj.cn^
 ||irmbyu.xyz^
+||irp37bmmt.com^
 ||irqaci.xyz^
 ||irs03.com^
 ||irtefs.xyz^
@@ -28655,6 +28661,7 @@ zzzyk.com###Tinfo
 ||ohoyao.com^
 ||ohqp.cn^
 ||ohtusgy.icu^
+||ohvk.cn^
 ||ohwb.cn^
 ||oi9rp7.online^
 ||oia04300klq.com^
@@ -28911,6 +28918,7 @@ zzzyk.com###Tinfo
 ||oxj8hcfg.xyz^
 ||oxjb.cn^
 ||oxkqeu.xyz^
+||oxkrcrlw.com^
 ||oxkyaq.xyz^
 ||oxmvcg.xyz^
 ||oxoucm.xyz^
@@ -30458,6 +30466,7 @@ zzzyk.com###Tinfo
 ||saitef.cn^
 ||saizih.com^
 ||saktuddo.com^
+||sal5ab6uf.com^
 ||salary.xiao84.com^
 ||sales-frontier.com^$third-party
 ||salfgkhsklgcvrg.com^
@@ -32421,6 +32430,7 @@ zzzyk.com###Tinfo
 ||upresim.tk/berat/js/entry$script,domain=fakirdebrid.net
 ||upufkg.icu^
 ||upvx.cn^
+||upwards44.top^
 ||upyerxzn.xyz^
 ||upyzqf.cn^
 ||upzabkw.cn^
@@ -32645,6 +32655,7 @@ zzzyk.com###Tinfo
 ||vecggfp.icu^
 ||vedhalmin.com^
 ||vegaingi.com^
+||vehohx.icu^
 ||veilengh.com^
 ||vejhln.xyz^
 ||vejrp6iq25.com^
