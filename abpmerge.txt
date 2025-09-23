@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-22 16:13:55
-! Total count: 35141
+! Version: 2025-09-23 08:15:10
+! Total count: 35152
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15983,6 +15983,7 @@ u2mtv.com#@##slider-ad
 u7u9.com###pangu_leftBottom
 u7u9.com##.xw-right-ad
 uaa.com##.place_holder_box
+uaa.com##.shortcut_box
 ubmcmm.baidustatic.com
 uc.cn##div[data-ad_url^="http"]
 uc123.com###J_logoLeft
@@ -18234,6 +18235,7 @@ zzzyk.com###Tinfo
 ||537images1.com^
 ||5399.com^$third-party
 ||53bk.com/Baokan/Comja/changepic.
+||53h7rxip9.com^
 ||53kf.com^$third-party
 ||53shop.com/ime/*.js
 ||53shop.com/img/*.js
@@ -18649,6 +18651,7 @@ zzzyk.com###Tinfo
 ||8961.jianbihua.com^
 ||89mtdab.xyz^
 ||8ail6.icu^
+||8bnouo6r6.com^
 ||8chj9.com^
 ||8cnd.com^
 ||8cp.icu^
@@ -20641,6 +20644,7 @@ zzzyk.com###Tinfo
 ||boce.com/statics/img/img27b.png
 ||bodhalqg.com^
 ||boewgph.icu^
+||bof8804jn.com^
 ||bofnhn.com^
 ||bogtrmjz.xyz^
 ||bohanhengtian.cn^
@@ -22159,6 +22163,8 @@ zzzyk.com###Tinfo
 ||dfi09211kq.com^
 ||dfi09220kq.com^
 ||dfi09221kq.com^
+||dfi09230kq.com^
+||dfi09231kq.com^
 ||dfjd.xyz^
 ||dfkd.xyz^
 ||dflkndkzf.com^
@@ -23821,6 +23827,7 @@ zzzyk.com###Tinfo
 ||gdr3.com/us/
 ||gdsoq.com^
 ||gdt.qq.com^
+||gdvghaowyw.com^
 ||gdwudmv.icu^
 ||gdxxb.com^$third-party
 ||gdyjs.com^
@@ -27962,6 +27969,7 @@ zzzyk.com###Tinfo
 ||mrhboe.xyz^
 ||mrqbuf.xyz^
 ||mrtlisx.top^
+||mrtm4lylj.com^
 ||mrtxtrq.xyz^
 ||mrutvncx.top^
 ||mryshl.com^
@@ -30393,6 +30401,7 @@ zzzyk.com###Tinfo
 ||rxoi.cn^
 ||rxyggrq.cn^
 ||rxys.cn^
+||rxzefz.icu^
 ||rychlost.cz/_pub/jquery/scripts.js$script
 ||rychlost.cz/_pub/scripts/js.js$script
 ||rydyvv.xyz^
@@ -32692,6 +32701,7 @@ zzzyk.com###Tinfo
 ||vfsdgjrr.xyz^
 ||vfsdsdeq.xyz^
 ||vfsvv1.com^
+||vftq.cn^
 ||vftrfmia.icu^
 ||vftvbx.xyz^
 ||vfvad.top^
@@ -33147,6 +33157,7 @@ zzzyk.com###Tinfo
 ||whyfate.cn^
 ||wi1f.icu^
 ||wiczcu.xyz^
+||widespread1.top^
 ||widget.ezprice.com.tw^$third-party
 ||widgets.outbrain.com/outbrain.js
 ||widgets.pinterest.com^
