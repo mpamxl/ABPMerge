@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-24 16:14:18
-! Total count: 35172
+! Version: 2025-09-25 08:15:15
+! Total count: 35184
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18339,6 +18339,7 @@ zzzyk.com###Tinfo
 ||5mgrgsc.cn^
 ||5mltq.icu^
 ||5mm.zxfw5.cn^
+||5mn041cdz.com^
 ||5nj.com/js/cnzz22.js
 ||5nj.com/js/cnzz33.js
 ||5odd5zsn.xyz^
@@ -22172,6 +22173,7 @@ zzzyk.com###Tinfo
 ||dfi09231kq.com^
 ||dfi09240kq.com^
 ||dfi09241kq.com^
+||dfi09250kq.com^
 ||dfjd.xyz^
 ||dfkd.xyz^
 ||dflkndkzf.com^
@@ -23182,6 +23184,7 @@ zzzyk.com###Tinfo
 ||exqvak.xyz^
 ||extmaps-api.yandex.net^
 ||extopae.icu^
+||exvl.cn^
 ||eybstar.com^
 ||eydvg8.com^
 ||eyhv.cn^
@@ -25177,6 +25180,7 @@ zzzyk.com###Tinfo
 ||idipsumo.top^
 ||iditero.top^
 ||idmiohtlitir.com^
+||idobqo.icu^
 ||idomsio.top^
 ||idoshbo.top^
 ||idubwz.cn^
@@ -26696,6 +26700,7 @@ zzzyk.com###Tinfo
 ||kqzyfj.com^
 ||kr.sdykcloud.cn^
 ||krbulhb.com^
+||krevn0cq4.com^
 ||krikului.com^
 ||krinkred.com^
 ||krirkroins.com^
@@ -27643,6 +27648,7 @@ zzzyk.com###Tinfo
 ||mdqhyxe.cn^
 ||mdqikg.xyz^
 ||mdqpkdne.xyz^
+||mdrihnok.com^
 ||mdt.qq.com^
 ||mdwhxw.com^
 ||mdzwjra.cn^
@@ -28587,6 +28593,8 @@ zzzyk.com###Tinfo
 ||nz04com.com/aabdd/
 ||nzfcvv.xyz^
 ||nzhzzd.xyz^
+||nzl09250oa.com^
+||nzl09251oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpvpp.icu^
@@ -30471,6 +30479,7 @@ zzzyk.com###Tinfo
 ||s4zqj3m.cn^
 ||s65m.win^
 ||s6in.cc^
+||s72h7io4o.com^
 ||s7fpxh6fz.com^
 ||s7ki0dcd96.com^
 ||s7tu.com/images/*.gif
@@ -32379,6 +32388,7 @@ zzzyk.com###Tinfo
 ||ukjwyv.icu^
 ||ukkiftx.icu^
 ||ukpsal.icu^
+||ukx6umuvu.com^
 ||ulad.cn^
 ||ulatammyspb.com^
 ||uldaens.com^
@@ -32793,6 +32803,7 @@ zzzyk.com###Tinfo
 ||vipwm.cc^
 ||vipyearha.com/uploads/20*.gif
 ||viroffyy.com^
+||virtual2.top^
 ||visit-japan.jp/parts/visitjapan_f35_170_170.jpg
 ||vista.tuwan.com/s.js
 ||vitqzd.icu^
@@ -32860,6 +32871,7 @@ zzzyk.com###Tinfo
 ||vpydjogaytpg.xyz^
 ||vpzohx.xyz^
 ||vqaj6smlmtpym.top^
+||vqbrbb.icu^
 ||vqbzpv.xyz^
 ||vqle.cn^
 ||vqlwoy.xyz^
