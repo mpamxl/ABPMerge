@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-25 08:15:15
-! Total count: 35184
+! Version: 2025-09-25 16:13:39
+! Total count: 35190
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21170,6 +21170,7 @@ zzzyk.com###Tinfo
 ||ceiqox.com^
 ||ceisip.com/static/js/plugin.js
 ||cekdew.icu^
+||cekrfk.com^
 ||cengqinglin.cn^
 ||centurys.net/promo_
 ||cenyou.net/wp-content/uploads/1200-200.
@@ -22670,6 +22671,7 @@ zzzyk.com###Tinfo
 ||dwstatic.com^*/newsPopup/
 ||dwstatic.com^*/p/livetip/
 ||dwstatic.com^*/sidebar.js
+||dwuupq.com^
 ||dwyeuy.com^
 ||dwyngjb.icu^
 ||dxdxfl.icu^
@@ -30056,6 +30058,7 @@ zzzyk.com###Tinfo
 ||r.trwl1.com/s1/$subdocument
 ||r0hpdbkqs.com^
 ||r0j.fun^
+||r0l7cp.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
 ||r3sub.com/images/aaa^
@@ -32079,6 +32082,7 @@ zzzyk.com###Tinfo
 ||tuky889900.com^
 ||tumeite.cn^
 ||tunshixingkong2.com/config/v7.js
+||tuobeng.net^
 ||tuoizbtl.xyz^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
@@ -33016,6 +33020,7 @@ zzzyk.com###Tinfo
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wa9dald544.com^
 ||wacisi.xyz^
+||wacogzaeip.com^
 ||wacowla.com/wp-content/plugins/popover/js/
 ||wafmedia3.com^$script,domain=online.dramacafe.in
 ||wagzqhq.cn^
@@ -34180,6 +34185,7 @@ zzzyk.com###Tinfo
 ||ycdywl.com^
 ||ycgfdf.cn^
 ||ycgmnpp.icu^
+||ych.asia^
 ||ychahlollfb.com^
 ||yckamq.xyz^
 ||ycq.cab^
