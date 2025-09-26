@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-25 16:13:39
-! Total count: 35190
+! Version: 2025-09-26 08:15:46
+! Total count: 35203
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8065,6 +8065,7 @@ bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
+bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##a[h$=",Ads"]
@@ -17687,6 +17688,7 @@ zzzyk.com###Tinfo
 ||1dki0.icu^
 ||1dm6ccvy8.com^
 ||1dor1d6vc.com^
+||1f0l.top^
 ||1f84e33459.com^
 ||1gmzo.icu^
 ||1gtp.icu^
@@ -21424,6 +21426,7 @@ zzzyk.com###Tinfo
 ||ck.ads.oppomobile.com^
 ||ck180.net/mitao
 ||ck33.top^
+||ck4g3p2x92.com^
 ||ckerw.xyz^
 ||ckg.vipyl.com^
 ||ckxxbao.com/templets/default/js/wx.js
@@ -23243,6 +23246,7 @@ zzzyk.com###Tinfo
 ||fads315.com^
 ||fafvvt.icu^
 ||fagrirtn.com^
+||fahwlqf37l.com^
 ||fajdhuhdh.com^
 ||fajkhr.icu^
 ||fakjkwp.cn^
@@ -23989,6 +23993,7 @@ zzzyk.com###Tinfo
 ||gio07311rp.com^
 ||giphaudoq.com^
 ||githubusercontent.com/vip888vip/ug/main/*.gif
+||giwl0p3gx7.com^
 ||gjh9v.tianshilv.cn^
 ||gjhjjhgc.cn^
 ||gjinuqg.top^
@@ -24297,6 +24302,7 @@ zzzyk.com###Tinfo
 ||gushi.network^
 ||gushiwen.org/getTicket.aspx
 ||gusp.cn^
+||guurniuvgo.com^
 ||guwohvw.icu^
 ||guyhok.xyz^
 ||guysfair.com^
@@ -24767,6 +24773,7 @@ zzzyk.com###Tinfo
 ||hlalliances.com^
 ||hlbbn6ii.icu^
 ||hlegsdh.icu^
+||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
 ||hltoon.com/hanman/static/dist/ppm/js/foot
@@ -27526,6 +27533,7 @@ zzzyk.com###Tinfo
 ||m6500.top^
 ||m6690.top^
 ||m6d.icu^
+||m6d3h9vc3z.com^
 ||m6j37.xyz^
 ||m7g2v1b9.com^
 ||m7xssfiit.com^
@@ -28597,6 +28605,8 @@ zzzyk.com###Tinfo
 ||nzhzzd.xyz^
 ||nzl09250oa.com^
 ||nzl09251oa.com^
+||nzl09260oa.com^
+||nzl09261oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpvpp.icu^
@@ -28907,6 +28917,7 @@ zzzyk.com###Tinfo
 ||otheve.beacon.qq.com^
 ||otienlk.top^
 ||otimiyk.top^
+||otkwcg.icu^
 ||otlj.cn^
 ||otoieku.icu^
 ||ott.cibntv.net/*/ad/*.ts?ccode=$xmlhttprequest,domain=v.youku.com
@@ -32051,6 +32062,7 @@ zzzyk.com###Tinfo
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttvosc.com^
 ||ttwwzqdx.xyz^
+||ttxjnt.icu^
 ||ttykabh.icu^
 ||ttzhongbao.com^
 ||tu1500919341.cc^
@@ -32435,6 +32447,7 @@ zzzyk.com###Tinfo
 ||union.china.com.cn^
 ||union.yihaodian.com^
 ||unionli.com^$third-party
+||universe7.top^
 ||uniway.cn.com^
 ||unjld.com^
 ||unjs.jingyanben.com^
