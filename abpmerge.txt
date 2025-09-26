@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-26 08:15:46
-! Total count: 35203
+! Version: 2025-09-26 16:13:40
+! Total count: 35208
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3315,6 +3315,7 @@ $websocket,domain=wap.yushuwu.cloud
 /template/m1938pc/bd/*.js
 /template/mytheme/statics/js/listing.js
 /template/paody/aaaa/all-top.js
+/template/piankuwap/js/afixed.js
 /template/piankuwap/js/afoot.js
 /template/shoujigg/*
 /template/znfls/asd/*
@@ -4861,6 +4862,7 @@ $websocket,domain=wap.yushuwu.cloud
 ://rou*/_next/static/chunks/pages/home-
 ://s.htkk*.top:$script,third-party
 ://seai*/ads/float.js
+://tj.*.com$third-party
 ://www.*.js|$script,third-party,domain=159i.com|r3sub.com|thisav.com
 ://xingkong6688s.oss-
 :1010/openV5.js
@@ -23162,6 +23164,7 @@ zzzyk.com###Tinfo
 ||ewerilxw.top^
 ||eweriow.top^
 ||ewfsef.com^
+||ewgu.cn^
 ||ewilmiw.top^
 ||ewjhic.cn^
 ||ewqeq23.fun^
@@ -27136,6 +27139,7 @@ zzzyk.com###Tinfo
 ||lirretsn.com^
 ||lishuaibin.cn^
 ||littlecdn.com^
+||litv.tv/library/comscore/
 ||liu16.com/vip.png
 ||liugaohao.com^
 ||liuxue86.com/css/liuxue_output.js
@@ -29272,6 +29276,7 @@ zzzyk.com###Tinfo
 ||piln.cn^
 ||pimlog.baidu.com^
 ||pimormebwf.com^
+||pimuedrozt.com^
 ||pin6d37stu.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
