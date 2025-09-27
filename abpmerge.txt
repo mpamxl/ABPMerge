@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-26 16:13:40
-! Total count: 35208
+! Version: 2025-09-27 08:12:50
+! Total count: 35219
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -25714,9 +25714,11 @@ zzzyk.com###Tinfo
 ||iuuwuk.xyz^
 ||iuwkmpol.net^
 ||iuytfvhl.top^
+||ivhv.cn^
 ||iviewui.com/v1/*?name=
 ||ivnrrkx.cn^
 ||ivqtrjt.cn^
+||ivrokpyr.com^
 ||ivvn.cn^
 ||ivy.pconline.com.cn^
 ||ivzaq2irg.com^
@@ -27755,6 +27757,7 @@ zzzyk.com###Tinfo
 ||mfav88.com/yinzi/
 ||mfe.paqpq.com^
 ||mfemiac.icu^
+||mfhxz0hz7.com^
 ||mfkfkhfhmfkfkhfh.top^
 ||mfoevvy.com^
 ||mfxyqh.cn^
@@ -28104,6 +28107,7 @@ zzzyk.com###Tinfo
 ||mwerilxx.top^
 ||mweriox.top^
 ||mwgehrudb.com^
+||mwgooq.icu^
 ||mwilmix.top^
 ||mwqetvn.icu^
 ||mwrf.net/images/js/*mrf.js
@@ -28580,6 +28584,7 @@ zzzyk.com###Tinfo
 ||nwera.xyz^
 ||nwxaxx.xyz^
 ||nwxs5.com/js/
+||nx2ucbzw1.com^
 ||nx8.icu^
 ||nxcm.cc^
 ||nxdefd.icu^
@@ -28611,6 +28616,8 @@ zzzyk.com###Tinfo
 ||nzl09251oa.com^
 ||nzl09260oa.com^
 ||nzl09261oa.com^
+||nzl09270oa.com^
+||nzl09271oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpvpp.icu^
@@ -30072,6 +30079,7 @@ zzzyk.com###Tinfo
 ||r.99waiyu.com^
 ||r.bat.bing.com/?ld=$script,redirect=noop.js,domain=mcappx.com
 ||r.trwl1.com/s1/$subdocument
+||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r0j.fun^
 ||r0l7cp.com^
@@ -30436,6 +30444,7 @@ zzzyk.com###Tinfo
 ||rwbqll.top^
 ||rwdjrn.icu^
 ||rwix.cn^
+||rwtezd.icu^
 ||rxaqwhu54d.com^
 ||rxdxzb.top^
 ||rxfygd.cn^
@@ -32164,6 +32173,7 @@ zzzyk.com###Tinfo
 ||twgzgqqu.com^
 ||twho.cn^
 ||twilmii.top^
+||twinkleop.com^
 ||twjrxo.top^
 ||twjsx.cn^
 ||twkan.com/js/otherad
@@ -34421,6 +34431,7 @@ zzzyk.com###Tinfo
 ||ymm19.cc^
 ||ymmegy.icu^
 ||ymmiyun.com^
+||ymtwmhh43.com^
 ||ymwjwe.xyz^
 ||ymyile.xyz^
 ||yn0mbg4p1.com^
