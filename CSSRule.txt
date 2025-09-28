@@ -11605,6 +11605,8 @@ teledeporteonline.pw##[id^="total"]
 telepolis.pl##DIV[style="width:750px; height:200px; background-color:black; color:white; text-align: center; font: bold 30px Helvetica, Arial, sans-serif;"]
 telexplorer.com.ar##div[class] > div[id] > main[class][id]
 tencent.com##.cdc-commercial-swiper
+ternity.net###playerdavLayer
+ternity.net##.da
 terrikon.com#$#abort-on-property-read bdy
 tesco.com#$#hide-if-contains-visible-text /Sponsored/ ul[id^="list-content"]>li 'div>div>span'
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
