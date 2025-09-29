@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-28 16:11:07
-! Total count: 35237
+! Version: 2025-09-29 08:17:11
+! Total count: 35248
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18479,6 +18479,7 @@ zzzyk.com###Tinfo
 ||6v6.work^
 ||6vhao.tv/d/
 ||6w7.icu^
+||6x59axt21.com^
 ||6yfcuuw.com^
 ||6yso.com/wp-content/uploads/*-300-x-
 ||6zfem.icu^
@@ -23671,6 +23672,7 @@ zzzyk.com###Tinfo
 ||futhacifl.com^
 ||fuuksew.com^
 ||fuvbbjl.xyz^
+||fuw6cipmw.com^
 ||fvffd678.xyz^
 ||fvitteilse.com^
 ||fvlqjw.top^
@@ -25573,6 +25575,7 @@ zzzyk.com###Tinfo
 ||iptrauaktnua.com^
 ||iptuy.cn^
 ||iptv444.com/ad-
+||ipybks.icu^
 ||ipyhf.icu^
 ||iqede.xyz^
 ||iqgessh.icu^
@@ -28631,6 +28634,8 @@ zzzyk.com###Tinfo
 ||nzl09271oa.com^
 ||nzl09280oa.com^
 ||nzl09281oa.com^
+||nzl09290oa.com^
+||nzl09291oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpvpp.icu^
@@ -30253,6 +30258,7 @@ zzzyk.com###Tinfo
 ||rfnvqpo.xyz^
 ||rfto9i.icu^
 ||rg84983is.com^
+||rgcrunzozp.com^
 ||rgdcrt.xyz^
 ||rghbvp.xyz^
 ||rghqrj.xyz^
@@ -32375,6 +32381,7 @@ zzzyk.com###Tinfo
 ||ueqo.cn^
 ||uerbgnkas.com^
 ||uessnah.icu^
+||uesv3jjf6.com^
 ||uetlwst.top^
 ||ueuwvgco19.com^
 ||uewotga.top^
@@ -32389,6 +32396,7 @@ zzzyk.com###Tinfo
 ||ufile.cc/pps.js
 ||ufile.cc^
 ||ufjslit.top^
+||ufne.cn^
 ||uftcfo.xyz^
 ||ufvauj.cn^
 ||ug.snssdk.com^
@@ -32453,6 +32461,7 @@ zzzyk.com###Tinfo
 ||ulwfys.xyz^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
+||umbrella6.top^
 ||umbrellaomendear.com^
 ||umdc.aliapp.org^
 ||umeng.com^
@@ -32911,6 +32920,7 @@ zzzyk.com###Tinfo
 ||vorluic.cn^
 ||vowellm4.com^
 ||vpdnjl.xyz^
+||vplrvf.icu^
 ||vppzjv.xyz^
 ||vps234.com/resources/images/hosting-promotion/
 ||vpsgu.cn^
@@ -34562,6 +34572,7 @@ zzzyk.com###Tinfo
 ||ytqvuq.icu^
 ||ytroytj33.fun^
 ||ytse*.top/Static/Home/GongGao/img/
+||ytv7335mt.com^
 ||ytvrtrya.xyz^
 ||ytvwhbejc.com^
 ||yu0123456.com^$third-party
