@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-30 08:16:06
-! Total count: 35268
+! Version: 2025-09-30 16:14:19
+! Total count: 35272
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1196,6 +1196,7 @@
 ##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
 ##DIV.index_adpic
 ##DIV.loc_banner.only-app
+##DIV.mip-custom-container[data-host^='https://fclick.baidu.com/']
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.playVideo-centerAd
@@ -24347,6 +24348,7 @@ zzzyk.com###Tinfo
 ||gwogrgq.icu^
 ||gwrpceo.cn^
 ||gwwquc.icu^
+||gwyorodtr.com^
 ||gxam.cn^
 ||gxbnp.cn^
 ||gxcdgm.xyz^
@@ -25773,6 +25775,7 @@ zzzyk.com###Tinfo
 ||ixoe.cn^
 ||ixstng.cn^
 ||ixtu.cn^
+||ixug0amgtn.com^
 ||iy.com.cn^$third-party
 ||iyes.youku.com^
 ||iyf.tv/a/$xmlhttprequest
@@ -28651,6 +28654,7 @@ zzzyk.com###Tinfo
 ||nzl09281oa.com^
 ||nzl09290oa.com^
 ||nzl09291oa.com^
+||nzl09301oa.com^
 ||nzlelmarw.com^
 ||nzoj.cn^
 ||nzpvpp.icu^
