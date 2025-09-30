@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-09-29 16:11:57
-! Total count: 35253
+! Version: 2025-09-30 08:16:06
+! Total count: 35268
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16918,6 +16918,11 @@ yd.baidu.com##.ui-distribution-bar
 ydss.cn###indexBlad
 ydss.cn##.bm.bml.pbn > table > tbody > tr > td:nth-child(-n+2)
 ydss.cn##.indexAd
+ydwgame.net###diy3
+ydwgame.net###float_mask
+ydwgame.net##.cl.wp[style="width:1200px;"]
+ydwgame.net##.pictextad
+ydwgame.net##a[href="http://www.discuz.net"]
 ye120.com##.fixed_bottom
 yeeyi.com##.js_handle_right
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
@@ -22204,6 +22209,7 @@ zzzyk.com###Tinfo
 ||dftoutiao.com/dfpcitv/pcitv?type=
 ||dftoutiao.com/jrdftt/static/javascript/ad/
 ||dftoutiao.com/ssp/
+||dftraanudh.com^
 ||dfvmzx.xyz^
 ||dfxwdc.com^
 ||dg186.cn^
@@ -22617,6 +22623,7 @@ zzzyk.com###Tinfo
 ||dtckvpc.cn^
 ||dtdqpc.top^
 ||dtfyhdghsd.online^
+||dtindrofe.com^
 ||dtjcvd.icu^
 ||dtjpihv.xyz^
 ||dtnaximya.360doc.cn^
@@ -22860,6 +22867,7 @@ zzzyk.com###Tinfo
 ||ebuqxsjq.com^
 ||ec18fgdpv3.com^
 ||ecatqefal.com^
+||ecbwemnff3.com^
 ||eccbb.com^
 ||eccki.cn^
 ||eccn.com/js/gg.js
@@ -26161,6 +26169,7 @@ zzzyk.com###Tinfo
 ||jpysvip.net/ad/
 ||jqbddp.xyz^
 ||jqkcett.icu^
+||jqs77n9x.xyz^
 ||jqsex.com^
 ||jqtkzuco.xyz^
 ||jqtnft.xyz^
@@ -27966,6 +27975,7 @@ zzzyk.com###Tinfo
 ||molibaike.com/js/ads.
 ||molimao.top/ad*.js
 ||molimao.top/imp/upload/vod/*.gif
+||mollified.top^
 ||molpmh.xyz^
 ||molpmh.xyz|
 ||momoguoji.xyz^
@@ -28945,6 +28955,7 @@ zzzyk.com###Tinfo
 ||osswc.pplive.cn/cccms/$image
 ||osujcq.xyz^
 ||osusjsga.com^
+||osuwwk.icu^
 ||osxl.cn^
 ||osyliek.top^
 ||otfx.cn^
@@ -32074,6 +32085,7 @@ zzzyk.com###Tinfo
 ||tseda1.icu^
 ||tseda4.icu^
 ||tseda6.icu^
+||tshmhp.icu^
 ||tslbahi.top^
 ||tslianm.com^
 ||tsrvrr.xyz^
@@ -32307,6 +32319,7 @@ zzzyk.com###Tinfo
 ||u408n6z4f.top^
 ||u40pdqw.com^
 ||u4ccj.icu^
+||u4jlr6f6n2.com^
 ||u55011.com^
 ||u57.icu^
 ||u5eguuk2n.com^
@@ -33044,6 +33057,7 @@ zzzyk.com###Tinfo
 ||vyye.cn^
 ||vzdkngmf.icu^
 ||vzeuvcdi.icu^
+||vzia.cn^
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
 ||vzttq.brfvyrrp.com^
@@ -34681,6 +34695,7 @@ zzzyk.com###Tinfo
 ||yxjcyxy.icu^
 ||yxkbgg.xyz^
 ||yxmrqc.com^
+||yxonk5bcue.com^
 ||yxptcrss.xyz^
 ||yxqhuy.icu^
 ||yxqmryq.top^
