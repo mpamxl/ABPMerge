@@ -9885,6 +9885,7 @@ olevod.com##.B1R
 olevod.com##.L1
 olevod.com##.L4A
 olevod.com##.ad1
+olevod.com##.ads-bg
 olevod.com##.pc-ads
 olevod.com##.swiper-wrapper > div.swiper-slide:has(> img[src^="https://static.olelive.com/uploads/file/"])
 olevod.com##div[class^="ad"][style="margin-top: 0.05rem;"]
