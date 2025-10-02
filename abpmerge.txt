@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-01 16:14:05
-! Total count: 35289
+! Version: 2025-10-02 08:14:35
+! Total count: 35301
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -22314,6 +22314,7 @@ zzzyk.com###Tinfo
 ||diouy9cvtx.xyz^
 ||directtrk.com/js/pop.js$third-party
 ||dirtstyle.tv/img/adblock.jpg
+||discards55.com^
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||discuss.com.hk/include/javascript/idle_check.js
 ||discuss.com.hk/oath/
@@ -24808,6 +24809,8 @@ zzzyk.com###Tinfo
 ||hlegsdh.icu^
 ||hlj10010ip.com^
 ||hlj10011ip.com^
+||hlj10020ip.com^
+||hlj10021ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -25174,6 +25177,7 @@ zzzyk.com###Tinfo
 ||iask.cn^*model.
 ||iask.sina.com.cn/s-b/mxbg
 ||iaumyc.icu^
+||iauw.cn^
 ||iaxmmw9fbx.com^
 ||ib3i33.cob.autojournal.fr^$script
 ||ibaglhc.icu^
@@ -26958,6 +26962,7 @@ zzzyk.com###Tinfo
 ||lawtv.com.cn/jd_ceshi.html
 ||lawtv.com.cn/skin/newplayer/ads_dianshi.php
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
+||layuion.com/get/showcase/
 ||lazzrv.icu^
 ||lb5o9.com^
 ||lbfuvlyp.icu^
@@ -27944,6 +27949,7 @@ zzzyk.com###Tinfo
 ||mnifdlax.top^
 ||mninoq.xyz^
 ||mnks.cn/jk/appAD_
+||mnkusi.icu^
 ||mnnmnn.com^
 ||mnpbxjq.cn^
 ||mnpkxgfp.xyz^
@@ -29088,6 +29094,7 @@ zzzyk.com###Tinfo
 ||p4p.sina.com.cn^
 ||p52q.cn^
 ||p70y44odg.com^
+||p7d3miyh2q.com^
 ||p7jroq6xco.com^
 ||p8u.hinet.net^
 ||pa026n1waq.com^
@@ -29869,6 +29876,7 @@ zzzyk.com###Tinfo
 ||qiyukf.com^$third-party
 ||qiyun.org/images/js/*.htm
 ||qizhihaotian.com^*.js
+||qj9m4nou8t.com^
 ||qjekt0c.xyz^
 ||qjimtyy.top^
 ||qjlo.cn^
@@ -30387,6 +30395,7 @@ zzzyk.com###Tinfo
 ||rnhqxh.com^
 ||rnpkxgfp.xyz^
 ||rnwenpn.icu^
+||rnxhdv.icu^
 ||rodmfv.xyz^
 ||rofmjd.xyz^
 ||rojj.cn^
@@ -30604,6 +30613,7 @@ zzzyk.com###Tinfo
 ||sanme2.taisantech.com^
 ||saohu*.com/config/json/cctv.json?
 ||saptorge.com^
+||saptuqse29.com^
 ||sasadown.cn/ad/
 ||sasadown.cn/source/plugin/drk_ledadv/
 ||sascwt.cn^
@@ -31535,6 +31545,7 @@ zzzyk.com###Tinfo
 ||sytclsb.cyou^
 ||syuwkbb.top^
 ||syzjxz2018.cn^
+||sz2xlvu6jq.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szaction.cc/public/*/assets/js/custom/tt.
 ||szaction.cc/public/*/plugins/
@@ -32082,6 +32093,7 @@ zzzyk.com###Tinfo
 ||trqhf.xyz^
 ||trslw.cn^
 ||truell55.top^
+||trundrak.com^
 ||trustedcpmrevenue.com^
 ||truthfulsensor.com^
 ||trutvnci.top^
