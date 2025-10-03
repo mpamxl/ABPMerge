@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-02 16:13:18
-! Total count: 35304
+! Version: 2025-10-03 08:14:28
+! Total count: 35317
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18762,6 +18762,7 @@ zzzyk.com###Tinfo
 ||922tp.com/wp-content/uploads/*0x
 ||92dp.com/home/showga?
 ||92ghai.com/zz/
+||92hjv5r20.com^
 ||92uq.com/Ads/
 ||933m.com/1.js
 ||93692zubo66936.com^
@@ -24813,6 +24814,8 @@ zzzyk.com###Tinfo
 ||hlj10011ip.com^
 ||hlj10020ip.com^
 ||hlj10021ip.com^
+||hlj10030ip.com^
+||hlj10031ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -25552,6 +25555,7 @@ zzzyk.com###Tinfo
 ||insidemo75.com^
 ||insightexpressai.com^
 ||insights.hotjar.com^
+||instrument95.com^
 ||inszu.com/js/qian/
 ||inte.sogou.com^
 ||inte.sogoucdn.com^$domain=~index.sogou.com|~zhishu.sogou.com
@@ -26597,6 +26601,7 @@ zzzyk.com###Tinfo
 ||kgidskid.top^
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgipui.xyz^
+||kgoj4nrhe.com^
 ||kgqcse.xyz^
 ||kgubus.xyz^
 ||kgymoc.xyz^
@@ -26753,6 +26758,7 @@ zzzyk.com###Tinfo
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpshx.douguo.com^
+||kqgmea.icu^
 ||kqgn.cn^
 ||kqubxdb.cn^
 ||kqzyfj.com^
@@ -27483,6 +27489,7 @@ zzzyk.com###Tinfo
 ||lyfdrh.icu^
 ||lygjgzc.com^
 ||lyislol.top^
+||lyo1dkdbp.com^
 ||lyretul.top^
 ||lysq.com/data/attachment/portal/
 ||lyszsz.cn^
@@ -28945,6 +28952,7 @@ zzzyk.com###Tinfo
 ||oqyiapj.cn^
 ||orange-dc.youku.com^
 ||orangevd.top^
+||orbk.cn^
 ||orbnarb.xyz^
 ||orchidea46.com^
 ||orcinhyi.com^
@@ -29668,6 +29676,7 @@ zzzyk.com###Tinfo
 ||q1bp.icu^
 ||q1gel.icu^
 ||q27sz.com^
+||q29k22vpu.com^
 ||q2fwgl4q8.com^
 ||q2usj.icu^
 ||q3rlg1flo.com^
@@ -31051,6 +31060,7 @@ zzzyk.com###Tinfo
 ||sjdfuvz.cn^
 ||sjezce.xyz^
 ||sjgsgy.xyz^
+||sjhgfrvbxrbbr.com^
 ||sjimtyb.top^
 ||sjks88.com/templets/default/js/mydata4.js
 ||sjluuom.icu^
@@ -33167,6 +33177,7 @@ zzzyk.com###Tinfo
 ||wap2.laogu.wang^
 ||warnermedia.com/api/v1/events?*=ad-break*^$xmlhttprequest,domain=cnn.com
 ||warped-bus.com^
+||warthog4.top^
 ||wasabii.com.tw/float/*.js
 ||wasaidailian.com^
 ||watchmygf.to^$third-party
@@ -34073,6 +34084,7 @@ zzzyk.com###Tinfo
 ||xqcjfcb.cn^
 ||xqoh.cn^
 ||xqrydt.icu^
+||xqtcpf.icu^
 ||xrb0owc.icu^
 ||xrdqdd.xyz^
 ||xrkadslmgg.top^
@@ -34291,6 +34303,7 @@ zzzyk.com###Tinfo
 ||ybixvc.top^
 ||ybrrvck.xyz^
 ||ybrvrws2p9.com^
+||ybuneloeh.com^
 ||ycc90.xyz^
 ||yccz.net/xml/
 ||ycdywl.com^
