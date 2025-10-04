@@ -11617,6 +11617,7 @@ telexplorer.com.ar##div[class] > div[id] > main[class][id]
 tencent.com##.cdc-commercial-swiper
 ternity.net###playerdavLayer
 ternity.net##.da
+ternity.net##div[style^="position: fixed;"]
 terrikon.com#$#abort-on-property-read bdy
 tesco.com#$#hide-if-contains-visible-text /Sponsored/ ul[id^="list-content"]>li 'div>div>span'
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
