@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-03 16:13:01
-! Total count: 35318
+! Version: 2025-10-04 08:12:40
+! Total count: 35329
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17710,6 +17710,7 @@ zzzyk.com###Tinfo
 ||1f0l.top^
 ||1f84e33459.com^
 ||1gmzo.icu^
+||1gp3p6fkio.com^
 ||1gtp.icu^
 ||1htpkw6.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1iohncj.xyz^
@@ -17872,6 +17873,7 @@ zzzyk.com###Tinfo
 ||2g9x9uf.cn^
 ||2h81gp.tkepyc.com^$script,xmlhttprequest,domain=pch.com
 ||2hl.fun^
+||2i0lliongn.com^
 ||2jse6.icu^
 ||2kandy.com/js/123/
 ||2lb.cc^
@@ -21457,6 +21459,7 @@ zzzyk.com###Tinfo
 ||ckg.vipyl.com^
 ||ckxxbao.com/templets/default/js/wx.js
 ||ckyriuf.icu^
+||clammy88.com^
 ||clarin.com/static/CLAClarinV3/js/comprimido.js$script
 ||clarity.ms^
 ||clarityid.top^
@@ -22030,6 +22033,7 @@ zzzyk.com###Tinfo
 ||dansheshi.com^
 ||danstr.fun^
 ||daqiso.com/ggbl/
+||daqnetgw.com^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||dasda64.fun^
 ||dasdujaosjdioad.com^
@@ -24817,6 +24821,8 @@ zzzyk.com###Tinfo
 ||hlj10021ip.com^
 ||hlj10030ip.com^
 ||hlj10031ip.com^
+||hlj10040ip.com^
+||hlj10041ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -25725,6 +25731,7 @@ zzzyk.com###Tinfo
 ||itjcqlp.icu^
 ||itjgwn.xyz^
 ||itjsb.com/itjsbwx.jpg
+||itmhqk.icu^
 ||itmsc.cn^*ad0
 ||itongcheng.cc/amm/
 ||itopdog.cn/itopdog/ad.js
@@ -27585,6 +27592,7 @@ zzzyk.com###Tinfo
 ||m1vvvv1k2.com^
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
+||m3cqjc3og6.com^
 ||m4fxreb5s.com^
 ||m4pgay.com^
 ||m4r.fun^
@@ -28861,6 +28869,7 @@ zzzyk.com###Tinfo
 ||olmnvbgufy.top^
 ||olmsoneenh.info^$domain=avgle.com
 ||oload.tv/assets/js/script.packed
+||olpv.cn^
 ||olpv.onlylady.com^
 ||olqead.com^
 ||om.cn/api/ad-om/
@@ -33047,6 +33056,7 @@ zzzyk.com###Tinfo
 ||vtqhelleano.com^
 ||vtrrxqbi.xyz^
 ||vtvnnl.xyz^
+||vtzubx.icu^
 ||vucve6is.icu^
 ||vudqth.icu^
 ||vudralqoi.com^
@@ -34286,6 +34296,7 @@ zzzyk.com###Tinfo
 ||yantuchina.com/Upload/Ad/
 ||yanu.qiniudn.com/*x60.
 ||yanu.qiniudn.com/270300.jpg
+||yanwz3t0pi.com^
 ||yao7392.xyz^
 ||yaodaipeishi.cn^
 ||yaojingweiba.com/inc/
