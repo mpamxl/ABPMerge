@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-04 16:11:38
-! Total count: 35333
+! Version: 2025-10-05 08:13:08
+! Total count: 35347
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13302,6 +13302,7 @@ mult34.com#$#abort-current-inline-script decodeURI; abort-on-property-read decod
 multicanais.tv#$#abort-current-inline-script document.createElement _whvbtwzo
 mumayi.com##.clientBox
 mumayi.com##.h80
+mumu*.com/js/cdn.js$~third-party
 mumu.163.com##.pic-con
 music.wandhi.com##.google-auto-placed
 music.youtube.com#$#skip-video 'video.html5-main-video' './/div[contains(@class,"video-ads")]//div[@class="ytp-ad-player-overlay"]'; simulate-mouse-event 'span.ytp-ad-preview-container$delay=0'
@@ -17981,6 +17982,7 @@ zzzyk.com###Tinfo
 ||373nn.com/java/
 ||3798.com^$third-party
 ||37bhof.com^
+||37lwjdaua.com^
 ||38.33.15.*.gif
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
@@ -21914,6 +21916,7 @@ zzzyk.com###Tinfo
 ||d2.yingyongge.com/*?*&$subdocument
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
+||d24fx92qb.com^
 ||d2kadvyeq051an.cloudfront.net^$third-party
 ||d2san7t27xb2pn.cloudfront.net^$script,image
 ||d2t7a3zbo166a9.cloudfront.net^$script,image
@@ -22995,6 +22998,7 @@ zzzyk.com###Tinfo
 ||eileenjaney.com^
 ||eilgrairyi.com^
 ||einothepz.com^
+||einphaer.com^
 ||einzeaxop.com^
 ||eiphirnutdd.com^
 ||eiphrut.com^
@@ -23469,6 +23473,7 @@ zzzyk.com###Tinfo
 ||fingkndk.com^
 ||fintechpi.com^
 ||fionamignon.com^
+||fipphiany.com^
 ||firearmtire.com^
 ||firefoxchina.cn/2014/*_foxphone.png
 ||firefoxchina.cn/chome_*.html
@@ -24826,6 +24831,8 @@ zzzyk.com###Tinfo
 ||hlj10031ip.com^
 ||hlj10040ip.com^
 ||hlj10041ip.com^
+||hlj10050ip.com^
+||hlj10051ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -25560,6 +25567,7 @@ zzzyk.com###Tinfo
 ||inpage-push.com^
 ||inphais.com^
 ||inping.com^$third-party
+||insertup.top^
 ||insfengdata.com^
 ||insideex.top^
 ||insidemo75.com^
@@ -27952,6 +27960,7 @@ zzzyk.com###Tinfo
 ||mmead.xyz^
 ||mmeimh.xyz/static/100.
 ||mmeimh.xyz/static/images/
+||mmes30jla.com^
 ||mmevt.icu^
 ||mmfcezwqaz.com^
 ||mmftdt.com^
@@ -28818,6 +28827,7 @@ zzzyk.com###Tinfo
 ||oizs.cn^
 ||ojbkmcsdx.xyz^
 ||ojimtyk.top^
+||ojizau.icu^
 ||ojmv.cn^
 ||ojvpigx.xyz^
 ||ojxr.cn^
@@ -29857,6 +29867,7 @@ zzzyk.com###Tinfo
 ||qingkai.com/2009/html/top.htm
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
+||qingqingxs.*/static/xbiquge/js/wap.
 ||qingqingxs.*/static/xbiquge/wap.js
 ||qingsedhh.com/images/gg.gif
 ||qiniucdn.com^$domain=enrz.com,image
@@ -31931,6 +31942,7 @@ zzzyk.com###Tinfo
 ||tjuspyk.icu^
 ||tjv250730ads.com^
 ||tjvcffap.icu^
+||tjvpnh.icu^
 ||tjwzyjx.icu^
 ||tk.504pk.com^
 ||tkij.cn^
@@ -32771,6 +32783,7 @@ zzzyk.com###Tinfo
 ||v2.uyan.cc^
 ||v2ex.com/pro/emitter
 ||v2rayssr.com/wp-content/plugins/eazy-
+||v46uj91gh.com^
 ||v4dwkcv.com/html/click/
 ||v4dwkcv.com^
 ||v4p.fun^
@@ -34607,6 +34620,7 @@ zzzyk.com###Tinfo
 ||yptqys.tianqistatic.com^
 ||ypwlctfk.xyz^
 ||ypyjyhny.xyz^
+||ypyr.cn^
 ||ypzps.com^
 ||yqdnad.icu^
 ||yqg.jobui.com^
