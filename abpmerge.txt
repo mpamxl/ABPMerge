@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-06 08:15:43
-! Total count: 35363
+! Version: 2025-10-06 16:13:37
+! Total count: 35369
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13529,6 +13529,7 @@ news.hf365.com##.main-r > div:first-child
 news.ifeng.com##.right1
 news.lyd.com.cn##table[cellspacing="5"]:nth-child(3)
 news.lyd.com.cn##td[width="300px"] > table[width="300"] > tbody > tr:nth-last-child(n+2)
+news.mydrivers.com##.baidu
 news.mydrivers.com##.baidu_left
 news.mydrivers.com##.kkjgoods
 news.mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
@@ -22728,6 +22729,7 @@ zzzyk.com###Tinfo
 ||dwstatic.com^*/p/livetip/
 ||dwstatic.com^*/sidebar.js
 ||dwuupq.com^
+||dwyeeunm.com^
 ||dwyeuy.com^
 ||dwyngjb.icu^
 ||dxdxfl.icu^
@@ -23429,6 +23431,7 @@ zzzyk.com###Tinfo
 ||ffmehcg.cn^
 ||ffnvhig.cn^
 ||ffriedadl.com^
+||ffvmgevrid.com^
 ||ffxe.cn^
 ||ffzz71.com^
 ||fg.daochengwowo.top^
@@ -24843,6 +24846,7 @@ zzzyk.com###Tinfo
 ||hlj10050ip.com^
 ||hlj10051ip.com^
 ||hlj10060ip.com^
+||hlj10061ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -33527,6 +33531,7 @@ zzzyk.com###Tinfo
 ||wubizigeng.com^
 ||wucnmte.top^
 ||wucnwte.top^
+||wucvvf3t6n.com^
 ||wud2g55ffy.com^
 ||wudizuqiu.com/fy
 ||wudizuqiu.com/img/dasai8/ybbj.png
@@ -34571,6 +34576,7 @@ zzzyk.com###Tinfo
 ||ymm19.cc^
 ||ymmegy.icu^
 ||ymmiyun.com^
+||ympl9l9b.xyz^
 ||ymtwmhh43.com^
 ||ymwjwe.xyz^
 ||ymyile.xyz^
