@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-06 16:13:37
-! Total count: 35369
+! Version: 2025-10-07 08:15:57
+! Total count: 35383
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -752,6 +752,7 @@
 ##.gpt_ads_box
 ##.gpt_ads_title
 ##.gr_slide_car_inner
+##.grid > .m0auto > div > .grid + div:not([class]):not([id])
 ##.guanggaoBox
 ##.guding312
 ##.guruin-ads
@@ -824,6 +825,7 @@
 ##.lt_ad
 ##.lyad
 ##.lyzm-prevent
+##.m0auto > div:not([class]):not([id]) > div > .swiper-initialized
 ##.m1938-container
 ##.m_hot_rec_box_base[id^="right"]
 ##.main-ad-l
@@ -17726,6 +17728,7 @@ zzzyk.com###Tinfo
 ||1iuh5l.com^
 ||1iuybpo.com^
 ||1jc5t.xyz^
+||1jlp1qbgu.com^
 ||1jok.icu^
 ||1k8j786ks5.com^
 ||1kanz.cn^
@@ -17863,6 +17866,7 @@ zzzyk.com###Tinfo
 ||28kys.com/92kviptupian/
 ||28kys.com/cpstupian/
 ||28lu.net^*/0
+||28lu.net^*/1
 ||28t1ya.cn^
 ||29spp.com/js/tj.js
 ||2axpwa4.xyz^
@@ -19669,6 +19673,7 @@ zzzyk.com###Tinfo
 ||ankczwr.icu^
 ||anluyg.net/static/js/channel*.js
 ||annelinterv.fun^
+||anode67.top^
 ||anoneko.com^*.*?$image
 ||anqu.com/b.js
 ||antdv.com/kaikeb
@@ -24847,6 +24852,8 @@ zzzyk.com###Tinfo
 ||hlj10051ip.com^
 ||hlj10060ip.com^
 ||hlj10061ip.com^
+||hlj10070ip.com^
+||hlj10071ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -25901,6 +25908,7 @@ zzzyk.com###Tinfo
 ||javazhijia.com/skin/
 ||javbooks.com/52toy/
 ||javdove.com/templates/frontend/javdove/*/partialviewslider.
+||javdtezk7.com^
 ||javhd.com/banners-mainpage/
 ||javhd.com/sb/
 ||javhoo.net/pop/pop.jpg
@@ -26786,6 +26794,7 @@ zzzyk.com###Tinfo
 ||koyso.com/static/js/abcd.
 ||koyso.com/z-
 ||koytqo.xyz^
+||kpapyw.icu^
 ||kpmose.xyz^
 ||kpmsoq.xyz^
 ||kpogse.icu^
@@ -27615,6 +27624,7 @@ zzzyk.com###Tinfo
 ||m1905.cn/js/afp/m
 ||m1905.com/asp_js/k.js
 ||m1955.com/template/qq/images/playad/
+||m1jm3nzf2.com^
 ||m1vvvv1k2.com^
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
@@ -28674,6 +28684,7 @@ zzzyk.com###Tinfo
 ||nvpokyko.icu^
 ||nvsheng.com/js/gg.js
 ||nvvqrv.xyz^
+||nvxq.cn^
 ||nweon.com/wp-content/repo/ad/
 ||nwera.xyz^
 ||nwxaxx.xyz^
@@ -32422,6 +32433,7 @@ zzzyk.com###Tinfo
 ||u7em9v4hp.com^
 ||u7s546.com^
 ||u7u9.com^$third-party
+||u7ugo0jr3.com^
 ||u7wnylbb28.top^
 ||u7y.pw^
 ||u833ij.com^
@@ -33455,6 +33467,7 @@ zzzyk.com###Tinfo
 ||wo1990.com^
 ||woaidu.org/images/20180802/3.jpg
 ||wodeshucheng.com^*/0
+||wodeshucheng.com^*/1
 ||wof.matchkj.com^
 ||wogukcd.xyz^
 ||wohewodejxp.top^
@@ -33754,6 +33767,7 @@ zzzyk.com###Tinfo
 ||wzbaohe.com/imgadnew/midad.js
 ||wzctuv.xyz^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||wzvaknomh.com^
 ||x-resource05.com/media_orange/server-img/*_1200_120.
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js

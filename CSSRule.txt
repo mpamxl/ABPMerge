@@ -747,6 +747,7 @@
 ##.gpt_ads_box
 ##.gpt_ads_title
 ##.gr_slide_car_inner
+##.grid > .m0auto > div > .grid + div:not([class]):not([id])
 ##.guanggaoBox
 ##.guding312
 ##.guruin-ads
@@ -819,6 +820,7 @@
 ##.lt_ad
 ##.lyad
 ##.lyzm-prevent
+##.m0auto > div:not([class]):not([id]) > div > .swiper-initialized
 ##.m1938-container
 ##.m_hot_rec_box_base[id^="right"]
 ##.main-ad-l
