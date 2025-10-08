@@ -9512,6 +9512,7 @@ nasyun.com##img[width="970"]
 natgeomedia.com##div[id^="AD-970x250"]
 natgeomedia.com,setn.com,eprice.com.tw##div[class^="ad-"]
 naughtymachinima.com#$#abort-on-property-read window.open; abort-on-property-read loadTool
+nb.zol.com.cn##+js(set-cookie, getIsToJd, 1)
 nb.zol.com.cn##.article-cont > div.zol-eshop
 nba.hupu.com##div[class^="nba-ad"]
 nbc.com##.video-player__overlay.video-player__overlay--mute
