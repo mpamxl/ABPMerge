@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-07 16:13:54
-! Total count: 35384
+! Version: 2025-10-08 08:16:07
+! Total count: 35394
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11007,7 +11007,6 @@ hlgnet.com##.co_ad3
 hlgnet.com,sina.com##.tad
 hlouhopAes=no5$xmlhttprequest,domain=ahaonline.cz|info.cz|onetv.cz
 hlouhopAes=no5$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
-hmanga.world##+js(no-fetch-if, method:HEAD)
 hmitalk.com##div[class*="-pubadban "]
 hmitalk.com##div[data-adid]
 hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-panel__header__title:contains(赞助商))
@@ -18070,6 +18069,7 @@ zzzyk.com###Tinfo
 ||3pzqcv5hc5.com^
 ||3q1lsj.cn^
 ||3q3l.cn^
+||3qx0pnhyzi.com^
 ||3qxsa.cc/js/news2.js
 ||3rcld5y1dm.com^
 ||3ri.cc^
@@ -18597,6 +18597,7 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
 ||7o2l520r0a.com^
+||7p5ruxflv0.com^
 ||7qo2met.com^
 ||7qxv9s5q16.com^
 ||7r227ut.cn^
@@ -20782,6 +20783,7 @@ zzzyk.com###Tinfo
 ||bsizoia.com^
 ||bslbahv.top^
 ||bswsmlp.cn^
+||bsyrimw.xyz^
 ||bt-tt.com/ad
 ||bt.cn/bbs/newsimg/
 ||bt.ktxp.com/iframe/statistics.js
@@ -24854,6 +24856,8 @@ zzzyk.com###Tinfo
 ||hlj10061ip.com^
 ||hlj10070ip.com^
 ||hlj10071ip.com^
+||hlj10080ip.com^
+||hlj10081ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -27673,6 +27677,7 @@ zzzyk.com###Tinfo
 ||majile.vip^
 ||majorleaguegaming.com/assets/ab.js$script
 ||makaidong.com/img/
+||makeup89.com^
 ||makqsd.icu^
 ||malimali5.com/ad1.png
 ||maljxp.cn^
@@ -29826,6 +29831,7 @@ zzzyk.com###Tinfo
 ||qfirgakpv.com^
 ||qfjsliy.top^
 ||qfnoyix.cn^
+||qfwhko.icu^
 ||qgaxkkv.top^
 ||qgg7e.icu^
 ||qgidskiy.top^
@@ -32899,6 +32905,7 @@ zzzyk.com###Tinfo
 ||vfdvdg67.fun^
 ||vfiles.gtimg.cn/tvideo/js/new_ping_video.js^$script
 ||vfjsa6do.icu^
+||vfjxvt.icu^
 ||vflorp.xyz^
 ||vfphbh.xyz^
 ||vfrdewsdg.xyz^
@@ -33008,6 +33015,7 @@ zzzyk.com###Tinfo
 ||vlgkotr.cn^
 ||vlion.cn^$third-party
 ||vljkjx.top^
+||vlpq.cn^
 ||vlujojf.icu^
 ||vm.aty.sohu.com^
 ||vmbzhfh.cn^
@@ -33141,6 +33149,7 @@ zzzyk.com###Tinfo
 ||vwiy.cn^
 ||vwmjkl.icu^
 ||vwsgmf.icu^
+||vwtbrzymoz.com^
 ||vwtjvd.xyz^
 ||vwuudahnarh.com^
 ||vwvatp.xyz^
@@ -33568,6 +33577,7 @@ zzzyk.com###Tinfo
 ||wuyjtew.icu^
 ||wuyunks.com/1.
 ||wvcnmte.top^
+||wvepppysvo.com^
 ||wvwqywz.cn^
 ||wvyqks.xyz^
 ||ww7814.win/pic
