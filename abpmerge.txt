@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-09 08:15:21
-! Total count: 35407
+! Version: 2025-10-09 16:15:17
+! Total count: 35411
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2337,6 +2337,7 @@ $websocket,domain=wap.yushuwu.cloud
 /Appapi/jjlist.php
 /BadwebRemindPage.aspx?param=$popup,third-party
 /BrandXuanDong.js
+/CC6F9ACB52D1582671AFEA808AFE10FE.gif
 /CoNTent*(com?
 /Code/pccpcv.php
 /CodeFiles/*.aspx?placeid=$third-party
@@ -19964,6 +19965,7 @@ zzzyk.com###Tinfo
 ||awdc6.com^
 ||awempire.com^$third-party
 ||awfyuqoidy.com^
+||awh3vupyf.com^
 ||awifi.cn^$third-party
 ||awiudbyqbpo.com^
 ||awkxf8bbj.com^
@@ -20048,6 +20050,7 @@ zzzyk.com###Tinfo
 ||baby-kingdom.com/reqsads?
 ||bacder.fun^
 ||bace10.top^
+||bachashuku.cc/scripts/ad/
 ||backchina.com/banners/
 ||bad996.com/dakaads.js
 ||badding.oss-ap-southeast-1.aliyuncs.com^
@@ -24235,6 +24238,7 @@ zzzyk.com###Tinfo
 ||gqxwfhe7o.com^
 ||graesol.com^
 ||grandcomms.cn^
+||granteesixtes.com^
 ||grarnuns.com^
 ||grduswfx.com^
 ||greatnumeric.com^
