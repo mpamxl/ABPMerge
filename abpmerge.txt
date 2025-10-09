@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-08 16:14:01
-! Total count: 35395
+! Version: 2025-10-09 08:15:21
+! Total count: 35407
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20471,6 +20471,7 @@ zzzyk.com###Tinfo
 ||bfjk360.com^
 ||bfjsliv.top^
 ||bfjszxzfvf.com^
+||bfocuqeona.com^
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bfthrelgad.com^
 ||bftqdd.xyz^
@@ -22823,6 +22824,7 @@ zzzyk.com###Tinfo
 ||e1s.fun^
 ||e1zin.icu^
 ||e23.cn/js/aaa.js
+||e2jda3h01.com^
 ||e3c7.com/dh/
 ||e3c7.com/love/
 ||e3ol.com/inc/
@@ -24007,6 +24009,8 @@ zzzyk.com###Tinfo
 ||gghhct36.shop^
 ||gghmef7.com^
 ||ggjs.d17.cc^
+||ggo10090lq.com^
+||ggo10091lq.com^
 ||ggs.myzaker.com^
 ||ggsfq.xyz^$third-party
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -24859,6 +24863,8 @@ zzzyk.com###Tinfo
 ||hlj10071ip.com^
 ||hlj10080ip.com^
 ||hlj10081ip.com^
+||hlj10090ip.com^
+||hlj10091ip.com^
 ||hllu.cn^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
@@ -27501,6 +27507,7 @@ zzzyk.com###Tinfo
 ||lvuptech.com/wp-content/plugins/deblocker/
 ||lw54.com/js/
 ||lw881.com/public/js/gw.js
+||lwbo.cn^
 ||lwcnmtl.top^
 ||lweizal.top^
 ||lweriol.top^
@@ -28758,6 +28765,7 @@ zzzyk.com###Tinfo
 ||o2o.api.xiaomi.com^
 ||o3t.icu^
 ||o4q.fun^
+||o6oxvugdl.com^
 ||o8s.icu^
 ||o8zoz.icu^
 ||oa-panther.data.aliyun.com^$third-party
@@ -28827,6 +28835,7 @@ zzzyk.com###Tinfo
 ||og.zyzjpx.cn^$third-party
 ||oganilglk.cyou^
 ||ogbt4k.site^
+||ogdoad7.top^
 ||ogfvadunon.com^
 ||oghqvffmnt.com^
 ||ogidskik.top^
@@ -28853,6 +28862,7 @@ zzzyk.com###Tinfo
 ||oinlkwr.xyz^
 ||oiqbdwjkl.com^
 ||oiqwnfk.com^
+||oiscuy.icu^
 ||oiu09.cn^
 ||oiunga.com^
 ||oiuqwppcsdf.com^
@@ -31928,6 +31938,7 @@ zzzyk.com###Tinfo
 ||tiexue.net/domain-policy/
 ||tiexue.net/pic/tx_1220.jpg
 ||tiexue.net/zgg/
+||tifphl.icu^
 ||tifyeldi.top^
 ||tigtag.com/images/*1000x
 ||tigtag.com/images/pic1/
@@ -33409,6 +33420,7 @@ zzzyk.com###Tinfo
 ||wismog.xyz^
 ||wit.qq.com^$third-party
 ||wiwlqc.xyz^
+||wizoevljj.com^
 ||wj.jiancai365.cn^
 ||wj9uod3838.com^
 ||wjimtye.top^
