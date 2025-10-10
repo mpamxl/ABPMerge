@@ -4379,6 +4379,7 @@ books.com.tw##.header_box_pop > [class^="flash_banner"]
 booktxts.com##div[style*="position:"]
 booom.net,x6d.com##.tmall_tab
 bootcss.com##.bs-docs-sidebar a[href^="http://click.aliyun.com/"]
+boqushu.com##div[style="display:block;width:100%;height:100px;overflow:hidden;"]
 botanichka.ru,itech.co.ua,agronom.com.ua,mediasat.info,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 boxnews.com.ua##.bn-banner
 boxnews.com.ua##[style="padding-bottom: 20px;"]
@@ -9191,6 +9192,9 @@ miliav.com##.b300
 military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com#$?#.slide_doubleimg > .baiBox { remove: true; }
+minaeast.net###playerdavLayer
+minaeast.net##.da
+minaeast.net##div[style^="position: fixed;"]
 minecraftzw.com##.e3lan-top
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
@@ -11623,9 +11627,6 @@ teledeporteonline.pw##[id^="total"]
 telepolis.pl##DIV[style="width:750px; height:200px; background-color:black; color:white; text-align: center; font: bold 30px Helvetica, Arial, sans-serif;"]
 telexplorer.com.ar##div[class] > div[id] > main[class][id]
 tencent.com##.cdc-commercial-swiper
-ternity.net###playerdavLayer
-ternity.net##.da
-ternity.net##div[style^="position: fixed;"]
 terrikon.com#$#abort-on-property-read bdy
 tesco.com#$#hide-if-contains-visible-text /Sponsored/ ul[id^="list-content"]>li 'div>div>span'
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
