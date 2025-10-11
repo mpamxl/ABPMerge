@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-10 16:13:57
-! Total count: 35423
+! Version: 2025-10-11 08:13:33
+! Total count: 35434
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17743,6 +17743,7 @@ zzzyk.com###Tinfo
 ||1ny3r.icu^
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1p3yg.icu^
+||1paujqtq9.com^
 ||1ppt.com/ad$image
 ||1pwx.com/js/ck.js
 ||1qa5x1k5v.com^
@@ -17750,6 +17751,7 @@ zzzyk.com###Tinfo
 ||1qfxm8hgqd.com^
 ||1qv.fun^
 ||1r7efqo.tjfmd.com^$script,xmlhttprequest,domain=pch.com
+||1rwa5e8a6.com^
 ||1s8pj.cn^$third-party
 ||1tp.icu^
 ||1tv.icu^
@@ -21005,6 +21007,7 @@ zzzyk.com###Tinfo
 ||cam4.com/ads/
 ||cam4.com/buygift/
 ||cam4.com/directoryFanClubs?
+||cameleer.top^
 ||camep.xyz^
 ||camerain.top^
 ||camspic.com/imguang/*.gif
@@ -24020,6 +24023,9 @@ zzzyk.com###Tinfo
 ||ggo10090lq.com^
 ||ggo10091lq.com^
 ||ggo10100lq.com^
+||ggo10101lq.com^
+||ggo10110lq.com^
+||ggo10111lq.com^
 ||ggs.myzaker.com^
 ||ggsfq.xyz^$third-party
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -24645,6 +24651,7 @@ zzzyk.com###Tinfo
 ||hdypw.com^
 ||hdyurliu.top^
 ||hdzb6.cc^
+||he3tf77ow.com^
 ||head4.net/ad_
 ||healthys09.top^
 ||heapz.cyou^
@@ -27665,6 +27672,7 @@ zzzyk.com###Tinfo
 ||m6j37.xyz^
 ||m7g2v1b9.com^
 ||m7xssfiit.com^
+||m81mfege2.com^
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
@@ -30730,6 +30738,7 @@ zzzyk.com###Tinfo
 ||sbdebcz.cn^
 ||sbeaje.com^
 ||sbiloi.xyz^
+||sbkpsa.icu^
 ||sbldw.cn^
 ||sbmhqe.xyz^
 ||sbo8.com/static/theme/js/bottom.
@@ -32584,6 +32593,7 @@ zzzyk.com###Tinfo
 ||ujimtyt.top^
 ||ujmz.cn^
 ||ujnkn.com^
+||ujof.cn^
 ||ujovcb.cn^
 ||ujrspnbf.xyz^
 ||uk0.icu^
@@ -33853,6 +33863,7 @@ zzzyk.com###Tinfo
 ||xbqg6.com/*.php
 ||xbqm.cn^
 ||xbtw.com^
+||xbxfdn.icu^
 ||xbyoujv.icu^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
