@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-11 08:13:33
+! Version: 2025-10-11 16:11:51
 ! Total count: 35434
 ###ADtip
 ###Ad_windows
@@ -26025,7 +26025,6 @@ zzzyk.com###Tinfo
 ||jfjslia.top^
 ||jfnkjr.xyz^
 ||jfpo.cn^
-||jfqua.cn^
 ||jfrrnf.icu^
 ||jfsdiwmnbsk009.top^
 ||jfyb6.com^
@@ -26606,6 +26605,7 @@ zzzyk.com###Tinfo
 ||kdinmid.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
+||kdkgorjbvlxjrnv.com^
 ||kdomsid.top^
 ||kdopag.xyz^
 ||kdoshbd.top^
@@ -29480,7 +29480,6 @@ zzzyk.com###Tinfo
 ||pjcg3864p.com^
 ||pjcijbv.icu^
 ||pjcn.org^$third-party
-||pjcqzm.cn^
 ||pjdhguh14.com^
 ||pjdthz.xyz^
 ||pjogndc8ixoidna.360doc.cn^
@@ -35329,6 +35328,7 @@ zzzyk.com###Tinfo
 ||ztzdvv.xyz^
 ||zuiacg.com/images/client/
 ||zuixinyiqi.com^
+||zujz.cn^
 ||zukddms.cn^
 ||zumneojf.icu^
 ||zuofang05.com/template/mytheme/statics/image/1/
