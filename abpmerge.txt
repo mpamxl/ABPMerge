@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-12 16:11:34
-! Total count: 35445
+! Version: 2025-10-13 08:16:59
+! Total count: 35456
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20855,6 +20855,7 @@ zzzyk.com###Tinfo
 ||bun1.dayi.org.cn^
 ||buoizbtl.xyz^
 ||bupidt.xyz^
+||bupsbp.icu^
 ||buresdv.top^
 ||burniecrepes.com^
 ||business-agence.eu^$domain=footstream.tv
@@ -24031,6 +24032,8 @@ zzzyk.com###Tinfo
 ||ggo10111lq.com^
 ||ggo10120lq.com^
 ||ggo10121lq.com^
+||ggo10130lq.com^
+||ggo10131lq.com^
 ||ggs.myzaker.com^
 ||ggsfq.xyz^$third-party
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -25721,6 +25724,7 @@ zzzyk.com###Tinfo
 ||irmbyu.xyz^
 ||irp37bmmt.com^
 ||irqaci.xyz^
+||irr7idq6i.com^
 ||irs03.com^
 ||irtefs.xyz^
 ||irtliso.top^
@@ -26834,6 +26838,7 @@ zzzyk.com###Tinfo
 ||kpogse.icu^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
+||kpsabnm.xyz^
 ||kpshx.douguo.com^
 ||kqgmea.icu^
 ||kqgn.cn^
@@ -27137,6 +27142,7 @@ zzzyk.com###Tinfo
 ||letvimg.com/lc*_iscms/202$image
 ||lewenma.com/js/read.js
 ||lewrutl.top^
+||leyf5q4rk.com^
 ||lezbrja.cn^
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
 ||lfbupf.icu^
@@ -29095,6 +29101,7 @@ zzzyk.com###Tinfo
 ||ott.cibntv.net/*/ad/*.ts?ccode=$xmlhttprequest,domain=v.youku.com
 ||ott.cibntv.net/*/letv-wzgug/$media
 ||otxlhpm.xyz^
+||ouccoc.icu^
 ||oucnmtk.top^
 ||oueia.xyz^
 ||ougannike.com^
@@ -30367,6 +30374,7 @@ zzzyk.com###Tinfo
 ||rentiyishu.org/*.js
 ||renwai.ren/cdn/pic/ad
 ||renzhen8.cn^
+||reorganizes64.com^
 ||repian.com/a/
 ||replays.net/j/dazui
 ||replays.net/j/pinglunshang.png
@@ -30420,6 +30428,7 @@ zzzyk.com###Tinfo
 ||rhesed.site^
 ||rhinogo.cn^
 ||rhlxm.top^
+||rhmt1jjyo.com^
 ||rhndvagz.icu^
 ||rhtc.quanminyouxi.cn^
 ||rhzofr.icu^
@@ -31197,6 +31206,7 @@ zzzyk.com###Tinfo
 ||slutcmail.com^
 ||sm-cloud.yunsafe.top^
 ||sm2kz.net^
+||sm2ralisg.com^
 ||smabye.com^
 ||smallfo.com^
 ||smallseotools.com/webimages/garamar*.png^$image,domain=smallseotools.com
@@ -31607,6 +31617,7 @@ zzzyk.com###Tinfo
 ||svnf.cn^
 ||svvbrkk.cn^
 ||svvev3.com^
+||svwo.cn^
 ||svzkhal2zh.com^
 ||sw76r85eda3k.com/need/h5.
 ||sw9t.ml^
