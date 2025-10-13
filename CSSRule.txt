@@ -1538,6 +1538,7 @@
 ##a[href*="kdocs.cn"] > img[src*="sstv."]
 ##a[href*="xchina.click/prepare."]
 ##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
+##a[href="/AllRes/Vlog2.html"]
 ##a[href="/bbs/"] > img[src*=".bcebos.com"]
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/forum/"] > img[src*=".bcebos.com"]
