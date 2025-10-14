@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-13 16:13:39
-! Total count: 35458
+! Version: 2025-10-14 08:14:20
+! Total count: 35465
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18574,6 +18574,7 @@ zzzyk.com###Tinfo
 ||79zxcv.com^
 ||7aey.icu^
 ||7awf4fi9k7.com^
+||7bfst8xxtc.com^
 ||7caidai.xyz^
 ||7car.com.cn^
 ||7cbwus.cn^
@@ -23009,6 +23010,7 @@ zzzyk.com###Tinfo
 ||egmontassets.net/random.js$script,domain=euroman.dk
 ||egrent.cn^
 ||egsxdp.cn^
+||egxo.cn^
 ||egywbps748.shop^
 ||egywbpu286.shop^
 ||eh6xjr8p0.com^
@@ -24036,6 +24038,7 @@ zzzyk.com###Tinfo
 ||ggo10121lq.com^
 ||ggo10130lq.com^
 ||ggo10131lq.com^
+||ggo10140lq.com^
 ||ggs.myzaker.com^
 ||ggsfq.xyz^$third-party
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -30351,6 +30354,7 @@ zzzyk.com###Tinfo
 ||rebojf.xyz^
 ||recds7.icu^
 ||receiptgg.top^
+||recognize04.top^
 ||record.kuai.xunlei.com^
 ||record.xl.pt/common/images/pub/
 ||record.xl.pt/pub/
@@ -30511,6 +30515,7 @@ zzzyk.com###Tinfo
 ||rmzbfum.cn^
 ||rndcdb.xyz^
 ||rndhaunteran.com^
+||rndmlk8asw.com^
 ||rnhqxh.com^
 ||rnpkxgfp.xyz^
 ||rnwenpn.icu^
@@ -34714,6 +34719,7 @@ zzzyk.com###Tinfo
 ||youyiya.com/Tpl/mobile/js/you
 ||youzhan.org/img/aliyun-
 ||yoyi.com.cn^3p
+||yp0loy5lcl.com^
 ||yp868.com/js/54h/
 ||ypdronhu.xyz^
 ||ypffkbpq.xyz^
@@ -35390,6 +35396,7 @@ zzzyk.com###Tinfo
 ||zxqiwe.cn^
 ||zxrcfw.com^
 ||zxsnllo.cn^
+||zxvklz.icu^
 ||zxw51.com^$third-party
 ||zxwstong.com^
 ||zxzj.me/slade2.js
