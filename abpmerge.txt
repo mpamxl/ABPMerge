@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-14 08:14:20
+! Version: 2025-10-14 16:14:01
 ! Total count: 35465
 ###ADtip
 ###Ad_windows
@@ -5054,7 +5054,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@/adverts/*$domain=onlychild.cn
 @@/adview_$domain=52xkdy.com|fydy8.com
 @@/adview_*_ads_300x250.js$domain=itbaoku.cn
-@@/adview_*_ads_300x250.js$domain=yaociyuan.bid
 @@/adview_pic_$domain=bigpixel.cn|fffmo.com|itbaoku.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zaixianjisuan.com|zgpingshu.com
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
@@ -7410,6 +7409,8 @@ applefans.today#$#body { overflow: auto !important; }
 applnn.cc##+js(noeval-if, encodeURIComponent)
 applnn.cc##DIV.html-box
 apprcn.com##a[href*=".lizhi."]
+appscross.com##.master-slider-parent
+appscross.com##.w-ad
 aqicn.org#$#abort-on-property-read alert
 arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
 arabxd.com#$#abort-current-inline-script document.querySelectorAll popMagic
@@ -16916,10 +16917,6 @@ yandex.by,yandex.fr,yandex.kz,~telephony.yandex.ru,yandex.ru,yandex.ua,yandex.uz
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
 yantuchina.com##div[style="width:618px;height:150px;margin: 0 auto; display:block;"]
-yaociyuan.bid##+js(set-constant, killads, true)
-yaociyuan.bid##.board a[target="_blank"] > img
-yaociyuan.bid##.content a[target="_blank"] > img
-yaociyuan.bid##.w-ad
 yaofangwang.com##.bad
 yasem5.com###cdaas-rand
 yasem5.com##a[href*="yasem5.com/go"][target="_blank"]
@@ -24039,6 +24036,7 @@ zzzyk.com###Tinfo
 ||ggo10130lq.com^
 ||ggo10131lq.com^
 ||ggo10140lq.com^
+||ggo10141lq.com^
 ||ggs.myzaker.com^
 ||ggsfq.xyz^$third-party
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -29529,6 +29527,7 @@ zzzyk.com###Tinfo
 ||plnbnd.xyz^
 ||plnshao.xyz^
 ||plof69.com^
+||plsec7wll8.com^
 ||plthnh.icu^
 ||plzblz.xyz^
 ||pm.poqwua.cn^
@@ -30406,6 +30405,7 @@ zzzyk.com###Tinfo
 ||revk.cn^
 ||revsci.net^$third-party
 ||rewrwrt4.fun^
+||rewvfghoya.com^
 ||rf.cnlongshou.com^
 ||rfgsdgg.top^
 ||rfidworld.com.cn/Notice/Home
