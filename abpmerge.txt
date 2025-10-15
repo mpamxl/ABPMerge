@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-15 08:16:38
-! Total count: 35477
+! Version: 2025-10-15 16:11:59
+! Total count: 35478
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1828,6 +1828,7 @@ $script,third-party,domain=xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.co
 $script,third-party,websocket,domain=52codes.net
 $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|zzzzz688.com
 $websocket,domain=wap.yushuwu.cloud
 &ADFAssetID=$media,domain=expres.cz|www.idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|blesk.cz|dama.cz|e15.cz|mojezdravi.cz|zeny.cz|zive.cz
 &ADFAssetID=$media,domain=www.ahaonline.cz|info.cz|onetv.cz|iprima.cz
