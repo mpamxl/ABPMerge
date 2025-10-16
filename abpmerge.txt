@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-15 16:11:59
-! Total count: 35478
+! Version: 2025-10-16 08:16:45
+! Total count: 35482
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -24801,6 +24801,7 @@ zzzyk.com###Tinfo
 ||hhffnu135.shop^
 ||hhplayer.com/cdn/fb.js
 ||hhppzkhurf.com^
+||hhr3ybjsoy.com^
 ||hhrerv.xyz^
 ||hhttm.top^
 ||hi.xiunm.cn^
@@ -31242,6 +31243,7 @@ zzzyk.com###Tinfo
 ||snalzlb.top^
 ||sncop.uioozpxq.com^
 ||sneakersq5.com^
+||snickers44.com^
 ||snifdlab.top^
 ||snjfasp.com^
 ||snmi.cn^$third-party
@@ -34629,6 +34631,7 @@ zzzyk.com###Tinfo
 ||yiwckti.icu^
 ||yiybmi.icu^
 ||yizhibo.com/special/h5corner.html
+||yizj5fcwaj.com^
 ||yj2nf.icu^
 ||yjcf360.com/ad.
 ||yje912.cn^
@@ -35353,6 +35356,7 @@ zzzyk.com###Tinfo
 ||zsjjob.com/user/member/google.htm
 ||zsjxwj.com^
 ||zsnfdphz.com^
+||zsy10161yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
