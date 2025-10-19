@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-18 16:11:45
-! Total count: 35516
+! Version: 2025-10-19 08:13:14
+! Total count: 35526
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6895,6 +6895,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||wwwshooter.com/js/adblockdetect/_advertisement.js$script
 @@||wx.qq.com/c/=/mpres/*/video_ad_
 @@||wx.qq.com/mmbizwap/*/framead.
+@@||x2.ifengimg.com^
 @@||xbeibeix.com^$generichide
 @@||xianzhenyuan.cn/data/attachment/common/guanggao/adjs.htm
 @@||xiaoyuanzhao.com/adservice/$domain=shixiseng.com
@@ -18180,6 +18181,7 @@ zzzyk.com###Tinfo
 ||4wmiuiyd70.com^
 ||4wu3gf.cn^
 ||4xicd08qs.com^
+||4z50jczq2.com^
 ||4zn.fun^
 ||5.61.55.143^
 ||5.ccutu.com^
@@ -18649,6 +18651,7 @@ zzzyk.com###Tinfo
 ||82e9ac3c1.com^
 ||83133.com/api/
 ||835images1.com^
+||84dwl4bbq.com^
 ||84zm8.xyz^
 ||85566.net/js/loadjs/jquery
 ||8585go.com/recommend
@@ -19479,6 +19482,7 @@ zzzyk.com###Tinfo
 ||akuziti.com/tu/*.js
 ||al.newxue.com^
 ||albdbsk.xyz^
+||alcoholic56.top^
 ||aldkfsd.cn^
 ||aldtop.com/scrtips/
 ||aldusmiskals.com^
@@ -27171,6 +27175,7 @@ zzzyk.com###Tinfo
 ||lewrutl.top^
 ||leyf5q4rk.com^
 ||lezbrja.cn^
+||lf2cgxz0b.com^
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
 ||lfbupf.icu^
 ||lfbz317s.icu^
@@ -32025,6 +32030,7 @@ zzzyk.com###Tinfo
 ||tihdjd.xyz^
 ||tiimg.com^$domain=678cn.com
 ||tikimg.cc^
+||tikz.cn^
 ||timecn.cn/image/alipay.jpg
 ||tingchina.com/images/aibaoliang.gif
 ||tingchina.com/js/*220-
@@ -33895,6 +33901,7 @@ zzzyk.com###Tinfo
 ||x21.cn/service/feeds.
 ||x23qb.com/skin/themex.js
 ||x360xs.com/tops/
+||x3pfkiohz.com^
 ||x3zy2.icu^
 ||x43slxjwzx.com^
 ||x4d.icu^
@@ -34171,6 +34178,7 @@ zzzyk.com###Tinfo
 ||xman.asia^
 ||xmangoculture.com^
 ||xmawwbz.icu^
+||xmbfrn.icu^
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||xmcimg.com/js/m.js
 ||xmhszb.xyz^
@@ -35390,6 +35398,8 @@ zzzyk.com###Tinfo
 ||zsy10171yok.com^
 ||zsy10180yok.com^
 ||zsy10181yok.com^
+||zsy10190yok.com^
+||zsy10191yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
