@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-20 08:16:35
-! Total count: 35536
+! Version: 2025-10-20 16:13:50
+! Total count: 35544
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -807,6 +807,7 @@
 ##.js-cui-pt-item[data-qhb]
 ##.jsv > .mobile-adv
 ##.jsv-layer > .image > a[href^="http"]
+##.jtAms_container > .count_a
 ##.ka-flo
 ##.kjk-flo
 ##.ksads
@@ -829,6 +830,7 @@
 ##.m0auto > div:not([class]):not([id]) > div > .swiper-initialized
 ##.m1938-container
 ##.m_hot_rec_box_base[id^="right"]
+##.m_kxbtm_ad
 ##.main-ad-l
 ##.main-ad-r
 ##.main-ad-r + .topad
@@ -1769,6 +1771,7 @@
 ##img[src*=".qpic.cn"][width="980"][height="80"]
 ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
+##main.quote-main > .section_btn.clearfix.mt20
 ##oxk
 ##p > a[href^="/AllRes/Vlog"]
 ##script + #coupletBox
@@ -13796,6 +13799,8 @@ nowscore.com###toperText
 nowscore.com##div[style="background-color:#F0F0F0;line-height:25px;height:25px;text-align:center"]
 nowwatchtvlive.me##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
 noy1.top##+js(no-xhr-if, /api/ads)
+npmmirror.com##.ant-alert:has(a[target="_blank"])
+npmmirror.com##a[target="_blank"] > img:is([alt="ad"], [alt="vps-ad"])
 nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 nsportal.ru#$#abort-on-property-read addDownloadPrefixToLinks false
 ntm.gov.tw#@#.ad-left
@@ -15417,6 +15422,7 @@ stockstar.com##.ss-ad-icon2
 stoneip.info###text-57
 storm.mg###dablewidget_KoEeAWoB
 storm.mg###floating_btns_wrapper
+storm.mg##.adGeneral
 storm.mg##.storm_magic_placeholder
 storm.mg##div[data-addom="storm_ad_wrapper"]
 storm.mg#@#.btn_fb
@@ -27719,6 +27725,7 @@ zzzyk.com###Tinfo
 ||m6d.icu^
 ||m6d3h9vc3z.com^
 ||m6j37.xyz^
+||m78vxjm35d.com^
 ||m7g2v1b9.com^
 ||m7xssfiit.com^
 ||m81mfege2.com^
@@ -35408,6 +35415,7 @@ zzzyk.com###Tinfo
 ||zsy10190yok.com^
 ||zsy10191yok.com^
 ||zsy10200yok.com^
+||zsy10201yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
