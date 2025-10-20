@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-19 16:12:04
-! Total count: 35527
+! Version: 2025-10-20 08:16:35
+! Total count: 35536
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -175,6 +175,7 @@
 ###floatAd-right
 ###floatad-winpop
 ###fnbt
+###foot > #btmBox
 ###footAd
 ###footer_fix_ggw
 ###frameS8CyqB
@@ -1608,8 +1609,6 @@
 ##body > DIV[style='display: block; width: 100%; height: 132px;']
 ##body > DIV[style='display: block; width: 100%; height: 133px;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
-##body > [style^="display: block; width: 100%; height:"]:empty
-##body > [style^="display: block; width: 100%; height:"]:empty ~ :not(div)[style^="display: block; z-index: "]
 ##body > a[id*='hudie_']
 ##body > div#bottommob.bottommob
 ##body > div#inplayer[align="center"]
@@ -17406,6 +17405,7 @@ zzzyk.com###Tinfo
 ||09jsufg.com^
 ||0a0atz2sh.top^
 ||0b4qu3nxa.com^
+||0b6rvr210q.com^
 ||0dwm.icu^
 ||0er7pc8.xyz^
 ||0h3uds.com^
@@ -18623,6 +18623,7 @@ zzzyk.com###Tinfo
 ||7tc.fun^
 ||7u4b8l1zt.com^
 ||7vviw.cyou^
+||7wzx9.com/tbad.
 ||7x7n.com/static/image/888.jpg
 ||7x7n.com/static/pic/*.jpg
 ||7x9i88rvn.com^
@@ -18893,6 +18894,7 @@ zzzyk.com###Tinfo
 ||9odes.ltd^
 ||9oru1vh0w.com^
 ||9s64g.icu^
+||9swovqnp52.com^
 ||9tata.com/js/Rand.js
 ||9tata.com/js/pbanner.js
 ||9tata.com/js/topxia.js
@@ -22620,6 +22622,7 @@ zzzyk.com###Tinfo
 ||dpsusqs20.com^
 ||dpw202504.com^
 ||dpweupc.icu^
+||dpxadf.icu^
 ||dpzplb.xyz^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dqazwsxd.xyz^
@@ -25663,6 +25666,7 @@ zzzyk.com###Tinfo
 ||inszu.com/js/qian/
 ||inte.sogou.com^
 ||inte.sogoucdn.com^$domain=~index.sogou.com|~zhishu.sogou.com
+||interviewbq.com^
 ||intimidatepropel.com^
 ||inudpbi.com^
 ||inulgaenypa.com^
@@ -32210,6 +32214,7 @@ zzzyk.com###Tinfo
 ||tqmcj.cn^
 ||tqphaqoye.com^
 ||tqtqvb.xyz^
+||tqub.cn^
 ||tquspo.com^
 ||tqvnzj.xyz^
 ||tqytqdrq.icu^
@@ -32688,6 +32693,7 @@ zzzyk.com###Tinfo
 ||ultrafiles.net/visitScript/$script,third-party
 ||ultraimg.com^$domain=18board.com|18p2p.com
 ||ulwfys.xyz^
+||ulwzinqlh0.com^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
 ||umbrella6.top^
@@ -35401,6 +35407,7 @@ zzzyk.com###Tinfo
 ||zsy10181yok.com^
 ||zsy10190yok.com^
 ||zsy10191yok.com^
+||zsy10200yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
@@ -35520,6 +35527,8 @@ zzzyk.com###Tinfo
 ~ix8.la##div[class^="ADTOPLB_"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img
+~leynwell.top##body > [style^="display: block; width: 100%; height:"]:empty
+~leynwell.top##body > [style^="display: block; width: 100%; height:"]:empty ~ :not(div)[style^="display: block; z-index: "]
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,~telephony.yandex.ru,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class*="item_type_"][class*="item_rendered"]
 ~mgtv.com##a[target="_blank"] > img[src*="hitv.com"]
 ~sinaimg.cn##a > img[src*=".sinaimg."][src$=".gif"][style*="width:960"]
