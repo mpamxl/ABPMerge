@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-20 16:13:50
-! Total count: 35544
+! Version: 2025-10-21 08:17:04
+! Total count: 35554
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18546,6 +18546,7 @@ zzzyk.com###Tinfo
 ||73336zubo25326.com^
 ||75.125.41.29:8080/
 ||75b9dfiyb.com^
+||75rakcovr.com^
 ||766lnwfo7h.com^
 ||7676.com^$third-party
 ||767drv.cn^
@@ -19831,6 +19832,7 @@ zzzyk.com###Tinfo
 ||aqdy.net/js/banner.js
 ||aqdy.net/js/tj.js
 ||aqeivzm.icu^
+||aqftgalqig.com^
 ||aqgjqy.icu^
 ||aqilk66444a.xyz^
 ||aqlife.com/data/attachment/portal/
@@ -19897,6 +19899,7 @@ zzzyk.com###Tinfo
 ||atarrean.com^
 ||atbdkmt.xyz^
 ||atbif.cn^
+||atekag.cn^
 ||atemda.com^$third-party
 ||atepcs.icu^
 ||atiws.aipai.com^
@@ -20505,6 +20508,7 @@ zzzyk.com###Tinfo
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bfthrelgad.com^
 ||bftqdd.xyz^
+||bftvpp.icu^
 ||bfugui.com^
 ||bg04y.xyz^
 ||bg4nxu2u5t.com^
@@ -20559,6 +20563,7 @@ zzzyk.com###Tinfo
 ||biddingx.com^$third-party
 ||bidotz.icu^
 ||bidvertiser.com^$third-party
+||biejdy1d1.com^
 ||bieqpf.cn^
 ||bieuc.icu^
 ||biexsite.net^
@@ -23616,6 +23621,7 @@ zzzyk.com###Tinfo
 ||fngcgbl.icu^
 ||fngmeat.top^
 ||fnjoomqa.icu^
+||fnoc.cn^
 ||fo.tiqu.io^
 ||fo.zhangbaochang.top^
 ||fo0.icu^
@@ -28565,6 +28571,7 @@ zzzyk.com###Tinfo
 ||niangaoxiansheng.com^
 ||nibblebit.com/assets/media/adverts.php
 ||nicelinks.site/ad-block-
+||nidckjnc.com^
 ||nieae.xyz^
 ||niebiaoyyds.com^
 ||niecarsg.com^
@@ -29305,6 +29312,7 @@ zzzyk.com###Tinfo
 ||parnett55.xyz^
 ||partner.googleadservices.com^$third-party
 ||partnerads.ysm.yahoo.com^
+||patriotic66.top^
 ||pavwrr.icu^
 ||payoneok.com^
 ||paywall.folha.uol.com.br^$domain=folha.uol.com.br
@@ -34690,6 +34698,7 @@ zzzyk.com###Tinfo
 ||yjnkas.com^
 ||yjnlk.com^
 ||yjoyse.icu^
+||yjprlwskt.com^
 ||yjuhqy.xyz^
 ||yjwxegq.icu^
 ||yjyc-ask.com/res/ads/
@@ -35416,6 +35425,7 @@ zzzyk.com###Tinfo
 ||zsy10191yok.com^
 ||zsy10200yok.com^
 ||zsy10201yok.com^
+||zsy10210yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
