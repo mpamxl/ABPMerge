@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-22 08:17:43
-! Total count: 35566
+! Version: 2025-10-22 16:14:53
+! Total count: 35570
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20361,6 +20361,7 @@ zzzyk.com###Tinfo
 ||bdcode.2345.com^
 ||bdcode.35d1.com^
 ||bdcode.qinglm.com^
+||bdcode.qinglue.com^
 ||bdcode.youke.com^
 ||bdcpro*.techweb.com.cn^
 ||bdcrihraly.com^
@@ -28460,6 +28461,7 @@ zzzyk.com###Tinfo
 ||nbtfbb.xyz^
 ||nbudas92.shop^
 ||ncgqmzm.cn^
+||nchanado.com^
 ||nchxzmhr.com^
 ||ncjqjp.icu^
 ||nclljn.xyz^
@@ -35317,6 +35319,7 @@ zzzyk.com###Tinfo
 ||zjjbtl.com^
 ||zjjhfc.com/js/zt.js
 ||zjkssw.com^
+||zjkt6ew4cp.com^
 ||zjliloveyou.ixiunv.com^
 ||zjplnz.xyz^
 ||zjsnhl.xyz^
@@ -35438,6 +35441,7 @@ zzzyk.com###Tinfo
 ||zsy10210yok.com^
 ||zsy10211yok.com^
 ||zsy10220yok.com^
+||zsy10221yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
