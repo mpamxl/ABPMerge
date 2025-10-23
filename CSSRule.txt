@@ -6786,6 +6786,12 @@ hall123.com,hi.people.com.cn##img[width="1000"]
 hamibook.com.tw##.custom-banners-cycle-slideshow
 hamivideo.hinet.net###overlays-ad
 hamivideo.hinet.net##+js(set-constant, myPlayer.adDisplay, undefined)
+hanime1-me.icu,hanime1-me.top##+js(abort-on-property-read, addImageAd)
+hanime1-me.icu,hanime1-me.top##+js(abort-on-property-read, createFixedBottomBannerWithClose)
+hanime1-me.icu,hanime1-me.top##+js(abort-on-stack-trace, Uint8Array, loadAd)
+hanime1-me.icu,hanime1-me.top##.hidden-sm[style]:has(> div[style="padding: 5px; color: white; font-size: 12px;"] + div > script)
+hanime1-me.icu,hanime1-me.top##div[style="display: flex;flex-wrap: wrap;margin: 5px auto; gap: 10px;justify-content: center; text-align: center"] > a
+hanime1-me.icu,hanime1-me.top##iframe[src^="/herebyad"]
 hanime1.me##.search-rows-wrapper > .content-padding-new > .row > .multiple-link-wrapper:has(> a[href*=".labsda.com"])
 hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-align:"]
 hanime1.me##div[style*="width: 310px; height: 282px;"]
