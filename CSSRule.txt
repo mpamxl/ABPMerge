@@ -10616,6 +10616,10 @@ qq.com,sogou.com##div[pbflag="coolsitefeed_ad"]
 qq.com,yxad.com##.l_qq_com
 qq3009qq.link##.box li:has(> a[href] > img[onclick])
 qqaiqin.com#@#.ad_468
+qqdsw8.cn##.ad
+qqdsw8.cn##.advert
+qqdsw8.cn##.joe_index__ad
+qqdsw8.cn##.joe_post__ad
 qqxiazai.com##.bt_abtn2
 qqxiuzi.cn##div[onclick][style]
 qqyouyue.com##.table-responsive

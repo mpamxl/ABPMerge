@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-23 16:14:08
-! Total count: 35591
+! Version: 2025-10-24 08:15:50
+! Total count: 35616
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1912,6 +1912,7 @@ $websocket,domain=wap.yushuwu.cloud
 .cn/*-*-*.xc$script,third-party
 .cn/2022/*/*.txt$third-party
 .cn/2023/*/*.txt$third-party
+.cn/Ao390sW2.js
 .cn/Hl390cN2.js$script,third-party
 .cn/Qi390eC2.js$script,third-party
 .cn/TA390hz2.js$script,third-party
@@ -1921,6 +1922,7 @@ $websocket,domain=wap.yushuwu.cloud
 .cn/b.gif?
 .cn/bid?url=*$third-party
 .cn/by389.js$script,third-party
+.cn/cS389.js
 .cn/gg/$script,third-party
 .cn/hL389.js$script,third-party
 .cn/js/ads/
@@ -14564,6 +14566,10 @@ qq.com,sogou.com##div[pbflag="coolsitefeed_ad"]
 qq.com,yxad.com##.l_qq_com
 qq3009qq.link##.box li:has(> a[href] > img[onclick])
 qqaiqin.com#@#.ad_468
+qqdsw8.cn##.ad
+qqdsw8.cn##.advert
+qqdsw8.cn##.joe_index__ad
+qqdsw8.cn##.joe_post__ad
 qqxiazai.com##.bt_abtn2
 qqxiuzi.cn##div[onclick][style]
 qqyouyue.com##.table-responsive
@@ -17802,6 +17808,7 @@ zzzyk.com###Tinfo
 ||2048hd1.com/js/tc.js
 ||205.209.138.102^
 ||208622.top^
+||20images36.com^
 ||20mao.com/52
 ||20mao.com/js/sj.
 ||20wx.com^
@@ -18068,6 +18075,7 @@ zzzyk.com###Tinfo
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
 ||3g.qq.com/lview?
+||3ge064tt79.com^
 ||3gmfw.cn/js/wap/
 ||3h3.com/gmobile/gujs/
 ||3h3.com/js/homepage.js
@@ -18116,6 +18124,7 @@ zzzyk.com###Tinfo
 ||407mp3.com/js/*.js
 ||4080kan.com/js/head
 ||40fenzhong.com^
+||40images25.com^
 ||40wan.com/js/www2/
 ||4199tv.com^
 ||41grk.icu^
@@ -20126,6 +20135,7 @@ zzzyk.com###Tinfo
 ||baidu.com/event/img/zwdzjs.jpg
 ||baidu.com/fanyiapp/image/wise_banner_
 ||baidu.com/feproxy/ad/list?
+||baidu.com/forum/pic/item/0bd162d9f2d3572cef1c4acdcc13632762d0c322.
 ||baidu.com/game/asset/common/performance.
 ||baidu.com/gamebox?
 ||baidu.com/img/iknow/wenku*85.
@@ -20978,6 +20988,7 @@ zzzyk.com###Tinfo
 ||bzhn9y.icu^
 ||bzkmqr6vo4.com^
 ||bzlmtuniv.com^
+||bzp2fqad7o.com^
 ||bzqqftz.icu^
 ||bzverx.xyz^
 ||bzxvtj.xyz^
@@ -21569,6 +21580,7 @@ zzzyk.com###Tinfo
 ||cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
 ||cloudflare.st^
 ||cloudfront-666.kxcdn.com/v4.js
+||cloudfront.net/yongli04/
 ||cloudfront.net^$script,domain=croydonguardian.co.uk
 ||clplrhum.xyz^
 ||clqjyw.xyz^
@@ -21841,6 +21853,7 @@ zzzyk.com###Tinfo
 ||csdsa22.fun^
 ||csedasdme.xyz^
 ||csfds000.fun^
+||csgkj.com^
 ||csgola.com/Public/img/lala/1.jpg
 ||csjkb.com^
 ||cslbahf.top^
@@ -22160,6 +22173,7 @@ zzzyk.com###Tinfo
 ||dbmp4.com/js/foot.js
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
+||dbraxb.icu^
 ||dbt6ga5v6d15f.cloudfront.net/slf^$domain=vikacg.com
 ||dbvo.cn^
 ||dbw.cn/eap/js/db/dbwad_
@@ -22885,6 +22899,7 @@ zzzyk.com###Tinfo
 ||e1s.fun^
 ||e1zin.icu^
 ||e23.cn/js/aaa.js
+||e26fr9qb4m.com^
 ||e2jda3h01.com^
 ||e3c7.com/dh/
 ||e3c7.com/love/
@@ -23585,6 +23600,7 @@ zzzyk.com###Tinfo
 ||fiwf54qahl.com^
 ||fiwyjar.cn^
 ||fj.sina.com.cn/iframe/63/
+||fjalsr83a6.com^
 ||fjbglfrv.com^
 ||fjcs5ly6l.com^
 ||fjctlnn.top^
@@ -23626,6 +23642,7 @@ zzzyk.com###Tinfo
 ||fmgmh.com/template/wap/default/js/lunbo.js
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmjjvb.xyz^
+||fmjo.cn^
 ||fmkipgm.icu^
 ||fmlmbf.top^
 ||fmmirep.icu^
@@ -24220,6 +24237,7 @@ zzzyk.com###Tinfo
 ||go2av.com/js/AM.js
 ||go2click.online^
 ||go2tutor.com/lifebox.asp
+||go2yd.com^
 ||goblin.hupu.com^
 ||gocye.com^$third-party
 ||godamanga.online/ad/
@@ -24575,6 +24593,7 @@ zzzyk.com###Tinfo
 ||handerfix.com^
 ||handjob.tw/ad/
 ||hanime1-me.*/herebyad
+||hanime1-me.top/view_booster.js
 ||hanjutv2020.com/index.php?c=dudu_
 ||hanjutv2020.com/statics/skin/*/js/plus.js
 ||hanjutvn.com/template/alifun/js/Tmall/
@@ -28277,6 +28296,7 @@ zzzyk.com###Tinfo
 ||muhnbc.cn^
 ||muiuim.icu^
 ||mujkdna.xyz^
+||multiply5.top^
 ||mumnxiex.top^
 ||mumu*.com/js/cdn.js$~third-party
 ||mumu*.com/js/html*.js$script,~third-party
@@ -30588,6 +30608,7 @@ zzzyk.com###Tinfo
 ||rmfbrz.icu^
 ||rmhfrtnd.com^$third-party
 ||rmioswx.icu^
+||rmkfmm.cn^
 ||rmtxdn.icu^
 ||rmws8.com^
 ||rmzbfum.cn^
@@ -34635,6 +34656,7 @@ zzzyk.com###Tinfo
 ||yhdm.tv/bar/yfyh.js
 ||yhdm335.com/piao/
 ||yhdm44.com/123.html
+||yhecauig.com^
 ||yhgfoe.xyz^
 ||yhgfsdad.top^
 ||yhgpuxim.xyz^
@@ -35149,6 +35171,8 @@ zzzyk.com###Tinfo
 ||zdgbend.buzz^
 ||zdh10230lo.com^
 ||zdh10231lo.com^
+||zdh10240lo.com^
+||zdh10241lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
@@ -35463,6 +35487,7 @@ zzzyk.com###Tinfo
 ||zsy10221yok.com^
 ||zsy10230yok.com^
 ||zsy10231yok.com^
+||zsy10240yok.com^
 ||zszhln.xyz^
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
