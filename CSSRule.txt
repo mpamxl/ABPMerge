@@ -12537,6 +12537,8 @@ wn01.uk##IMG[alt][style='width: 100%; height: 100%;']
 wn789.com##.sidebar > .widget:not(:first-child):not(.widget_ui_posts)
 wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
 wnacg.com##a[href^="http"]:not([href*="wnacg."]) img
+wnacg.com##a[href^="https://ent.ystwfucb.shop/"]
+wnacg.com##a[href^="https://l.labsda.com/"]
 wnacg.com##img[width="399"][height*="6"]
 wnacg.com##script + div > a > img
 wnacg.com#@##adsbox

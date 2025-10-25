@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-25 08:13:32
-! Total count: 35627
+! Version: 2025-10-25 16:12:33
+! Total count: 35633
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16515,6 +16515,8 @@ wn01.uk##IMG[alt][style='width: 100%; height: 100%;']
 wn789.com##.sidebar > .widget:not(:first-child):not(.widget_ui_posts)
 wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
 wnacg.com##a[href^="http"]:not([href*="wnacg."]) img
+wnacg.com##a[href^="https://ent.ystwfucb.shop/"]
+wnacg.com##a[href^="https://l.labsda.com/"]
 wnacg.com##img[width="399"][height*="6"]
 wnacg.com##script + div > a > img
 wnacg.com#@##adsbox
@@ -20634,6 +20636,7 @@ zzzyk.com###Tinfo
 ||biqivge.cc/js/p
 ||biquge96.com/123.
 ||biqugie.com/js/wap.
+||birbmcmp.icu^
 ||birdmedia.com^$third-party
 ||birjkhm.cn^
 ||birtw.cn^
@@ -21840,6 +21843,7 @@ zzzyk.com###Tinfo
 ||crpoy.com^$domain=pronpic.org
 ||crs.baidu.com^
 ||crtlisf.top^
+||cruhliip.com^
 ||cruhut.com^
 ||crutvncf.top^
 ||crxs.me/plugins/jquery.modal/
@@ -28482,6 +28486,8 @@ zzzyk.com###Tinfo
 ||nanrenvip2021.com/old.html
 ||naqiwjj.icu^
 ||naryvz.xyz^
+||natgeomedia.com/js/ads-parallax.
+||natgeomedia.com/scripts/adajax.
 ||naturallon.com^
 ||naukreatn.com^
 ||nawpush.com^
