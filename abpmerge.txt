@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-24 16:13:51
-! Total count: 35618
+! Version: 2025-10-25 08:13:32
+! Total count: 35627
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18181,6 +18181,7 @@ zzzyk.com###Tinfo
 ||4kfv18.cn^
 ||4kwu.cc/static/js/tj.js
 ||4kxczstxil.com^
+||4nc4qc1fo.com^
 ||4oz4n.icu^
 ||4p04u96158.com^
 ||4p68.com^
@@ -18419,6 +18420,7 @@ zzzyk.com###Tinfo
 ||5pub.com^
 ||5s98.com/img/
 ||5tmobi.cn^$third-party
+||5u3tzh6tc.com^
 ||5uazcu2o1.com^
 ||5uxmusq.cn^
 ||5vdd.com/360
@@ -18531,6 +18533,7 @@ zzzyk.com###Tinfo
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
+||6pctuhriw.com^
 ||6play.fr/assets/js/vendors-3600848c1f.js$script
 ||6pznpz.com^
 ||6qo.fun^
@@ -18898,6 +18901,7 @@ zzzyk.com###Tinfo
 ||9aiwotv.com/c300*.html$subdocument
 ||9cc9ckp.com^
 ||9clasfdc3.com^
+||9cwcu1574.com^
 ||9duw.com/js/sj
 ||9duw.com/pic/
 ||9e0917xf7x.com^
@@ -20501,6 +20505,7 @@ zzzyk.com###Tinfo
 ||bendibao.com/mo/adm_iframe.htm?
 ||bendibao.com/weixin_
 ||benpsbp.com^
+||benvjt.icu^
 ||beqnnobwt.com^
 ||berjzj.xyz^
 ||berylnbb.com^
@@ -28237,6 +28242,7 @@ zzzyk.com###Tinfo
 ||mqaoweu.icu^
 ||mqcoycx.icu^
 ||mql5.com/rq?
+||mqndhoceat.com^
 ||mqwmgs.xyz^
 ||mqwtgq.xyz^
 ||mrgecm.xyz^
@@ -31712,6 +31718,7 @@ zzzyk.com###Tinfo
 ||supfree.net/top.gif
 ||supfree.net/xxx/
 ||supfree.net^$xmlhttprequest
+||suppose84.com^
 ||suresdb.top^
 ||surface361.com^
 ||surperverse.com^
@@ -35175,6 +35182,8 @@ zzzyk.com###Tinfo
 ||zdh10231lo.com^
 ||zdh10240lo.com^
 ||zdh10241lo.com^
+||zdh10250lo.com^
+||zdh10251lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
