@@ -669,6 +669,7 @@
 ##.containeradvertising
 ##.content > #dhxhtml
 ##.content > .module > .small-icon-container > a.small-icon-div[target="_blank"]
+##.content > .myads
 ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
 ##.content > a > .topline
 ##.content-ads
@@ -727,7 +728,13 @@
 ##.gg-one
 ##.gg1000
 ##.gg430
+##.gg_1
+##.gg_2
+##.gg_3
 ##.gg_300
+##.gg_4
+##.gg_5
+##.gg_6
 ##.gg_728
 ##.gg_950
 ##.gg_960
