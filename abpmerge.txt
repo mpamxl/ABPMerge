@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-29 08:16:43
-! Total count: 35693
+! Version: 2025-10-29 16:15:02
+! Total count: 35699
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18395,6 +18395,7 @@ zzzyk.com###Tinfo
 ||595image.com^
 ||59gt.cn^
 ||59xx2yr9i.com^
+||5adbjiwp.xyz^
 ||5axxw.com/extends/ad/
 ||5azvpjx8xj.com^
 ||5b025cnm.top^
@@ -20021,6 +20022,7 @@ zzzyk.com###Tinfo
 ||avcity.twavtv.com/iframe/
 ||avdao.pw/dist/js/sc_check
 ||avgle.topgirlsdating.com^$domain=avgle.com
+||avh3nuhxm.com^
 ||avitya.ru^$domain=pronpic.org
 ||avivid.likr.tw^$third-party
 ||avividone.likr.tw$third-party
@@ -22957,6 +22959,7 @@ zzzyk.com###Tinfo
 ||eaezoi.xyz^
 ||eafyfsuh.net/Webservices/jsParseLinks.aspx$script,third-party
 ||eafyfsuh.net/visitScript/$script,third-party
+||eagb.cn^
 ||eamqbaqzaewwq.top^
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
@@ -29162,6 +29165,7 @@ zzzyk.com###Tinfo
 ||ooqwc.xyz^
 ||ootyx24.com^
 ||ooublik.top^
+||oovruczakz.com^
 ||op9dbh1i0.com^
 ||opdh.cn^
 ||open.e.kuaishou.cn^
@@ -35249,6 +35253,7 @@ zzzyk.com###Tinfo
 ||zdh10280lo.com^
 ||zdh10281lo.com^
 ||zdh10290lo.com^
+||zdh10291lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
@@ -35585,6 +35590,7 @@ zzzyk.com###Tinfo
 ||zujz.cn^
 ||zukddms.cn^
 ||zumneojf.icu^
+||zumnervl.com^
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuowen.hydcd.com^
 ||zuoyebang.cc/static/question/question/resource/QRCode_
