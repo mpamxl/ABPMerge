@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-28 16:14:57
-! Total count: 35683
+! Version: 2025-10-29 08:16:43
+! Total count: 35693
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17759,6 +17759,7 @@ zzzyk.com###Tinfo
 ||1dor1d6vc.com^
 ||1f0l.top^
 ||1f84e33459.com^
+||1futnsio0.com^
 ||1gmzo.icu^
 ||1gp3p6fkio.com^
 ||1gtp.icu^
@@ -20484,6 +20485,7 @@ zzzyk.com###Tinfo
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
 ||bdxpdz.xyz^
+||bdxydp.icu^
 ||bea-s.dinghuoche.com^
 ||beacon-api.aliyuncs.com^
 ||beacon.qq.com^
@@ -21125,6 +21127,7 @@ zzzyk.com###Tinfo
 ||car.qcmrjx.com^
 ||carbonads.com^
 ||careers.hotjar.com^
+||careless05.com^
 ||carexpert.com.tw/wp-content/uploads/*800x90.
 ||carnations9.com^
 ||carnoc.com/noticejs/
@@ -25347,6 +25350,7 @@ zzzyk.com###Tinfo
 ||i3z.cn^$third-party
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i5q1t8vj9.com^
+||i73u6dnnh.com^
 ||i7akpd1.xyz^
 ||i7pnx0t.cn^
 ||i8m6.com^
@@ -25569,6 +25573,7 @@ zzzyk.com###Tinfo
 ||ikkdm.com/mg/show2.js
 ||iklda.cn^
 ||iknwqdpo.xyz^
+||ikronzealu.com^
 ||ikstatic.cn^*.gif
 ||ikuailian.com^$third-party
 ||ikunikun.xyz^
@@ -27455,6 +27460,7 @@ zzzyk.com###Tinfo
 ||llj22.com/1.gif
 ||llksja.com^
 ||llpuhx.xyz^
+||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
 ||lm1.wkpcw.cn^
@@ -30687,6 +30693,7 @@ zzzyk.com###Tinfo
 ||rpeutxu.icu^
 ||rpfuvj.icu^
 ||rpkcqtf.cn^
+||rpox.cn^
 ||rppihz.xyz^
 ||rptdhu.top^
 ||rpvqhicca.com^
@@ -32389,6 +32396,7 @@ zzzyk.com###Tinfo
 ||truvidplayer.com^$domain=technews.tw
 ||truxalsl.com^
 ||truxedku.com^
+||trvsdlckg.icu^
 ||trvxbd.xyz^
 ||trw12.com^$third-party
 ||trymask.com/api/$third-party
@@ -33090,6 +33098,7 @@ zzzyk.com###Tinfo
 ||vbphograewy.com^
 ||vcaqexl.com^
 ||vcdfsf99.fun^
+||vcjzjnef.icu^
 ||vcnpnf.xyz^
 ||vcvbnmto.xyz^
 ||vcxv73.fun^
@@ -35239,6 +35248,7 @@ zzzyk.com###Tinfo
 ||zdh10271lo.com^
 ||zdh10280lo.com^
 ||zdh10281lo.com^
+||zdh10290lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
