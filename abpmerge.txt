@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-29 16:15:02
-! Total count: 35699
+! Version: 2025-10-30 08:15:47
+! Total count: 35711
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2947,6 +2947,7 @@ $websocket,domain=wap.yushuwu.cloud
 /js/AD_tv.js
 /js/aa.htm$script
 /js/aahome.htm
+/js/ad.js$domain=69shuba.com
 /js/adbuddy.min.js$script
 /js/ads
 /js/ads-
@@ -18522,7 +18523,6 @@ zzzyk.com###Tinfo
 ||69adu.com/bootstrap.
 ||69e7.fun^
 ||69mok.com^
-||69shuba.com/js/ad.js
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
@@ -20848,6 +20848,7 @@ zzzyk.com###Tinfo
 ||bqxyns0hv.com^
 ||br.bendan.shop^
 ||br0vjqh7pe.com^
+||braised58.top^
 ||brand.sogou.com/micro?yyid=
 ||bremphumz.com^
 ||brendanbc.com^
@@ -22511,6 +22512,7 @@ zzzyk.com###Tinfo
 ||dlili.tv/ufile/22222.js
 ||dlkfhlkjoirfgn.com^
 ||dlkfm8bqz0bpx.cloudfront.net^$script
+||dlkliqrxt2.com^
 ||dlkoo.cc/down/$subdocument
 ||dlkoo.cc/down/*.htm$popup
 ||dlkoo.cc/down/copy
@@ -23015,6 +23017,7 @@ zzzyk.com###Tinfo
 ||eblnzoq.cn^
 ||eboobuv0rk.com^
 ||ebp.renren.com^
+||ebqonaidz.com^
 ||ebrid.cn^
 ||ebroktean.com^
 ||ebrun.com/jfile/position/js/*.js
@@ -23246,6 +23249,7 @@ zzzyk.com###Tinfo
 ||eqkvks.xyz^
 ||eqlidke.cn^
 ||eqqi.cn^
+||eqqp.cn^
 ||eqqwgw.xyz^
 ||equkgm.xyz^
 ||equwxrqjyl.com^
@@ -24521,6 +24525,7 @@ zzzyk.com###Tinfo
 ||guyhok.xyz^
 ||guysfair.com^
 ||guzsjdl.cn^
+||gv0oi9ecji.com^
 ||gvbhae0.com^
 ||gvbta.icu^
 ||gvvedashb6.fun^
@@ -24657,6 +24662,7 @@ zzzyk.com###Tinfo
 ||hao6v.com/d/
 ||haochi123.com/J_Box/Inc_
 ||haofs.com/haofs/ggapi.asp
+||haogushi88.cc/static/simple/yue
 ||haohuisheng555.cn^
 ||haoimgs.com/images/*.gif
 ||haokan5.com/js/haokanjs/2014_
@@ -33006,6 +33012,7 @@ zzzyk.com###Tinfo
 ||uwkz.cn^
 ||uwlovullbg.com^
 ||uwnvcxb.cn^
+||uwrr.cn^
 ||uwsaqoi.icu^
 ||uwtewvalgil.com^
 ||uwursert.top^
@@ -33017,6 +33024,7 @@ zzzyk.com###Tinfo
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
 ||uxtruz.xyz^
+||uxx1sawfwm.com^
 ||uxxux.com/js/zd.js
 ||uy8f8z9uy.com^
 ||uyaeco.xyz^
@@ -33297,6 +33305,7 @@ zzzyk.com###Tinfo
 ||vpydjogaytpg.xyz^
 ||vpzohx.xyz^
 ||vqaj6smlmtpym.top^
+||vqbmxyzda.icu^
 ||vqbrbb.icu^
 ||vqbzpv.xyz^
 ||vqia.cn^
@@ -35192,6 +35201,7 @@ zzzyk.com###Tinfo
 ||zbhuafx.com^
 ||zbislaernv.com^
 ||zbjimg.com/static/union/
+||zbl40hvzzy.com^
 ||zbldxf.icu^
 ||zblz.me^
 ||zbv7kxrteclub.xyz^
@@ -35254,6 +35264,8 @@ zzzyk.com###Tinfo
 ||zdh10281lo.com^
 ||zdh10290lo.com^
 ||zdh10291lo.com^
+||zdh10300lo.com^
+||zdh10301lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
