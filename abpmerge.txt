@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-31 08:15:37
-! Total count: 35724
+! Version: 2025-10-31 16:13:51
+! Total count: 35727
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3300,6 +3300,7 @@ $websocket,domain=wap.yushuwu.cloud
 /static/js/miniyyrtv-config.js
 /static/js/pop_promotion.js?v=
 /static/lbsite/*/*.js?v=$third-party
+/statics/govv.js$~third-party
 /statics/js/dddd.js
 /statics/js/guding.js
 /statics/js/hth1111.html
@@ -18259,6 +18260,7 @@ zzzyk.com###Tinfo
 ||51cto.com/home/web/js/new_login/iframe.js
 ||51cto.com/iframe/get-station-ads
 ||51cto.com/js/activity_pop.js
+||51dh.xin^
 ||51dxs.com^
 ||51fanli.net/misc/images/invite-v4/banner.gif
 ||51gongxiao.com^
@@ -27578,6 +27580,7 @@ zzzyk.com###Tinfo
 ||lpasdfgwer.com^
 ||lpeolfa.top^
 ||lpjxzs.com^
+||lpl.qq.com/*/data/LOL_MATCH2_NEWS_RECOMMEND_*_INFO.js
 ||lpmzt.cn^
 ||lpo03240aou.com^
 ||lpocne.top^
