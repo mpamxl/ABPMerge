@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-01 08:13:35
-! Total count: 35746
+! Version: 2025-11-01 16:11:51
+! Total count: 35749
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -27479,6 +27479,7 @@ zzzyk.com###Tinfo
 ||ll.hudong.com^
 ||ll.ibiqiuge.com/m.js
 ||llaxl.com^
+||llbquucai.com^
 ||llj22.com/1.gif
 ||llksja.com^
 ||llpuhx.xyz^
@@ -29882,6 +29883,7 @@ zzzyk.com###Tinfo
 ||purple-hit.com^$third-party,script,domain=patriotnationpress.com
 ||push.m.youku.com^
 ||push.zhanzhang.baidu.com/push.js
+||pusherblight.com^
 ||pushpad.xyz^$third-party,domain=xnxx-sexfilme.com
 ||putaoys.com/static/js/acb1.js
 ||putonghua520.com/skins/10ym/3jin.gif
@@ -33163,6 +33165,7 @@ zzzyk.com###Tinfo
 ||vencerocasino.com/$popup
 ||venetrigni.com^
 ||venienceilo.fun^
+||veqekuph.com^
 ||vercel.app/ads/
 ||vernaellac.com^
 ||verysadfun.com/assets/publish/jquery.*.js
