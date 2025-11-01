@@ -976,6 +976,7 @@
 ##.sidebar-ad
 ##.single-ad-banner
 ##.siteAnn1
+##.slick-slider.slick-initialized[dir='ltr']
 ##.slider-ad[adid]
 ##.space-y-6 > .advertising
 ##.spon-img[src*=".alicdn."]
@@ -12101,6 +12102,7 @@ udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.ad_mask
 udn.com##.bg-banner--link
+udn.com##.ec-section
 udn.com##.inline-ads
 udn.com##.mag_topic > a[href][target="_blank"] > img[src^="https://p.udn.com.tw/upf/"][src*="_banners/Special/"]
 udn.com##.mag_topic > a[href^="https://goo.gl/"][target="_blank"] > img[src*="_banners/BD/"]

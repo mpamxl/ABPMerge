@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-10-31 16:13:51
-! Total count: 35727
+! Version: 2025-11-01 08:13:35
+! Total count: 35746
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -981,6 +981,7 @@
 ##.sidebar-ad
 ##.single-ad-banner
 ##.siteAnn1
+##.slick-slider.slick-initialized[dir='ltr']
 ##.slider-ad[adid]
 ##.space-y-6 > .advertising
 ##.spon-img[src*=".alicdn."]
@@ -16075,6 +16076,7 @@ udn.com###simplemodal-container
 udn.com###simplemodal-overlay
 udn.com##.ad_mask
 udn.com##.bg-banner--link
+udn.com##.ec-section
 udn.com##.inline-ads
 udn.com##.mag_topic > a[href][target="_blank"] > img[src^="https://p.udn.com.tw/upf/"][src*="_banners/Special/"]
 udn.com##.mag_topic > a[href^="https://goo.gl/"][target="_blank"] > img[src*="_banners/BD/"]
@@ -17371,6 +17373,7 @@ zzzyk.com###Tinfo
 ||01221sop.xyz^
 ||01231sop.xyz^
 ||01240sop.xyz^
+||01anf08rf.com^
 ||01u.net/js/tj.js
 ||01v62.xyz^
 ||022003xs.com^
@@ -18421,6 +18424,7 @@ zzzyk.com###Tinfo
 ||5gg466kzv.com^
 ||5ggj5cp.com^
 ||5gxs.org^
+||5h3wnuhr8.com^
 ||5ibanma.com^
 ||5icool.org/uploadfile/poster/
 ||5idoy8p7.live^
@@ -18932,6 +18936,7 @@ zzzyk.com###Tinfo
 ||9fgh98k.com^
 ||9fum.ifeng.com^
 ||9fwz.com^
+||9gau3j8x7.com^
 ||9hyf6wsiv5.com^
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
@@ -21019,6 +21024,7 @@ zzzyk.com###Tinfo
 ||bz*.net/js/cdn.js
 ||bz*.net/js/html*.js$~third-party,script
 ||bz88888.net/js/cdn.js
+||bzabwir.icu^
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
 ||bzelzfnj.xyz^
 ||bzhanyy.com^*.gif
@@ -21760,6 +21766,7 @@ zzzyk.com###Tinfo
 ||connect.facebook.net^*/fbds.js$third-party
 ||connectormwi.laterpay.net^$script,domain=schoener-wohnen.de
 ||connectreadoasis.com^
+||considerice.com^
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||conyz.cn^
@@ -22912,6 +22919,7 @@ zzzyk.com###Tinfo
 ||dyzgdp.xyz^
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
+||dz3tfc2m9.com^
 ||dzbhdm.com/wp-content/uploads/2021/10/c278390aead8a2f7caea15eb42b36314.
 ||dzdnffs.xyz^
 ||dzfzfv.xyz^
@@ -28005,6 +28013,7 @@ zzzyk.com###Tinfo
 ||meitu.com/js/floatxiuxiu.js
 ||meituan.com/ptapi/recommends?
 ||meituan.com/xiuxianyule/api/getRecommendList?
+||meituancdn.cc^
 ||meitui.org^*.js
 ||meitulu.com/css/*showgg.js
 ||meiweifood.xyz^
@@ -28814,6 +28823,7 @@ zzzyk.com###Tinfo
 ||noukotumorn.com^$domain=dl-protect.link
 ||nourcomip.fun^
 ||nouusup.icu^
+||novikanidf.com^
 ||novipnoad.com/bd/
 ||novipnoad.com/theme/js/helper.
 ||novipnoad.net/theme/js/sponsor/
@@ -31197,6 +31207,7 @@ zzzyk.com###Tinfo
 ||shimo.im/kong-api/ads
 ||shimo.im/lizard-api/ads
 ||shimo.im^*/ads?
+||shipin188.com/66
 ||shitouxs.com/static/042417.js
 ||shixiong.xyz^
 ||shiyaokejishanghai.com^
@@ -31556,6 +31567,7 @@ zzzyk.com###Tinfo
 ||squarewave.top^
 ||sravga.xyz^
 ||srbzw.cn^
+||srfo.cn^
 ||srmdz.vip^
 ||srmsii.xyz^
 ||srootshare.com/otmyjs/
@@ -32783,6 +32795,7 @@ zzzyk.com###Tinfo
 ||ugolue.xyz^
 ||ugtbit.icu^
 ||ugugct.xyz^
+||uhek.cn^
 ||uhi02121uik.xyz^
 ||uhi02130uik.xyz^
 ||uhityllhn.com^
@@ -32857,6 +32870,7 @@ zzzyk.com###Tinfo
 ||unetall.com^
 ||unifdlat.top^
 ||uniformer.biz^
+||uniicreative.com^$third-party
 ||unikoshardware.com/wp-content/uploads/*/*/WPointer_Ad_440x250.jpg
 ||union*.365inews.com^
 ||union-wifi.com^
@@ -34466,6 +34480,7 @@ zzzyk.com###Tinfo
 ||xtube.com/js/ht.js
 ||xtube.com/theme/v2/vendor/js-popunder/
 ||xtvrtrya.xyz^
+||xtxbemp.xyz^
 ||xu6.icu^
 ||xuakn.icu^
 ||xuanyaosp.com^
@@ -35257,6 +35272,7 @@ zzzyk.com###Tinfo
 ||zdcoes.live^
 ||zdcv5.xyz^
 ||zddpnf.xyz^
+||zddsnuxow.icu^
 ||zdfjas.top^
 ||zdfl.xyz^
 ||zdftqc.xyz^
@@ -35280,6 +35296,8 @@ zzzyk.com###Tinfo
 ||zdh10301lo.com^
 ||zdh10310lo.com^
 ||zdh10311lo.com^
+||zdh11010lo.com^
+||zdh11011lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
@@ -35514,6 +35532,7 @@ zzzyk.com###Tinfo
 ||znchw.com^
 ||zndsssp.dangbei.net^
 ||znegiu.top^
+||zngvqwp.icu^
 ||znhlxvb.xyz^
 ||znlvhnej.icu^
 ||znnfzx.xyz^
