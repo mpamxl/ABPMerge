@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-02 08:13:18
-! Total count: 35763
+! Version: 2025-11-02 16:12:06
+! Total count: 35757
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1561,7 +1561,6 @@
 ##a[href="/goto.php?url=hth"]
 ##a[href="/ht.html"]
 ##a[href="/iwagbwfiwehaeyh"]
-##a[href="http://jyvip2041.net"]
 ##a[href="http://yun886.com"]
 ##a[href="https://t.me/bokaiyunwujiankaiyun"]
 ##a[href="https://yk63.me"]
@@ -18093,7 +18092,6 @@ zzzyk.com###Tinfo
 ||3dwwwgame.com^$third-party
 ||3er88wn.com^
 ||3exfu7vaxu.com^
-||3ff6kjylmjs.top^
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
 ||3g.qq.com/lview?
@@ -18647,7 +18645,6 @@ zzzyk.com###Tinfo
 ||7dgk5h1lk.com^
 ||7dh26aja.com^
 ||7dqjgdk.com^
-||7f583jylmjs.top^
 ||7f7rt.icu^
 ||7hb.icu^
 ||7hgw85qugx.com^
@@ -19272,7 +19269,6 @@ zzzyk.com###Tinfo
 ||adf.dahe.cn^
 ||adf.ly/js/$third-party,domain=~j.gs|~q.gs
 ||adf.ly/puscript$script,domain=imgnova.xyz
-||adfjxsrw.cc^
 ||adform.net/banners/scripts/adx.js$domain=delfi.lt,rewrite=abp-resource:blank-js
 ||adfox.yandex.ru^
 ||adfsda005.xyz^
@@ -24643,7 +24639,6 @@ zzzyk.com###Tinfo
 ||hairoak.com^
 ||haise10.top^
 ||haishuxs.com/js/
-||haitang77.com^
 ||haiwainet.cn*/k.js
 ||haiwaiyy.com/B970X90.gif
 ||haiwanli.com^
@@ -28093,6 +28088,7 @@ zzzyk.com###Tinfo
 ||mhaw.cn^
 ||mhdnspro.com^
 ||mhhanman.xyz/data/my/myjs.js
+||mhoccoirq.com^
 ||mhoiia.icu^
 ||mhqcyar.icu^
 ||mhslbgk.cn^
@@ -33586,7 +33582,6 @@ zzzyk.com###Tinfo
 ||weathercn.com/m_mobile/ad_image/
 ||web.51fishplace.com^$third-party
 ||web.900.la^
-||web3cdn.cn^
 ||web8.net^$third-party
 ||webconf.douyucdn.cn/resource/common/giftPhotos_w.json
 ||webfunny.cn^$third-party
@@ -34048,7 +34043,6 @@ zzzyk.com###Tinfo
 ||wxddid.cn^
 ||wxdqgmr.cn^
 ||wxfdmri.xyz^
-||wxjuobn1026.top^
 ||wxl0gfw.icu^
 ||wxmhau.xyz^
 ||wxmmji.xyz^
