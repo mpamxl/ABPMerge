@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-03 08:17:36
-! Total count: 35768
+! Version: 2025-11-03 16:13:57
+! Total count: 35773
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -981,7 +981,6 @@
 ##.sidebar-ad
 ##.single-ad-banner
 ##.siteAnn1
-##.slick-slider.slick-initialized[dir='ltr']
 ##.slider-ad[adid]
 ##.space-y-6 > .advertising
 ##.spon-img[src*=".alicdn."]
@@ -1814,9 +1813,9 @@
 #@#.has-ad
 #@#.uk-container.uk-container-expand
 #@#div[itemtype="http://schema.org/WPAdBlock"]
+$csp=script-src 'self' * 'unsafe-inline',domain=1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=nodejs.cn|smsonline.cloud
 $csp=script-src 'self' * 'unsafe-inline',domain=wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' *,domain=zduxs.com|52niuyanks.cc|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
 $domain=googleads.g.doubleclick.net
@@ -13863,7 +13862,6 @@ ojogo.pt###AdBloquer
 ojogo.pt###moldura_ojogo
 okminigames.mail.ru#$#override-property-read appDriver.hasVideoAd false
 olehdtv.com##.container > div[class^="B1"]
-olehdtv.com,olevod.eu##.guangao
 olevod.com##.A4R
 olevod.com##.B1L
 olevod.com##.B1R
@@ -13876,6 +13874,7 @@ olevod.com##.swiper-wrapper > div.swiper-slide:has(> img[src^="https://static.ol
 olevod.com##div[class^="ad"][style="margin-top: 0.05rem;"]
 olevod.com##div[style*="%;float: left;"] > a[target="_blank"]
 olevod.com#$?#.swiper-wrapper > li.swiper-slide:has(> a[target="_blank"]:not([href^="/"])) { remove: true; }
+olevod.com,olehdtv.com,olevod.eu##.guangao
 olevod.eu##a.wbalist_thumb[target="_blank"]
 olevod.tv##a[href^="https://www.yywhale.com"]
 olgame.tw##.nex_floor_banner
@@ -19945,6 +19944,7 @@ zzzyk.com###Tinfo
 ||assurance-conseil.net/popup.js
 ||assure66.top^
 ||astrill.com/bnrs/
+||astxt.top^
 ||asvysvxr.com^
 ||asycxtz.cn^
 ||asypwo.icu^
@@ -20537,6 +20537,7 @@ zzzyk.com###Tinfo
 ||bendibao.com/js/count.js
 ||bendibao.com/mo/adm_iframe.htm?
 ||bendibao.com/weixin_
+||bendrunb.com^
 ||benpsbp.com^
 ||benvjt.icu^
 ||beqnnobwt.com^
@@ -22879,6 +22880,7 @@ zzzyk.com###Tinfo
 ||dxqck.com^
 ||dxrnksm.xyz^
 ||dxsjcz.cn^
+||dxuxtb.com^
 ||dxvfdv.icu^
 ||dxwksqa.icu^
 ||dxwsty.cn^
@@ -25384,6 +25386,7 @@ zzzyk.com###Tinfo
 ||i7pnx0t.cn^
 ||i8m6.com^
 ||i8tq.com/adImg/
+||i90ptshd.top^
 ||i9i3ko2o70.com^
 ||iabao.com/sladewap.js
 ||iads.xinmin.cn^
@@ -29291,6 +29294,7 @@ zzzyk.com###Tinfo
 ||ott.cibntv.net/*/ad/*.ts?ccode=$xmlhttprequest,domain=v.youku.com
 ||ott.cibntv.net/*/letv-wzgug/$media
 ||otxlhpm.xyz^
+||ouargilbpg.com^
 ||ouccoc.icu^
 ||oucnmtk.top^
 ||oueia.xyz^
@@ -35320,6 +35324,7 @@ zzzyk.com###Tinfo
 ||zdh11020lo.com^
 ||zdh11021lo.com^
 ||zdh11030lo.com^
+||zdh11031lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
