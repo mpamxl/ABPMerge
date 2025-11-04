@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-04 08:16:39
-! Total count: 35784
+! Version: 2025-11-04 16:14:52
+! Total count: 35789
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3365,6 +3365,7 @@ $websocket,domain=wap.yushuwu.cloud
 /tj/tongji.js?v=$third-party
 /tm00738.bj.
 /to8to_pc/chunks/slide_and_popup_
+/tongji/ad.js
 /topad.
 /topad_
 /topads.
@@ -20671,7 +20672,6 @@ zzzyk.com###Tinfo
 ||biqiuge8.cc/js/p
 ||biqivge.cc/js/d
 ||biqivge.cc/js/p
-||biquge.ac/tongji/ad.
 ||biquge96.com/123.
 ||biqugie.com/js/wap.
 ||birbmcmp.icu^
@@ -21172,6 +21172,7 @@ zzzyk.com###Tinfo
 ||cbdm.weathercn.com^
 ||cbdqzbi.icu^
 ||cbembusgcl.com^
+||cbff1ao9.xyz^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbgrqi.xyz^
 ||cbgyhe.cn^
@@ -21856,6 +21857,7 @@ zzzyk.com###Tinfo
 ||craegvin.com^
 ||craivrals.com^
 ||cralphal.com^
+||crandrad.com^
 ||crayon.meishichina.com^
 ||crazodsxx.com^
 ||crbbhp.xyz^
@@ -23623,6 +23625,7 @@ zzzyk.com###Tinfo
 ||fhvbhx.xyz^
 ||fhvzrr.xyz^
 ||fidk.cn^
+||fidruqwny.com^
 ||fiezaits.com^
 ||figvatqrwd.com^
 ||fijipic.xyz^
@@ -25671,6 +25674,7 @@ zzzyk.com###Tinfo
 ||img.ifeng.com/tres/html/
 ||img.ishanggao.com^
 ||img.ithome.com/file/js/wap/apprecommend.js
+||img.jin10.com/event/*_
 ||img.kuai.xunlei.com/js/statistics.js
 ||img.labnol.org/di/support.png$image
 ||img.lancdn.com/*-top-banner-
@@ -33311,6 +33315,7 @@ zzzyk.com###Tinfo
 ||vkdgdt.xyz^
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
+||vksy.cn^
 ||vktztp.xyz^
 ||vkxn.cn^
 ||vl3rw9roj.com^
