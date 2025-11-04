@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-03 16:13:57
-! Total count: 35773
+! Version: 2025-11-04 08:16:39
+! Total count: 35784
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13412,6 +13412,7 @@ mydrivers.com###div_newsyjgg
 mydrivers.com###recommend
 mydrivers.com###track-link
 mydrivers.com##.HSsRgYjfNn
+mydrivers.com##._bg
 mydrivers.com##.ab
 mydrivers.com##.adds
 mydrivers.com##.baidu_box
@@ -18141,6 +18142,7 @@ zzzyk.com###Tinfo
 ||3xl.icu^
 ||3yej.xyz^
 ||3yq51wjim.com^
+||3yx95kv3at.com^
 ||3zmmm.net/ggxx/
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
@@ -18933,6 +18935,7 @@ zzzyk.com###Tinfo
 ||9duw.com/pic/
 ||9e0917xf7x.com^
 ||9ez.me/embd.php?type=
+||9f0usaep8c.com^
 ||9fgh98k.com^
 ||9fum.ifeng.com^
 ||9fwz.com^
@@ -22484,6 +22487,7 @@ zzzyk.com###Tinfo
 ||ditorialproce.biz^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
+||divergentld.com^
 ||divxrj.xyz^
 ||diyibanzhu*.com/js/cdn.
 ||diyibanzhu*.com/js/html
@@ -22508,6 +22512,7 @@ zzzyk.com###Tinfo
 ||dkaktsb.icu^
 ||dkasdeerw.xyz^
 ||dkasffredf.xyz^
+||dkc63u5su8.com^
 ||dkfjlkgjbhbv.com^
 ||dkhffh.xyz^
 ||dklhflksd.com^
@@ -26591,6 +26596,7 @@ zzzyk.com###Tinfo
 ||juzi6.com/js/gd.js
 ||juznlx.xyz^
 ||jv0rlf.com^
+||jvekga.cn^
 ||jvjlkih.com^
 ||jvljnb.xyz^
 ||jvpyxve.cn^
@@ -28442,6 +28448,7 @@ zzzyk.com###Tinfo
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
 ||mwurserx.top^
+||mwvt.cn^
 ||mwzbp.ccbangong.com^
 ||mwzbp.iask.com.cn^
 ||mxafaw.icu^
@@ -29067,6 +29074,7 @@ zzzyk.com###Tinfo
 ||ohqp.cn^
 ||ohtusgy.icu^
 ||ohvk.cn^
+||ohvtrokyq.com^
 ||ohwb.cn^
 ||oi9rp7.online^
 ||oia04300klq.com^
@@ -31988,6 +31996,7 @@ zzzyk.com###Tinfo
 ||tawk.to^$third-party
 ||taxismaned.top^
 ||taxoxz.xyz^
+||tb4gv2cp5z.com^
 ||tb58.net/plugin.php?id=tb58_
 ||tbbfdr.icu^
 ||tbcdn.cn/mm/tanxssp-custom/sina_
@@ -35325,6 +35334,8 @@ zzzyk.com###Tinfo
 ||zdh11021lo.com^
 ||zdh11030lo.com^
 ||zdh11031lo.com^
+||zdh11040lo.com^
+||zdh11041lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
