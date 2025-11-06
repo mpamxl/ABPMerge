@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-05 16:15:15
-! Total count: 35805
+! Version: 2025-11-06 08:16:19
+! Total count: 35816
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5151,7 +5151,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@/unadblock/adjs_$domain=hepan.com
 @@/urchin.js$domain=on.cc
 @@/wp-content/*/social_$domain=servercat.me
-@@/wp-content/themes/radio-hub/static/js/*.js$domain=tingfm.com
+@@/wp-content/themes/radio-hub/*.js$domain=tingfm.com
 @@=mywebloadt1&$domain=myweb.hinet.net
 @@?adType=$domain=taotaosou.com
 @@?sid=ads$domain=126.com|mail.163.com
@@ -14528,6 +14528,7 @@ qq.com##.g-qzp-bottom
 qq.com##.in-top-ad
 qq.com##.jpBanner
 qq.com##.m[pbflag="guess"]
+qq.com##.maillist_ad_bar
 qq.com##.main_ad_bottom
 qq.com##.main_ad_top
 qq.com##.masker_1111
@@ -18835,6 +18836,7 @@ zzzyk.com###Tinfo
 ||90oo.com/tp/hg
 ||90oo.com/tp/msn.jpg
 ||90q0tq3bwo.com^
+||90qxskdmn9.com^
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||9129666tp.com^$domain=9xav.cc
 ||918000.xyz^
@@ -18946,6 +18948,7 @@ zzzyk.com###Tinfo
 ||9fum.ifeng.com^
 ||9fwz.com^
 ||9gau3j8x7.com^
+||9h3s1ew2qn.com^
 ||9hyf6wsiv5.com^
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
@@ -27515,6 +27518,7 @@ zzzyk.com###Tinfo
 ||llksja.com^
 ||llpuhx.xyz^
 ||lls11050ko.com^
+||lls11060ko.com^
 ||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
@@ -31856,6 +31860,7 @@ zzzyk.com###Tinfo
 ||svarub.xyz^
 ||svcnmtb.top^
 ||svdpgmt.cn^
+||svhk4bt874.com^
 ||svjj.cn^
 ||svncowt.cn^
 ||svnf.cn^
@@ -33407,6 +33412,7 @@ zzzyk.com###Tinfo
 ||vrje.cn^
 ||vrlvnz.xyz^
 ||vrosqutsgh.com^
+||vrovadwd.com^
 ||vrow.cn^
 ||vrr.name^
 ||vrrw.net//templets/default/js/ad.js
@@ -33454,6 +33460,7 @@ zzzyk.com###Tinfo
 ||vunqrotm.com^
 ||vupload.duowan.com^
 ||vupsnx.xyz^
+||vurr.cn^
 ||vutjnt.xyz^
 ||vuvnix.icu^
 ||vuwo.cn^
@@ -33814,6 +33821,7 @@ zzzyk.com###Tinfo
 ||woozooo.com/img/*.js
 ||wopvmmy.cn^
 ||worjeklmq.com^
+||workshop39.top^
 ||worlderva.com^
 ||worldwide.sogou.com^
 ||woublie.top^
@@ -34561,6 +34569,7 @@ zzzyk.com###Tinfo
 ||xutvbt.icu^
 ||xuugnuits.com^
 ||xuwfmhh.icu^
+||xuwmylm697.com^
 ||xuxwvh.xyz^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xuzsdn.xyz^
@@ -35357,6 +35366,8 @@ zzzyk.com###Tinfo
 ||zdh11041lo.com^
 ||zdh11050lo.com^
 ||zdh11051lo.com^
+||zdh11060lo.com^
+||zdh11061lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
