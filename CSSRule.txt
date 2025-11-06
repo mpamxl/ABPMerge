@@ -4052,6 +4052,8 @@ baomidou.com##+js(set-constant, _AdBlockInit, noopFunc)
 baomidou.com##.sidebar-content > astro-island
 baomoi.com#$#abort-on-property-write AdtimaRender
 baozimh.one,yazhouse8.com##.banners
+baozimh.org##a[href*="g-mh.com"]
+baozimh.org#?#.relative:-abp-has(>.bg-red-500)
 baozimh.org,bzmh.org,g-mh.org,godamh.com,manhuafree.com,sportsplanetmag.com##.adshow
 barryblogs.com##.ad-single-top
 barryblogs.com##div[style="margin-bottom: 10px; width: 300px; height: 300px;"]
