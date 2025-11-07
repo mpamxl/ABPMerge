@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-06 16:15:25
-! Total count: 35821
+! Version: 2025-11-07 08:16:29
+! Total count: 35830
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18239,6 +18239,7 @@ zzzyk.com###Tinfo
 ||4wmiuiyd70.com^
 ||4wu3gf.cn^
 ||4xicd08qs.com^
+||4yl3e3fmv.com^
 ||4z50jczq2.com^
 ||4zn.fun^
 ||5.61.55.143^
@@ -18567,6 +18568,7 @@ zzzyk.com###Tinfo
 ||6m8tk53pw.com^
 ||6mh8.com^
 ||6oj.fun^
+||6p2g1kk03.com^
 ||6pan.cc/ps/vip.jpg
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
@@ -23470,6 +23472,7 @@ zzzyk.com###Tinfo
 ||fadjqqe.top^
 ||fads315.com^
 ||fafvvt.icu^
+||fagp.cn^
 ||fagrirtn.com^
 ||fahwlqf37l.com^
 ||fajdhuhdh.com^
@@ -25186,6 +25189,7 @@ zzzyk.com###Tinfo
 ||hrtlisu.top^
 ||hrutvncu.top^
 ||hrwbeqv.icu^
+||hrxphjcj.icu^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
 ||hsadeg.site^
@@ -28809,6 +28813,7 @@ zzzyk.com###Tinfo
 ||nkraholb.com^
 ||nktydx.icu^
 ||nl071vrnv.com^
+||nl1d8gzi5.com^
 ||nl2cq0jr.xyz^
 ||nl2v1uw9e.com^
 ||nlhpxj.xyz^
@@ -33126,6 +33131,7 @@ zzzyk.com###Tinfo
 ||uz7w7bm4ns.com^
 ||uzelzfnj.xyz^
 ||uziisk.icu^
+||uzrtgekpw.com^
 ||uzurliev.com^
 ||uzwx.cn^
 ||v.adx.hubcloud.com.cn^
@@ -33512,6 +33518,7 @@ zzzyk.com###Tinfo
 ||vzia.cn^
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
+||vzorzilmf.com^
 ||vzttq.brfvyrrp.com^
 ||vzvvifw.cn^
 ||w-cached.cncenter.cz/js/cnc-ads-controller.$script,domain=blesk.cz|reflex.cz|zive.cz|auto.cz|e15.cz|autorevue.cz|dama.cz|maminka.cz|mojezdravi.cz|zeny.cz
@@ -35372,6 +35379,7 @@ zzzyk.com###Tinfo
 ||zdh11051lo.com^
 ||zdh11060lo.com^
 ||zdh11061lo.com^
+||zdh11070lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
@@ -35635,6 +35643,7 @@ zzzyk.com###Tinfo
 ||zongheng.com/upload/recommend/game/
 ||zonyff.xyz^
 ||zooj.cn^$third-party
+||zoologist00.com^
 ||zoom.zshu.net^
 ||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party
