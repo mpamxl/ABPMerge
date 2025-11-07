@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-07 08:16:29
-! Total count: 35830
+! Version: 2025-11-07 16:12:22
+! Total count: 35836
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18410,6 +18410,7 @@ zzzyk.com###Tinfo
 ||591hx.com/lunbo/
 ||591hx.com/zyrk_dy/gwjl.html
 ||595image.com^
+||598n8mpd6.com^
 ||59gt.cn^
 ||59xx2yr9i.com^
 ||5adbjiwp.xyz^
@@ -23184,6 +23185,7 @@ zzzyk.com###Tinfo
 ||eisnaisv.com^
 ||eiszgw.icu^
 ||eitilbyr.com^
+||eitorawrdo.com^
 ||eiuoom.xyz^
 ||eiv.baidu.com^
 ||eiykmtb.cn^
@@ -27526,6 +27528,7 @@ zzzyk.com###Tinfo
 ||lls11050ko.com^
 ||lls11060ko.com^
 ||lls11061ko.com^
+||lls11071ko.com^
 ||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
@@ -30233,6 +30236,7 @@ zzzyk.com###Tinfo
 ||qj9m4nou8t.com^
 ||qjekt0c.xyz^
 ||qjimtyy.top^
+||qjiz.cn^
 ||qjlo.cn^
 ||qjoges.xyz^
 ||qjsp48.xyz^
@@ -30929,6 +30933,7 @@ zzzyk.com###Tinfo
 ||s11.cn^$third-party
 ||s2dcm.com^
 ||s2tu.com/images/*.gif
+||s3-nl-01.mangabuddy.in^
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
 ||s31u.com^
 ||s3t3d2y8.afcdn.net^
@@ -35380,6 +35385,7 @@ zzzyk.com###Tinfo
 ||zdh11060lo.com^
 ||zdh11061lo.com^
 ||zdh11070lo.com^
+||zdh11071lo.com^
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
