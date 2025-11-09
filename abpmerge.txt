@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-09 08:13:16
-! Total count: 35856
+! Version: 2025-11-09 16:12:17
+! Total count: 35860
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17773,6 +17773,7 @@ zzzyk.com###Tinfo
 ||1f0l.top^
 ||1f84e33459.com^
 ||1futnsio0.com^
+||1fxs.com^$third-party
 ||1gmzo.icu^
 ||1gp3p6fkio.com^
 ||1gtp.icu^
@@ -17942,6 +17943,7 @@ zzzyk.com###Tinfo
 ||2efgcdcjr000.fun^
 ||2g9x9uf.cn^
 ||2h81gp.tkepyc.com^$script,xmlhttprequest,domain=pch.com
+||2hiu.com^$third-party
 ||2hl.fun^
 ||2i0lliongn.com^
 ||2jse6.icu^
@@ -32156,6 +32158,7 @@ zzzyk.com###Tinfo
 ||tgdopodk.com^
 ||tgfyq.cn^
 ||tggsd07.com^
+||tghigvud.com^
 ||tghrfv.icu^
 ||tgidskii.top^
 ||tgjxzf.top^
@@ -32309,6 +32312,7 @@ zzzyk.com###Tinfo
 ||tjqwb.cn^
 ||tjuspyk.icu^
 ||tjv250730ads.com^
+||tjv251109ads.com^
 ||tjvcffap.icu^
 ||tjvpnh.icu^
 ||tjwzyjx.icu^
