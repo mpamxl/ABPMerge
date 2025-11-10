@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-09 16:12:17
-! Total count: 35860
+! Version: 2025-11-10 08:17:54
+! Total count: 35869
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5160,6 +5160,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@_ads_cpc_$domain=90lover.cn
 @@_cpc_cpm/$domain=youranshare.com
 @@_cpc_cpm_$domain=saraba1st.com
+@@_prebid.js$domain=now.com
 @@googlesyndication.com$domain=bilinovel.com
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
@@ -23928,6 +23929,7 @@ zzzyk.com###Tinfo
 ||fx110.*/Styles/1.0.0/dist/Ghz/MatrixAds.
 ||fx168.com/am.js
 ||fx678.com/htcount/count.js
+||fxab9iuprt.com^
 ||fxbcpr.xyz^
 ||fxeaobv.icu^
 ||fxfifv.icu^
@@ -27338,6 +27340,7 @@ zzzyk.com###Tinfo
 ||letvcdn.com/lc02_live/201803/18/23/40/1521387641261new.
 ||letvimg.com/*_gugwl/$image
 ||letvimg.com/lc*_iscms/202$image
+||leue.cn^
 ||lewenma.com/js/read.js
 ||lewrutl.top^
 ||leyf5q4rk.com^
@@ -27542,6 +27545,7 @@ zzzyk.com###Tinfo
 ||lls11081ko.com^
 ||lls11090ko.com^
 ||lls11091ko.com^
+||lls11100ko.com^
 ||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
@@ -29563,6 +29567,7 @@ zzzyk.com###Tinfo
 ||pdnhcks.xyz^
 ||pdnwbwyf.icu^
 ||pdochgl.top^
+||pdrerzug.com^
 ||pdrtcgfx.cn^
 ||pdrv.cn^
 ||pdweigee.com^
@@ -30037,6 +30042,7 @@ zzzyk.com###Tinfo
 ||q2fwgl4q8.com^
 ||q2usj.icu^
 ||q3rlg1flo.com^
+||q58nf16jd3.com^
 ||q5sn40kmp2.com^
 ||q7qhlnyfx.com^
 ||q83v5haaz.com^
@@ -33625,6 +33631,7 @@ zzzyk.com###Tinfo
 ||wazveqv.xyz^
 ||wbczkm.icu^
 ||wbe4.cn^
+||wbea.cn^
 ||wbesryx.cn^
 ||wbgafrr.icu^
 ||wbiao.cn/common/adapi/
@@ -33780,6 +33787,7 @@ zzzyk.com###Tinfo
 ||wisealty.com^
 ||wismog.xyz^
 ||wit.qq.com^$third-party
+||witticism19.top^
 ||wiwlqc.xyz^
 ||wizoevljj.com^
 ||wj.jiancai365.cn^
@@ -33936,6 +33944,7 @@ zzzyk.com###Tinfo
 ||wud2g55ffy.com^
 ||wudizuqiu.com/fy
 ||wudizuqiu.com/img/dasai8/ybbj.png
+||wueyninj7r.com^
 ||wuhaolin.cn/c/ls
 ||wuiqiq.xyz^
 ||wuisaq.top^
