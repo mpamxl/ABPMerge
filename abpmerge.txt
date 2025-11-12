@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-11 16:14:50
-! Total count: 35887
+! Version: 2025-11-12 08:16:41
+! Total count: 35896
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17855,6 +17855,7 @@ zzzyk.com###Tinfo
 ||218.30.15.193/phpstat/count/
 ||21cfhm0s1.top^
 ||21edu8.com/js/mymoney/
+||21ojgpuwg6.com^
 ||21qma3vs.com^
 ||21sq.org/js/downloadbanner.js
 ||21uscity.com/static/allbusiness/
@@ -18977,6 +18978,7 @@ zzzyk.com###Tinfo
 ||9o29nhxgp.com^
 ||9odes.ltd^
 ||9oru1vh0w.com^
+||9r0v0go0el.com^
 ||9s64g.icu^
 ||9swovqnp52.com^
 ||9tata.com/js/Rand.js
@@ -20141,6 +20143,7 @@ zzzyk.com###Tinfo
 ||b10.justacdn.net^
 ||b168.net^*.*?$image
 ||b1o8h004u5.com^
+||b1zftjhtwb.com^
 ||b2.51yangsheng.com^
 ||b2xy4m.xyz^
 ||b37r5.cyou^
@@ -23458,6 +23461,7 @@ zzzyk.com###Tinfo
 ||f3k194f9i7.com^
 ||f53a.com^
 ||f5zv2.icu^
+||f6jd4k4xgo.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f7eiavl95.com^
@@ -27553,6 +27557,8 @@ zzzyk.com###Tinfo
 ||lls11101ko.com^
 ||lls11110ko.com^
 ||lls11111ko.com^
+||lls11120ko.com^
+||lls11121ko.com^
 ||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
@@ -30765,6 +30771,7 @@ zzzyk.com###Tinfo
 ||rkgbqn.icu^
 ||rkgwzfwjgk.com^
 ||rklzpo.com^
+||rkoi.cn^
 ||rksnqq.com^
 ||rktjxj.icu^
 ||rkwxfi.xyz^
@@ -33429,6 +33436,7 @@ zzzyk.com###Tinfo
 ||vokmhydy.xyz^
 ||vokwlch.xyz^
 ||vokzqgjp.icu^
+||volcano98.com^
 ||volgreal.com^
 ||vopzhl.icu^
 ||voqf299p8.com^
@@ -34181,6 +34189,7 @@ zzzyk.com###Tinfo
 ||wyzq.rehuwang.com^
 ||wzbaohe.com/imgadnew/midad.js
 ||wzctuv.xyz^
+||wzehmoil.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||wzvaknomh.com^
 ||x-resource05.com/media_orange/server-img/*_1200_120.
