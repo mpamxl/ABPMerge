@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-12 16:16:07
-! Total count: 35899
+! Version: 2025-11-13 08:16:15
+! Total count: 35915
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7568,6 +7568,7 @@ av6k.com##.subLink
 avaxhome.cc##.adblock-warning
 avbebe.com###content > div.single-post > div[align="center"]
 avbebe.com###wrapper > div[align="center"]
+avbebe.com##.footer_column:nth-child(n+2)
 avbebe.com##.sidebar > .xoxo > li[id^="execphp-"]
 avbebe.com##.sidebar > .xoxo > li[id^="text-"]
 avbebe.com##.sidebar a[href][target="_blank"] > img
@@ -14762,6 +14763,9 @@ root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"")]/parent::div[@
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > div[id^="ts_ad_native"])
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > ins)
+rouman5.com###headlessui-portal-root
+rouman5.com##div[style^="display: flex;"]
+rouman5.com##ins
 rouman5.com#?#.col-md-4 > div.row:has(> div.col > div[style] > ins[id])
 rouman5.com#?#.col-md-4 > div.row:has(> div.col > h5:contains(支持一下吧))
 rouman5.com,roum20.xyz###headlessui-portal-root
@@ -16774,6 +16778,7 @@ xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
 xchina.co##+js(addEventListener-defuser, DOMContentLoaded, check)
+xchina.co##.block-overlay
 xchina.co##.outer-banner
 xchina.co##.photos > div.item:has(> div > a[target="_blank"])
 xchina.co##.photos > div.item:has(> div[class^="exoclick_"])
@@ -17450,9 +17455,11 @@ zzzyk.com###Tinfo
 ||0a0atz2sh.top^
 ||0b4qu3nxa.com^
 ||0b6rvr210q.com^
+||0bb8jytek.com^
 ||0dwm.icu^
 ||0er7pc8.xyz^
 ||0h3uds.com^
+||0h9yewgei.com^
 ||0iem8mw1lx.com^
 ||0j91h.cyou^
 ||0k7wod.cn^
@@ -18544,6 +18551,7 @@ zzzyk.com###Tinfo
 ||68710266.com^
 ||6888.site^
 ||68s4eyiru.com^
+||68td4yete.com^
 ||68yscw.com^
 ||693836.com^$popup
 ||69adu.com/bootstrap.
@@ -19509,6 +19517,7 @@ zzzyk.com###Tinfo
 ||airav.cc/Ucenter/*_Ad
 ||airav.cc/iframe/
 ||airav.cc/static/js/*_ad.js
+||airline49.top^
 ||airouba.com/public/js/global.js
 ||aisixiang.com/images/*-20
 ||aisnj.cn^
@@ -27561,6 +27570,8 @@ zzzyk.com###Tinfo
 ||lls11111ko.com^
 ||lls11120ko.com^
 ||lls11121ko.com^
+||lls11130ko.com^
+||lls11131ko.com^
 ||llw67onw6.com^
 ||lm.ijq.tv^
 ||lm1.tuliu.com^
@@ -29021,6 +29032,7 @@ zzzyk.com###Tinfo
 ||nyt5j.cyou^
 ||nyvgbt.xyz^
 ||nz04com.com/aabdd/
+||nzeikrar.com^
 ||nzfcvv.xyz^
 ||nzhzzd.xyz^
 ||nzl09250oa.com^
@@ -30691,6 +30703,7 @@ zzzyk.com###Tinfo
 ||rewrwrt4.fun^
 ||rewvfghoya.com^
 ||rf.cnlongshou.com^
+||rf10b9mq8.com^
 ||rfgsdgg.top^
 ||rfidworld.com.cn/Notice/Home
 ||rfidworld.com.cn/js/RFID.js
@@ -30820,6 +30833,7 @@ zzzyk.com###Tinfo
 ||rou.video/_next/static/chunks/pages/fuli-
 ||rou.video/js/exo.js
 ||rou3.xyz^
+||rouman5.com/js/clickadu.
 ||rouwhapt.com^
 ||roxewwq.cn^
 ||roxfrv.xyz^
@@ -33402,6 +33416,7 @@ zzzyk.com###Tinfo
 ||vkjsnvk.com^
 ||vksy.cn^
 ||vktztp.xyz^
+||vkur.cn^
 ||vkxn.cn^
 ||vl3rw9roj.com^
 ||vldp.cn^
@@ -34721,6 +34736,7 @@ zzzyk.com###Tinfo
 ||xxss6677.com^
 ||xxsywxj.com^
 ||xxtalp.xyz^
+||xxts11130zs.com^
 ||xxxnavy.com^$third-party
 ||xxxuhx.xyz^
 ||xxxviijmp.com^
