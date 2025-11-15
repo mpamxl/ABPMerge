@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-14 16:15:00
-! Total count: 35928
+! Version: 2025-11-15 08:13:48
+! Total count: 35938
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17233,6 +17233,7 @@ zhihu.com##.RichText-Ecommerce
 zhihu.com##.Sticky > .Card[data-za-detail-view-path-module="ContentList"]
 zhihu.com##.TopstoryItem--advertCard
 zhihu.com##.WeiboAd-wrap
+zhihu.com##.zhihuAdvert-MBanner-wordDownload
 zhihu.com##div[data-type="ad"]
 zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
 zhihu.com#@#.FollowButton
@@ -18477,6 +18478,7 @@ zzzyk.com###Tinfo
 ||5qjspf2c.xyz^
 ||5s98.com/img/
 ||5tmobi.cn^$third-party
+||5u1zleadi.com^
 ||5u3tzh6tc.com^
 ||5uazcu2o1.com^
 ||5uxmusq.cn^
@@ -19984,6 +19986,7 @@ zzzyk.com###Tinfo
 ||astrill.com/bnrs/
 ||astxt.top^
 ||asvysvxr.com^
+||asy76rvai.com^
 ||asycxtz.cn^
 ||asypwo.icu^
 ||asyy6.com/dm/
@@ -21646,6 +21649,7 @@ zzzyk.com###Tinfo
 ||clarity.ms^
 ||clarityid.top^
 ||classic.39health.com^
+||classroomlf.com^
 ||clb.biz/Public/static/js/common-v2.js
 ||clcimo.icu^
 ||clcmdie.com^
@@ -27599,6 +27603,7 @@ zzzyk.com###Tinfo
 ||lmldxd.icu^
 ||lmlmvip.com^
 ||lmnpd.xyz^
+||lmtruueagl.com^
 ||lmvotk.cn^
 ||lmwwbrgjj.com^
 ||lmx7.com^
@@ -29103,6 +29108,7 @@ zzzyk.com###Tinfo
 ||obertsiamw.fun^
 ||obgbok.com^
 ||obgekjz.icu^
+||obgk.cn^
 ||obiknmm.icu^
 ||obl74.xyz^
 ||obmphi.xyz^
@@ -30101,6 +30107,7 @@ zzzyk.com###Tinfo
 ||qawxpzm.cn^
 ||qaxkwxpf.cn^
 ||qaxl.cn^
+||qayjvrxso.com^
 ||qayqa.com:6868/jquery/
 ||qbcyr5tfd.com^
 ||qbhmz3.com^
@@ -33455,6 +33462,7 @@ zzzyk.com###Tinfo
 ||vnuuh.icu^
 ||vnvmif.cn^
 ||vnwu.cn^
+||vnyqemhir.com^
 ||voc.com.cn/adsClick/
 ||voc.com.cn/js/xc/
 ||voc.com.cn/static/web/js/creattwo11.js
@@ -33971,6 +33979,7 @@ zzzyk.com###Tinfo
 ||wshufa.com^$third-party
 ||wslbahe.top^
 ||wsnew.cn^
+||wsnxw6ihs.com^
 ||wsoqwm.xyz^
 ||wstx.com/api.php?mod=ad&
 ||wswxsk.xyz^
@@ -34749,6 +34758,7 @@ zzzyk.com###Tinfo
 ||xxts11131zs.com^
 ||xxts11140zs.com^
 ||xxts11141zs.com^
+||xxts11150zs.com^
 ||xxxnavy.com^$third-party
 ||xxxuhx.xyz^
 ||xxxviijmp.com^
