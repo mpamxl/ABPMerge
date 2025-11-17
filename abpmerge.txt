@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-17 08:18:22
-! Total count: 35966
+! Version: 2025-11-17 16:16:20
+! Total count: 35972
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9203,7 +9203,6 @@ dcfever.com,gaodun.com##.advertisement
 dcloud.net.cn##.aw-ad-item
 dcode.fr###yb5d
 ddav.org###adv-2
-ddcar.com.tw##.popup-adv
 ddcar.com.tw##.section-page-articles > .text-center[style="min-width: 970px; min-height: 250px;"]
 ddcar.com.tw##div[id^="div-adsense-"]
 dditblog.com###income_div
@@ -9321,6 +9320,7 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 dlneko.org##.DialogMask
 dlneko.org##.xDialog
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
+dlsite.com#@#body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div:has(> img[src$=".gif"])
 dm010.com##a[href*=".apk"]
 dm5.com###a1
 dm5.com###youce
@@ -9818,8 +9818,10 @@ epinv.com##A[href="http://www.epinv.com/post/10450.html"]
 eporner.com#$#override-property-read exo99HL3903jjdxtrnLoad null; abort-on-property-read window.location.replace.getadb; cookie-remover ADBp
 eprice.com.hk##.ad-end-article
 eprice.com.hk##.article__content > div[style*="text-align"]
+eprice.com.hk##.main-section > .text-center[style^="min-height:"]:has(> div[class^="ad-"])
 eprice.com.hk##div[id^="eprice-div-gpt-ad-"]
 eprice.com.hk#@#.one-ad
+eprice.com.hk,ddcar.com.tw##.popup-adv
 eprice.com.tw###goldlink
 eprice.com.tw###popup-ad-overlay
 eprice.com.tw##.ad-300x370
@@ -18209,6 +18211,7 @@ zzzyk.com###Tinfo
 ||470kk.com/js/indextop.js
 ||477zw.com/js/nzm
 ||484r.com/images/flash/gallery_
+||49ioqq6kt.com^
 ||4aqoxkesav.com^
 ||4asfgyx.com^
 ||4bfx0u.com^
@@ -21202,6 +21205,7 @@ zzzyk.com###Tinfo
 ||careers.hotjar.com^
 ||careless05.com^
 ||carexpert.com.tw/wp-content/uploads/*800x90.
+||carlinaframh.com^
 ||carnations9.com^
 ||carnoc.com/noticejs/
 ||carstat.bitauto.com^
@@ -23869,6 +23873,7 @@ zzzyk.com###Tinfo
 ||fr701hx5vi.com^
 ||fragment.firefoxchina.cn/html/
 ||frame.enet.com.cn/a.php
+||frchavvati.com^
 ||frcykpk.cn^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free3dgame.xyz^
@@ -34787,6 +34792,7 @@ zzzyk.com###Tinfo
 ||xxts11160zs.com^
 ||xxts11161zs.com^
 ||xxts11170zs.com^
+||xxts11171zs.com^
 ||xxxnavy.com^$third-party
 ||xxxuhx.xyz^
 ||xxxviijmp.com^

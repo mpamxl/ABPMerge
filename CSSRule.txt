@@ -5317,7 +5317,6 @@ dcfever.com,gaodun.com##.advertisement
 dcloud.net.cn##.aw-ad-item
 dcode.fr###yb5d
 ddav.org###adv-2
-ddcar.com.tw##.popup-adv
 ddcar.com.tw##.section-page-articles > .text-center[style="min-width: 970px; min-height: 250px;"]
 ddcar.com.tw##div[id^="div-adsense-"]
 dditblog.com###income_div
@@ -5431,6 +5430,7 @@ dlkoo.com##ins[id^="tanxssp-outer-conmm_"]
 dlneko.org##.DialogMask
 dlneko.org##.xDialog
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
+dlsite.com#@#body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div:has(> img[src$=".gif"])
 dm010.com##a[href*=".apk"]
 dm5.com###a1
 dm5.com###youce
@@ -5923,8 +5923,10 @@ epinv.com##A[href="http://www.epinv.com/post/10450.html"]
 eporner.com#$#override-property-read exo99HL3903jjdxtrnLoad null; abort-on-property-read window.location.replace.getadb; cookie-remover ADBp
 eprice.com.hk##.ad-end-article
 eprice.com.hk##.article__content > div[style*="text-align"]
+eprice.com.hk##.main-section > .text-center[style^="min-height:"]:has(> div[class^="ad-"])
 eprice.com.hk##div[id^="eprice-div-gpt-ad-"]
 eprice.com.hk#@#.one-ad
+eprice.com.hk,ddcar.com.tw##.popup-adv
 eprice.com.tw###goldlink
 eprice.com.tw###popup-ad-overlay
 eprice.com.tw##.ad-300x370
