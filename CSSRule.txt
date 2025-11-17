@@ -3098,8 +3098,13 @@
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com#@#.vjs-preroll
+91porna.com##.ad-dialog
 91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
+91porna.com##.checkNum[target="_blank"]:not([href*="91porna.com"])
+91porna.com##.dx-banner-item
+91porna.com##.h-full.swiper
+91porna.com##.modal-backdrop
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
 91porna.com##div[class^="col"] div.filters:has(a.checkNum)
