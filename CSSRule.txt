@@ -8083,9 +8083,11 @@ jianshen8.com,manwa.me##.index-banner
 jianshu.com###note-fixed-ad-container
 jianshu.com###web-note-ad-1
 jianshu.com##+js(set-constant, NEWS_FEED, noopFunc)
+jianshu.com##.app-float-btn
 jianshu.com##.aside > div[aria-label="3rd-ad"] + div:last-child
 jianshu.com##.self-flow-ad
 jianshu.com##.top
+jianshu.com##[aria-label='lwa-ad-one']
 jianshu.com##a[id^="web-note-ad"]
 jianshu.com##div[aria-label="amc-ad"]
 jianshu.com##section[aria-label="jianshu-ad"]
@@ -12671,7 +12673,6 @@ www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.to
 www.ithome.com###lapin
 www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
 www.ixbt.com#$#abort-on-property-read adv_obj; abort-current-inline-script document.getElementById branding
-www.jianshu.com##[aria-label='lwa-ad-one']
 www.jianshu.com#@#div[class$="_0"]
 www.jin10.com##.l-main_body > div[class]:not(.jin-timeline)
 www.jin10.com##.l-main_info > div[class]:not(.jin-declaration):not(.jin-qq-cooperation)

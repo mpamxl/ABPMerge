@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-18 08:16:58
-! Total count: 35985
+! Version: 2025-11-18 16:15:51
+! Total count: 35988
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12003,9 +12003,11 @@ jianshen8.com,manwa.me##.index-banner
 jianshu.com###note-fixed-ad-container
 jianshu.com###web-note-ad-1
 jianshu.com##+js(set-constant, NEWS_FEED, noopFunc)
+jianshu.com##.app-float-btn
 jianshu.com##.aside > div[aria-label="3rd-ad"] + div:last-child
 jianshu.com##.self-flow-ad
 jianshu.com##.top
+jianshu.com##[aria-label='lwa-ad-one']
 jianshu.com##a[id^="web-note-ad"]
 jianshu.com##div[aria-label="amc-ad"]
 jianshu.com##section[aria-label="jianshu-ad"]
@@ -16670,7 +16672,6 @@ www.itdog.cn#%#window.alert=function(str){return}
 www.ithome.com###lapin
 www.ithome.com##.content>a[href="http://m.ithome.com/ithome/"]
 www.ixbt.com#$#abort-on-property-read adv_obj; abort-current-inline-script document.getElementById branding
-www.jianshu.com##[aria-label='lwa-ad-one']
 www.jianshu.com#@#div[class$="_0"]
 www.jin10.com##.l-main_body > div[class]:not(.jin-timeline)
 www.jin10.com##.l-main_info > div[class]:not(.jin-declaration):not(.jin-qq-cooperation)
@@ -22929,6 +22930,7 @@ zzzyk.com###Tinfo
 ||dvzk66.cn^
 ||dw.xcar.com.cn^*.gif?
 ||dwbaazotho.com^
+||dwchovra.com^
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
 ||dwnews.com/RealMedia/ads/
@@ -25071,6 +25073,7 @@ zzzyk.com###Tinfo
 ||hjgkr0g.xyz^
 ||hjimtyu.top^
 ||hjjshv.xyz^
+||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
 ||hjkiguy.com^
 ||hjpqt.cn^
