@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-18 16:15:51
-! Total count: 35988
+! Version: 2025-11-19 08:16:45
+! Total count: 35996
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -22933,6 +22933,7 @@ zzzyk.com###Tinfo
 ||dwchovra.com^
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
+||dwjlxiuio.com^
 ||dwnews.com/RealMedia/ads/
 ||dwnews.net/images/www/ad/
 ||dwnews.net/js/common/dwnews.dwcn.ad.js
@@ -23419,6 +23420,7 @@ zzzyk.com###Tinfo
 ||eung95wkni.com^
 ||euresdw.top^
 ||europacash.com^$third-party,script
+||euuh.cn^
 ||evb0gxo.icu^
 ||evbb.xyz^
 ||evcnmtw.top^
@@ -23781,6 +23783,7 @@ zzzyk.com###Tinfo
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
 ||fm086.com/Plugins/search
 ||fmfnrf.xyz^
+||fmfrht.icu^
 ||fmgmh.com/template/wap/default/js/lunbo.js
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmjjvb.xyz^
@@ -31757,6 +31760,7 @@ zzzyk.com###Tinfo
 ||srwwce.xyz^
 ||srzpsbf.xyz^
 ||ss.ting55.com^
+||ss494hpnq.com^
 ||ss9874.com/img/91_
 ||ssacher.com^
 ||ssancib.top^
@@ -32037,6 +32041,7 @@ zzzyk.com###Tinfo
 ||sykzow.xyz^
 ||sylnk.net/adblock-detector.htm$subdocument
 ||symjgg.icu^
+||symposium44.com^
 ||synacast.com^
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=noop.txt,important,domain=hboav.com
 ||syndication.jsadapi.com^$third-party
@@ -32314,6 +32319,7 @@ zzzyk.com###Tinfo
 ||thnuvgme.icu^
 ||thonkoirs.com^
 ||thoohizoogli.xyz^
+||thraittidz.com^
 ||threkuth.com^
 ||threrlak.com^
 ||thricroiw.com^
@@ -34808,6 +34814,7 @@ zzzyk.com###Tinfo
 ||xxts11171zs.com^
 ||xxts11180zs.com^
 ||xxts11181zs.com^
+||xxts11190zs.com^
 ||xxxnavy.com^$third-party
 ||xxxuhx.xyz^
 ||xxxviijmp.com^
@@ -35728,6 +35735,7 @@ zzzyk.com###Tinfo
 ||zjib0.icu^
 ||zjjbtl.com^
 ||zjjhfc.com/js/zt.js
+||zjklt4ei4.com^
 ||zjkssw.com^
 ||zjkt6ew4cp.com^
 ||zjliloveyou.ixiunv.com^
