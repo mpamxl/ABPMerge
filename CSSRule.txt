@@ -5928,6 +5928,7 @@ eprice.com.hk##.main-section > .text-center[style^="min-height:"]:has(> div[clas
 eprice.com.hk##div[id^="eprice-div-gpt-ad-"]
 eprice.com.hk#@#.one-ad
 eprice.com.hk,ddcar.com.tw##.popup-adv
+eprice.com.hk,eprice.com.tw##.popup-adv
 eprice.com.tw###goldlink
 eprice.com.tw###popup-ad-overlay
 eprice.com.tw##.ad-300x370
@@ -9528,6 +9529,9 @@ myqqjd.com##.cms-news-normal-box > article:has(span.merge-cat > a[href$="/activi
 myqqjd.com##.qz-box
 myqqjd.com##aside[id^="sponsor-"]
 myqqjd.com,cnprint.org,ez3c.tw,easylife.tw##.adsbygoogle
+mysteel.com###float-adv
+mysteel.com##[class*="-adv"]
+mysteel.com#$#body { background-image: none !important; }
 mytheme.cn##.ad01
 mytvsuper.com##+js(googletagservices_gpt)
 mywpku.com##.sidebar-recommended
