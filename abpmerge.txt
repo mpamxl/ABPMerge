@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-21 16:14:44
-! Total count: 36043
+! Version: 2025-11-22 08:14:45
+! Total count: 36055
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18155,6 +18155,7 @@ zzzyk.com###Tinfo
 ||3i3w8hl6do.com^
 ||3j1fiw14n9.com^
 ||3jia5.com^$third-party
+||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
 ||3lo.icu^
@@ -19505,6 +19506,7 @@ zzzyk.com###Tinfo
 ||ah.5l59k.com^
 ||ah.sina.com.cn/iframe/
 ||ahejtw.onelink.me^$third-party
+||ahfaihethh.com^
 ||ahgame.com/js/new_ad.js
 ||ahlife.com/api.php?mod=adv&
 ||ahm.135320.com^
@@ -21134,6 +21136,7 @@ zzzyk.com###Tinfo
 ||c0.ifengimg.com^
 ||c05ua.icu^
 ||c08ls11j.top^
+||c0nmelm3y2.com^
 ||c0zwsdryg.com^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
@@ -22314,6 +22317,7 @@ zzzyk.com###Tinfo
 ||dbw.cn/eap/js/db/dbwad_
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dbxok6uo.icu^
+||dbzolzzy7s.com^
 ||dc.letv.com/op/?
 ||dceuhnpc57.shop^
 ||dchdmhf.cn^
@@ -24719,6 +24723,7 @@ zzzyk.com###Tinfo
 ||h3d.fun^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
+||h4htfgrei0.com^
 ||h5.dzgsdswh5.xyz^
 ||h5r.icu^
 ||h5vem1jjft.com^
@@ -25059,6 +25064,7 @@ zzzyk.com###Tinfo
 ||hiaxj.com/dbxf/
 ||hibiquan.com/uploads/images/
 ||hickeyhsu.top^
+||hidzrf.icu^
 ||hifyeldu.top^
 ||higefa.site^
 ||higyoe.cn^
@@ -29080,6 +29086,7 @@ zzzyk.com###Tinfo
 ||nvsheng.com/js/gg.js
 ||nvvqrv.xyz^
 ||nvxq.cn^
+||nwbuhr.icu^
 ||nweon.com/wp-content/repo/ad/
 ||nwera.xyz^
 ||nwxaxx.xyz^
@@ -29690,6 +29697,7 @@ zzzyk.com###Tinfo
 ||pdxubxc.cn^
 ||pebrihmethwa.com^
 ||peclevnl.icu^
+||peculiar93.top^
 ||peer-stream.com/api/AdvertisementPlugin$object-subrequest,domain=schoener-fernsehen.com
 ||pefufv.xyz^
 ||peise.net/Skin/js/global.
@@ -29780,6 +29788,7 @@ zzzyk.com###Tinfo
 ||phue.cn^
 ||phuustikd.com^
 ||phvfevk.xyz^
+||phwv.cn^
 ||phx9cqla2.com^
 ||phxdrf.icu^
 ||pianba.tv/api/web_htmls.js
@@ -32993,6 +33002,7 @@ zzzyk.com###Tinfo
 ||uektedsni.com^
 ||uenqeotul.com^
 ||ueqo.cn^
+||ueqy.cn^
 ||uerbgnkas.com^
 ||uessnah.icu^
 ||uesv3jjf6.com^
@@ -34565,6 +34575,8 @@ zzzyk.com###Tinfo
 ||xjx11201ts.com^
 ||xjx11210ts.com^
 ||xjx11211ts.com^
+||xjx11220ts.com^
+||xjx11221ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
