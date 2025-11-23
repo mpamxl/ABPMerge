@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-22 16:12:48
-! Total count: 36063
+! Version: 2025-11-23 08:14:44
+! Total count: 36084
 
 ###ADtip
 ###Ad_windows
@@ -1439,12 +1439,14 @@
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
-##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
+##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+##[style^='display: block; width: 100%; height: 125px; background: url'][style*='center top / contain no-repeat;']
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
 ##[style^='display: block; z-index: 2147483646; width: 17px; ']
 ##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
+##[style^='position: fixed; z-index: 100; display: block; bottom: 0px; '][style*='center top / contain no-repeat;']
 ##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
 ##a > I.gg-icon
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
@@ -1995,6 +1997,7 @@ $websocket,domain=wap.yushuwu.cloud
 .com/dongcidaci/
 .com/gg.js
 .com/gg/*?x=$script,third-party
+.com/hm/*?*=*$third-party
 .com/images/102.js
 .com/java/shang1.js
 .com/java/xia1.js
@@ -3231,6 +3234,7 @@ $websocket,domain=wap.yushuwu.cloud
 /release100009ts?$script,third-party
 /remix_banner.gif
 /res/kj/hf*.js?v=
+/resolve?type=*&short=*&name=$third-party
 /resource/common/tongzhuo/game_info.json
 /rightad.
 /rightad/*
@@ -3376,6 +3380,7 @@ $websocket,domain=wap.yushuwu.cloud
 /tigtag_custom/include/popup.
 /tisai/img/nav_980_90.gif
 /tj/tongji.js?v=$third-party
+/tjjs.js
 /tm00738.bj.
 /to8to_pc/chunks/slide_and_popup_
 /tongji/ad.js
@@ -3470,6 +3475,8 @@ $websocket,domain=wap.yushuwu.cloud
 /xiwang/fumeiti.js
 /xtub_*_rony.js$third-party
 /xuanfusige.js
+/xx/d.js
+/xx/f12.js
 /xxgg/0dd*.js
 /xxgg/app.js
 /xxgg/book.js
@@ -8375,6 +8382,7 @@ buzzorange.com##.rmaxAD
 buzzorange.com##div[data-id="7c6b7b2"]
 buzzorange.com#$#.sidebar > section#text-8[style*="bottom: 240px;"] { position: static !important; }
 buzzorange.com#?#.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
+bytegoofy.com/goofy/*/push.js?
 bytzbiorowy.pl###stickymsg
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
@@ -19026,6 +19034,7 @@ zzzyk.com###Tinfo
 ||9o29nhxgp.com^
 ||9odes.ltd^
 ||9oru1vh0w.com^
+||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9s64g.icu^
 ||9swovqnp52.com^
@@ -21833,6 +21842,7 @@ zzzyk.com###Tinfo
 ||codenong.com/dq.png
 ||codesocang.com/js/a.js
 ||codesocang.com/plus/*baoyue
+||coisj3nil.com^
 ||cokudsvit.com^
 ||colamanga.com/sw.js
 ||colkarneh.com^
@@ -22576,6 +22586,7 @@ zzzyk.com###Tinfo
 ||dismantlepenantiterrorist.com^
 ||display.itmemo.cn^
 ||displink.com^$third-party
+||disruptive49.com^
 ||ditorialproce.biz^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
@@ -23792,6 +23803,7 @@ zzzyk.com###Tinfo
 ||fklgndklbngg.com^
 ||fktaxk.top^
 ||fkxs.net/tops/
+||fl0hg5wlr.com^
 ||fl6n.com/adtop/
 ||flagshipism.com^
 ||flash.banners-service.info^
@@ -27298,6 +27310,7 @@ zzzyk.com###Tinfo
 ||l7ghj.xyz^
 ||l7u3kf.cn^
 ||l80ays.com^
+||l9qxrmda6.com^
 ||laawmmy.cn^
 ||labuladong.github.io/algo/pictures/ad/
 ||ladepeche.fr/taffrail^
@@ -28849,6 +28862,7 @@ zzzyk.com###Tinfo
 ||nftjjw.com^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
+||nfvp.cn^
 ||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
 ||ng8f.top^
@@ -29125,6 +29139,7 @@ zzzyk.com###Tinfo
 ||nyokruzoir.com^
 ||nyt5j.cyou^
 ||nyvgbt.xyz^
+||nyzrbx.icu^
 ||nz04com.com/aabdd/
 ||nzeikrar.com^
 ||nzfcvv.xyz^
@@ -30586,6 +30601,7 @@ zzzyk.com###Tinfo
 ||quspga.xyz^
 ||qusrow.xyz^
 ||qutyan8848.com^
+||quudraidfg.com^
 ||quwkke.xyz^
 ||quyr.cn^
 ||quyuancn.com^$third-party
@@ -32140,6 +32156,7 @@ zzzyk.com###Tinfo
 ||t1.xuefen.com.cn^
 ||t1d26dvout.com^
 ||t1tgame.com^
+||t1thmtn5.xyz^
 ||t2.picb.cc/2022/08/07/6rpPj1.jpg
 ||t2.picb.cc/2022/08/07/6rpRKd.jpg
 ||t2.picb.cc^$image,domain=dmxq1.com
@@ -34112,6 +34129,8 @@ zzzyk.com###Tinfo
 ||wuhaolin.cn/c/ls
 ||wuiqiq.xyz^
 ||wuisaq.top^
+||wujinyuzhou.top/ny/*00x
+||wujinyuzhou.top/ny/ny852x116.
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
 ||wuliao.chzsport.cn^
@@ -34585,6 +34604,8 @@ zzzyk.com###Tinfo
 ||xjx11211ts.com^
 ||xjx11220ts.com^
 ||xjx11221ts.com^
+||xjx11230ts.com^
+||xjx11231ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
