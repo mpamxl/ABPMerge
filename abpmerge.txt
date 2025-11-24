@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-23 16:12:50
-! Total count: 36084
+! Version: 2025-11-24 08:18:07
+! Total count: 36094
 
 ###ADtip
 ###Ad_windows
@@ -17839,6 +17839,7 @@ zzzyk.com###Tinfo
 ||1l1.cc^
 ||1l27pkxp5w.com^
 ||1lqw75ogo.com^
+||1mb71rr5oo.com^
 ||1nrlydgrr.com^
 ||1ny3r.icu^
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
@@ -20140,6 +20141,7 @@ zzzyk.com###Tinfo
 ||awh3vupyf.com^
 ||awifi.cn^$third-party
 ||awiudbyqbpo.com^
+||awjakpos.com^
 ||awkxf8bbj.com^
 ||awunkse72.shop^
 ||awyuge.xyz^
@@ -20954,6 +20956,7 @@ zzzyk.com###Tinfo
 ||bqxyns0hv.com^
 ||br.bendan.shop^
 ||br0vjqh7pe.com^
+||braagniddp.com^
 ||braised58.top^
 ||brand.sogou.com/micro?yyid=
 ||bremphumz.com^
@@ -27375,6 +27378,7 @@ zzzyk.com###Tinfo
 ||lbnqnp.xyz^
 ||lbprjdi.cn^
 ||lbqdaua.icu^
+||lbvmnh.icu^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lcbmtd.icu^
@@ -28740,6 +28744,7 @@ zzzyk.com###Tinfo
 ||nagvaxvy.com^
 ||nahjzx.xyz^
 ||naiep.xyz^
+||naivety48.com^
 ||naivtyu.icu^
 ||najnus.com^
 ||naljjd.top^
@@ -30295,6 +30300,7 @@ zzzyk.com###Tinfo
 ||qhaarkie.com^
 ||qhaazaduez.com^
 ||qhaccid.com^
+||qhaelqata.com^
 ||qhanphietd.com^
 ||qhatarsl.com^
 ||qhdlz.net/ssyyss/m.js
@@ -33056,6 +33062,7 @@ zzzyk.com###Tinfo
 ||ugheqrikui.com^
 ||ugidskit.top^
 ||ugolue.xyz^
+||ugox.cn^
 ||ugtbit.icu^
 ||ugugct.xyz^
 ||uhek.cn^
@@ -34606,6 +34613,7 @@ zzzyk.com###Tinfo
 ||xjx11221ts.com^
 ||xjx11230ts.com^
 ||xjx11231ts.com^
+||xjx11240ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
@@ -34909,6 +34917,7 @@ zzzyk.com###Tinfo
 ||xxxx96xxxx.com^
 ||xyadtlyy.com^
 ||xybnfn.xyz^
+||xyf21yawkj.com^
 ||xygwh.cc/js/p
 ||xygwh.cc/js/x
 ||xyimg.net^$domain=~xy.com
@@ -35074,6 +35083,7 @@ zzzyk.com###Tinfo
 ||yhak0o7rtz.com^
 ||yhbheroq.xyz^
 ||yhbsk.cn^
+||yhcca8h69o.com^
 ||yhdd1.com^$third-party
 ||yhdemu368.shop^
 ||yhderd69.shop^
