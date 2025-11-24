@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-24 08:18:07
-! Total count: 36094
+! Version: 2025-11-24 16:13:16
+! Total count: 36099
 
 ###ADtip
 ###Ad_windows
@@ -9783,6 +9783,7 @@ element-plus.org##aside > div[class^="doc-content-"]
 element-plus.org##div[class*="-sidebar-"]
 elle.com.hk##.tpc-container
 elle.com.hk#?#article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
+elsworld.cn#@##footer-banner
 embed.media,fembed.com,fmovies.*,flashx.tv,gaobook.review,hxfile.co,mavplay.xyz,myyouporn.com,solarmovie.*,vaplayer.xyz,vizcloud.xyz,xstreamcdn.com#$#abort-on-property-read AaDetector
 embedrise.com##+js(window.open-defuser)
 embeducaster.com###impo_overlay
@@ -9964,6 +9965,8 @@ f2dsex1.com##a[href="https://kf2828.com/"]
 f2dsex1.com##div.link
 faayoo.com###footer_fd
 faayoo.com##.qr_code
+fabconvert.com#@#.ad-banner-top
+fabconvert.com,knews.com.tw,1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,manhuafen.com,world68.com##.ad
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 facebookproxy.info###overlay-holder
 facet.wp.pl,ksiazki.wp.pl,tech.wp.pl,money.pl,moneyv.wp.pl#$#abort-on-property-read pbjs.bidderSettings
@@ -12436,7 +12439,6 @@ kkpan.com,qqtn.com,smzy.com,yxdj.com.cn##.u-gs-btn
 kkw360.com##a[href^="https://sourl.cn/"]
 klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
 kmf.com##.g-kmf-906banner
-knews.com.tw,1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.co,manhuafen.com,world68.com##.ad
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 knowmore.cc##.ins
 koc.com.tw##.single_ads
@@ -26942,6 +26944,7 @@ zzzyk.com###Tinfo
 ||kebohjhh.xyz^
 ||kedou*.com/layer/layer.js
 ||kefeng56.com^$third-party
+||kegll5mwl2.com^
 ||kehbcv.top^
 ||kejiwanjia.com/wp-content/uploads/*/1040x100.
 ||kekenet.com/Images/*/tom640X40.gif
@@ -32392,6 +32395,7 @@ zzzyk.com###Tinfo
 ||thnuvgme.icu^
 ||thonkoirs.com^
 ||thoohizoogli.xyz^
+||thragmoth.com^
 ||thraittidz.com^
 ||threkuth.com^
 ||threrlak.com^
@@ -34614,6 +34618,7 @@ zzzyk.com###Tinfo
 ||xjx11230ts.com^
 ||xjx11231ts.com^
 ||xjx11240ts.com^
+||xjx11241ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
