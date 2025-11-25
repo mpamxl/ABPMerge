@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-24 16:13:16
-! Total count: 36099
+! Version: 2025-11-25 08:17:31
+! Total count: 36112
 
 ###ADtip
 ###Ad_windows
@@ -1626,6 +1626,7 @@
 ##body > div#inplayer[align="center"]
 ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
 ##body > div[style$=";background: #000;opacity:0.01;"]
+##body > div[style=" max-width:990px; margin:0 auto;"]:first-child > a[target="_blank"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
 ##body#chapterbody.novel_chapter [style='padding-top: 150px;']
@@ -14172,6 +14173,7 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
+ping0.cc##.adeles
 pinggu.org##.banner2015
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -18790,6 +18792,7 @@ zzzyk.com###Tinfo
 ||835images1.com^
 ||84dwl4bbq.com^
 ||84zm8.xyz^
+||85270jylmzsym.top^
 ||85566.net/js/loadjs/jquery
 ||8585go.com/recommend
 ||85wp.com/ad/
@@ -22198,6 +22201,7 @@ zzzyk.com###Tinfo
 ||d7fl3a3vwh.com^
 ||d7ytrv7yxa.com^
 ||d8962a.xyz^
+||d89sze2uu.com^
 ||d9q4aa05g4.com^
 ||da-ads.com^$third-party
 ||da-fan-shu.cn/images/kuaijie.jpg
@@ -23344,6 +23348,7 @@ zzzyk.com###Tinfo
 ||engq.cn^
 ||engwsq.xyz^
 ||enhad.xyz^
+||enhancement44.com^
 ||enifdlaw.top^
 ||enjoyup29.top^
 ||enkvum.xyz^
@@ -24228,6 +24233,7 @@ zzzyk.com###Tinfo
 ||geqetreadyf.com^
 ||geqshb22.fun^
 ||geqzt6tkg.top^
+||germinate06.top^
 ||gerqragpl.com^
 ||gesdxashb1.fun^
 ||gesfdashb5.fun^
@@ -26008,6 +26014,7 @@ zzzyk.com###Tinfo
 ||iqiyipic.com/image/20*_100000$image
 ||iqkrungrikhu.com^
 ||iqnew.com/d/js/m/thea
+||iqoi.cn^
 ||iqs871.com^
 ||iqshw.com/d/js/m/thea
 ||iqsswq.icu^
@@ -26209,6 +26216,7 @@ zzzyk.com###Tinfo
 ||j.zlszw.com^
 ||j1.piaobing.com^
 ||j2jtq0hpb.com^
+||j33xvvanl.com^
 ||j4mxrs21gh.com^
 ||j694fx3bp.com^
 ||j6zh4g0.cn^
@@ -26325,6 +26333,7 @@ zzzyk.com###Tinfo
 ||jebrhb.icu^
 ||jedlnn.xyz^
 ||jeepyy.com^$third-party
+||jerhzr.icu^
 ||jeryt111.fun^
 ||jesfsf.top^
 ||jessicarace.com^
@@ -29868,6 +29877,7 @@ zzzyk.com###Tinfo
 ||pin6d37stu.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
+||ping0.cc/static/images/ad/
 ||pinggu.org/api/bbsgg.
 ||pinglun11223.xyz^
 ||pingma.qq.com^
@@ -30557,6 +30567,7 @@ zzzyk.com###Tinfo
 ||qrovwu.xyz^
 ||qrtibl.cn^
 ||qrttfmo.cn^
+||qrumphathu.com^
 ||qrwcss.xyz^
 ||qrxmgfz.cn^
 ||qsanciy.top^
@@ -33048,6 +33059,7 @@ zzzyk.com###Tinfo
 ||uewrutt.top^
 ||uewzjy.xyz^
 ||ueyuww.icu^
+||ufa9tt1n5.com^
 ||ufeuca.icu^
 ||ufgg55.xyz^
 ||ufgl.cn^
@@ -34619,6 +34631,7 @@ zzzyk.com###Tinfo
 ||xjx11231ts.com^
 ||xjx11240ts.com^
 ||xjx11241ts.com^
+||xjx11250ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
