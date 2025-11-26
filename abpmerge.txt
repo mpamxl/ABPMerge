@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-25 16:16:02
-! Total count: 36116
-
+! Version: 2025-11-26 08:17:00
+! Total count: 36126
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1411,6 +1410,7 @@
 ##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qwe0231141.bj.bcebos.com/']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
+##[style$="z-index:100;display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;"]
 ##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
@@ -1439,7 +1439,7 @@
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
-##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; ']
+##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; "]
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##[style^='display: block; width: 100%; height: 125px; background: url'][style*='center top / contain no-repeat;']
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
@@ -21881,6 +21881,7 @@ zzzyk.com###Tinfo
 ||connect.facebook.net^*/fbds.js$third-party
 ||connectormwi.laterpay.net^$script,domain=schoener-wohnen.de
 ||connectreadoasis.com^
+||conscience34.top^
 ||considerice.com^
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
@@ -25404,6 +25405,7 @@ zzzyk.com###Tinfo
 ||hujunhao.name^
 ||hulichuang.mobi^
 ||hummingexam.com^
+||hunzlj.icu^
 ||huo07091hy.com^
 ||huo07100hy.com^
 ||huo07101hy.com^
@@ -25896,6 +25898,7 @@ zzzyk.com###Tinfo
 ||imgur.com^*.gif$domain=18p2p.com
 ||imgwdyey.com^
 ||imgxr.com^$domain=xiuren.org
+||imgzxr.cn^
 ||imjtv.cc^$third-party
 ||imndl.icu^
 ||imniel.com^
@@ -26590,6 +26593,7 @@ zzzyk.com###Tinfo
 ||jqtkzuco.xyz^
 ||jqtnft.xyz^
 ||jquery.envi-met.com.cn^
+||jqz8z7gqxw.com^
 ||jrblfv.icu^
 ||jrbnxw.top^
 ||jrds.net.cn^
@@ -27076,6 +27080,7 @@ zzzyk.com###Tinfo
 ||klbvqqqj.com^
 ||kljslku.com^
 ||klkk66.fun^
+||klljo2cp63.com^
 ||klmohbk.icu^
 ||kloojzn.icu^
 ||kltjbnfjmnh.com^
@@ -27398,6 +27403,7 @@ zzzyk.com###Tinfo
 ||lccfjszp.cn^
 ||lcd.aivote.com^
 ||lcefsf.icu^
+||lcgcrldp6m.com^
 ||lcidauv.top^
 ||lclimil.top^
 ||lclqbh.icu^
@@ -29755,6 +29761,7 @@ zzzyk.com###Tinfo
 ||people.com.cn/img/gjt/
 ||people.com.cn/rmrb/tplimg/new.js
 ||pepnsnq.cn^
+||periscope73.com^
 ||perlmaven.com/img/*0x2
 ||perlmaven.com/img/sticker-you.jpg
 ||perspective44.top^
@@ -31480,6 +31487,7 @@ zzzyk.com###Tinfo
 ||shitouxs.com/static/042417.js
 ||shixiong.xyz^
 ||shiyaokejishanghai.com^
+||shiyiyuefalkjui.com^
 ||shjha.top^
 ||shnpetdb638.shop^
 ||shnpetdn185.shop^
@@ -33448,6 +33456,7 @@ zzzyk.com###Tinfo
 ||vegaingi.com^
 ||vehohx.icu^
 ||veilengh.com^
+||veirkaey.com^
 ||vejhln.xyz^
 ||vejrp6iq25.com^
 ||vel7.xyz^
@@ -34636,6 +34645,7 @@ zzzyk.com###Tinfo
 ||xjx11241ts.com^
 ||xjx11250ts.com^
 ||xjx11251ts.com^
+||xjx11260ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
