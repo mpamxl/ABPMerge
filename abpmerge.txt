@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-26 16:15:03
-! Total count: 36140
+! Version: 2025-11-27 08:17:57
+! Total count: 36148
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17617,6 +17617,7 @@ zzzyk.com###Tinfo
 ||1024wanzhai.$popup,third-party
 ||1028images.com^
 ||102tv.cn/js/main.js
+||104i5bbzs.com^
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||109218er.xyz^
@@ -19998,6 +19999,7 @@ zzzyk.com###Tinfo
 ||aqvwn18102h.com^
 ||aqxh9x1o7m.com^
 ||aqy103.com/js/aqy/
+||archetype32.top^
 ||arewcdf116.cn^
 ||areyoutherenow.com^
 ||ariqye.xyz^
@@ -24236,6 +24238,7 @@ zzzyk.com###Tinfo
 ||gekhasaks.com^
 ||gelbooru.com/script/application.js
 ||gemini.yahoo.com^
+||generation456.com^
 ||genieessp.com^$third-party
 ||gentags.net^
 ||geo.yahoo.com^
@@ -26780,6 +26783,7 @@ zzzyk.com###Tinfo
 ||jweoe.xyz^
 ||jwerilxa.top^
 ||jwerioa.top^
+||jwf8lxo7b.com^
 ||jwhdgt.icu^
 ||jwhjqjfl.icu^
 ||jwilmia.top^
@@ -27850,6 +27854,7 @@ zzzyk.com###Tinfo
 ||ltfpbp.xyz^
 ||ltht.tech^
 ||lthuvb.icu^
+||ltiekurv.com^
 ||ltienll.top^
 ||ltimiyl.top^
 ||ltkbyfd.icu^
@@ -29160,6 +29165,7 @@ zzzyk.com###Tinfo
 ||nxhh.net/gw/gw.js
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
+||nxjuvt.icu^
 ||nxledn.xyz^
 ||nxnjw.com^
 ||nxrajr.xyz^
@@ -29949,6 +29955,7 @@ zzzyk.com###Tinfo
 ||pkk1.zuimeiniwo.com^
 ||pklujb.xyz^
 ||pknh27a7j.com^
+||pkpmhr2gw.com^
 ||pktfla.top^
 ||pkvjrb.icu^
 ||pkvs.com/public/300/
@@ -30470,6 +30477,7 @@ zzzyk.com###Tinfo
 ||qlkysc.icu^
 ||qlogo.cn^$domain=chichiav1.xyz
 ||qm2.icu^
+||qmav.cn^
 ||qmavyy.icu^
 ||qmbdta.cn^
 ||qmfcybwbf12.com^
