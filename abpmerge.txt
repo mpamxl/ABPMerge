@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-28 08:17:23
-! Total count: 36163
+! Version: 2025-11-28 16:14:17
+! Total count: 36168
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18938,6 +18938,7 @@ zzzyk.com###Tinfo
 ||91danji.com/attachments/201810/12/10/2hdyj7ut9.jpg
 ||91danji.com/js/lmt.js
 ||91friend.com^$third-party
+||91glqt27.xyz^
 ||91hs005.xyz^*.gif
 ||91jbz.com/file/script/A
 ||91ks.online^
@@ -20781,6 +20782,7 @@ zzzyk.com###Tinfo
 ||biqgg.com/n.
 ||biqgg.com/w.
 ||biqgg.com/w.js?v=
+||biqiuge5.org/mo.
 ||biqiuge8.cc/js/d
 ||biqiuge8.cc/js/p
 ||biqivge.cc/js/d
@@ -22016,6 +22018,7 @@ zzzyk.com###Tinfo
 ||cruhliip.com^
 ||cruhut.com^
 ||crutvncf.top^
+||cruzietv.com^
 ||crxs.me/plugins/jquery.modal/
 ||crxs.me/scripts/my_
 ||crxs.me/upload/ad/
@@ -34682,6 +34685,7 @@ zzzyk.com###Tinfo
 ||xjx11261ts.com^
 ||xjx11271ts.com^
 ||xjx11280ts.com^
+||xjx11281ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
@@ -35796,6 +35800,7 @@ zzzyk.com###Tinfo
 ||zgwsnw.xyz^
 ||zgwvcv.icu^
 ||zgystsd.com^
+||zgzxm.weathercn.com^
 ||zhainanba.org/ac/
 ||zhan.com^*/middle_ad_modal.js
 ||zhangchi.work^
