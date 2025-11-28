@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-27 16:14:32
-! Total count: 36151
+! Version: 2025-11-28 08:17:23
+! Total count: 36163
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7612,6 +7612,7 @@ avtb01.com##body > div[id^="haoetv"]
 avtovzglyad.ru,dni.ru,baby.ru,selflib.me#$#abort-on-property-read Ya
 awafim.tv,movies2watch.tv,sflix.*#$#prevent-listener break;case $.
 awaliwa.com##.bottomAdsBox
+axiang.cc###achang-related-adsense
 axiang.cc###photo-sliders + .widget_text
 axios-http.cn###right-sider
 axios-js.com###lagou-vip
@@ -18014,6 +18015,7 @@ zzzyk.com###Tinfo
 ||2i0lliongn.com^
 ||2jse6.icu^
 ||2kandy.com/js/123/
+||2kbmdtlgme.com^
 ||2lb.cc^
 ||2ld8mx979a.com^
 ||2lzg9mqzw.com^
@@ -18997,6 +18999,7 @@ zzzyk.com###Tinfo
 ||98765432100.online^
 ||98765432100.site^
 ||988aiai.com/static/js/common.js
+||98k0ocqaf6.com^
 ||98wjse.top^
 ||990215.xyz^
 ||9906g.com/js/jquery.js
@@ -23381,6 +23384,7 @@ zzzyk.com###Tinfo
 ||enviousinevitable.com^
 ||enwuamw.top^
 ||enwucnw.top^
+||enzf.cn^
 ||eo.chaungpin.top^
 ||eo.dongdm.cn^
 ||eo.jinzpeng.cn^
@@ -25526,6 +25530,7 @@ zzzyk.com###Tinfo
 ||hzhabei.cn^
 ||hzhuang.wang^
 ||hzhyhm.com^
+||hziridqp.com^
 ||hznzcn.com/moban/youxiajiao.js
 ||hzrghx.xyz^
 ||hzrnbl.xyz^
@@ -27734,6 +27739,7 @@ zzzyk.com###Tinfo
 ||lnaevr.fun^
 ||lnalzll.top^
 ||lnd.com.cn/sys/real_calc.js
+||lnfmhl.icu^
 ||lnhsjob.com^$third-party
 ||lnifdlal.top^
 ||lnlkmr.xyz^
@@ -28121,6 +28127,7 @@ zzzyk.com###Tinfo
 ||manguan.vip^
 ||manhuabei.com/assets/xiwang.js
 ||manhuapi.com/style/js/common.js
+||manifest97.com^
 ||manlungkey.com^
 ||manmanju.com/mg/show*.js
 ||manqian.cn/784a6e27-be5b-4442-86e5-9f4adb51894d?
@@ -30836,6 +30843,7 @@ zzzyk.com###Tinfo
 ||relafp.xyz^
 ||relgrads.com^
 ||relive.vodfile.m1905.com/video/qiantie202$media
+||remedyy46.com^
 ||remehealth.net^$third-party
 ||remfebd.cn^
 ||reminews.com^
@@ -33817,6 +33825,7 @@ zzzyk.com###Tinfo
 ||w5ftl8bhu3.com^
 ||w6xdba54n.com^
 ||w7044.com^
+||w766ewvx75.com^
 ||w9uwz5966.com^
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wa9dald544.com^
@@ -34105,6 +34114,7 @@ zzzyk.com###Tinfo
 ||woozooo.com/img/*.js
 ||wopvmmy.cn^
 ||worjeklmq.com^
+||workers.dev^$domain=axiang.cc
 ||workshop39.top^
 ||worlderva.com^
 ||worldwide.sogou.com^
@@ -34671,6 +34681,7 @@ zzzyk.com###Tinfo
 ||xjx11260ts.com^
 ||xjx11261ts.com^
 ||xjx11271ts.com^
+||xjx11280ts.com^
 ||xjzyhp.xyz^
 ||xkbinj.xyz^
 ||xkcxh.com^
@@ -35623,6 +35634,7 @@ zzzyk.com###Tinfo
 ||zbvchabjbcj.com^
 ||zbx01.com^
 ||zbzbzb.xyz^
+||zc13uyyok7.com^
 ||zc173.com/173fee/
 ||zca31.com^
 ||zcaijing.com/images/
