@@ -10113,6 +10113,8 @@ opticsky.cn##.p83_gridC > .cc
 opvid.co,opvid.net,opvid.org#$#abort-on-property-read setInterval; abort-on-property-read setTimeout; abort-on-property-read Math.random
 orangenews.hk##img[advid]
 orsoon.com###new-actentry
+orzice.com###jinzhu_top
+orzice.com##.ad-guanggao
 oschina.net###project_ad_banner
 oschina.net##.aside-topjj
 oschina.net##.blog-left-ad
