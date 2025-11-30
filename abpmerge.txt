@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-29 16:13:08
-! Total count: 36748
+! Version: 2025-11-30 08:14:30
+! Total count: 36759
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19551,6 +19551,7 @@ zzzyk.com###Tinfo
 ||a32a.com.cn^$3p
 ||a48505.cn^
 ||a4sz.xyz^
+||a4xvv2g18l.com^
 ||a5t.icu^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
@@ -19662,6 +19663,7 @@ zzzyk.com###Tinfo
 ||acgshenshicha.cn^
 ||achicih.gitee.io^$3p
 ||achicih.gitee.io^$third-party
+||achievement44.top^
 ||achophranb.com^
 ||achost.top/uploads/ads/
 ||ackcdn.net^
@@ -19955,6 +19957,7 @@ zzzyk.com###Tinfo
 ||aiboav.vip/wp-content/uploads/uu-chat/*.gif
 ||aichuangfu.cn/jquery/
 ||aiclk.com^
+||aidfni7yk0.com^
 ||aidigua.com^
 ||aifei0755.net/123/
 ||aigfednd.icu^
@@ -21312,6 +21315,7 @@ zzzyk.com###Tinfo
 ||bnnfvd.xyz^
 ||bnrdnx.xyz^
 ||bnrk7esglquispx2lsluttlm.xyz^
+||bnti.cn^
 ||bny9.cn^
 ||boardx.huanqiu.com^
 ||boats8.top^
@@ -21867,6 +21871,7 @@ zzzyk.com###Tinfo
 ||cedhoinle.com^
 ||cee1.iteye.com^
 ||ceh.cehbh.com^
+||cehb1d1lsm.com^
 ||ceiqox.com^
 ||ceisip.com/static/js/plugin.js
 ||cekdew.icu^
@@ -22756,6 +22761,7 @@ zzzyk.com###Tinfo
 ||daweijita.com/201*430.
 ||daweijita.com/201*ad.
 ||daweijita.com/2014/08/ad_head
+||daydhuhatz.com^
 ||dayfund.*/images/uds/
 ||daynews.co/cdn-cgi/apps/
 ||daysou.com/images/huaweicloud.png
@@ -23983,6 +23989,7 @@ zzzyk.com###Tinfo
 ||eyuwkbw.top^
 ||eyuyao.com/yyad/
 ||eyyngo.xyz^
+||eyzerannl.com^
 ||ezlgszdb.icu^
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
@@ -26420,6 +26427,7 @@ zzzyk.com###Tinfo
 ||insightexpressai.com^
 ||insights.hotjar.com^
 ||instrument95.com^
+||insulator05.top^
 ||inszu.com/js/qian/
 ||inte.sogou.com^
 ||inte.sogoucdn.com^$domain=~index.sogou.com|~zhishu.sogou.com
@@ -30442,6 +30450,7 @@ zzzyk.com###Tinfo
 ||pirxzl.xyz^
 ||pisauc.cn^
 ||pisb.cn^
+||pitaltoid.com^
 ||pites.cc/js/top.php
 ||pixabay.com/static/img/publisher/*_ad_
 ||pixel.facebook.com^
@@ -30658,6 +30667,7 @@ zzzyk.com###Tinfo
 ||ptrmnx.icu^
 ||pttzjo.top^
 ||ptvfzv.xyz^
+||ptxcfn.icu^
 ||ptyw.yiche.com/ssp/
 ||pub.funshion.com^
 ||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$xhr,redirect=noopvast-3.0,important
@@ -35944,6 +35954,7 @@ zzzyk.com###Tinfo
 ||yqqv.cn^
 ||yqrsdfh.top^
 ||yquqoj.com^
+||yr2spd4ucy.com^
 ||yrarhzuq.xyz^
 ||yrccils0spqnkc3.xyz^
 ||yrgsqi0zc.com^
