@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-11-30 16:13:25
-! Total count: 36760
+! Version: 2025-12-01 08:19:21
+! Total count: 36770
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18004,6 +18004,7 @@ zzzyk.com###Tinfo
 ||120askimages.com/ask/zhenshi/templates/pub/js/loadPart.js
 ||121.204.246.*.gif
 ||121.43.235.135^
+||121xpp689.com^
 ||121zou.com^$subdocument
 ||1222dfm3l.cc^
 ||1224.zg-babyroo.com^
@@ -19399,6 +19400,7 @@ zzzyk.com###Tinfo
 ||99smsf.com^$third-party
 ||99tianji.com/hack/
 ||99zuowen.com^*/gg.js
+||9a4v0clpi.com^
 ||9a6cds03.com^
 ||9aiwotv.com/c300*.html$subdocument
 ||9cc9ckp.com^
@@ -23799,6 +23801,7 @@ zzzyk.com###Tinfo
 ||enet.com.cn/counter.php
 ||enews10.yxlady.net^
 ||eng24.com/js_new/copyright_float.
+||engineer66.com^
 ||engq.cn^
 ||engwsq.xyz^
 ||enhad.xyz^
@@ -26087,6 +26090,7 @@ zzzyk.com###Tinfo
 ||ideng.com^$3p
 ||ideng.com^$third-party
 ||identify.hotjar.com^
+||identity39.com^
 ||idffhq.cn^
 ||idhaiafq.com^
 ||idickeo.top^
@@ -29052,6 +29056,7 @@ zzzyk.com###Tinfo
 ||mpn56e.cn^
 ||mppanittie.com^
 ||mps.wenkuzu.com^
+||mputq031w.com^
 ||mpyerxzn.xyz^
 ||mq54k4yxpt.com^
 ||mqaoweu.icu^
@@ -29500,6 +29505,7 @@ zzzyk.com###Tinfo
 ||niubixxx.com/seo/
 ||niugupan.com/js/tj.js
 ||niuk11291gi.com^
+||niuk12011gi.com^
 ||niulai0323166.space^
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,3p
@@ -30055,6 +30061,7 @@ zzzyk.com###Tinfo
 ||otimiyk.top^
 ||otkwcg.icu^
 ||otlj.cn^
+||otme.cn^
 ||otoieku.icu^
 ||ott.cibntv.net/*/ad/*.ts?ccode=$xhr,domain=v.youku.com
 ||ott.cibntv.net/*/letv-wzgug/$media
@@ -30745,6 +30752,7 @@ zzzyk.com###Tinfo
 ||pyjqhb.xyz^
 ||pyonbrj41b.com^
 ||pypwxvo.cn^
+||pyrfpb.icu^
 ||pytexb.icu^
 ||pyxytj.icu^
 ||pzfqzv.xyz^
@@ -33596,6 +33604,7 @@ zzzyk.com###Tinfo
 ||uaqe.cn^
 ||ub1.job592.com^
 ||ubeaui.xyz^
+||ubeeludrt.com^
 ||ubmcvideo.baidustatic.com^
 ||ubudhal.com^
 ||ubxqerc.cn^
@@ -35229,6 +35238,7 @@ zzzyk.com###Tinfo
 ||xiyouence.com^$popup,third-party
 ||xizanzhi.com^
 ||xizi.com/js/rotator.js
+||xjoiteee8.com^
 ||xjpmlf.xyz^
 ||xjrvwz.com^
 ||xjssjc.com^
