@@ -7348,6 +7348,7 @@ huke88.com##.hand-once
 hulkusc.com###bab_popup
 hulkusc.com#@#.adsbox
 hung-ya.com##.AdBottom
+huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 hupu.com###HCFull
 hupu.com###game-center-entrance-container
 hupu.com###shihuo1111

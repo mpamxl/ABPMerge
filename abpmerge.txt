@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-03 08:17:42
-! Total count: 36802
+! Version: 2025-12-03 16:17:46
+! Total count: 36806
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11463,6 +11463,7 @@ huke88.com##.hand-once
 hulkusc.com###bab_popup
 hulkusc.com#@#.adsbox
 hung-ya.com##.AdBottom
+huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 hupu.com###HCFull
 hupu.com###game-center-entrance-container
 hupu.com###shihuo1111
@@ -29526,6 +29527,7 @@ zzzyk.com###Tinfo
 ||niuk12020gi.com^
 ||niuk12021gi.com^
 ||niuk12030gi.com^
+||niuk12031gi.com^
 ||niulai0323166.space^
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,3p
@@ -33782,6 +33784,7 @@ zzzyk.com###Tinfo
 ||umeng.com^
 ||umengcloud.com^
 ||umkezbh.cn^
+||umqigvethe.com^
 ||umrr.cn^
 ||umwcyw.xyz^
 ||umyrn.xyz^
@@ -34157,6 +34160,7 @@ zzzyk.com###Tinfo
 ||victoriaelmae.com^
 ||victoriajumpc.com^
 ||victual21.com^
+||vid12031hl.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video.da.mgtv.com/$media
 ||video.iqiyi.com/ws$websocket
