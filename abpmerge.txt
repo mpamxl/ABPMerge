@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-02 16:16:46
-! Total count: 36794
+! Version: 2025-12-03 08:17:42
+! Total count: 36802
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18202,6 +18202,7 @@ zzzyk.com###Tinfo
 ||1jc5t.xyz^
 ||1jlp1qbgu.com^
 ||1jok.icu^
+||1jzocofm4.com^
 ||1k8j786ks5.com^
 ||1kanz.cn^
 ||1kb4atu6x.com^
@@ -18672,6 +18673,7 @@ zzzyk.com###Tinfo
 ||4v6a7i3dkz.com^
 ||4ve.fun^
 ||4vgyjja.cn^
+||4wbvq8yl2.com^
 ||4we.icu^
 ||4wg67b9vb.com^
 ||4wm.fun^
@@ -23374,6 +23376,7 @@ zzzyk.com###Tinfo
 ||dtntnl.icu^
 ||dtqs84i8bq.com^
 ||dtrcw.cc^
+||dtrinzael.com^
 ||dtroldad.com^
 ||dtscout.com^
 ||dtsxn.cn^
@@ -29436,6 +29439,7 @@ zzzyk.com###Tinfo
 ||nftjjw.com^
 ||nftxfd.top^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
+||nfvj.cn^
 ||nfvp.cn^
 ||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
@@ -29521,6 +29525,7 @@ zzzyk.com###Tinfo
 ||niuk12011gi.com^
 ||niuk12020gi.com^
 ||niuk12021gi.com^
+||niuk12030gi.com^
 ||niulai0323166.space^
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,3p
@@ -29530,6 +29535,7 @@ zzzyk.com###Tinfo
 ||njcengpianwang.cn^
 ||njcyt.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
+||njdwxxyem.com^
 ||njhlvz.icu^
 ||njjavt.xyz^
 ||njnhzh.icu^
@@ -31517,6 +31523,7 @@ zzzyk.com###Tinfo
 ||rjzxw.com/temp/index.files/logo2.gif
 ||rk6h3.icu^
 ||rkanr.com/data/cpcache/cp*.js
+||rkcfmfm97.com^
 ||rkgbqn.icu^
 ||rkgwzfwjgk.com^
 ||rklzpo.com^
@@ -32047,6 +32054,7 @@ zzzyk.com###Tinfo
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shelluiqy.com^
+||shelter57.com^
 ||shen4club.com/style/*.js?v=
 ||shenfagg.com^
 ||shenfire.cn^
@@ -32621,6 +32629,7 @@ zzzyk.com###Tinfo
 ||struhuts.com^
 ||stsesc.xyz^
 ||stsgus.icu^
+||stubborn80.top^
 ||studylabs.cn^
 ||stulip.org/static/js/header.js
 ||stunkrins.com^
@@ -35081,7 +35090,6 @@ zzzyk.com###Tinfo
 ||xcar.com.cn/dsp/ad
 ||xccadc.com^
 ||xcf-bd-js.chuimg.com^
-||xchina.$domain=crxs.me
 ||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
 ||xchina.*/plugins/sweetAlert2/
