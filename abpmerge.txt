@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-03 16:17:46
-! Total count: 36806
+! Version: 2025-12-04 08:18:12
+! Total count: 36818
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15641,6 +15641,7 @@ sohu.com###hotpicnew
 sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
 sohu.com###recommendSearch
 sohu.com###turn-ad
+sohu.com##+js(json-prune, data.*.list.[-].resourceData.adData)
 sohu.com##.adB
 sohu.com##.adv_960
 sohu.com##.cbd-plate-bill.common-ad
@@ -16935,6 +16936,8 @@ wnacg.com#@#.google-ads
 wnacg.com#@#.hlol_ad
 wnacg.com#@#.pcd_ad
 wnacg.com#@#.pcgg
+wnacg05.cc###control_block
+wnacg05.cc##+js(abort-current-script, Math.floor, tips)
 wnflb2023.com##.GzList
 woaimoon.com##div[id^="juan_"]
 woego.cn#@##topAds
@@ -23434,6 +23437,7 @@ zzzyk.com###Tinfo
 ||dvtednm.cn^
 ||dvuz.cn^
 ||dvv9dkv.site^
+||dvvv9ld5b0.com^
 ||dvzk66.cn^
 ||dw.xcar.com.cn^*.gif?
 ||dwbaazotho.com^
@@ -24881,6 +24885,7 @@ zzzyk.com###Tinfo
 ||gkypgw.xyz^
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
+||glacier32.com^
 ||glancetree.top^
 ||glczys.xyz^
 ||glgoo.*/gimage/ad/
@@ -28193,6 +28198,7 @@ zzzyk.com###Tinfo
 ||ljjhfw34.fun^
 ||ljvc0.icu^
 ||ljzcawea.icu^
+||lk0v8teerw.com^
 ||lkancklanklcav.com^
 ||lkdqrtsj6g.com^
 ||lkdyft.xyz^
@@ -29971,6 +29977,7 @@ zzzyk.com###Tinfo
 ||onefuq.xyz^
 ||onegreen.net/MyFile/
 ||oneinstack.com/images/oneinstack-
+||onemob.mobi^$3p
 ||onesignal.com^$third-party
 ||onetad.com^$third-party
 ||onetrust.
@@ -30543,6 +30550,7 @@ zzzyk.com###Tinfo
 ||pmiskc.cn^
 ||pmnct63.shop^
 ||pmnyzf.icu^
+||pmqhelkean.com^
 ||pmtrkp.icu^
 ||pmvlwjy.cn^
 ||pmwofrq.icu^
@@ -31262,6 +31270,7 @@ zzzyk.com###Tinfo
 ||qxwoiv.com^
 ||qy0.ru/data/game/
 ||qy1.ru/data/game/
+||qyel.cn^
 ||qyer.com/qcross/home/ajax?action=banner
 ||qyer.com^*/base_beacon_ga.js
 ||qyerstatic.com/common/models/common/component/footerBanner/
@@ -34161,6 +34170,7 @@ zzzyk.com###Tinfo
 ||victoriajumpc.com^
 ||victual21.com^
 ||vid12031hl.com^
+||vid12040hl.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video.da.mgtv.com/$media
 ||video.iqiyi.com/ws$websocket
@@ -34267,6 +34277,7 @@ zzzyk.com###Tinfo
 ||vokzqgjp.icu^
 ||volcano98.com^
 ||volgreal.com^
+||volume68.top^
 ||vopzhl.icu^
 ||voqf299p8.com^
 ||vorluic.cn^
@@ -34708,6 +34719,7 @@ zzzyk.com###Tinfo
 ||wnalzle.top^
 ||wneia.iaskhot.com^
 ||wnifdlae.top^
+||wnimg1.ru/data/game/*/*-*x*.gif
 ||wnmoobz.icu^
 ||wnojded.icu^
 ||wnootzc.icu^
