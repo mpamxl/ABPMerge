@@ -5180,6 +5180,7 @@ crsky.com##a[href^="http://count."][href$=".exe"]
 crunchyroll.com#$#json-prune 'value.media.ad_breaks'
 crx4.com,galacg.me,moneyweekly.com.tw###carousel-example-generic
 crxs.me##+js(abort-current-script, document.createElement, visitUrl)
+crxs.me##.content-box:has(> div[class^="static-container-"] > a[href][target="_blank"])
 crxs.me##.push-top
 crypto-clix.net#@#.ad-block
 crypto-clix.net#@#.ad-content
@@ -6559,6 +6560,7 @@ gamekult.com#$#hide-if-matches-xpath './/a[@href][@data-track-category="native-a
 gamemei.com###ft_right_bottom
 gamer.com.tw###BH-bigbanner
 gamer.com.tw###BH-bigbanner:style(position: absolute!important; left: -3000px!important;)
+gamer.com.tw###billboardAd
 gamer.com.tw###flyRightBox
 gamer.com.tw###flyRightBox:style(position: absolute!important; left: -3000px!important;)
 gamer.com.tw###flySalve
@@ -7330,7 +7332,6 @@ huanqiu.com##.itemAd
 huanqiu.com##.r-hqFashion
 huanqiu.com##.r-hqNext-ad
 huanqiu.com##.right-box > article-other-template
-huaren.live##+js(set-constant, ConFig.config.ads, {})
 huaren.live##.action-ad
 huaren.tv##.live-client_left
 huaren.tv##.live-client_right
@@ -7340,6 +7341,7 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huavod.com,huaren.live##+js(set-constant, ConFig.config.ads, {})
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
