@@ -3007,6 +3007,7 @@
 6fzd.com,fzd3.com###comiis_app_block_74
 6fzd.com,fzd3.com###comiis_app_block_84
 6fzd.com,fzd3.com###tuiguang
+6park.com##.main_news_list > a[href^="http"]:not([href*="6park.com"])
 6park.com##a[href*=".php?key="]
 6park.com##a[href*="bpropolis."]
 6park.com##a[href*="geekbuying."]
@@ -3018,6 +3019,7 @@
 6park.com##table[width][align="center"] > tbody > tr > td[bgcolor="#FFFFEE"]:has(> div.adv-6park)
 6park.com##table[width][align="center"] > tbody > tr > td[bgcolor="#FFFFEE"]:has(> div[id*="ScriptRoot"])
 6park.com##table[width][align="center"] > tbody > tr > td[bgcolor="#FFFFEE"]:has(> table[width="100%"] > tbody > tr > td > div.adv-6park)
+6park.com##td[style="line-height:30px;text-align:center;color:red;background-color:white;"]
 6park.com,club.6parkbbs.com##.adv-6park
 6parknews.com###d_list > ul > li:has(a[href^="http"]:not([href*="6parknews"]))
 6parknews.com##.ad-view
@@ -7219,6 +7221,7 @@ hk01.com##div[data-id="lazyload-placeholder"]
 hkcards.com###ad-slot-01
 hkcards.com###ad-slot[style="min-width: 300px; min-height: 300px;"]
 hkcards.com##.row > .col-12 > #ad-slot
+hkcards.com##div[style*="min-height"]:has(.my-1)
 hkcards.com#@##ad-slot
 hkepc.com###headBanner
 hkepc.com##.headBanner
