@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-06 08:14:55
-! Total count: 37575
+! Version: 2025-12-06 16:13:13
+! Total count: 37567
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1530,7 +1530,6 @@
 ##a[href*="/gg1132.vip"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hgsfhgsfa.top"]
-##a[href*="/hs63.cc"]
 ##a[href*="/kt169.com"]
 ##a[href*="/l1y9.com"]
 ##a[href*="/mobads.php?"]
@@ -2486,7 +2485,6 @@ $websocket,domain=wap.yushuwu.cloud
 /\.[a-z]dyurli[a-z].top\//$script,3p
 /\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
-/\.[a-z]weisi[a-z].top\//$script,3p
 /\.[a-z]weisi[a-z].top\//$script,third-party
 /\.[a-z]yjqgp[a-z].top\//$script,third-party
 /\/[a-z0-9]+$/$script,3p,domain=gimy.com.tw
@@ -19090,7 +19088,6 @@ zzzyk.com###Tinfo
 ||75ossyemu.com^
 ||75rakcovr.com^
 ||766lnwfo7h.com^
-||7676.com^$3p
 ||7676.com^$third-party
 ||767drv.cn^
 ||76e.org^
@@ -19134,6 +19131,7 @@ zzzyk.com###Tinfo
 ||7aey.icu^
 ||7awf4fi9k7.com^
 ||7bfst8xxtc.com^
+||7c96k2gysn.com^
 ||7caidai.xyz^
 ||7car.com.cn^
 ||7cbwus.cn^
@@ -20449,7 +20447,6 @@ zzzyk.com###Tinfo
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
 ||anzeretp.com^
-||ao1*kas.top/$script,3p
 ||ao1*kas.top/$script,third-party
 ||ao1118kas.top^
 ||ao1120kas.top^
@@ -20458,7 +20455,6 @@ zzzyk.com###Tinfo
 ||ao1201kas.top^
 ||ao5yygeilh.com^
 ||aoakss.com^
-||aoao1*iis.top/$script,3p
 ||aoao1*iis.top/$script,third-party
 ||aoao11111iis.top^
 ||aoao11120iis.top^
@@ -20806,7 +20802,6 @@ zzzyk.com###Tinfo
 ||ayybzhd.cn^
 ||az5i.icu^
 ||az697jylm.cc^
-||az75h.cn^
 ||azaleada1.top^
 ||azdxypf.cn^
 ||azenco.xyz^
@@ -25193,7 +25188,6 @@ zzzyk.com###Tinfo
 ||gknybkl.cn^
 ||gkutca.xyz^
 ||gkvrdf.com^
-||gkxqt.cn^
 ||gkypgw.xyz^
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
@@ -34078,7 +34072,6 @@ zzzyk.com###Tinfo
 ||tubesafari.com/*/new_popunder.js$domain=tubesafari.com
 ||tubeviral.com/Webservices/jsParseLinks.aspx$script,third-party
 ||tubeviral.com/visitScript/$script,third-party
-||tubingacater.com^
 ||tucnmti.top^
 ||tucnwti.top^
 ||tudxhzj.cn^
@@ -34876,6 +34869,7 @@ zzzyk.com###Tinfo
 ||vid12050hl.com^
 ||vid12051hl.com^
 ||vid12060hl.com^
+||vid12061hl.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
@@ -36071,7 +36065,6 @@ zzzyk.com###Tinfo
 ||xklrsj.icu^
 ||xklv.cn^
 ||xkmwxwy.cn^
-||xkp.cc^$3p
 ||xkqit.com^
 ||xkrnud.icu^
 ||xkyn.com/imgs/js/al.js
@@ -36145,7 +36138,6 @@ zzzyk.com###Tinfo
 ||xn--qrq171dxpq.com^
 ||xn--sssy7vrppusjyv0a.com^
 ||xn--swt207gl1hzc.net^
-||xn--uirw6qy5u.com^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--wxtr44c.video^
