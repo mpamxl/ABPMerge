@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-07 16:13:01
-! Total count: 37578
+! Version: 2025-12-08 08:19:50
+! Total count: 37585
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18397,6 +18397,7 @@ zzzyk.com###Tinfo
 ||2lb.cc^
 ||2ld8mx979a.com^
 ||2lzg9mqzw.com^
+||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2osq127yy.com^
 ||2pogg4c.cn^
@@ -22133,6 +22134,7 @@ zzzyk.com###Tinfo
 ||cengqinglin.cn^
 ||centurys.net/promo_
 ||cenyou.net/wp-content/uploads/1200-200.
+||ceremony79.com^
 ||cergbtb36.shop^
 ||cergbwa97.shop^
 ||ceryt111.fun^
@@ -22176,6 +22178,7 @@ zzzyk.com###Tinfo
 ||chaospace.fun/wp-content/uploads/*/tg-
 ||chaoyumiao.com^
 ||chaqraex.com^
+||charger44.com^
 ||chaseherbalpasty.com^
 ||chat1.jd.com^
 ||chaturbate.com/affiliates/
@@ -24665,6 +24668,7 @@ zzzyk.com###Tinfo
 ||fourier.taobao.com^
 ||fourlaile.com^
 ||fp.nanrenwo.net^
+||fp2nn4zxlp.com^
 ||fpb*.51edu.com^
 ||fpb.sohu.com^
 ||fpb1.apple886.com^
@@ -25933,6 +25937,7 @@ zzzyk.com###Tinfo
 ||hikykhz.icu^
 ||hinet.net/product/promotion/$popup
 ||hinet.net/radio/getAdcode.do
+||hingidnaa.com^
 ||hiooq0417.com^
 ||hiqua.xyz^
 ||histats.com^
@@ -29021,6 +29026,7 @@ zzzyk.com###Tinfo
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
 ||m3cqjc3og6.com^
+||m43ocq1uoj.com^
 ||m4fxreb5s.com^
 ||m4pgay.com^
 ||m4r.fun^
@@ -34880,6 +34886,7 @@ zzzyk.com###Tinfo
 ||vid12061hl.com^
 ||vid12070hl.com^
 ||vid12071hl.com^
+||vid12080hl.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
