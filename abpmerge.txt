@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-08 08:19:50
-! Total count: 37585
+! Version: 2025-12-08 16:16:27
+! Total count: 37590
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -673,6 +673,7 @@
 ##.container > a[href^="http"] > .ads
 ##.containeradvertising
 ##.content > #dhxhtml
+##.content > .dds_w
 ##.content > .module > .small-icon-container > a.small-icon-div[target="_blank"]
 ##.content > .myads
 ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
@@ -869,6 +870,7 @@
 ##.mod_index_ad
 ##.module-adslist
 ##.module-adslists
+##.module-player > .dds_w
 ##.module-tglist > .tg-normal-box
 ##.module-ttlist.tt_w-2
 ##.module-yylist.tg_w
@@ -10103,6 +10105,7 @@ eprice.com.hk##.ad-end-article
 eprice.com.hk##.article__content > div[style*="text-align"]
 eprice.com.hk##.main-section > .text-center[style^="min-height:"]:has(> div[class^="ad-"])
 eprice.com.hk##div[id^="eprice-div-gpt-ad-"]
+eprice.com.hk##div[style]:has(> div[id^="div-gpt-ad-"])
 eprice.com.hk#@#.one-ad
 eprice.com.hk,ddcar.com.tw##.popup-adv
 eprice.com.hk,eprice.com.tw##.popup-adv
@@ -16285,7 +16288,6 @@ tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tsviewer.com#@#.adsbygoogle
 tt1069.com#@##adbrite
 tt776.com##iframe[src="/app/ad.html"]
-ttdm.me##.dds_w
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
 ttshow.tw##div[id^="ad_article_"]
 ttshow.tw##div[id^="ad_index_"]
@@ -26390,6 +26392,7 @@ zzzyk.com###Tinfo
 ||i8m6.com^
 ||i8tq.com/adImg/
 ||i90ptshd.top^
+||i97wqa881u.com^
 ||i9i3ko2o70.com^
 ||iabao.com/sladewap.js
 ||iad.apple.com^
@@ -28420,6 +28423,7 @@ zzzyk.com###Tinfo
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
 ||lfbupf.icu^
 ||lfbz317s.icu^
+||lfew.cn^
 ||lfffzv.xyz^
 ||lfflvh.icu^
 ||lfhdryz.xyz^
@@ -33595,6 +33599,7 @@ zzzyk.com###Tinfo
 ||teusyxz.icu^
 ||tewruti.top^
 ||texnet.com.cn/images/cnbanner/
+||tezeoddo.com^
 ||tezlpl.icu^
 ||tf.360.cn^
 ||tfbulkidn.com^
@@ -34056,7 +34061,6 @@ zzzyk.com###Tinfo
 ||ttad125.com^
 ||ttavav6.com/zz/
 ||ttdgbh.top^
-||ttdm.me/upload/files/sss/
 ||ttdpxh.xyz^
 ||tteferty33.fun^
 ||ttgbnmk.top^
@@ -34887,6 +34891,7 @@ zzzyk.com###Tinfo
 ||vid12070hl.com^
 ||vid12071hl.com^
 ||vid12080hl.com^
+||vid12081hl.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
