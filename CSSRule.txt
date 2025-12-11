@@ -13262,6 +13262,7 @@ youku.com##.sub-slides-wrap .swiper-wrapper > .swiper-slide:has(> a[target-url])
 youku.com##.swiper-container-horizontal > div.swiper-wrapper > div.swiper-slide:has(a[href*="/tg.602.com/"]):remove()
 youku.com##.swiper-wrapper > .swiper-slide:has(> a[target-url]):style(visibility: hidden !important;)
 youku.com##.videolist_s_body > div.common_container > div[id^="ab_"]
+youku.com##div[class*="adDrawer"]
 youku.com##div[class^="bullet_wrap_"]:has(> div[class^="yk_card_"] > a[data-spm^="yk_ad_"])
 youku.com##div[data-adext]
 youku.com##div[name="m_pos"] > #FullPromotion
