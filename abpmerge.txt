@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-10 16:18:07
-! Total count: 37618
+! Version: 2025-12-11 08:18:42
+! Total count: 37631
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3520,6 +3520,7 @@ $websocket,domain=wap.yushuwu.cloud
 /tourl.html?url=
 /tres/recommend/*$domain=ifeng.com
 /ts/ttfc.html?sc=$document,popup
+/tt1-1367073066.cos.
 /ttgg/*.js$script,third-party
 /tuiguang/*$domain=~jikexiu.com|~jikexiu.vip
 /tuiguang366.oss-
@@ -6551,6 +6552,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||ouest-france.fr/sites/all/themes/base/js/adblock.js$script
 @@||ozabc.com^$generichide
+@@||p3-tt.byteimg.com/obj/$domain=agedm.io
 @@||padsdel.com^$image,subdocument,domain=bitzfree.com
 @@||padstm.com^$image,subdocument,domain=bitzfree.com
 @@||pagead2.googlesyndication.com/*show_ads$script,domain=napisy24.pl
@@ -19017,6 +19019,7 @@ zzzyk.com###Tinfo
 ||6888.site^
 ||68s4eyiru.com^
 ||68td4yete.com^
+||68tkaiaji.com^
 ||68yscw.com^
 ||693836.com^$popup
 ||69adu.com/bootstrap.
@@ -19688,6 +19691,7 @@ zzzyk.com###Tinfo
 ||academic96.top^
 ||acasadf112.cn^
 ||acc.3gbizhi.com^
+||accomplish89.com^
 ||acdf115.cn^
 ||acdfwe113.cn^
 ||acdref117.cn^
@@ -22175,6 +22179,7 @@ zzzyk.com###Tinfo
 ||chabadokor.com^
 ||chachefa.com/asdfasdfqwer/
 ||chahua.org/aimg/
+||chairman69.top^
 ||chakd.com/images/xitie160x60.gif
 ||chaldailg.com^
 ||chanced112.com^
@@ -25641,6 +25646,7 @@ zzzyk.com###Tinfo
 ||hanlanad.com^
 ||hanlinzhijia.net^
 ||hanwdsii.com^
+||hanzidnbn.com^
 ||hanzify.*/Main/Template/Images/chinabank.gif
 ||hao.rising.cn/catalog/bottom.html
 ||hao.rising.cn/images/nsdgg.jpg
@@ -30744,6 +30750,7 @@ zzzyk.com###Tinfo
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js,domain=youneed.win,script
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=wuyong.fun,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=xiebruce.top
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=zhongguose.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=linovelib.com,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=mcappx.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=yodu.org
@@ -33821,6 +33828,7 @@ zzzyk.com###Tinfo
 ||tkiteri.top^
 ||tklivechat.com/widgets/$3p
 ||tklivechat.com/widgets/$third-party
+||tkll12110nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
@@ -34822,6 +34830,7 @@ zzzyk.com###Tinfo
 ||vcydyzd.icu^
 ||vd6.l.qq.com^
 ||vdfvdf33q.fun^
+||vdhatq0co.com^
 ||vdhf042.fun^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
@@ -34918,6 +34927,7 @@ zzzyk.com###Tinfo
 ||vid12091hl.com^
 ||vid12100hl.com^
 ||vid12101hl.com^
+||vid12110hl.com^
 ||vidcrunch.com/integrations/*_Responsive_*_DFP_$domain=discuss.com.hk
 ||video-ad.sm.cn^
 ||video-dsp.pddpic.com^
@@ -35615,7 +35625,7 @@ zzzyk.com###Tinfo
 ||wuplexv.cn^
 ||wuresde.top^
 ||wusfa.xyz^
-||wuxianxs.net/mm.
+||wuxianxs.net/m
 ||wuxibus.com/Image/title
 ||wuxingruoyin.top/public/*/plugins/
 ||wuyjtew.icu^
@@ -36492,6 +36502,7 @@ zzzyk.com###Tinfo
 ||yccz.net/xml/
 ||ycdywl.com^
 ||ycgfdf.cn^
+||ycglik.icu^
 ||ycgmnpp.icu^
 ||ych.asia^
 ||ychahlollfb.com^
@@ -36537,6 +36548,7 @@ zzzyk.com###Tinfo
 ||yemancomic.com/static/xiaomage.js
 ||yenauddk.com^
 ||yenyshy.com^
+||yeql3hzbd.com^
 ||yerecpa.cn/uploadsb/app_adv/
 ||yerhfnytky.top^
 ||yeryt111.fun^
@@ -36828,6 +36840,7 @@ zzzyk.com###Tinfo
 ||ysont.cn^
 ||ysqlmpo.cn^
 ||yssryr.cn^
+||ysuy.cn^
 ||ysx8.vip^$3p
 ||ysxs8.vip/js/bd_top.js
 ||ysxs8.vip/js/play_db.js
