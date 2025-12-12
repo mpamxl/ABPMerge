@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-11 16:17:59
-! Total count: 37634
+! Version: 2025-12-12 08:18:07
+! Total count: 37644
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18586,6 +18586,7 @@ zzzyk.com###Tinfo
 ||3ml8v.cn^
 ||3ndra.icu^
 ||3ni.icu^
+||3nopvvhju5.com^
 ||3p8801.co^
 ||3pefw1lz4.com^
 ||3pkf5m0gd.com^
@@ -24117,6 +24118,7 @@ zzzyk.com###Tinfo
 ||enalzlw.top^
 ||enbg.cn^
 ||endowmentoverhangutmost.com^
+||enelveufry.com^
 ||enennsa.gushiwen.cn^
 ||enet.com.cn/counter.php
 ||enews10.yxlady.net^
@@ -24137,6 +24139,7 @@ zzzyk.com###Tinfo
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
 ||ent1.qunchua.com^
+||entrepreneurs46.com^
 ||entry.baidu.com/rp/home?
 ||entry.baidu.com^
 ||entsnotesq.fun^
@@ -30338,6 +30341,7 @@ zzzyk.com###Tinfo
 ||oewtuho.cn^
 ||oexk.cn^
 ||oeya.com^$domain=myptt.cc
+||of384py2xt.com^
 ||ofd.meng-an.cn^$3p
 ||ofdnkro.xyz^
 ||ofebyk.xyz^
@@ -33832,6 +33836,8 @@ zzzyk.com###Tinfo
 ||tklivechat.com/widgets/$third-party
 ||tkll12110nb.com^
 ||tkll12111nb.com^
+||tkll12120nb.com^
+||tkll12121nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
@@ -34022,6 +34028,7 @@ zzzyk.com###Tinfo
 ||trafficstars.com^
 ||traiqnien.com^
 ||traukvan.com^
+||travel44.top^
 ||trc.taboola.com^
 ||trebleperfect.com^$3p
 ||trebleperfect.com^$third-party
@@ -34862,6 +34869,7 @@ zzzyk.com###Tinfo
 ||verysadfun.com/assets/publish/jquery.*.js
 ||veryt111.fun^
 ||vetxpx.icu^
+||veuf2obzc8.com^
 ||vevhjj.xyz^
 ||vexilorath.com^
 ||vezeqzyb.com^
@@ -35156,6 +35164,7 @@ zzzyk.com###Tinfo
 ||vvvkp.com/template/ttk/img/
 ||vvwuqxp.icu^
 ||vvxhth.xyz^
+||vwe5pjt0jq.com^
 ||vwfppr.xyz^
 ||vwiy.cn^
 ||vwmjkl.icu^
@@ -35564,6 +35573,7 @@ zzzyk.com###Tinfo
 ||wraataikep.com^
 ||wravorzt.com^
 ||wrdamoe.icu^
+||wres.cn^
 ||wrestle22.top^
 ||wrpsouf.cn^
 ||wrsikq.xyz^
