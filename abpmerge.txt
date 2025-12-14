@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-13 16:14:08
-! Total count: 37655
+! Version: 2025-12-14 08:15:23
+! Total count: 37667
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15685,6 +15685,7 @@ sohu.com##.x-adv-linear-panel
 sohu.com##.x-adv-pause-nonlinear-panel
 sohu.com##A[href='javascript:void(0);']
 sohu.com##DIV[id^="ceans_"]
+sohu.com##IFRAME[width='325'][frameborder='0']
 sohu.com##[data-spm-content='ad']
 sohu.com##[data-spm^='ad-']
 sohu.com##a[href*="_Click_Flow_recommend_"]
@@ -17896,6 +17897,7 @@ zzzyk.com###Tinfo
 ||0s1wclct6.com^
 ||0sg1gx04is.com^
 ||0sxs.com/js/all.
+||0tc1bdbgsm.com^
 ||0tq6ub.cn^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
@@ -19318,6 +19320,7 @@ zzzyk.com###Tinfo
 ||8u0.fun^
 ||8u6stvyww.top^
 ||8v08mjri7.com^
+||8wvb8xoqgq.com^
 ||8x14khzwmi.com^
 ||8x3wolchw.com^
 ||8x5vviy4r2.com^
@@ -21558,6 +21561,7 @@ zzzyk.com###Tinfo
 ||bnl2bii.icu^
 ||bnlbecm.xyz^
 ||bnnfvd.xyz^
+||bnqektutom.com^
 ||bnrdnx.xyz^
 ||bnrk7esglquispx2lsluttlm.xyz^
 ||bnti.cn^
@@ -24166,6 +24170,7 @@ zzzyk.com###Tinfo
 ||eouvxliw.top^
 ||eoyqzzk.cn^
 ||epaes.com.cn^
+||ephothuwi.com^
 ||epmumb34x.top^
 ||epoid.xyz^
 ||epoun.top^
@@ -25706,6 +25711,7 @@ zzzyk.com###Tinfo
 ||hapic1.zhuangxiu22.com^
 ||happyhongkong.com/images/client/
 ||hapying.com^
+||harmful26.top^
 ||harmony573.top^
 ||hasdjksndjk.com^
 ||hasdser.com^
@@ -27277,6 +27283,7 @@ zzzyk.com###Tinfo
 ||jgapcsi.icu^
 ||jgblvt.xyz^
 ||jghklz.xyz^
+||jgid.cn^
 ||jgidskia.top^
 ||jgjyxf.xyz^
 ||jglgjz.xyz^
@@ -30340,6 +30347,7 @@ zzzyk.com###Tinfo
 ||odxupm909y.com^
 ||odz12g5ag.com^
 ||oehhq.xyz^
+||oekkuthy.com^
 ||oelj.cn^
 ||oeryt111.fun^
 ||oesnwi.icu^
@@ -30802,6 +30810,7 @@ zzzyk.com###Tinfo
 ||parnett55.xyz^
 ||partner.googleadservices.com^$third-party
 ||partnerads.ysm.yahoo.com^
+||partnership75.com^
 ||patriotic66.top^
 ||pavwrr.icu^
 ||pay.sboot.cn^
@@ -33550,6 +33559,7 @@ zzzyk.com###Tinfo
 ||tarotmood.com/img/banner$domain=ixdzs.tw
 ||tarqk5.com^
 ||tarvrf.xyz^
+||tasgxk4ia6.com^
 ||tawk.to^$third-party
 ||taxismaned.top^
 ||taxoxz.xyz^
@@ -33846,6 +33856,7 @@ zzzyk.com###Tinfo
 ||tkll12121nb.com^
 ||tkll12130nb.com^
 ||tkll12131nb.com^
+||tkll12140nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
@@ -34793,6 +34804,7 @@ zzzyk.com###Tinfo
 ||v46uj91gh.com^
 ||v4dwkcv.com/html/click/
 ||v4dwkcv.com^
+||v4ox630nia.com^
 ||v4p.fun^
 ||v53groc9v.com^
 ||v6jt.cn^
