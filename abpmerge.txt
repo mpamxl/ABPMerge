@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-15 08:20:04
-! Total count: 37675
+! Version: 2025-12-15 16:18:48
+! Total count: 37680
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -777,6 +777,7 @@
 ##.hidden-text + .ad-container
 ##.his-sign-cont[data-dysign-adid]
 ##.hlol_ad
+##.home-qf > div[class*="img-ad"]
 ##.homepage > .wp-none1
 ##.hongbao_hd
 ##.horizontal-banner
@@ -7992,6 +7993,7 @@ baidu.com##.ec_im_container
 baidu.com##.ec_pc_ad
 baidu.com##.ec_sma_im
 baidu.com##.ec_wise_ad
+baidu.com##.ec_wise_ad *
 baidu.com##.ec_wise_ad:style(position: absolute !important; left: -3000px !important;)
 baidu.com##.ecom_pingzhuan
 baidu.com##.ecomad-banner-loading
@@ -20093,6 +20095,7 @@ zzzyk.com###Tinfo
 ||afqgqg4e.com^
 ||afqodjc.top^
 ||afrhwdumolf.com^
+||afrlodurf.com^
 ||afs.googlesyndication.com^
 ||afuz032.com^
 ||afvrolvial.com^
@@ -27104,6 +27107,7 @@ zzzyk.com###Tinfo
 ||ixlv.cn^
 ||ixnrmco.com^
 ||ixoe.cn^
+||ixog.cn^
 ||ixstng.cn^
 ||ixtu.cn^
 ||ixug0amgtn.com^
@@ -33865,6 +33869,7 @@ zzzyk.com###Tinfo
 ||tkll12140nb.com^
 ||tkll12141nb.com^
 ||tkll12150nb.com^
+||tkll12151nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
