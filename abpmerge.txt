@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-14 16:13:44
-! Total count: 37669
+! Version: 2025-12-15 08:20:04
+! Total count: 37675
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2298,6 +2298,7 @@ $websocket,domain=wap.yushuwu.cloud
 .vip/html/hfv.js
 .vip/html/zbxx.js
 .vip/js/ads/
+.vip/shenshang.js
 .vip/style/vue.js?v=
 .wap.x4399.com^
 .work/ads/
@@ -19237,6 +19238,7 @@ zzzyk.com###Tinfo
 ||86uk.com^$subdocument
 ||874547.men^
 ||876920.com^
+||877mcpiom.com^
 ||87asa.com^
 ||87d.xv5b.com^
 ||87mao.com/52
@@ -23391,7 +23393,6 @@ zzzyk.com###Tinfo
 ||dktad.com^
 ||dkweuy.com^
 ||dl.dropbox.com/u/50417078/gerador/LonelyHeart.mp3
-||dl.zuimeitianqi.com^
 ||dl12349.net^
 ||dlads.cn^
 ||dlads.cn^$3p
@@ -24205,8 +24206,6 @@ zzzyk.com###Tinfo
 ||ero-advertising.com^
 ||erqtga.xyz^
 ||err.ifengcloud.ifeng.com^
-||errlog.umeng.com^
-||errnewlog.umeng.com^
 ||ersjnpwf837.shop^
 ||ert.pengwenli.top^
 ||ertgbme.com^
@@ -25383,6 +25382,7 @@ zzzyk.com###Tinfo
 ||grandcomms.cn^
 ||granteesixtes.com^
 ||grarnuns.com^
+||grateful03.com^
 ||graunutbpz.com^
 ||grduswfx.com^
 ||greatnumeric.com^
@@ -28039,6 +28039,7 @@ zzzyk.com###Tinfo
 ||klljo2cp63.com^
 ||klmohbk.icu^
 ||kloojzn.icu^
+||kls24qtvc.com^
 ||kltjbnfjmnh.com^
 ||klufjdo.com^
 ||klvt.cn^
@@ -28295,6 +28296,7 @@ zzzyk.com###Tinfo
 ||l5kt1.icu^
 ||l5pzbzfnjm.com^
 ||l6.fancyapi.com^
+||l6h17ybxe.com^
 ||l7ghj.xyz^
 ||l7u3kf.cn^
 ||l80ays.com^
@@ -30167,6 +30169,7 @@ zzzyk.com###Tinfo
 ||nqdufv.xyz^
 ||nqlzlr.icu^
 ||nqoxurf.icu^
+||nqwgvk.cn^
 ||nqyrywn.icu^
 ||nrbwzh.icu^
 ||nrephihe.com^
@@ -30762,6 +30765,7 @@ zzzyk.com###Tinfo
 ||p7d3miyh2q.com^
 ||p7jroq6xco.com^
 ||p8u.hinet.net^
+||p99c3kwxg.com^
 ||pa026n1waq.com^
 ||pa4ye.cyou^
 ||pa6.fun^
@@ -32389,7 +32393,6 @@ zzzyk.com###Tinfo
 ||sacvmb.icu^
 ||saddarue.com^
 ||saelphol.com^
-||safebrowsing.googleapis.com^
 ||safebrowsing.urlsec.gg.com^
 ||safelinking.biz/adblock-detector.htm$subdocument
 ||sahqoo.com^
@@ -32736,6 +32739,7 @@ zzzyk.com###Tinfo
 ||shimo.im/lizard-api/ads
 ||shimo.im^*/ads?
 ||shipin188.com/66
+||shipment30.top^
 ||shitouxs.com/static/042417.js
 ||shixiong.xyz^
 ||shiyaokejishanghai.com^
@@ -33421,6 +33425,7 @@ zzzyk.com###Tinfo
 ||syfgtby.cn^
 ||sygmtz.com^
 ||syh-imp.cdnjtzy.com^
+||syh.zybang.com^
 ||syislob.top^
 ||syiwgwsqwngrdw.xyz^
 ||sykzow.xyz^
@@ -33859,6 +33864,7 @@ zzzyk.com###Tinfo
 ||tkll12131nb.com^
 ||tkll12140nb.com^
 ||tkll12141nb.com^
+||tkll12150nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
