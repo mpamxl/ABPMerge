@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-15 16:18:48
-! Total count: 37680
+! Version: 2025-12-16 08:19:01
+! Total count: 37690
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12646,6 +12646,7 @@ kaka12345.cc###main
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
 kalvin.cn##.fell_advertisement_box
+kanav.ad##div[class^="img-ad"]
 kankan.com###adv_box
 kankan.com###modal-adv
 kankan.com##.tuiguang_position
@@ -18450,6 +18451,7 @@ zzzyk.com###Tinfo
 ||32.huanqiu.com^
 ||321.jintang114.org^
 ||321mh.com/v1/getadvertise?
+||3245duu17z.com^
 ||3269x.com^
 ||32n.icu^
 ||32xp.com/upimg/
@@ -19045,6 +19047,7 @@ zzzyk.com###Tinfo
 ||6cs.icu^
 ||6cyfvvs.com^
 ||6efgcdcjr000.fun^
+||6fm4dcpj31.com^
 ||6ft8a.icu^
 ||6functf.com^
 ||6gukaitu.xyz^
@@ -20820,6 +20823,7 @@ zzzyk.com###Tinfo
 ||axz650.com^
 ||ayads-network-centor.com^
 ||ayalcid.icu^
+||aybikaemg.com^
 ||ayebsc.xyz^
 ||ayidaye.m.zwdu.com^
 ||aykibra.cn^
@@ -20848,6 +20852,7 @@ zzzyk.com###Tinfo
 ||b.dk/sites/all/libraries/messaging/adblock-messager.js$script,domain=b.dk
 ||b.kouke5.com^
 ||b.unjs.com^
+||b053d0h076.com^
 ||b08.fit^
 ||b0rbgroup.xyz^
 ||b0rz2s5ik.com^
@@ -21964,6 +21969,7 @@ zzzyk.com###Tinfo
 ||catalog.fjwhcbsh.com^
 ||catbox.moe/bb5wdv.jpg
 ||catherineagnesmj.com^
+||cautious60.com^
 ||cautols.com^
 ||caxhuuzto.com^
 ||cb.baidu.com^
@@ -24691,6 +24697,7 @@ zzzyk.com###Tinfo
 ||forex.com.cn/statics/images/ewm.jpg
 ||forflygonom.com^
 ||forrzp.xyz^
+||fortune59.com^
 ||forum.xitek.com/xml/flash.swf
 ||forzubatr.com^
 ||foscvbu.icu^
@@ -27823,6 +27830,7 @@ zzzyk.com###Tinfo
 ||kan.cc/statics/abs/scripts/abs.
 ||kan98.com/images/*.gif
 ||kan98.com/statics/js/k2017/kan98.js
+||kanav.ad/template/*/images/qf/
 ||kanbook.net/static/js_union/
 ||kancloud.cn/ad/
 ||kandaju.net/js/js2.
@@ -33870,6 +33878,7 @@ zzzyk.com###Tinfo
 ||tkll12141nb.com^
 ||tkll12150nb.com^
 ||tkll12151nb.com^
+||tkll12160nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
@@ -37129,6 +37138,7 @@ zzzyk.com###Tinfo
 ||zbc6hye*.xyz^
 ||zbc6hyip.xyz^
 ||zbcdn.net/__uvjgyw/slb.default.js
+||zbfo.cn^
 ||zbhuafx.com^
 ||zbislaernv.com^
 ||zbjimg.com/static/union/

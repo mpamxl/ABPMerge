@@ -8514,6 +8514,7 @@ kaka12345.cc###main
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
 kalvin.cn##.fell_advertisement_box
+kanav.ad##div[class^="img-ad"]
 kankan.com###adv_box
 kankan.com###modal-adv
 kankan.com##.tuiguang_position
