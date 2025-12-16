@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-16 08:19:01
-! Total count: 37690
+! Version: 2025-12-16 16:17:25
+! Total count: 37706
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2280,6 +2280,7 @@ $websocket,domain=wap.yushuwu.cloud
 .top/g3/myString3AsyncG?$third-party
 .top/gluinfo.php?s=$third-party
 .top/upload/ad.js
+.top:*/js.php?z=*=$third-party
 .top^*-960x80-*.gif
 .tor*/js/jquery.bpopup.
 .tv/ads/
@@ -16490,7 +16491,7 @@ ukvarminting.com#@#.ipsAd
 ulifestyle.com.hk##body:style(overflow: auto !important;)
 umahdroid.blogspot.com###energysaving
 umbooks.com##+js(abort-current-script, document.writeln)
-umbooks.com,vikacg.com##+js(no-window-open-if)
+umbooks.com##+js(no-window-open-if)
 un-block-voe.net,voe-un-block.com,voe.bar,voe.sx,voeun-block.net,voeunbl0ck.com,voeunblck.com,voeunblk.com,voeunblock.com,voeunblock1.com,voeunblock2.com,voeunblock3.com#$#abort-on-property-read VODMonetisation
 unfair.co###awesomemessage
 ungtycomicsvip.org#$#abort-current-inline-script document.body.addEventListener window.open
@@ -16652,7 +16653,9 @@ vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort
 vidsrc.*,cucuflix.*#$#abort-current-inline-script document.createElement /referrerPolicy.*no-referrer-when-downgrade/;
 viet69.st,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenbeta.com,yurineko.my,heoxinh.net,hd.javhay.site,phimsexhay669.pro,cliphot69.asia,doctruyen3qui.com,ihentai.now,animehay.red,jav.vc,top1sex.me,xemsex.cc,hentaivc.com,sexvn1.cc,streamvl.top,www.buomtv.io,truyenvn.li,cdnstream.sbs,javtiful.com,sex.tuoi69.store,quatvn.fit,tenmientruyengi.net,top1phimsex.com,phim18hd.cam,xem.sexviet88.link,vnsexmup.net,demo.14412882.com,vnsexmup.net,ungtycomicsvip.org,xemphim18.vip,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenhay.com,damconuong.my#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
+vikacg.com##+js(no-window-open-if, !/external)
 vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
+vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
@@ -17412,6 +17415,8 @@ yes-news.com##.new-index-main-728
 yes-news.com##.new-index-main-ysm
 yes-news.com##.new-sidebar-today-300ad
 yes-news.com##.notification
+yeshuyuan.com##+js(abort-on-property-read, adbyunion)
+yeshuyuan.com##a[href^="http://www.18wen18.com/"]
 yesky.com###flayer
 yesky.com###gfapp1
 yesky.com##.abox
@@ -17867,6 +17872,7 @@ zzzyk.com###Tinfo
 ||08088.top^
 ||080999.cn^
 ||085cczz.com^
+||086123.xyz^
 ||087tqb.cn^
 ||093yuht.com^
 ||0941.org^
@@ -19020,6 +19026,7 @@ zzzyk.com###Tinfo
 ||66zhuang.com/public_2017/js/count-gou.js
 ||67.21.92.*.gif
 ||670t5x.cn^
+||6726lmym.top^
 ||6789.net^$3p
 ||6789.net^$third-party
 ||67u36vmzm.com^
@@ -19152,6 +19159,7 @@ zzzyk.com###Tinfo
 ||79zxcv.com^
 ||7aey.icu^
 ||7awf4fi9k7.com^
+||7b6c81b4c2.com^
 ||7bfst8xxtc.com^
 ||7c96k2gysn.com^
 ||7caidai.xyz^
@@ -19284,6 +19292,7 @@ zzzyk.com###Tinfo
 ||88lm15.com^
 ||88lmfff666.com^
 ||88p2p.com^$popup
+||88r6s1hecp.com^
 ||88tm6.cc^
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -24562,6 +24571,7 @@ zzzyk.com###Tinfo
 ||fidk.cn^
 ||fidruqwny.com^
 ||fiezaits.com^
+||fifzsym.top^
 ||figvatqrwd.com^
 ||fijipic.xyz^
 ||fiktvlnc.icu^
@@ -31789,6 +31799,7 @@ zzzyk.com###Tinfo
 ||qsyliey.top^
 ||qtbo.cn^
 ||qtd95fj.online^
+||qtevriko.com^
 ||qtienly.top^
 ||qtimiyy.top^
 ||qtmdzsj.cn^
@@ -32739,6 +32750,7 @@ zzzyk.com###Tinfo
 ||shewang.net/images/*/banner
 ||shfq.com/data/attachment/portal/
 ||shfq.com/wuyue
+||shieryuefajkix.com^
 ||shigao.icu^
 ||shigl.top^
 ||shihuo.cn/alibtn_
@@ -32752,6 +32764,7 @@ zzzyk.com###Tinfo
 ||shimo.im^*/ads?
 ||shipin188.com/66
 ||shipment30.top^
+||shisanmaozser.com^
 ||shitouxs.com/static/042417.js
 ||shixiong.xyz^
 ||shiyaokejishanghai.com^
@@ -33879,6 +33892,7 @@ zzzyk.com###Tinfo
 ||tkll12150nb.com^
 ||tkll12151nb.com^
 ||tkll12160nb.com^
+||tkll12161nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
@@ -34284,6 +34298,7 @@ zzzyk.com###Tinfo
 ||txd8s0oif.com^
 ||txhfgwgkwt7.asia^
 ||txhfgwgkwt8.asia^
+||txhywh.cn^
 ||txjfso.com^
 ||txmeeqz.icu^
 ||txnczz.icu^
@@ -36835,6 +36850,7 @@ zzzyk.com###Tinfo
 ||youmelive.com/timg/
 ||youp05.com^
 ||youqunjx.com^$3p
+||your-name.click^
 ||yournames.click^
 ||youth.cn/images/c.js
 ||youth.cn/images/public_

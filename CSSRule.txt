@@ -12293,7 +12293,7 @@ ukvarminting.com#@#.ipsAd
 ulifestyle.com.hk##body:style(overflow: auto !important;)
 umahdroid.blogspot.com###energysaving
 umbooks.com##+js(abort-current-script, document.writeln)
-umbooks.com,vikacg.com##+js(no-window-open-if)
+umbooks.com##+js(no-window-open-if)
 un-block-voe.net,voe-un-block.com,voe.bar,voe.sx,voeun-block.net,voeunbl0ck.com,voeunblck.com,voeunblk.com,voeunblock.com,voeunblock1.com,voeunblock2.com,voeunblock3.com#$#abort-on-property-read VODMonetisation
 unfair.co###awesomemessage
 ungtycomicsvip.org#$#abort-current-inline-script document.body.addEventListener window.open
@@ -12451,7 +12451,9 @@ vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.*,gostream.nu,openloadmovies.net
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 viet69.st,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo.net,truyengihotnha.com,truyengihotnha.net,truyengihotnay.com,dualeotruyenbeta.com,yurineko.my,heoxinh.net,hd.javhay.site,phimsexhay669.pro,cliphot69.asia,doctruyen3qui.com,ihentai.now,animehay.red,jav.vc,top1sex.me,xemsex.cc,hentaivc.com,sexvn1.cc,streamvl.top,www.buomtv.io,truyenvn.li,cdnstream.sbs,javtiful.com,sex.tuoi69.store,quatvn.fit,tenmientruyengi.net,top1phimsex.com,phim18hd.cam,xem.sexviet88.link,vnsexmup.net,demo.14412882.com,vnsexmup.net,ungtycomicsvip.org,xemphim18.vip,cliphot69.pics,hhtq5.vip,sexdiary.club,vn2.xvideos69.xxx,umetruyenhay.com,damconuong.my#$#abort-current-inline-script WebAssembly instantiate
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
+vikacg.com##+js(no-window-open-if, !/external)
 vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
+vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 ville-ideale.com###antyp
 ville-ideale.com###enc
 ville-ideale.com###espace
@@ -13185,6 +13187,8 @@ yes-news.com##.new-index-main-728
 yes-news.com##.new-index-main-ysm
 yes-news.com##.new-sidebar-today-300ad
 yes-news.com##.notification
+yeshuyuan.com##+js(abort-on-property-read, adbyunion)
+yeshuyuan.com##a[href^="http://www.18wen18.com/"]
 yesky.com###flayer
 yesky.com###gfapp1
 yesky.com##.abox
