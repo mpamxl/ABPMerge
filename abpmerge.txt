@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-17 08:18:41
-! Total count: 37718
+! Version: 2025-12-17 16:16:38
+! Total count: 37724
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -22885,6 +22885,7 @@ zzzyk.com###Tinfo
 ||czpnpjrg.xyz^
 ||czsp12.com/api/*=advert&
 ||czsp12.com/api/*=announce&
+||czt4gnz57.com^
 ||cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6.jpg
 ||czxvgod.xyz^
 ||d*.ruiwen.com^
@@ -26438,6 +26439,7 @@ zzzyk.com###Tinfo
 ||i100.cao-gao.xyz/aimgs/
 ||i2wj211yk.com^
 ||i2wq4.icu^
+||i2ye9dnle.com^
 ||i322.com/ad_avshow/
 ||i3z.cn^$3p
 ||i3z.cn^$third-party
@@ -27447,6 +27449,7 @@ zzzyk.com###Tinfo
 ||jjkiahh.icu^
 ||jjklrcw.com^
 ||jjnyzeck.icu^
+||jjpe6btbb.com^
 ||jjplaqyo.icu^
 ||jjpyaj214.com^
 ||jjwxc.net/adsmanage.
@@ -30791,6 +30794,7 @@ zzzyk.com###Tinfo
 ||p52q.cn^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||p66-ad.adkwai.com^
+||p66jed4iv.com^
 ||p70y44odg.com^
 ||p7d3miyh2q.com^
 ||p7jroq6xco.com^
@@ -33903,6 +33907,7 @@ zzzyk.com###Tinfo
 ||tkll12160nb.com^
 ||tkll12161nb.com^
 ||tkll12170nb.com^
+||tkll12171nb.com^
 ||tknkfd.xyz^
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
@@ -34729,6 +34734,7 @@ zzzyk.com###Tinfo
 ||utve.cn^
 ||utwwzqdx.xyz^
 ||utywsi.cn^
+||utzacheiye.com^
 ||uu09cjylmzsym.top^
 ||uu1.3gu.com^
 ||uu11881.com^
