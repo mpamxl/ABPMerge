@@ -11422,6 +11422,7 @@ socialmediagirls.com#$#abort-on-property-read ExoVideoSlider.init
 socketloop.com##.adtester-container
 socketloop.com#@##banner_ads
 soft-down.net##.box-top-xiazai
+soft.3dmgame.com##.btnbox > a.btnsecurity
 soft.macx.cn#@##googlead
 soft.macx.cn#@##googlead1
 soft4fun.net###xad_mu
