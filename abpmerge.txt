@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-17 16:16:38
-! Total count: 37724
+! Version: 2025-12-18 08:17:45
+! Total count: 37735
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1823,7 +1823,7 @@
 $3p,websocket,xhr,domain=qiyoudy2.com|qiyoudy4.com
 $3p,xhr,domain=subhd.tv|subhdtw.com|zzzzz688.com
 $csp=script-src 'self' * 'unsafe-inline',domain=bijiyd.com|7zhens.com|wamuku.cc|scmmxs.com|jinduxs.com|buhesw.com|luenbook.cc|zahubook.com|heciwk.com|quhesw.com|erzuwk.com|bowoxs.com|guashuge.com|mudanxs.com|mzbook.cc|haduks.com|caimozw.com|zaaizw.com|bogeks.com|oushuku.com|haxu8.com|pucixs.com|tuqisw.com|xueyisw.com|zuye8.com|yawoxs.com|guwoxs.com|jiufuzw.com|beianxs.com|shuying6.com|mafusw.com|cule9.com|riquzw.com|xingksw.com|enbusw.com|waguwk.cc|ruyisw.com|zuxiku.com|jinmusb.com|hunshuge.com|puyewk.com|kaaiwk.com|hadu520.com|qubosw.com|meisibook.com|cuaizw.cc|boxue8.cc|cipubook.com|ququsk.cc|yiyezao.com|shanhuxs.com|jiutusw.com|chahuax.com|candoug.com|hanziwen.com|haduzw.com|modaoshu.com|nipubook.com|nuoshuge.com|puquz.com|wuwusk.com
-$csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
+$csp=script-src 'self' * 'unsafe-inline',domain=feiguaks.com|iqmxs.cc|jinpai123.net|hshfm.com|xbiqige.cc|1qxs.com|xddxsw.net|jakxs.net|bisowu.net|zyywenxue.com|xiakezw.com|biqul.com|biqugeks.org|girlsoncam.net|japonfilmleri.com|minaeast.net|shumi.la|59xs.com|biqugen.com|8181zw.vip|biqugequ.org|69shumi.com|fxxs3.com|efuxs.com|i3book.com|genbiquge.com|quanbiqu.com|pinshu.org|13xsw.com|bbiquge.cc|taobiquge.com|haijiaobooksw.top|zlobin.net|piaotianxiaoshuo.com|yebiquge.com|jvbiquge.com|vipbiquge.com|jpbqg7.com|zuizhong.net|oldtimeswx.org|5book.cc|softtechsolution.org|product44.com|snxsw.com|xiexinde.net|m.6666xsw.com|m.chenkuan.com|jmshuwu.net|wodexiaoshuoh.com|tetservices.net|haitangsoshu.org|4hrz.net|x33yq.org|56xiaoshuo.net|novelser.com|ykxs.cc|biqudd.com|diyibanzhu44444.com|dbrxs.org|kaixindu.net|1ingatlan.net|gaofuwu.org|yushuwu.cloud|yswxs.com|biquge2345.com|dingdian911.com|bqug8.com|xianguke.net|kunnu.com|yourbiquge.com|biquge345.com|666biquge.com|biquwx.cc|1kans.net|aidu123.com|biquluo.info|bqgh.com|jmshuwu.net|maxshuku.com|shukuge.com|sthuojia.net|tvyun07.com|zk01.net
 $csp=script-src 'self' * 'unsafe-inline',domain=smsonline.cloud
 $csp=script-src 'self' *,domain=zduxs.com|90shuyuan.com|hunhunxs.com|sswwxs.com|akexs.com|qqmmxs.com|qimiaoxs.cc|qimiaoxiaoshuo.com|wuwxs.com|biquge678.com|biqugezw.us
 $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.info|static.javhd.com|syndication.exosrv.com
@@ -10819,6 +10819,9 @@ ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
 gidonline.eu,torrent-soft.net#$#abort-on-property-read atob
 gierkionline.pl#$#hide-if-matches-xpath './/div[@id]//div[contains(text(),"Reklama")]/parent::div[contains(@class,"banner")]/ancestor::div[@id][@class][1]'
 giovanniterlingen.com#@#.text_ads
+girlsoncam.net,japonfilmleri.com,minaeast.net###playerdavLayer
+girlsoncam.net,japonfilmleri.com,minaeast.net##.da
+girlsoncam.net,japonfilmleri.com,minaeast.net##div[style^="position: fixed;"]
 girlstory.kr#@#.adsbygoogle
 girlstyle.com,thecatcity.com,urbanlifehk.com##.desktop-sidebar__block--ad
 girlstyle.com,thecatcity.com,urbanlifehk.com##.pl-main-article__ad-block
@@ -13506,9 +13509,6 @@ miliav.com##.b300
 military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com##.slide_doubleimg > .baiBox:remove()
-minaeast.net###playerdavLayer
-minaeast.net##.da
-minaeast.net##div[style^="position: fixed;"]
 minecraftzw.com##.e3lan-top
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
@@ -23403,6 +23403,7 @@ zzzyk.com###Tinfo
 ||djxpnuo.xyz^
 ||dk45h.icu^
 ||dkaktsb.icu^
+||dkaon1jjeo.com^
 ||dkasdeerw.xyz^
 ||dkasffredf.xyz^
 ||dkc63u5su8.com^
@@ -24343,6 +24344,7 @@ zzzyk.com###Tinfo
 ||ext.baidu.com^
 ||extmaps-api.yandex.net^
 ||extopae.icu^
+||extremely58.top^
 ||exvl.cn^
 ||eybstar.com^
 ||eydvg8.com^
@@ -25141,6 +25143,8 @@ zzzyk.com###Tinfo
 ||gg3a.cc^
 ||gg86.pinggu.org^
 ||gg88.bj.bcebos.com^
+||ggai12171cp.com^
+||ggai12180cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -26199,6 +26203,7 @@ zzzyk.com###Tinfo
 ||hqol.cn/up/ad/
 ||hqvkbn.icu^
 ||hqzcths.cn^
+||hriy.cn^
 ||hrjciqyu.icu^
 ||hrjctx.xyz^
 ||hrjg.com.cn^$3p
@@ -28270,6 +28275,7 @@ zzzyk.com###Tinfo
 ||kwhcgsqn2f.com^
 ||kwilmid.top^
 ||kwiqcoh.icu^
+||kwn91x0jke.top^
 ||kwo-0115.cc^
 ||kwongwah.com.my/wp-content/plugins/dibs_engine/js/dibs_popup.js
 ||kwqnki.xyz^
@@ -29374,6 +29380,7 @@ zzzyk.com###Tinfo
 ||mgzjin.cn^$3p
 ||mh3666.com^*.jsonp
 ||mh616.org^
+||mhaqoffcj7.com^
 ||mhaw.cn^
 ||mhdnspro.com^
 ||mhhanman.xyz/data/my/myjs.js
@@ -30856,6 +30863,7 @@ zzzyk.com###Tinfo
 ||payoneok.com^
 ||paywall.folha.uol.com.br^$domain=folha.uol.com.br
 ||pb.shuxigua.com^
+||pb1b7cqwvs.com^
 ||pbaiyho.cn^
 ||pbbhhxm.xyz^
 ||pbfefd.icu^
@@ -32614,6 +32622,7 @@ zzzyk.com###Tinfo
 ||selornews.com^
 ||semhgk.xyz^
 ||sender.contentjs.com^$popup
+||senior82.com^
 ||sensifyfugged.com^
 ||sensors-log.dongqiudi.com^
 ||sentcss.com/get/cors/spread/
@@ -34973,6 +34982,7 @@ zzzyk.com###Tinfo
 ||vgfj.cn^
 ||vghnnh.xyz^
 ||vgijoh.com^
+||vglkx9lick.com^
 ||vgnhigankih.com^
 ||vgnyli.top^
 ||vgovvoinf.com^
@@ -36904,6 +36914,7 @@ zzzyk.com###Tinfo
 ||yqdnad.icu^
 ||yqg.jobui.com^
 ||yqgzaewe.cn^
+||yqhorcill.com^
 ||yqlxkzs.cn^
 ||yqlzccxn.icu^
 ||yqqv.cn^

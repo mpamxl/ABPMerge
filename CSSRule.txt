@@ -6702,6 +6702,9 @@ ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
 gidonline.eu,torrent-soft.net#$#abort-on-property-read atob
 gierkionline.pl#$#hide-if-matches-xpath './/div[@id]//div[contains(text(),"Reklama")]/parent::div[contains(@class,"banner")]/ancestor::div[@id][@class][1]'
 giovanniterlingen.com#@#.text_ads
+girlsoncam.net,japonfilmleri.com,minaeast.net###playerdavLayer
+girlsoncam.net,japonfilmleri.com,minaeast.net##.da
+girlsoncam.net,japonfilmleri.com,minaeast.net##div[style^="position: fixed;"]
 girlstory.kr#@#.adsbygoogle
 girlstyle.com,thecatcity.com,urbanlifehk.com##.desktop-sidebar__block--ad
 girlstyle.com,thecatcity.com,urbanlifehk.com##.pl-main-article__ad-block
@@ -9349,9 +9352,6 @@ miliav.com##.b300
 military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com##.slide_doubleimg > .baiBox:remove()
-minaeast.net###playerdavLayer
-minaeast.net##.da
-minaeast.net##div[style^="position: fixed;"]
 minecraftzw.com##.e3lan-top
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
