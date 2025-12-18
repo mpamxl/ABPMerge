@@ -773,6 +773,7 @@
 ##.his-sign-cont[data-dysign-adid]
 ##.hlol_ad
 ##.home-qf > div[class*="img-ad"]
+##.home-qf > div[class*="img-qf"]
 ##.homepage > .wp-none1
 ##.hongbao_hd
 ##.horizontal-banner
