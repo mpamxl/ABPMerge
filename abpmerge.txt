@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-18 16:17:28
-! Total count: 37748
+! Version: 2025-12-19 08:18:26
+! Total count: 37769
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17880,6 +17880,7 @@ zzzyk.com###Tinfo
 ||087tqb.cn^
 ||093yuht.com^
 ||0941.org^
+||094kk.com^
 ||096iokj.com^
 ||09jsufg.com^
 ||0a0atz2sh.top^
@@ -17918,6 +17919,7 @@ zzzyk.com###Tinfo
 ||0vc.fun^
 ||0vllsf2g2.com^
 ||0w58wpq55.com^
+||0wpfe0duo.com^
 ||0x7iufg8hy.com^
 ||0xzxwnkqdu.com^
 ||0yq00i.cn^
@@ -19074,6 +19076,7 @@ zzzyk.com###Tinfo
 ||6lx.fun^
 ||6m8tk53pw.com^
 ||6mh8.com^
+||6o719vq4x.com^
 ||6oj.fun^
 ||6p2g1kk03.com^
 ||6pan.cc/ps/vip.jpg
@@ -21781,6 +21784,7 @@ zzzyk.com###Tinfo
 ||bvek.cn^
 ||bvlang.com/ad/
 ||bvpqrydt.xyz^
+||bvraciedl.com^
 ||bvrzwnq.xyz^
 ||bvsfv6.com^
 ||bvtwtwp.xyz^
@@ -23709,6 +23713,7 @@ zzzyk.com###Tinfo
 ||dtdqpc.top^
 ||dtfyhdghsd.online^
 ||dtindrofe.com^
+||dtjal7b1f.com^
 ||dtjcvd.icu^
 ||dtjpihv.xyz^
 ||dtnaximya.360doc.cn^
@@ -24116,6 +24121,7 @@ zzzyk.com###Tinfo
 ||ekykse.xyz^
 ||ekzf.cn^
 ||ekzmk.icu^
+||el2m3qr7v.com^
 ||elclaq.icu^
 ||elcncc.com^$third-party
 ||eldaridpr.com^
@@ -24355,6 +24361,7 @@ zzzyk.com###Tinfo
 ||eydvg8.com^
 ||eyhv.cn^
 ||eyislow.top^
+||eyiyoxz.xyz^
 ||eyny.com/data/cache/js_show_ads.js
 ||eyq3nog.icu^
 ||eyqbpifffccdc.net^
@@ -24498,6 +24505,7 @@ zzzyk.com###Tinfo
 ||fdyacma.icu^
 ||fe4c0422j.com^
 ||febtzd.xyz^
+||fedoq.com^
 ||feed-image.baidu.com^
 ||feed.baidu.com^
 ||feedou.com/nzq/style/pc/js/popbig.js
@@ -25151,6 +25159,7 @@ zzzyk.com###Tinfo
 ||ggai12171cp.com^
 ||ggai12180cp.com^
 ||ggai12181cp.com^
+||ggai12190cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -27495,6 +27504,7 @@ zzzyk.com###Tinfo
 ||jmif.cn^
 ||jmipzsn.icu^
 ||jmjslz.icu^
+||jmosl.com^
 ||jmr.nnxiant.cn^
 ||jmw.com.cn/m_v2/js/active.js
 ||jmydm.com/jspage/ftt.js
@@ -27511,6 +27521,7 @@ zzzyk.com###Tinfo
 ||jnwucna.top^
 ||jnyayk.xyz^
 ||jo4.icu^
+||jo9q3dhqf.com^
 ||joannarace.com^
 ||jocelynrace.com^
 ||jochenanabata.guru^
@@ -27720,6 +27731,7 @@ zzzyk.com###Tinfo
 ||jujcjz.xyz^
 ||juji.tv/Runtime/js/
 ||jun01.oss-cn-beijing.aliyuncs.com^
+||junior48.com^
 ||junpjmg96.com^
 ||junshi8181.com^
 ||junshizhanlue.com^$3p
@@ -28263,6 +28275,7 @@ zzzyk.com###Tinfo
 ||kuxkddg.cn^
 ||kv8899.com^
 ||kvbh.cn^
+||kvdxvqw.xyz^
 ||kvhee.com^
 ||kvkcei.xyz^
 ||kvqp.cn^
@@ -30228,6 +30241,7 @@ zzzyk.com###Tinfo
 ||nrqrbwi.top^
 ||nrsfh.com/neirong/
 ||nryqr.cn^
+||nsb42.com^
 ||nsclick.baidu.com^
 ||nsfsfn.xyz^
 ||nshvhfw.cn^
@@ -31812,6 +31826,7 @@ zzzyk.com###Tinfo
 ||qrumphathu.com^
 ||qrwcss.xyz^
 ||qrxmgfz.cn^
+||qrzwjfq.xyz^
 ||qsanciy.top^
 ||qscvli.com^
 ||qselic.top^
@@ -31900,6 +31915,7 @@ zzzyk.com###Tinfo
 ||qwoofao.top^
 ||qwrnkpow.com^
 ||qwsanan.top^
+||qwsbegovo.top^
 ||qwti.cn^
 ||qwursery.top^
 ||qxakzox.cn^
@@ -33150,6 +33166,7 @@ zzzyk.com###Tinfo
 ||speednetwork14.com^
 ||speedtest.cn/api/v2/show
 ||speedtest.cn/assets/images/ce_
+||spellbind33.com^
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||spkh.cn^
 ||spl.ztvx8.com^$3p
@@ -35498,6 +35515,7 @@ zzzyk.com###Tinfo
 ||wfjslie.top^
 ||wfndponfd.com^
 ||wfsmya.xyz^
+||wftihvn.xyz^
 ||wfvs.cn^
 ||wgceetonr.com^
 ||wgidskie.top^
@@ -36300,6 +36318,7 @@ zzzyk.com###Tinfo
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--49s928hlshoya.cn^
 ||xn--521-x72fh66s.cn^
+||xn--54q23ckxiyx0e.com^
 ||xn--6kr65fctg2t4e.com^
 ||xn--bqro42frpg5up.cn^
 ||xn--gov-x68dy61b.shop^
@@ -36866,6 +36885,7 @@ zzzyk.com###Tinfo
 ||ynztzh.com^$third-party
 ||yoda.kwd.inkuai.com^
 ||yofprpv.cn^
+||yohle.com^
 ||yoig.cn^
 ||yong.chazidian.com^
 ||yonsandileer.com^
@@ -37646,6 +37666,7 @@ zzzyk.com###Tinfo
 ||zvdc9y.icu^
 ||zvgvenibe.com^
 ||zvhlzb.xyz^
+||zvou.cn^
 ||zvtnj.icu^
 ||zvvg678.xyz^
 ||zvvlbf.xyz^
