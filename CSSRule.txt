@@ -13116,6 +13116,7 @@ yahoo.co.jp#$#hide-if-matches-xpath './/div[@style]/div[@style]/ancestor::div[@s
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
+yahoo.com###StreamMidCenter2Ad-0
 yahoo.com###crazyAD
 yahoo.com###crazyad_mask
 yahoo.com###hp-ad-left
@@ -13125,11 +13126,9 @@ yahoo.com###module-tabadktw
 yahoo.com###module-tabadsw
 yahoo.com###my-adsFPL
 yahoo.com###my-adsHPSPON
-yahoo.com###sda-mid-right-2-iframe
-yahoo.com###sda-mid-right-iframe
-yahoo.com###sda-top-right-iframe
 yahoo.com##.GeminiPortalStreamAd_handleViewport
 yahoo.com##.ad-tl2b
+yahoo.com##.bg-card-bg-1[class*="300px"]
 yahoo.com##.crazyad
 yahoo.com##.js-stream-content:has(a[href*=".promotions."])
 yahoo.com##.js-stream-content:has(div:contains(雅虎搜尋))
@@ -13146,8 +13145,10 @@ yahoo.com##div[data-content="廣告"]:not(#sda-MAST-iframe)
 yahoo.com##div[id$="-Ad-Proxy"]
 yahoo.com##div[id$="-Banner-Proxy"]
 yahoo.com##div[id^="ads-"]
+yahoo.com##div[id^="sda-"][id$="-iframe"]
 yahoo.com##li[id^="ad-"][class^="Pos"]
 yahoo.com##li[id^="gemini-ad-"]
+yahoo.com##li[id^="taboola-twhk-"]
 yahoo.com##section[class^="Pos"][data-id="big-gemini"]
 yahoo.com#?#.js-stream-content:-abp-has(a[href*=".promotions."])
 yahoo.com#?#.js-stream-content:-abp-has(div:-abp-contains(雅虎搜尋))
