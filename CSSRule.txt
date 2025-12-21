@@ -7792,6 +7792,7 @@ ipip.net##.row[style="width:1000px;margin:0px auto 25px auto;"]
 iplark.com##+js(addEventListener-defuser, DOMContentLoaded, localStorage)
 iplark.com##body > #capture-area ~ div[class]:empty
 iplark.com##body > div:not([class]):not([style])
+iplark.com##div.search-container > [style='display: block;']
 iplark.com##div[class^="banner"]
 iplaysoft.com###_cblzx
 iplaysoft.com###link1111
@@ -12456,6 +12457,7 @@ viet69.st,ungtycomicsvip.com,truyengihotqua.net,truyengihotqua.com,truyengihotdo
 view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 vikacg.com##+js(no-window-open-if, !/external)
 vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
+vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > .grid > a[href^="http"]:not([href*="vikacg."])
 vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 ville-ideale.com###antyp
 ville-ideale.com###enc
