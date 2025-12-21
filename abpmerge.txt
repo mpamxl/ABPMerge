@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-21 08:15:40
-! Total count: 37812
+! Version: 2025-12-21 16:13:38
+! Total count: 37819
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18497,6 +18497,7 @@ zzzyk.com###Tinfo
 ||33dav.com/static/js/banner.js
 ||33dav.com/static/js/bottom.js
 ||33img.com^$domain=18board.com|18p2p.com
+||33kw1wc58.top^
 ||33shu.net/js/game
 ||33w8tdyelw.com^
 ||33yq.org/static/1.
@@ -25184,6 +25185,7 @@ zzzyk.com###Tinfo
 ||ggai12200cp.com^
 ||ggai12201cp.com^
 ||ggai12210cp.com^
+||ggai12211cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -26023,6 +26025,7 @@ zzzyk.com###Tinfo
 ||hhttm.top^
 ||hi.xiunm.cn^
 ||hi.xiunm.com^
+||hi407ezyz.com^
 ||hi4c61mi8d.com^
 ||hiad.myweb.hinet.net^
 ||hiad.vmall.com^
@@ -31889,6 +31892,7 @@ zzzyk.com###Tinfo
 ||qtqv3cy43w.com^
 ||qtroytj33.fun^
 ||qtthehnor.com^
+||qttroiey.com^
 ||qtyusiy.top^
 ||qu96.com^
 ||quanxiaozi.com^
@@ -33987,6 +33991,7 @@ zzzyk.com###Tinfo
 ||tkqwurl.icu^
 ||tkres.tuku.cc/k32/
 ||tl86tv.com/52
+||tl9q49ffi.com^
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlbjw.com^
 ||tlfvj.cyou^
@@ -34486,6 +34491,7 @@ zzzyk.com###Tinfo
 ||u5eguuk2n.com^
 ||u5ps5.icu^
 ||u5smvk9bg.com^
+||u62x055tr.com^
 ||u6421d8aqt.com^
 ||u68t5.icu^
 ||u6u.icu^
@@ -37258,6 +37264,7 @@ zzzyk.com###Tinfo
 ||zbc6hyip.xyz^
 ||zbcdn.net/__uvjgyw/slb.default.js
 ||zbfo.cn^
+||zbgoyqs.xyz^
 ||zbhuafx.com^
 ||zbislaernv.com^
 ||zbjimg.com/static/union/
