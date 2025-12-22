@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-21 16:13:38
-! Total count: 37819
+! Version: 2025-12-22 08:19:21
+! Total count: 37832
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17923,6 +17923,7 @@ zzzyk.com###Tinfo
 ||0tq6ub.cn^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
+||0v0qj9fnwf.top^
 ||0vc.fun^
 ||0vllsf2g2.com^
 ||0w58wpq55.com^
@@ -18937,6 +18938,7 @@ zzzyk.com###Tinfo
 ||5dyx.com/static/jquery.js
 ||5dyx.com/static/js/deny.js
 ||5etv.com^$third-party
+||5f1qyi04vz.com^
 ||5fyme6x6uy.com^
 ||5fz.cc/t/aimg/tao
 ||5gg17gm.com^
@@ -21916,6 +21918,7 @@ zzzyk.com###Tinfo
 ||c4d4.cn^
 ||c4uy.icu^
 ||c6.friok.com^
+||c64ihqx0gj.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
 ||c9r05q.com^
@@ -22382,6 +22385,7 @@ zzzyk.com###Tinfo
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||chongyayakk.xyz^
 ||chooncv.icu^
+||chopsticks22.com^
 ||chorninsm.com^
 ||choujue.net/one/down.js
 ||choujue.net/script/
@@ -25151,6 +25155,7 @@ zzzyk.com###Tinfo
 ||gfdgfhh.cn^
 ||gffedashb6.fun^
 ||gfjn5.xyz^
+||gfnulonelb.com^
 ||gfpvvwf.xyz^
 ||gfrzzzx.cn^
 ||gftefmt.icu^
@@ -25186,6 +25191,7 @@ zzzyk.com###Tinfo
 ||ggai12201cp.com^
 ||ggai12210cp.com^
 ||ggai12211cp.com^
+||ggai12220cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -27884,6 +27890,7 @@ zzzyk.com###Tinfo
 ||k5w06v2yzh.com^
 ||k7f67a6s7.xyz^
 ||k8dm.com/960x70.
+||k8mb640mta.com^
 ||k99.cc^$3p
 ||k99.cc^$third-party
 ||k9u.icu^
@@ -32243,6 +32250,7 @@ zzzyk.com###Tinfo
 ||rkcfmfm97.com^
 ||rkgbqn.icu^
 ||rkgwzfwjgk.com^
+||rkjmhv2lvh.com^
 ||rklzpo.com^
 ||rkoi.cn^
 ||rkozoima.com^
@@ -32676,6 +32684,7 @@ zzzyk.com###Tinfo
 ||search3-search.ixigua.com^
 ||search5-search-hl.ixigua.com^
 ||search5-search.ixigua.com^
+||secondly74.com^
 ||securemetrics.apple.com^
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,domain=line.me
 ||securepubads.g.doubleclick.net^
@@ -34515,6 +34524,7 @@ zzzyk.com###Tinfo
 ||uapi.ads.heytapmobi.com^
 ||uaqdgrfr.icu^
 ||uaqe.cn^
+||uavk.cn^
 ||ub1.job592.com^
 ||ubeaui.xyz^
 ||ubeeludrt.com^
@@ -34660,6 +34670,7 @@ zzzyk.com###Tinfo
 ||ulogs.umengcloud.com^
 ||ulojlvmejkaem.xyz^
 ||uloscw.xyz^
+||ulpsd9qmja.com^
 ||ultrafiles.net/Webservices/jsParseLinks.aspx$script,third-party
 ||ultrafiles.net/visitScript/$script,third-party
 ||ultraimg.com^$domain=18board.com|18p2p.com
@@ -35153,6 +35164,7 @@ zzzyk.com###Tinfo
 ||vjie.com^$3p
 ||vjie.com^$third-party
 ||vjml.cn^
+||vjpdxx.icu^
 ||vjvj.vj24co.com^
 ||vjzqfh.icu^
 ||vjzvgvgz.icu^
@@ -35685,6 +35697,7 @@ zzzyk.com###Tinfo
 ||wnwucne.top^
 ||wnzle.com^
 ||wo1990.com^
+||wo30sg1orn.com^
 ||woaidu.org/images/20180802/3.jpg
 ||wodeshucheng.com^*/0
 ||wodeshucheng.com^*/1
