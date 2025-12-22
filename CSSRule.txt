@@ -6868,7 +6868,11 @@ gzmama.com###zone_index_fullcolumn_2
 gzmama.com###zone_left_couplet
 gzmama.com###zone_right_couplet
 gzmama.com###zone_top_fullcolumn
+h-ciyuan.com##.friend-links
+h-ciyuan.com##.gridview-grid-post-title:has(> a[title^="Permanent Link to 『Ad』"])
+h-ciyuan.com##.gridview-grid-post:has(a[title*="Ad』"])
 h-ciyuan.com##.responsive-figure
+h-ciyuan.com##.theiaStickySidebar .widget_media_image
 h5.17k.com##body:style(overflow: visible!important;)
 h5.17k.com##html:style(overflow: visible!important;)
 haaretz.co.il#$#hide-if-contains-and-matches-style /Labels/ section h2[class]
@@ -12523,6 +12527,10 @@ w3cschool.cn##.widget-main
 w3school.com.cn###fttg
 w3school.com.cn###sbtg
 w3school.com.cn###sp_tiy
+w4gv.4rzxy.net##.card-body
+w4gv.4rzxy.net##.cl.show-text
+w4gv.4rzxy.net##.n5_mohd
+w4gv.4rzxy.net##.show-text4:contains(AD)
 wacowla.com###home-top-narrow
 waerfa.com##.content-area > div#content > div > div.item:has(> a:not([href*="waerfa.com/"]) > img)
 waerfa.com##section > div.article-gg
