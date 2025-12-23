@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-22 16:15:19
-! Total count: 37847
+! Version: 2025-12-23 08:18:30
+! Total count: 37860
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18747,6 +18747,7 @@ zzzyk.com###Tinfo
 ||4wm.fun^
 ||4wmiuiyd70.com^
 ||4wu3gf.cn^
+||4wym8gups.com^
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
@@ -19365,6 +19366,7 @@ zzzyk.com###Tinfo
 ||8tbllquzr6.com^
 ||8u0.fun^
 ||8u6stvyww.top^
+||8uuxq3tvn.com^
 ||8v08mjri7.com^
 ||8wvb8xoqgq.com^
 ||8x14khzwmi.com^
@@ -21793,6 +21795,7 @@ zzzyk.com###Tinfo
 ||bupidt.xyz^
 ||bupsbp.icu^
 ||buresdv.top^
+||burette34.com^
 ||burniecrepes.com^
 ||business-agence.eu^$domain=footstream.tv
 ||business-api.tiktok.com^
@@ -24615,6 +24618,7 @@ zzzyk.com###Tinfo
 ||fhl05160ps.com^
 ||fhl05170ps.com^
 ||fhl05181ps.com^
+||fhnahnad.com^
 ||fhnbrx.xyz^
 ||fhovoldaw.com^
 ||fhrl2018.com^
@@ -24937,6 +24941,7 @@ zzzyk.com###Tinfo
 ||fydisk.com/images/showvip.gif
 ||fygel9rtc.com^
 ||fywaaox.icu^
+||fz94px.site^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
 ||fzdwtage.icu^
@@ -25203,6 +25208,7 @@ zzzyk.com###Tinfo
 ||ggai12211cp.com^
 ||ggai12220cp.com^
 ||ggai12221cp.com^
+||ggai12230cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -29303,6 +29309,7 @@ zzzyk.com###Tinfo
 ||mc5e9p8qx.com^
 ||mcahinohez.com^
 ||mcdwfed.cn^
+||mcge.cn^
 ||mcighme.icu^
 ||mckgmkh.icu^
 ||mckumf5ii4.com^
@@ -29714,6 +29721,7 @@ zzzyk.com###Tinfo
 ||mrgecm.xyz^
 ||mrhboe.xyz^
 ||mrj6nrqwz.com^
+||mrko3xiug.com^
 ||mrlxc51byo.com^
 ||mrqbuf.xyz^
 ||mrtlisx.top^
@@ -30599,6 +30607,7 @@ zzzyk.com###Tinfo
 ||olpv.onlylady.com^
 ||olqead.com^
 ||om.cn/api/ad-om/
+||omelette12.top^
 ||omgid.qq.com^
 ||omgmta.play.aiseet.atianqi.com^
 ||omgnqu.xyz^
@@ -30685,6 +30694,7 @@ zzzyk.com###Tinfo
 ||opwoga.xyz^
 ||opwqkq.icu^
 ||opzksyy.cn^
+||opzphurkro.com^
 ||oq6ry.com^
 ||oqaejin.icu^
 ||oqcw1f9yw.com^
@@ -34034,6 +34044,7 @@ zzzyk.com###Tinfo
 ||tmfsdk.m.qq.com^
 ||tmfsdktcpv4.m.qq.com^
 ||tmjzlr.icu^
+||tmlyhh.icu^
 ||tmochyf.cn^
 ||tmoclbf.icu^
 ||tmqhageaip.com^
@@ -36639,6 +36650,7 @@ zzzyk.com###Tinfo
 ||xywy.com/zhixing/
 ||xzelzfnj.xyz^
 ||xzji.com/data/block_js/softShow_
+||xzkumjdqj.com^
 ||xzrhvv.xyz^
 ||xzvhyx.com^
 ||xzwtbdtq.xyz^
@@ -36918,6 +36930,7 @@ zzzyk.com###Tinfo
 ||yktj.yzz.cn^
 ||ykwykw.xyz^
 ||ykxwn.com^
+||ykyfhxr.xyz^
 ||yl04z4v.cn^
 ||yldxphtg.xyz^
 ||ylghac.icu^
