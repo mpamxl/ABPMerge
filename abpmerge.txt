@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-23 16:15:56
-! Total count: 37865
+! Version: 2025-12-24 08:18:12
+! Total count: 37885
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15728,7 +15728,10 @@ soshu888.net##[style$='width: 100vw; position: relative;']
 sosimhk.com##.a-modal:style(display: none !important;)
 sosimhk.com##.modal-backdrop:style(display: none !important;)
 sosimhk.com##body:style(overflow: auto !important; padding-right: 0 !important;)
+sou-yun.cn###adsPanel:style(display: none !important;)
 sou-yun.cn###ads_index_2
+sou-yun.cn##body:style(overflow: auto !important;)
+sou-yun.cn#@##adsPanel
 sou.com###ad_wrapper_cpc_conversation-comment-right
 soufun.com##.danmu_inbox
 sound-park.rocks,sound-park.world,soundpark.rocks#$#abort-current-inline-script $ open
@@ -17713,10 +17716,12 @@ znds.com###diy_mobanbus_view_right2
 znews.vn#$#abort-on-property-read adtimaConfig
 zol.com.cn###Article_Top_Banner
 zol.com.cn###btmLoginLayer
+zol.com.cn###downBoxGaosu
 zol.com.cn###downBoxGaosu + a
 zol.com.cn###iframe_zmall
 zol.com.cn###official_url
 zol.com.cn###relatedProduct
+zol.com.cn###sideDoubao
 zol.com.cn##.down-append-mol__pic
 zol.com.cn##.local-spe-bottom
 zol.com.cn##.pv-mol_ask
@@ -18751,6 +18756,7 @@ zzzyk.com###Tinfo
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
+||4zm6p17ppr.com^
 ||4zn.fun^
 ||5.61.55.143^
 ||5.ccutu.com^
@@ -19222,6 +19228,7 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/js/ad_js/
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
+||7mxn77h4vr.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
 ||7qo2met.com^
@@ -23328,6 +23335,7 @@ zzzyk.com###Tinfo
 ||dh8ypn3lq8.com^
 ||dhaaralzz.com^
 ||dhannaq.com^
+||dhduc.com^
 ||dheear.site^
 ||dheilgorsy.com^
 ||dheirzeh.com^
@@ -24222,6 +24230,7 @@ zzzyk.com###Tinfo
 ||ent1.12584.cn^
 ||ent1.qunchua.cn^
 ||ent1.qunchua.com^
+||entrance79.top^
 ||entrepreneurs46.com^
 ||entry.baidu.com/rp/home?
 ||entry.baidu.com^
@@ -25211,6 +25220,8 @@ zzzyk.com###Tinfo
 ||ggai12220cp.com^
 ||ggai12221cp.com^
 ||ggai12230cp.com^
+||ggai12231cp.com^
+||ggai12240cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -30627,6 +30638,7 @@ zzzyk.com###Tinfo
 ||onclickads.net^
 ||onclickpredictiv.com^
 ||ondraits.com^
+||ondrotnw.com^
 ||one.fsylr.com^
 ||one.gongshu168.cn^
 ||one101.xyz/data/images/*.gif
@@ -30834,6 +30846,7 @@ zzzyk.com###Tinfo
 ||oyuwkbk.top^
 ||oyxp.xyz^
 ||oyysbc.xyz^
+||oyz61nhz8.com^
 ||ozhmig.cn^
 ||ozkbdxdu.icu^
 ||oztg6i0ass.com^
@@ -31182,6 +31195,7 @@ zzzyk.com###Tinfo
 ||pinlue.com/error/bangolike.js
 ||pinmgm.com^
 ||pinyuege.net/template/pinygm/public/js/
+||pipette22.top^
 ||pipi.cn/player/
 ||pipix.cc/gg.gif
 ||piqtpbxo.icu^
@@ -32093,6 +32107,7 @@ zzzyk.com###Tinfo
 ||rc7e.top^
 ||rcblfd.xyz^
 ||rcdwhp.xyz^
+||rchqtr.icu^
 ||rcilgeill.com^
 ||rcqmvmq.cn^
 ||rcqqlwb.cn^
@@ -34518,6 +34533,7 @@ zzzyk.com###Tinfo
 ||u2w95z.xyz^
 ||u33011.com^
 ||u346zd.top^
+||u39q45jzoj.com^
 ||u3qrlykp2.com^
 ||u408n6z4f.top^
 ||u40pdqw.com^
@@ -34635,6 +34651,7 @@ zzzyk.com###Tinfo
 ||ufne.cn^
 ||uftcfo.xyz^
 ||ufvauj.cn^
+||ufxs.cn^
 ||ug.snssdk.com^
 ||ugajiwft.icu^
 ||ugbjqwe.com^
@@ -35022,6 +35039,7 @@ zzzyk.com###Tinfo
 ||vbgyniffuy.com^
 ||vbiakpu.icu^
 ||vbjm.cn^
+||vbjmrh.cn^
 ||vbjzdl.top^
 ||vbllxaaj.icu^
 ||vbnmjjda.xyz^
@@ -35700,6 +35718,7 @@ zzzyk.com###Tinfo
 ||wn68din.cn^
 ||wn6y.cn^
 ||wn80drk.shop^
+||wnacammull.com^
 ||wnacg.*/1605524662751.gif
 ||wnacg.*/1sdfdc1/
 ||wnacg.*/58s/
@@ -37267,6 +37286,7 @@ zzzyk.com###Tinfo
 ||z4a.net^$domain=aotu43.com
 ||z4a.net^*/960x
 ||z4v.icu^
+||z60ft9y8lj.com^
 ||z6ro5.xyz^
 ||z8t.icu^
 ||z9k7.icu^

@@ -11544,7 +11544,10 @@ soshu888.net##[style$='width: 100vw; position: relative;']
 sosimhk.com##.a-modal:style(display: none !important;)
 sosimhk.com##.modal-backdrop:style(display: none !important;)
 sosimhk.com##body:style(overflow: auto !important; padding-right: 0 !important;)
+sou-yun.cn###adsPanel:style(display: none !important;)
 sou-yun.cn###ads_index_2
+sou-yun.cn##body:style(overflow: auto !important;)
+sou-yun.cn#@##adsPanel
 sou.com###ad_wrapper_cpc_conversation-comment-right
 soufun.com##.danmu_inbox
 sound-park.rocks,sound-park.world,soundpark.rocks#$#abort-current-inline-script $ open
@@ -13479,10 +13482,12 @@ znds.com###diy_mobanbus_view_right2
 znews.vn#$#abort-on-property-read adtimaConfig
 zol.com.cn###Article_Top_Banner
 zol.com.cn###btmLoginLayer
+zol.com.cn###downBoxGaosu
 zol.com.cn###downBoxGaosu + a
 zol.com.cn###iframe_zmall
 zol.com.cn###official_url
 zol.com.cn###relatedProduct
+zol.com.cn###sideDoubao
 zol.com.cn##.down-append-mol__pic
 zol.com.cn##.local-spe-bottom
 zol.com.cn##.pv-mol_ask
