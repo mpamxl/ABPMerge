@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-24 08:18:12
-! Total count: 37885
+! Version: 2025-12-24 16:15:26
+! Total count: 37891
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -25222,6 +25222,7 @@ zzzyk.com###Tinfo
 ||ggai12230cp.com^
 ||ggai12231cp.com^
 ||ggai12240cp.com^
+||ggai12241cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -29632,6 +29633,7 @@ zzzyk.com###Tinfo
 ||mnzvtwd.cn^
 ||mo-tuo.com^
 ||mo.gushiji.cc^
+||mo0lqi51s1.com^
 ||moa06190ju.com^
 ||moa06191ju.com^
 ||moa06200ju.com^
@@ -31793,6 +31795,7 @@ zzzyk.com###Tinfo
 ||qmfcybwbf19.com^
 ||qmfcybwbf28.com^
 ||qmgria.cn^
+||qmj89db55u.com^
 ||qmlog.baertt.com^
 ||qmwxb.com/skins/2/images/qp001.gif
 ||qn-cdnfile1pcdn.msstatic.com^
@@ -35500,6 +35503,7 @@ zzzyk.com###Tinfo
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||wazveqv.xyz^
+||wb7i614qen.com^
 ||wbczkm.icu^
 ||wbe4.cn^
 ||wbea.cn^
@@ -36269,6 +36273,7 @@ zzzyk.com###Tinfo
 ||xiexingcun.com/tyong.js
 ||xiezhuo038.cn^
 ||xiguasuwu.com/static/m.
+||xii1ybb2hk.com^
 ||xilele.com^
 ||xilofr.xyz^
 ||ximhirsew.com^
@@ -37110,6 +37115,7 @@ zzzyk.com###Tinfo
 ||ytqeavc.icu^
 ||ytqlyw.xyz^
 ||ytqvuq.icu^
+||ytralvbmto.com^
 ||ytroytj33.fun^
 ||ytse*.top/Static/Home/GongGao/img/
 ||ytv7335mt.com^
