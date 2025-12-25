@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-24 16:15:26
-! Total count: 37891
+! Version: 2025-12-25 08:17:42
+! Total count: 37905
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6225,6 +6225,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||hkjc.com/bannerad/
 @@||hm.baidu.com/hm.js$domain=rjno1.com
 @@||hmvod.com.hk/website/static/skin/images/share/
+@@||holmesmind.com/js/drawV2.$domain=bingfong.com
 @@||hopto.org/js/prebid-ads.
 @@||hopto.org^$generichide
 @@||hornywood.tv/intermission/loadTargetUrl$xmlhttprequest
@@ -18283,6 +18284,7 @@ zzzyk.com###Tinfo
 ||1p3yg.icu^
 ||1paujqtq9.com^
 ||1ppt.com/ad$image
+||1pt7wq8di.com^
 ||1pwx.com/js/ck.js
 ||1qa5x1k5v.com^
 ||1qboss9.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
@@ -18292,6 +18294,7 @@ zzzyk.com###Tinfo
 ||1r7efqo.tjfmd.com^$script,xmlhttprequest,domain=pch.com
 ||1rtb.com^
 ||1rwa5e8a6.com^
+||1s8hpetv3.com^
 ||1s8pj.cn^$3p
 ||1tp.icu^
 ||1tv.icu^
@@ -18704,6 +18707,7 @@ zzzyk.com###Tinfo
 ||4ce.fun^
 ||4cx5.icu^
 ||4d0m.cn^
+||4d45i6p0g.com^
 ||4d9f09z8c.com^
 ||4dyt.cn^
 ||4e9ynqm47d.com^
@@ -18939,6 +18943,7 @@ zzzyk.com###Tinfo
 ||5axxw.com/extends/ad/
 ||5azvpjx8xj.com^
 ||5b025cnm.top^
+||5bess6df0.com^
 ||5brxi.icu^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
@@ -20212,6 +20217,8 @@ zzzyk.com###Tinfo
 ||aili.com^$3p
 ||aili.com^$third-party
 ||aillaeuyn.com^
+||ainb12241zh.com^
+||ainb12250zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -20227,6 +20234,7 @@ zzzyk.com###Tinfo
 ||airav.cc/static/js/*_ad.js
 ||airline49.top^
 ||airouba.com/public/js/global.js
+||airport89.com^
 ||aiseet.aa.atianqi.com^
 ||aisixiang.com/images/*-20
 ||aisnj.cn^
@@ -21543,6 +21551,7 @@ zzzyk.com###Tinfo
 ||bjkedv*.xyz^
 ||bjmama.net/a/spc_
 ||bjmantis.net^
+||bjnyfav.xyz^
 ||bjrspnbf.xyz^
 ||bjs.faxingzhan.com^
 ||bjsxt.com/statics/js/bjsxt/js.js
@@ -24051,6 +24060,7 @@ zzzyk.com###Tinfo
 ||edadmy.xyz^
 ||edamcsw.top^
 ||eddcc.icu^
+||edethrelhf.com^
 ||edge.ads.twitch.tv^
 ||edghkc.xyz^
 ||edickew.top^
@@ -25223,6 +25233,7 @@ zzzyk.com###Tinfo
 ||ggai12231cp.com^
 ||ggai12240cp.com^
 ||ggai12241cp.com^
+||ggai12250cp.com^
 ||ggcode.2345.com^
 ||ggdfrl.com^
 ||ggdm1.nhaidu.net^
@@ -25486,6 +25497,7 @@ zzzyk.com###Tinfo
 ||gqoi.cn^
 ||gqwwshbdd1.fun^
 ||gqxwfhe7o.com^
+||graduate59.com^
 ||graesol.com^
 ||grandcomms.cn^
 ||granteesixtes.com^
@@ -34952,6 +34964,7 @@ zzzyk.com###Tinfo
 ||uybq.cn^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
+||uyfv.cn^
 ||uyislot.top^
 ||uym11.xyz^
 ||uymahuxv.xyz^
@@ -36197,6 +36210,7 @@ zzzyk.com###Tinfo
 ||xevaix.com^
 ||xevzdl.xyz^
 ||xeynozl.icu^
+||xfdlfj.icu^
 ||xfgctg.com^
 ||xflsj.com^
 ||xfqynrp.cn^
