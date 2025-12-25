@@ -5629,6 +5629,7 @@ douyu.com##a[href*=".miaozhen.com"]
 douyu.com##a[href*=".youzan.com"]
 douyu.com##a[href^="http://tracking.ad-survey.com/"]
 douyu.com##div[class^="ChargeTask"]
+douyu.com##div[class^="body__"] > div[class^="card__"] > span > span[class^="card__"]:has(span[class^="cardTypeLabel"]:contains(广告))
 douyu.com##div[id^="sign_p_"]
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
@@ -11170,6 +11171,7 @@ shoubozhan.com##style + div[id]
 showtv.com.tw###sub-ad
 showtv.com.tw##.ask18
 showtv.com.tw##.side-AD
+shua.leyz.top,virscan.org##div[class^="ad_"]
 shulink.com##.er_g
 shuowan.com##.side_flash
 sibnet.ru#$#prevent-listener DOMContentLoaded /pon-/
@@ -12476,7 +12478,6 @@ vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,
 vipracing.info##.in-video-adds
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > a[href][target="_blank"] > img
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > p > a[href][target="_blank"]
-virscan.org##div[class^="ad_"]
 viu.com##div[data-marker-title="undefined"]
 viu.com##div[id^="info"]
 vivo.sx#$#abort-current-inline-script Math

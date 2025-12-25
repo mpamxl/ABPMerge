@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-25 08:17:42
-! Total count: 37905
+! Version: 2025-12-25 16:14:53
+! Total count: 37914
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9736,6 +9736,7 @@ douyu.com##a[href*=".miaozhen.com"]
 douyu.com##a[href*=".youzan.com"]
 douyu.com##a[href^="http://tracking.ad-survey.com/"]
 douyu.com##div[class^="ChargeTask"]
+douyu.com##div[class^="body__"] > div[class^="card__"] > span > span[class^="card__"]:has(span[class^="cardTypeLabel"]:contains(广告))
 douyu.com##div[id^="sign_p_"]
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
@@ -15353,6 +15354,7 @@ show.ssports.com
 showtv.com.tw###sub-ad
 showtv.com.tw##.ask18
 showtv.com.tw##.side-AD
+shua.leyz.top,virscan.org##div[class^="ad_"]
 shulink.com##.er_g
 shuowan.com##.side_flash
 sibnet.ru#$#prevent-listener DOMContentLoaded /pon-/
@@ -16679,7 +16681,6 @@ vipleague.is,vipleague.ws,vipleague.se,vipleague.tv,vipleague.me,vipleague.mobi,
 vipracing.info##.in-video-adds
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > a[href][target="_blank"] > img
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > p > a[href][target="_blank"]
-virscan.org##div[class^="ad_"]
 viu.com##div[data-marker-title="undefined"]
 viu.com##div[id^="info"]
 vivo.sx#$#abort-current-inline-script Math
@@ -18889,6 +18890,7 @@ zzzyk.com###Tinfo
 ||555ppp777ppp.com^
 ||555ysys.com/gg/g.js
 ||55726zubo56686.com^
+||557ma7bd9.com^
 ||558158.xyz^
 ||5588.tv/js/piaofuImg.js
 ||55kp.app/aini.
@@ -19146,6 +19148,7 @@ zzzyk.com###Tinfo
 ||70.86.24.120:8060/
 ||7011.stia.cn^
 ||70822.com/agfile/
+||70ba9ncke.com^
 ||70r8fo5.com^
 ||7160.com/js/tiaozhuanquanju.js
 ||71lf6z67h6.com^
@@ -20219,6 +20222,7 @@ zzzyk.com###Tinfo
 ||aillaeuyn.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
+||ainb12251zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -23650,6 +23654,7 @@ zzzyk.com###Tinfo
 ||douyin.com/aweme/v1/web/solution/resource/list/*_banner&
 ||douyu.com/japi/sign/web/getinfo
 ||douyu.com/member/gamegift/gameList/
+||douyucdn.cn/adxdsp/
 ||douyucdn.cn/adxdsp/$image,media
 ||douyucdn.cn/butterfly-java/*?width=1200&height=100&
 ||douyucdn.cn/butterfly-java/*?width=1200&height=120&
@@ -27198,6 +27203,7 @@ zzzyk.com###Tinfo
 ||ivhv.cn^
 ||iviewui.com/v1/*?name=
 ||ivnrrkx.cn^
+||ivonnurb.com^
 ||ivqtrjt.cn^
 ||ivrokpyr.com^
 ||ivvn.cn^
@@ -32491,6 +32497,7 @@ zzzyk.com###Tinfo
 ||rythtg.top^
 ||ryvvzl.icu^
 ||rywnvzd.cn^
+||rz0f7uxv9.com^
 ||rz261.cn^$3p
 ||rz2xtcvuy.com^
 ||rz38db915.com^
@@ -34369,6 +34376,7 @@ zzzyk.com###Tinfo
 ||tupian88888.com^
 ||tupian9999.com^
 ||tuplzt.xyz^
+||turcailnt.com^
 ||turesdi.top^
 ||tushwjp.icu^
 ||tusmangas.net/ama/oso.js$script
@@ -36986,6 +36994,7 @@ zzzyk.com###Tinfo
 ||ylwrdnrw.xyz^
 ||ylypzbzs.xyz^
 ||ylznwl.cn^
+||ym3jmnu05.com^
 ||ymapiatm.xyz^
 ||ymauoo.xyz^
 ||ymcnsq.xyz^
