@@ -917,6 +917,8 @@
 ##.player-rm > a[href*=".umtrack.com"]
 ##.player-rm > a[href*="/ad.html?url="]
 ##.player-rm-float
+##.player-rma > a[target="_blank"]
+##.player-tl > a[target="_blank"]
 ##.player-tt-rm.rm-list
 ##.player-tt-rmm
 ##.player_ggw
@@ -11724,6 +11726,9 @@ supertaste.tvbs.com.tw###ad_m_bottom
 supertaste.tvbs.com.tw###lightbox--ad
 supertaste.tvbs.com.tw##.ad_m_block
 supertaste.tvbs.com.tw##.ad_m_top
+supertaste.tvbs.com.tw##.article_detail > div.cotxt_title:has(> p:contains(/延伸閱讀|你可能會喜歡|大家都在看/))
+supertaste.tvbs.com.tw##.sidebar > span:contains(人氣點閱榜)
+supertaste.tvbs.com.tw##div[id^="taboola-"]
 supertoinette.com#$#abort-on-property-read setInterval
 supjav.com##.asg-overlay
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
@@ -12525,6 +12530,8 @@ vuukle.com##a[href*="news.vuukle.com/u/"]
 vuzlit.com#$#abort-on-property-read _0xc091
 vx666.com##.async[href^="http"]
 vxetable.cn##+js(abort-current-script, decodeURIComponent, pagead)
+w.waipian.sbs##.popup-tips
+w.waipian.sbs##.shortcuts-mobile-overlay
 w3cschool.cn##.abox-content
 w3cschool.cn##.abox-item
 w3cschool.cn##.widget-main
@@ -12644,6 +12651,7 @@ weibo.com##.vue-recycle-scroller__item-view:has(.wbpro-ad-tag:contains(广告))
 weibo.com##.vue-recycle-scroller__item-view:has(div[class*="head-info_"]>div:contains(热推))
 weibo.com##.vue-recycle-scroller__item-view:has(div[class*="head-info_"]>img[src^="data"])
 weibo.com##.vue-recycle-scroller__item-view:has(img[class^="head-info_authicon_"][src^="data"])
+weibo.com##.vue-recycle-scroller__item-view:has(img[src="https://d.sinaimg.cn/prd/1005/891/2025/03/21/icon_auth_white.png"])
 weibo.com##.vue-recycle-scroller__item-view:has(span[class^="wbpro-icon-search"]:contains(/商|上新|好物/))
 weibo.com##.wbpro-side-panel:has(span[class^="wbpro-icon-search"]:contains(商))
 weibo.com##div.wbpro-side-panel:first-child
