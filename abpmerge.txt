@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-25 16:14:53
-! Total count: 37914
+! Version: 2025-12-26 08:17:17
+! Total count: 37929
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18261,6 +18261,7 @@ zzzyk.com###Tinfo
 ||1fxs.com^$3p
 ||1gmzo.icu^
 ||1gp3p6fkio.com^
+||1gqd0o687z.com^
 ||1gtp.icu^
 ||1htpkw6.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1iohncj.xyz^
@@ -19688,6 +19689,7 @@ zzzyk.com###Tinfo
 ||aa03010iiko.com^
 ||aa3e4.cyou^
 ||aa3zx8wko.top^
+||aa52jm08ly.com^
 ||aa67678156.com^$3p
 ||aa889977aa.com^
 ||aaa.tumanyi.com^
@@ -20223,6 +20225,8 @@ zzzyk.com###Tinfo
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
+||ainb12260zh.com^
+||ainb12261zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -20666,6 +20670,7 @@ zzzyk.com###Tinfo
 ||app-measurement.com^
 ||app.bugsnag.com^
 ||app.getsentry.com^
+||apparatus49.top^
 ||appc.baidu.com^
 ||appcfg.v.qq.com^
 ||appimg.0575bbs.com^
@@ -27287,6 +27292,7 @@ zzzyk.com###Tinfo
 ||j6zh4g0.cn^
 ||j7c16.icu^
 ||j7ifivzy.icu^
+||j7kv55pr70.com^
 ||j8tzoy3xwn.com^
 ||ja*.gamersky.com^
 ||ja.yushuha.com^
@@ -27415,6 +27421,7 @@ zzzyk.com###Tinfo
 ||jfsdiwmnbsk009.top^
 ||jfxefv.icu^
 ||jfyb6.com^
+||jg0y00ciyr.com^
 ||jg1668.com^$3p
 ||jgapcsi.icu^
 ||jgblvt.xyz^
@@ -30380,6 +30387,7 @@ zzzyk.com###Tinfo
 ||nuwurorwbr.com^
 ||nuxwlc.cn^
 ||nvdtdsd.xyz^
+||nvielkaa.com^
 ||nvjqtz.xyz^
 ||nvpokyko.icu^
 ||nvsheng.com/js/gg.js
@@ -34162,6 +34170,7 @@ zzzyk.com###Tinfo
 ||toolfk.com/common/zfb.jpg
 ||tools.3g.qq.com^
 ||tooreldretpl.com^
+||toothpick75.com^
 ||top2099.com^
 ||top888.com^$third-party
 ||topicimg.1234567.com.cn/product/2021/1/11/b914f8b6-fb61-4c85-834f-863b67c13a45.gif$domain=fund.eastmoney.com
@@ -34438,6 +34447,7 @@ zzzyk.com###Tinfo
 ||twfovierbz.com^
 ||twgzgqqu.com^
 ||twho.cn^
+||twhyhf.icu^
 ||twilmii.top^
 ||twinkleop.com^
 ||twjrxo.top^
@@ -34709,6 +34719,7 @@ zzzyk.com###Tinfo
 ||uiteligularly.fun^
 ||uivc.cn^
 ||ujgf120.com^
+||ujhu.cn^
 ||ujimtyt.top^
 ||ujmz.cn^
 ||ujnkn.com^
@@ -35230,6 +35241,7 @@ zzzyk.com###Tinfo
 ||vista.tuwan.com/s.js
 ||vitqzd.icu^
 ||vizacasa.xyz^
+||vizgrt.icu^
 ||vjharl.xyz^
 ||vjie.com^$3p
 ||vjie.com^$third-party
@@ -35262,6 +35274,7 @@ zzzyk.com###Tinfo
 ||vlpq.cn^
 ||vlujojf.icu^
 ||vm.aty.sohu.com^
+||vm5xs8nvqh.com^
 ||vmbzhfh.cn^
 ||vmcnl.xyz^
 ||vmdlxj.xyz^
@@ -35469,6 +35482,7 @@ zzzyk.com###Tinfo
 ||w4sn20zpvz.com^
 ||w51t.com^$subdocument
 ||w59g.icu^
+||w5bi16f3co.com^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
@@ -36762,6 +36776,7 @@ zzzyk.com###Tinfo
 ||yasorlbeu.com^
 ||yatemy.cn^
 ||yb0a.xyz^
+||ybbreqrake.com^
 ||ybcnvqf.cn^
 ||ybixvc.top^
 ||ybrrvck.xyz^
