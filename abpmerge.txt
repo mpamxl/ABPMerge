@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-27 08:15:50
-! Total count: 37953
+! Version: 2025-12-27 16:14:12
+! Total count: 37957
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20236,6 +20236,7 @@ zzzyk.com###Tinfo
 ||ainb12260zh.com^
 ||ainb12261zh.com^
 ||ainb12270zh.com^
+||ainb12271zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -21531,6 +21532,7 @@ zzzyk.com###Tinfo
 ||biqiuge8.cc/js/p
 ||biqivge.cc/js/d
 ||biqivge.cc/js/p
+||biquge700.com/h5/wap.
 ||biquge96.com/123.
 ||biqugie.com/js/wap.
 ||birbmcmp.icu^
@@ -33531,6 +33533,7 @@ zzzyk.com###Tinfo
 ||stunthedge.com^
 ||styusib.top^
 ||su.bdimg.com/static/dspui/js/
+||su0k43kcy.com^
 ||sub.powerapple.com^
 ||subhd.*/kaiyad.
 ||subhd.com/images/ap/
@@ -37351,6 +37354,7 @@ zzzyk.com###Tinfo
 ||z4a.net^$domain=9xav.cc
 ||z4a.net^$domain=aotu43.com
 ||z4a.net^*/960x
+||z4tnhm97b.com^
 ||z4v.icu^
 ||z60ft9y8lj.com^
 ||z6ro5.xyz^
