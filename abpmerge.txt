@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-26 16:14:08
-! Total count: 37940
+! Version: 2025-12-27 08:15:50
+! Total count: 37953
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20235,6 +20235,7 @@ zzzyk.com###Tinfo
 ||ainb12251zh.com^
 ||ainb12260zh.com^
 ||ainb12261zh.com^
+||ainb12270zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -21905,6 +21906,8 @@ zzzyk.com###Tinfo
 ||bytravel.cn/js/s_
 ||byuwkbv.top^
 ||byvlph.xyz^
+||bz*.com/js/cdn.js
+||bz*.com/js/html*.js$~3p,script
 ||bz*.net/js/cdn.js
 ||bz*.net/js/html*.js$~3p,script
 ||bz13t74nt.com^
@@ -21968,6 +21971,7 @@ zzzyk.com###Tinfo
 ||c4uy.icu^
 ||c6.friok.com^
 ||c64ihqx0gj.com^
+||c6hhfkvxv.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
 ||c9r05q.com^
@@ -22053,6 +22057,7 @@ zzzyk.com###Tinfo
 ||cash4links.co/Webservices/jsParseLinks.aspx$script,third-party
 ||cash4links.co/visitScript/$script,third-party
 ||casisi118.vip^
+||casserole59.top^
 ||cat.da.us.criteo.com^
 ||catalog.fjwhcbsh.com^
 ||catbox.moe/bb5wdv.jpg
@@ -24892,6 +24897,7 @@ zzzyk.com###Tinfo
 ||frthpp.icu^
 ||frtnqps358.shop^
 ||frtnqpw837.shop^
+||frzlftr9y.com^
 ||fsclzs.com/Ad_User/
 ||fsdf45.fun^
 ||fsgsfaf6.com^
@@ -26802,6 +26808,7 @@ zzzyk.com###Tinfo
 ||ikjwmfeds.xyz^
 ||ikkdm.com/mg/show2.js
 ||iklda.cn^
+||iklparx8i.com^
 ||iknwqdpo.xyz^
 ||ikronzealu.com^
 ||ikstatic.cn^*.gif
@@ -31147,6 +31154,7 @@ zzzyk.com###Tinfo
 ||phodhithp.com^
 ||phoorned.com^
 ||phorralut.com^
+||phosphate50.com^
 ||photo.*.html?tk=$script,3p
 ||photo.*.html?tk=$script,third-party
 ||photo.*/native?tk=$3p
@@ -34283,6 +34291,7 @@ zzzyk.com###Tinfo
 ||trends.com.cn/k.js
 ||trenhdg.com^$3p
 ||treqonwyp.com^
+||trerqekuw.com^
 ||trf6b.top^
 ||trfmxf.xyz^
 ||tribalfusion.com^
@@ -34493,6 +34502,7 @@ zzzyk.com###Tinfo
 ||txmeeqz.icu^
 ||txnczz.icu^
 ||txre.cn^
+||txru.cn^
 ||txscn.cn^
 ||txt9999.cc/ml.js
 ||txtyuzhaiwu.com/astyle/wap.js
@@ -34518,6 +34528,7 @@ zzzyk.com###Tinfo
 ||tytx.m.cn.miaozhen.com^
 ||tyutuyoo.top^
 ||tyuwkbi.top^
+||tyvybl.icu^
 ||tyzfoej.cn^
 ||tz-68-fabb.com/qiye/
 ||tz.sec.xiaomi.com^
@@ -37662,6 +37673,7 @@ zzzyk.com###Tinfo
 ||ziweuu.com^
 ||ziyuanm.com/js/g11.js
 ||zj-yxw.com^
+||zj7coeb5i.com^
 ||zj9puq8ycu.com^
 ||zjen.cn^
 ||zjg.js.cn/Public/config/Couplet/Index4
@@ -37705,6 +37717,7 @@ zzzyk.com###Tinfo
 ||zlzgfj.icu^
 ||zmbmoxij.icu^
 ||zmdjbl.xyz^
+||zmdttx.icu^
 ||zmhqhuq.cn^
 ||zmk.pw/zfb.png
 ||zmkp6jvq4.com^
