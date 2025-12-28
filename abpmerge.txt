@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-27 16:14:12
-! Total count: 37957
+! Version: 2025-12-28 08:16:06
+! Total count: 37968
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19256,6 +19256,7 @@ zzzyk.com###Tinfo
 ||7strqfn56s.com^
 ||7tc.fun^
 ||7u4b8l1zt.com^
+||7usgqu07mk.com^
 ||7vviw.cyou^
 ||7wzx9.com/tbad.
 ||7x7n.com/static/image/888.jpg
@@ -20237,6 +20238,7 @@ zzzyk.com###Tinfo
 ||ainb12261zh.com^
 ||ainb12270zh.com^
 ||ainb12271zh.com^
+||ainb12280zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -20315,6 +20317,7 @@ zzzyk.com###Tinfo
 ||al.newxue.com^
 ||albdbsk.xyz^
 ||alcoholic56.top^
+||aldehyde06.com^
 ||aldkfsd.cn^
 ||aldtop.com/scrtips/
 ||aldusmiskals.com^
@@ -26988,6 +26991,7 @@ zzzyk.com###Tinfo
 ||info.vip.iqiyi.com/promotion/
 ||infocab888.life^
 ||infogram.com^$domain=hk01.com
+||information43.com^
 ||infucierg.com^
 ||inhe.*/Uploadfiles/adpublish
 ||inhe.net/Uploadfiles/inhegg2016/
@@ -27224,6 +27228,7 @@ zzzyk.com###Tinfo
 ||iuuwuk.xyz^
 ||iuwkmpol.net^
 ||iuytfvhl.top^
+||ivdtruneda.com^
 ||ivhv.cn^
 ||iviewui.com/v1/*?name=
 ||ivnrrkx.cn^
@@ -32104,6 +32109,7 @@ zzzyk.com###Tinfo
 ||r40h9qvpq.com^
 ||r4u.icu^
 ||r4uj20yt2u.com^
+||r4uws5iu3g.com^
 ||r528e.cn^$3p
 ||r5dfwjtb.icu^
 ||r5twojylmzsym.top^
@@ -36526,6 +36532,7 @@ zzzyk.com###Tinfo
 ||xnxx-sexfilme.com/*froload.js?v=2^$domain=xnxx-sexfilme.com
 ||xnzetb.xyz^
 ||xnzxeu.com^
+||xo60kab7yv.com^
 ||xoceonsl.com^
 ||xogtrmjz.xyz^
 ||xoimg.com^$domain=18board.com|18p2p.com
@@ -36557,6 +36564,7 @@ zzzyk.com###Tinfo
 ||xpya.cn^
 ||xpyerxzn.xyz^
 ||xpyjyhny.xyz^
+||xpzodh.icu^
 ||xqblnei.cn^
 ||xqcjfcb.cn^
 ||xqoh.cn^
@@ -36757,6 +36765,7 @@ zzzyk.com###Tinfo
 ||y1n1n3e0v.com^
 ||y3600.cc/20
 ||y3600.cc/js/jquery.min.js
+||y4g8fgj6ra.com^
 ||y4l.icu^
 ||y4re1yokqv.com^
 ||y63eay93i.com^
@@ -36902,6 +36911,7 @@ zzzyk.com###Tinfo
 ||yhbheroq.xyz^
 ||yhbsk.cn^
 ||yhcca8h69o.com^
+||yhcu.cn^
 ||yhdd1.com^$3p
 ||yhdd1.com^$third-party
 ||yhdemu368.shop^
@@ -37407,6 +37417,7 @@ zzzyk.com###Tinfo
 ||zbl40hvzzy.com^
 ||zbldxf.icu^
 ||zblz.me^
+||zbrtnv.icu^
 ||zbv7kxrteclub.xyz^
 ||zbvchabjbcj.com^
 ||zbx01.com^
