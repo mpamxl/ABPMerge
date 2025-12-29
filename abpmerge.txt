@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-28 16:14:15
-! Total count: 37972
+! Version: 2025-12-29 08:19:58
+! Total count: 37985
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7863,6 +7863,7 @@ axutongxue.com##a[href^="https://axu.simhaoka.com/phone/index?id=B956B2050EAA740
 axutongxue.com,axutongxue.net###jjjagl
 axutongxue.com,axutongxue.net##[style^="height:58px;"]
 axutongxue.net##body > article[style]
+axutongxue.onrender.com,axutongxue.space,axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net###bottomSearch ~ div:not([id]) > .mySwiper
 axutongxue.onrender.com,axutongxue.space,axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##+js(no-setTimeout-if, /getCookie|checkCK|checkCookie|checkC00kie|checkCoookie|checkCookiiiie|document\.cookie|buttonClose|exptime/)
 axutongxue.onrender.com,axutongxue.space,axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##+js(set-constant, infoList, [])
 axutongxue.onrender.com,axutongxue.space,axutongxue.cn,axu.pages.dev,axutongxue.vip,axutongxue.com,axutongxue.net##body > [id]:has(> ul[class] > li > img.icon + a[href])
@@ -10445,6 +10446,7 @@ fmovies.*#$#abort-current-inline-script document.createElement delete window
 fmovies.*#$#hide-if-matches-xpath '//div[starts-with(@style, "position: fixed; inset: 0px; z-index: 2147483647; background: black; opacity: 0.01;")]';
 fmovies.*,hurawatch.cc,theflixer.tv#$#abort-on-property-read window.zfgstorage
 fmprc.gov.cn,mfa.gov.cn#@#.adbox2
+fnc.ebc.net.tw##.dfp_ad
 fnjiasu.com##.layui-layer
 fnjiasu.com##.sidebar_download
 fnjiasu.com##.swiper-container
@@ -17918,6 +17920,7 @@ zzzyk.com###Tinfo
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0dwm.icu^
+||0e1y8x7ft.com^
 ||0er7pc8.xyz^
 ||0h3uds.com^
 ||0h9yewgei.com^
@@ -20239,6 +20242,8 @@ zzzyk.com###Tinfo
 ||ainb12270zh.com^
 ||ainb12271zh.com^
 ||ainb12280zh.com^
+||ainb12281zh.com^
+||ainb12290zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -21641,6 +21646,7 @@ zzzyk.com###Tinfo
 ||bmptbyb.com^
 ||bmqulua.icu^
 ||bmyrihf.icu^
+||bmzzojmzu.com^
 ||bnalzlv.top^
 ||bnbwvp.top^
 ||bnds3.site^
@@ -23059,6 +23065,7 @@ zzzyk.com###Tinfo
 ||d7ytrv7yxa.com^
 ||d8962a.xyz^
 ||d89sze2uu.com^
+||d8lzzy93g.com^
 ||d9q4aa05g4.com^
 ||da-ads.com^$third-party
 ||da-fan-shu.cn/images/kuaijie.jpg
@@ -25307,6 +25314,7 @@ zzzyk.com###Tinfo
 ||ggxwb.miguvideo.com^
 ||ghabnq.xyz^
 ||ghairqin.com^
+||ghaudhur.com^
 ||ghegaintp.com^
 ||ghekcc.icu^
 ||gheqien.com^
@@ -26528,6 +26536,7 @@ zzzyk.com###Tinfo
 ||hybase.com/images/hysq99.png
 ||hybbs.com/i/$image,object
 ||hybrid.miniapp.taobao.com^
+||hydrocarbon77.top^
 ||hye.comp.360os.com^
 ||hyeqp.xyz^
 ||hyhnas.com^
@@ -29813,6 +29822,7 @@ zzzyk.com###Tinfo
 ||msite.baidu.com^
 ||msmcoa.xyz^
 ||msn.ynet.com/c/tj_comm.js
+||msn5vg8em.com^
 ||mssdhde.cn^
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
@@ -32209,6 +32219,7 @@ zzzyk.com###Tinfo
 ||reek.github.io/anti-adblock-killer/k2Uw7isHrMm5JXP1Vwdxc567ZKc1aZ4I.js|$script
 ||referentiel.nouvelobs.com/js/nobs;manifest-analytics.js$script
 ||reflection67.top^
+||registration09.top^
 ||reisyxy.icu^
 ||reke.at.sohu.com^
 ||relafp.xyz^
@@ -35402,6 +35413,7 @@ zzzyk.com###Tinfo
 ||vsping.com/website/ads?
 ||vsqovxf.icu^
 ||vstat.v.blog.sohu.com^
+||vsvgpr.icu^
 ||vswswlz.icu^
 ||vszzzj.xyz^
 ||vtbe.cn^
@@ -36261,6 +36273,7 @@ zzzyk.com###Tinfo
 ||xeikwh.icu^
 ||xekrbwex7d.com^
 ||xemphimviet.net^$third-party
+||xenlzn.icu^
 ||xerhibx.cn^
 ||xerqfh.xyz^
 ||xeryt111.fun^
