@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-29 08:19:58
-! Total count: 37985
+! Version: 2025-12-29 16:15:18
+! Total count: 37993
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16468,6 +16468,7 @@ u2mtv.com#@##slider-ad
 u7u9.com###pangu_leftBottom
 u7u9.com##.xw-right-ad
 uaa.com##.place_holder_box
+uaa.com##.popup_dialog_box
 uaa.com##.shortcut_box
 ubmcmm.baidustatic.com
 uc.cn##div[data-ad_url^="http"]
@@ -20244,6 +20245,7 @@ zzzyk.com###Tinfo
 ||ainb12280zh.com^
 ||ainb12281zh.com^
 ||ainb12290zh.com^
+||ainb12291zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -21590,6 +21592,7 @@ zzzyk.com###Tinfo
 ||bjxty88.com/js/foot.js
 ||bkad13gfu.com^
 ||bkhblj.xyz^
+||bkhxut1rz.com^
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
 ||bkill.com/css/js/xinbkill.js
@@ -22891,6 +22894,7 @@ zzzyk.com###Tinfo
 ||ctanet.cn/aqq/JS/
 ||ctc.weather.com.cn^
 ||ctcxflak.xyz^
+||ctdv3faci.com^
 ||ctenetwork.com^$third-party
 ||ctfile.com/img/*ssp
 ||ctfile.com/iz.php?
@@ -29791,6 +29795,7 @@ zzzyk.com###Tinfo
 ||mqcoycx.icu^
 ||mql5.com/rq?
 ||mqndhoceat.com^
+||mqondrun.com^
 ||mqwmgs.xyz^
 ||mqwtgq.xyz^
 ||mrgecm.xyz^
@@ -31133,6 +31138,7 @@ zzzyk.com###Tinfo
 ||pfiparts.com^
 ||pfjfjid.xyz^
 ||pfjzzl.com^
+||pfk94y5ke.com^
 ||pfkgl.top/images/*.gif
 ||pflrv.cn^
 ||pflwta.top^
@@ -34638,6 +34644,7 @@ zzzyk.com###Tinfo
 ||u7y.pw^
 ||u833ij.com^
 ||ua2.icu^
+||uaa.com/js/dxj.
 ||uahivaqettl.com^
 ||uaiosio.top^
 ||uaiqp.top^
@@ -35329,6 +35336,7 @@ zzzyk.com###Tinfo
 ||vmnlkr.icu^
 ||vmvps.com/aoyohost-com-bann
 ||vmxvcjuf.icu^
+||vmyv.cn^
 ||vnbbrx.top^
 ||vncq.cn^
 ||vnet.cn^*.html

@@ -12270,6 +12270,7 @@ u2mtv.com#@##slider-ad
 u7u9.com###pangu_leftBottom
 u7u9.com##.xw-right-ad
 uaa.com##.place_holder_box
+uaa.com##.popup_dialog_box
 uaa.com##.shortcut_box
 uc.cn##div[data-ad_url^="http"]
 uc123.com###J_logoLeft
