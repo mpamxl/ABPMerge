@@ -9550,6 +9550,7 @@ muchong.com##a[target="_blank"][style="display: inherit!important;"]
 muchong.com##div[id^="paper"]
 muchong.com##p[onclick="view_ok();"]
 muchong.com#?#.forum_Post_index:-abp-has(nobr:-abp-contains(18))
+muinz.top##.module
 mult34.com#$#abort-current-inline-script decodeURI; abort-on-property-read decodeURIComponent
 multicanais.tv#$#abort-current-inline-script document.createElement _whvbtwzo
 mumayi.com##.clientBox
