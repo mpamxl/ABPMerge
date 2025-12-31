@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-31 08:18:03
-! Total count: 38030
+! Version: 2025-12-31 16:15:39
+! Total count: 38035
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18457,6 +18457,7 @@ zzzyk.com###Tinfo
 ||2d4f.com/love/
 ||2dctkld.com^
 ||2efgcdcjr000.fun^
+||2euqnxt25.com^
 ||2g9x9uf.cn^
 ||2h81gp.tkepyc.com^$script,xmlhttprequest,domain=pch.com
 ||2hiu.com^$3p
@@ -20260,6 +20261,7 @@ zzzyk.com###Tinfo
 ||ainb12300zh.com^
 ||ainb12301zh.com^
 ||ainb12310zh.com^
+||ainb12311zh.com^
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
 ||aiqks.top^
@@ -23311,6 +23313,7 @@ zzzyk.com###Tinfo
 ||deqixs.com/config/
 ||deqixs.com/config/v7.js
 ||derew6xbsc.xyz^
+||derivative10.top^
 ||dertyhsf.xyz^
 ||derwbl.icu^
 ||desac10.icu^
@@ -31635,6 +31638,7 @@ zzzyk.com###Tinfo
 ||q27sz.com^
 ||q29k22vpu.com^
 ||q2fwgl4q8.com^
+||q2tqrsh02.com^
 ||q2usj.icu^
 ||q3rlg1flo.com^
 ||q58nf16jd3.com^
@@ -34562,6 +34566,7 @@ zzzyk.com###Tinfo
 ||txjfso.com^
 ||txmeeqz.icu^
 ||txnczz.icu^
+||txpbvh.icu^
 ||txre.cn^
 ||txru.cn^
 ||txscn.cn^
