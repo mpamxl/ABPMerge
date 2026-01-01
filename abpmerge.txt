@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2025-12-31 16:15:39
-! Total count: 38035
+! Version: 2026-01-01 08:18:01
+! Total count: 38050
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6788,6 +6788,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||qhimg.com^*/monitor_analytic.
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn
 @@||qhres2.com^$domain=baike.so.com
+@@||qhres2.com^$domain=www.n.cn
 @@||qianpanso.cn/other/*.js$domain=cilimao.co|cilimao.one
 @@||qiantucdn.com/static/images/adsbygoogle.js
 @@||qimingdao.com/Index/loadmore?tag_id=
@@ -19743,6 +19744,7 @@ zzzyk.com###Tinfo
 ||ab.rejushe.com^
 ||abab.com/pv.js
 ||abalado.com^
+||abalone46.com^
 ||abb.lxiaoxin.com^
 ||abbao.cn^*adblock
 ||abc.colayun.cn^
@@ -20247,6 +20249,7 @@ zzzyk.com###Tinfo
 ||aili.com^$3p
 ||aili.com^$third-party
 ||aillaeuyn.com^
+||ainb01010zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -20338,6 +20341,7 @@ zzzyk.com###Tinfo
 ||akqipai.com/m/Tpl/v3/js/indexbottom.js
 ||akuziti.com/tu/*.js
 ||al.newxue.com^
+||al1n6v56m.com^
 ||albdbsk.xyz^
 ||alcoholic56.top^
 ||aldehyde06.com^
@@ -21607,6 +21611,7 @@ zzzyk.com###Tinfo
 ||bjwj2y.com/JS/LsJS.aspx
 ||bjxfnn.xyz^
 ||bjxty88.com/js/foot.js
+||bk2l4eidc.com^
 ||bkad13gfu.com^
 ||bkhblj.xyz^
 ||bkhxut1rz.com^
@@ -22317,6 +22322,7 @@ zzzyk.com###Tinfo
 ||cfugrnc.icu^
 ||cfwlvmg.top^
 ||cfzhushou.com^*/King_Chance_Layer.js
+||cgcg01010ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -24479,6 +24485,7 @@ zzzyk.com###Tinfo
 ||extopae.icu^
 ||extremely58.top^
 ||exvl.cn^
+||exwz.cn^
 ||eybstar.com^
 ||eydvg8.com^
 ||eyhv.cn^
@@ -29132,6 +29139,7 @@ zzzyk.com###Tinfo
 ||lv.myapks.com^
 ||lvcha99.cc^
 ||lvcnmtl.top^
+||lvdvltsid.com^
 ||lveodaz.icu^
 ||lvjtiaa.xyz^
 ||lvllnj.top^
@@ -29152,6 +29160,7 @@ zzzyk.com###Tinfo
 ||lwcnmtl.top^
 ||lweizal.top^
 ||lweriol.top^
+||lwfdlv.icu^
 ||lwide.xyz^
 ||lwilmil.top^
 ||lwksxs.com^
@@ -32307,6 +32316,7 @@ zzzyk.com###Tinfo
 ||retrefsf.cn^
 ||retrieval-bd.duote.com^
 ||revcontent.com^$third-party
+||reversible68.com^
 ||review.gdtimg.com^
 ||revk.cn^
 ||revsci.net^$third-party
@@ -32588,6 +32598,7 @@ zzzyk.com###Tinfo
 ||rz261.cn^$3p
 ||rz2xtcvuy.com^
 ||rz38db915.com^
+||rz6jf5oqz.com^
 ||rzcruzullr.com^
 ||rzflhxn.cn^
 ||rzkptd.com^
@@ -33391,6 +33402,7 @@ zzzyk.com###Tinfo
 ||sqiorli2w.com^
 ||sqszcg.top^
 ||squarewave.top^
+||sr8jcp5fp.com^
 ||sravga.xyz^
 ||srbzw.cn^
 ||srfo.cn^
@@ -34570,7 +34582,7 @@ zzzyk.com###Tinfo
 ||txre.cn^
 ||txru.cn^
 ||txscn.cn^
-||txt9999.cc/ml.js
+||txt9999.cc/m*.js
 ||txtyuzhaiwu.com/astyle/wap.js
 ||txvq.cn^
 ||txxx.com/*x/*.js$domain=gaytxxx.com|transtxxx.com|txxx.com
@@ -34629,6 +34641,7 @@ zzzyk.com###Tinfo
 ||u0081.com^
 ||u0082.com^
 ||u0083.com^
+||u0h2psmoz.com^
 ||u1.2048sj.com^
 ||u1.idongde.com^
 ||u1.qyxxpd.com^
@@ -35401,6 +35414,7 @@ zzzyk.com###Tinfo
 ||volcano98.com^
 ||volgreal.com^
 ||volume68.top^
+||vophiptv.com^
 ||vopzhl.icu^
 ||voqf299p8.com^
 ||vorluic.cn^
@@ -37331,6 +37345,7 @@ zzzyk.com###Tinfo
 ||yuwenbin.host^
 ||yuwqsk.xyz^
 ||yvbjctqs.xyz^
+||yvdb.cn^
 ||yvnxetmq.xyz^
 ||yvrileid.com^
 ||yvsnhc.com^
