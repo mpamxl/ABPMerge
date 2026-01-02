@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-02 08:18:20
-! Total count: 38066
+! Version: 2026-01-02 16:14:56
+! Total count: 38070
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8320,6 +8320,7 @@ bilibili.com##.bili-video-card__wrap > a[href^="http"]:not([href*=".bilibili.com
 bilibili.com##.container > .bili-feed-card:has(> div.bili-video-card div.bili-video-card__info--no-interest + h3 > a[target="_blank"]:not([href^="https://www.bilibili.com/"]))
 bilibili.com##.container > .feed-card:has(> .bili-video-card.is-rcmd > div.bili-video-card__wrap .bili-video-card__stats--icon > path[d*="M16.9122 1.50323C17.4366 1.48358 17.99745 1.54938 18.4701 1.8207C18.9423 2.09168 19.28085"]):remove()
 bilibili.com##.container > div.bili-video-card.is-rcmd:not(:has(> *))
+bilibili.com##.container > div.feed-card:empty
 bilibili.com##.container > div[class*="-card"]:has(div[style="display: none !important;"]):style(position: absolute !important; left: -3000px !important;)
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
@@ -8338,6 +8339,7 @@ bilibili.com##.online + .adpos
 bilibili.com##.operate-card[data-target-url*=".miaozhen."]
 bilibili.com##.operate-card[data-target-url*="doubleclick."]
 bilibili.com##.recommended-container_floor-aside .container > div[class$="feed-card"]:has(div[style$="56.25%;"] > div[class]:matches-css(before, content: /AdGuard/))
+bilibili.com##.recommended-swipe-body-normal div.vui_carousel__slide:has(> div.carousel-area > div.carousel-area-img > a > img[src$="/eva.png"])
 bilibili.com##.title > span > a[href^="http"]:not([href*=".bilibili."])
 bilibili.com##.topic-preview > li > a[href^="http"]:not([href*=".bilibili."])
 bilibili.com##.van-slide > .item:has(.bypb-icon):remove()
@@ -18699,6 +18701,7 @@ zzzyk.com###Tinfo
 ||41grk.icu^
 ||420909.cn^
 ||4275.com/css/91kf.
+||42vaywaovr.com^
 ||42yenxh.cn^
 ||4399.com/baiduad/
 ||4399.com/jss/*coup.js
@@ -20255,6 +20258,7 @@ zzzyk.com###Tinfo
 ||ainb01010zh.com^
 ||ainb01011zh.com^
 ||ainb01020zh.com^
+||ainb01021zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -31802,7 +31806,6 @@ zzzyk.com###Tinfo
 ||qhres.com/static/4b6ab193405b6ca3.js
 ||qhres.com/static/b4f92ac067a4768b/v4/modules/footer.js
 ||qhres.com^*/baidu_
-||qhres2.com^
 ||qhscsu.xyz^
 ||qhtdmlf.xyz^
 ||qhtrolik.com^
@@ -32521,6 +32524,7 @@ zzzyk.com###Tinfo
 ||rszkhn.xyz^
 ||rt.applovin.com^
 ||rt.applvn.com^
+||rt5x78mhcq.com^
 ||rtau9pif4.com^
 ||rtb.adxsenmeng.com^
 ||rtb.voiceads.cn^
