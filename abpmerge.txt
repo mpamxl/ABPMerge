@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-02 16:14:56
-! Total count: 38070
+! Version: 2026-01-03 08:16:06
+! Total count: 38083
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19019,6 +19019,7 @@ zzzyk.com###Tinfo
 ||5nj.com/js/cnzz22.js
 ||5nj.com/js/cnzz33.js
 ||5odd5zsn.xyz^
+||5p35xkp1p.com^
 ||5pub.com^
 ||5qjspf2c.xyz^
 ||5s98.com/img/
@@ -20259,6 +20260,7 @@ zzzyk.com###Tinfo
 ||ainb01011zh.com^
 ||ainb01020zh.com^
 ||ainb01021zh.com^
+||ainb01030zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -21999,6 +22001,7 @@ zzzyk.com###Tinfo
 ||c05ua.icu^
 ||c08ls11j.top^
 ||c0nmelm3y2.com^
+||c0xz0b2dy.com^
 ||c0zwsdryg.com^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
@@ -22063,6 +22066,7 @@ zzzyk.com###Tinfo
 ||camep.xyz^
 ||camerain.top^
 ||camspic.com/imguang/*.gif
+||cancellation58.top^
 ||canimgs.com/images/
 ||canser1.top^
 ||canser5.top^
@@ -22334,6 +22338,7 @@ zzzyk.com###Tinfo
 ||cgcg01010ht.com^
 ||cgcg01011ht.com^
 ||cgcg01020ht.com^
+||cgcg01030ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -24600,6 +24605,7 @@ zzzyk.com###Tinfo
 ||fast8.cc/skin/default/images/630652.png
 ||fastadmin.net/uploads/store/aliyun
 ||fastadmin.net/uploads/store/tencent
+||fawb62hh9.com^
 ||faxffjo.com^
 ||faxingw.cn/js/*0
 ||faxingw.cn/js/*ad
@@ -25087,6 +25093,7 @@ zzzyk.com###Tinfo
 ||g1.tagtic.cn^
 ||g1.taijuba.com^
 ||g11edashb1.fun^
+||g12tm6xl3.com^
 ||g13eyx.com^
 ||g15wt3ci68.com^
 ||g1kb9u.xyz^
@@ -26268,6 +26275,7 @@ zzzyk.com###Tinfo
 ||hlstlyy.com^$3p
 ||hltoon.com/hanman/static/dist/ppm/js/foot
 ||hltpdd.icu^
+||hluraiwoy.com^
 ||hlzncxmu.icu^
 ||hlzyb.cn^
 ||hm.baidu.com/mkt.js
@@ -31483,6 +31491,7 @@ zzzyk.com###Tinfo
 ||ppsj.com.cn/images/ppsj300.gif
 ||pptv.com/game/aplus/client/gamedetail.html
 ||ppxndfgf.icu^
+||ppxqhx.icu^
 ||ppyibei.com^
 ||pq9alk18ik.com^
 ||pqav.cn^
@@ -33704,6 +33713,7 @@ zzzyk.com###Tinfo
 ||swad332.fun^
 ||swarku.xyz^
 ||swaterb.top^
+||swaw.cn^
 ||swcnmtb.top^
 ||swedmo.icu^
 ||sweisib.top^
@@ -33834,6 +33844,7 @@ zzzyk.com###Tinfo
 ||tainec.fun^
 ||taiqingjiu.com^
 ||taisha.org/statics/js/pc2.0/common/form.bottom.
+||taiverturena.com^
 ||taiwandaily.net/wp-content/uploads*_600x100.
 ||taiwannutrition.com/blog/wp-content/plugins/arscode-ninja-popups/
 ||taizexy.com^*.gif
@@ -35445,6 +35456,7 @@ zzzyk.com###Tinfo
 ||vpsgu.cn^
 ||vpubmi.com^
 ||vpvq.cn^
+||vpw1lig85.com^
 ||vpwizuj.icu^
 ||vpydjogaytpg.xyz^
 ||vpzohx.xyz^
@@ -35615,6 +35627,7 @@ zzzyk.com###Tinfo
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
 ||w7044.com^
+||w75zr9nfj.com^
 ||w766ewvx75.com^
 ||w9uwz5966.com^
 ||wa.kuwo.cn/lyrics/img/kwgg/
