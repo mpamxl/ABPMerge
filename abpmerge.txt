@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-03 08:16:06
-! Total count: 38083
+! Version: 2026-01-03 16:14:17
+! Total count: 38092
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1757,7 +1757,7 @@
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style^="line-height"][style*="http"][style$="fixed;"]
 ##div[style^="position"][onclick^="window.open"]
-##div[style^="position:fixed; bottom:0vw; left:"][style$="vw;background: #000;opacity:0.01;"]
+##div[style^="position:fixed; bottom:"][style$="vw;background: #000;opacity:0.01;"]
 ##dl#listwoBox
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
@@ -2287,6 +2287,7 @@ $websocket,domain=wap.yushuwu.cloud
 .top/herebyad
 .top/upload/ad.js
 .top:*/js.php?z=*=$third-party
+.top:9956/$3p
 .top^*-960x80-*.gif
 .tor*/js/jquery.bpopup.
 .tv/ads/
@@ -5115,7 +5116,9 @@ $websocket,domain=wap.yushuwu.cloud
 :701/Pus/pus.js
 :701/gd_xueersi/$popup
 :7701/load.cw.js
+:800*/d/*?t=$script,3p,xhr
 :800*/d/*n=$script,3p
+:800*/d/*n=$script,3p,xhr
 :800*/d/*n=$script,third-party
 :800*/d/*n=$third-party
 :800*/d/*t=$script,3p
@@ -18726,6 +18729,7 @@ zzzyk.com###Tinfo
 ||470kk.com/js/indextop.js
 ||477zw.com/js/nzm
 ||484r.com/images/flash/gallery_
+||48dswtxkw.com^
 ||49ioqq6kt.com^
 ||4aqoxkesav.com^
 ||4asfgyx.com^
@@ -20261,6 +20265,7 @@ zzzyk.com###Tinfo
 ||ainb01020zh.com^
 ||ainb01021zh.com^
 ||ainb01030zh.com^
+||ainb01031zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -21045,6 +21050,7 @@ zzzyk.com###Tinfo
 ||baidu.com/api/wikiui/getasp?
 ||baidu.com/api/wikiui/guesslike?
 ||baidu.com/article/ajax/getmarticlestepdata?
+||baidu.com/baidu.php?url=
 ||baidu.com/baidu.php?url=$popup
 ||baidu.com/brands/yxtg/source/yxCoupletsAd.js
 ||baidu.com/buy/ad/home
@@ -22339,6 +22345,7 @@ zzzyk.com###Tinfo
 ||cgcg01011ht.com^
 ||cgcg01020ht.com^
 ||cgcg01030ht.com^
+||cgcg01031ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -26408,6 +26415,7 @@ zzzyk.com###Tinfo
 ||hrutvncu.top^
 ||hrwbeqv.icu^
 ||hrxphjcj.icu^
+||hs.178yc.com^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
 ||hsadeg.site^
@@ -35620,6 +35628,7 @@ zzzyk.com###Tinfo
 ||w3ytzqm3d.com^
 ||w41.i7x3.fun^
 ||w4sn20zpvz.com^
+||w505cb.cc^
 ||w51t.com^$subdocument
 ||w59g.icu^
 ||w5bi16f3co.com^
