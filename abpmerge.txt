@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-04 08:16:34
-! Total count: 38104
+! Version: 2026-01-04 16:14:06
+! Total count: 38112
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19555,6 +19555,7 @@ zzzyk.com###Tinfo
 ||9a6cds03.com^
 ||9aiwotv.com/c300*.html$subdocument
 ||9cc9ckp.com^
+||9ck9umcyvt.com^
 ||9clasfdc3.com^
 ||9cwcu1574.com^
 ||9duw.com/js/sj
@@ -20267,6 +20268,7 @@ zzzyk.com###Tinfo
 ||ainb01030zh.com^
 ||ainb01031zh.com^
 ||ainb01040zh.com^
+||ainb01041zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -22348,6 +22350,7 @@ zzzyk.com###Tinfo
 ||cgcg01030ht.com^
 ||cgcg01031ht.com^
 ||cgcg01040ht.com^
+||cgcg01041ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -24287,6 +24290,7 @@ zzzyk.com###Tinfo
 ||elegant-creator.com^
 ||eletys.icu^
 ||elevatorpartsbuy.com^
+||eliezerpmsa.com^
 ||elinvarpayola.com^
 ||elloisny.com^
 ||elopatchwork.com^
@@ -29123,6 +29127,7 @@ zzzyk.com###Tinfo
 ||lsxvnzif.icu^
 ||lsyaicl.icu^
 ||lsyliel.top^
+||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
 ||ltfcagrapl.com^
 ||ltfpbp.xyz^
@@ -31851,6 +31856,7 @@ zzzyk.com###Tinfo
 ||qifjksdqwd.xyz^
 ||qifyeldy.top^
 ||qighodetfg.com^
+||qigreveth.com^
 ||qiji1.jdwx.info^
 ||qijl.cn^
 ||qijpaih.cn^
@@ -31923,6 +31929,7 @@ zzzyk.com###Tinfo
 ||qjxys.cn^
 ||qk6.org/file/script/
 ||qkax.cn^
+||qkg7yplpfo.com^
 ||qkgllif.icu^
 ||qkikkg.xyz^
 ||qkitery.top^
@@ -34726,6 +34733,7 @@ zzzyk.com###Tinfo
 ||u6421d8aqt.com^
 ||u68t5.icu^
 ||u6u.icu^
+||u6uy9lzdcj.com^
 ||u6zsr2xn1.com^
 ||u78s.top^
 ||u7em6.xyz^
