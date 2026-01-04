@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-03 16:14:17
-! Total count: 38092
+! Version: 2026-01-04 08:16:34
+! Total count: 38104
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20266,6 +20266,7 @@ zzzyk.com###Tinfo
 ||ainb01021zh.com^
 ||ainb01030zh.com^
 ||ainb01031zh.com^
+||ainb01040zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -22346,6 +22347,7 @@ zzzyk.com###Tinfo
 ||cgcg01020ht.com^
 ||cgcg01030ht.com^
 ||cgcg01031ht.com^
+||cgcg01040ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -28721,6 +28723,7 @@ zzzyk.com###Tinfo
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
+||lfamuxkaqobp.com^
 ||lfbupf.icu^
 ||lfbz317s.icu^
 ||lfew.cn^
@@ -30463,6 +30466,7 @@ zzzyk.com###Tinfo
 ||nsimg.net^
 ||nsjnmx.icu^
 ||nslfhb.icu^
+||nstltp.icu^
 ||nsvohb.top^
 ||nswtojdi.icu^
 ||ntce.com/images/js/ntce_public.js
@@ -31101,6 +31105,7 @@ zzzyk.com###Tinfo
 ||partnerads.ysm.yahoo.com^
 ||partnership75.com^
 ||patriotic66.top^
+||pavdiibdvr.com^
 ||pavwrr.icu^
 ||pay.sboot.cn^
 ||payoneok.com^
@@ -31516,6 +31521,7 @@ zzzyk.com###Tinfo
 ||prbibo.top^
 ||prdohgp.cn^
 ||prelandappslab.com^
+||prelude69.com^
 ||preserved32.top^
 ||pretension48.top^
 ||prettyvirgin.com/images/banners/
@@ -34471,6 +34477,7 @@ zzzyk.com###Tinfo
 ||ttgbnmk.top^
 ||tthrirgud.com^
 ||ttienli.top^
+||ttimhethzm.com^
 ||ttimiyi.top^
 ||ttly888.com^
 ||ttnjhlhys.icu^
@@ -34609,6 +34616,7 @@ zzzyk.com###Tinfo
 ||txbptd.icu^
 ||txcv68f.com^
 ||txd8s0oif.com^
+||txh201a51k.com^
 ||txhfgwgkwt7.asia^
 ||txhfgwgkwt8.asia^
 ||txhywh.cn^
@@ -35973,6 +35981,7 @@ zzzyk.com###Tinfo
 ||wpuiuwh.icu^
 ||wpuzzcudultv.com^
 ||wpwpquse.cn^
+||wpy6xuq4.xyz^
 ||wqdro6us.icu^
 ||wqdwork.com^
 ||wqhmzb.cn^
@@ -36283,6 +36292,7 @@ zzzyk.com###Tinfo
 ||x21.cn/service/feeds.
 ||x23qb.com/skin/themex.js
 ||x360xs.com/tops/
+||x3lps9uuog.com^
 ||x3pfkiohz.com^
 ||x3zy2.icu^
 ||x43slxjwzx.com^
@@ -36399,6 +36409,7 @@ zzzyk.com###Tinfo
 ||xghylt.com/api.php?mod=ad&adid=
 ||xgjidt.xyz^
 ||xgo.com.cn/pv.js
+||xgsvpsz7f4.com^
 ||xgzdys.com^
 ||xh04i9ine.com^
 ||xh33g.net^
@@ -37912,6 +37923,7 @@ zzzyk.com###Tinfo
 ||zozwnv.xyz^
 ||zp365.com/newhousered/hb-index-pop-
 ||zpeqosn.icu^
+||zpgb.cn^
 ||zpiyi.com/public/js/global.js
 ||zpotkvpy.icu^
 ||zppfjh.xyz^
