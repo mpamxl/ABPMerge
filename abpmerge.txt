@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-04 16:14:06
-! Total count: 38112
+! Version: 2026-01-05 08:20:59
+! Total count: 38126
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18087,6 +18087,7 @@ zzzyk.com###Tinfo
 ||11img.com/ad/
 ||11jianzhan.com^
 ||11kkzz.com/se/wf/
+||11vmzjiup.com^
 ||11xkkhe8hd.com^
 ||12.cookcai.com^
 ||1200555.com^
@@ -18759,6 +18760,7 @@ zzzyk.com###Tinfo
 ||4ifhpfi1.xyz^
 ||4ir17.icu^
 ||4jc.icu^
+||4jh1le34m.com^
 ||4kfv18.cn^
 ||4kwu.cc/static/js/tj.js
 ||4kxczstxil.com^
@@ -20269,6 +20271,7 @@ zzzyk.com###Tinfo
 ||ainb01031zh.com^
 ||ainb01040zh.com^
 ||ainb01041zh.com^
+||ainb01050zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -20367,6 +20370,7 @@ zzzyk.com###Tinfo
 ||aldkfsd.cn^
 ||aldtop.com/scrtips/
 ||aldusmiskals.com^
+||aleldrodm.com^
 ||alemu4s.com^
 ||alexa.cn/upfile/images/
 ||alexanbelen.com^
@@ -22351,6 +22355,8 @@ zzzyk.com###Tinfo
 ||cgcg01031ht.com^
 ||cgcg01040ht.com^
 ||cgcg01041ht.com^
+||cgcg01050ht.com^
+||cgcg01051ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -24195,6 +24201,7 @@ zzzyk.com###Tinfo
 ||eers0cy.com^
 ||eeryt111.fun^
 ||eetlwsw.top^
+||eevfstl1n.com^
 ||eewrutw.top^
 ||eexlgyn.cn^
 ||eeyy.cc/style/yxj.js
@@ -25112,6 +25119,7 @@ zzzyk.com###Tinfo
 ||g1kb9u.xyz^
 ||g2.ganjing.world^
 ||g2ak5.com^
+||g2wg5308q.com^
 ||g3f3.com/love/
 ||g41i.icu^
 ||g4y7uuk.com^
@@ -26367,6 +26375,7 @@ zzzyk.com###Tinfo
 ||hotpress.info/blog/asian-javdl/wp-content/uploads/irvsxp.js
 ||hotupgrade.hpplay.cn^
 ||houbliu.top^
+||houotgk3m.com^
 ||house.sina.com.cn/2.0/abp/
 ||house365.com/im_show/imshow.js
 ||house365.com/js/analyze.js
@@ -30953,6 +30962,7 @@ zzzyk.com###Tinfo
 ||oveakmqk.com^
 ||ovejqw.xyz^
 ||overcoat55.top^
+||overture34.top^
 ||ovjlccs.xyz^
 ||ovnrmvg.cn^
 ||ovtyvnei.g00.closermag.fr^$script
@@ -30972,6 +30982,7 @@ zzzyk.com###Tinfo
 ||owsrgljb.icu^
 ||owurserk.top^
 ||oxggiwdp57.com^
+||oxidation83.com^
 ||oxj8hcfg.xyz^
 ||oxjb.cn^
 ||oxkqeu.xyz^
@@ -34167,6 +34178,7 @@ zzzyk.com###Tinfo
 ||titjzl.icu^
 ||titroikan.com^
 ||tixoilll.com^
+||tizdfz.icu^
 ||tizru.com^$domain=pronpic.org
 ||tj-cyhg.com^
 ||tj-yijiajing.com^
@@ -34763,6 +34775,7 @@ zzzyk.com###Tinfo
 ||ubmcvideo.baidustatic.com^
 ||ubudhal.com^
 ||ubxqerc.cn^
+||ubyf.cn^
 ||uc*.atobo.com^
 ||uc.qq.uuaoz.com^
 ||uc129.com/images/top_hjsj.jpg
@@ -35098,6 +35111,7 @@ zzzyk.com###Tinfo
 ||uuzwvqc.cn^
 ||uv4.fun^
 ||uvcnmtt.top^
+||uvd9re60w.com^
 ||uvekyvs.icu^
 ||uvj2.com^
 ||uvklgw.xyz^
