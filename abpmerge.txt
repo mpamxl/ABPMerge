@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-05 08:20:59
-! Total count: 38126
+! Version: 2026-01-05 16:17:42
+! Total count: 38133
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4938,6 +4938,18 @@ $websocket,domain=wap.yushuwu.cloud
 88files.net##+js(no-window-open-if)
 8muses.com#@#[style*="background: transparent url(\"data:image/gif;base64,"]
 8se.me##.push-bottom
+8se.me,xchina.*##+js(abort-current-script, $, adModal)
+8se.me,xchina.*##+js(addEventListener-defuser, /DOMContentLoaded|load|complete/, /check|detected/)
+8se.me,xchina.*##.block-overlay
+8se.me,xchina.*##.content-box > .list > .item:not(.photo-image):has(> a[clickmode="cpt"])
+8se.me,xchina.*##.content-box > .list > .item:not(.photo-image):has(> div > ins[data-zoneid])
+8se.me,xchina.*##.content-box:has(> .static-container-4:only-child > .a-media)
+8se.me,xchina.*##.ex-widget
+8se.me,xchina.*##.photos > div.item:has(> div > a[target="_blank"])
+8se.me,xchina.*##.photos > div.item:has(> div[class^="exoclick_"])
+8se.me,xchina.*##.push-top
+8se.me,xchina.*##div[class^="item photo zone"]
+8se.me,xchina.*##div[style*="width: 300px;"][style*="height: 455px;"]
 8ziyuan.com##.deanadsside
 900.la##.banner_ad1
 900.la##.font-ad
@@ -16144,6 +16156,8 @@ tieba.baidu.com##.tbui_slideshow_slide
 tieba.baidu.com##.tl_spread
 tieba.baidu.com##.top_toutu_admarks
 tieba.baidu.com##.tuijian-wrap
+tieba.baidu.com##.ylh-ad-container
+tieba.baidu.com##.ylh-ad-wrap
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##div[class*='-ad-pb-']
@@ -17224,16 +17238,6 @@ xc6b.com##a[href="http://61.160.236.52"]
 xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
-xchina.*##+js(abort-current-script, $, adModal)
-xchina.*##+js(addEventListener-defuser, /DOMContentLoaded|load|complete/, /check|detected/)
-xchina.*##.block-overlay
-xchina.*##.content-box > .list > .item:not(.photo-image):has(> a[clickmode="cpt"])
-xchina.*##.content-box > .list > .item:not(.photo-image):has(> div > ins[data-zoneid])
-xchina.*##.photos > div.item:has(> div > a[target="_blank"])
-xchina.*##.photos > div.item:has(> div[class^="exoclick_"])
-xchina.*##.push-top
-xchina.*##div[class^="item photo zone"]
-xchina.*##div[style*="width: 300px;"][style*="height: 455px;"]
 xchina.co##.block-overlay
 xclient.info###pop_business
 xdf.cn##.footadv
@@ -18132,6 +18136,7 @@ zzzyk.com###Tinfo
 ||138vps.com/image/
 ||139file.com/jsa/
 ||139xiaoshuo.com/css/js/tools.
+||13afemc28.com^
 ||13hangpifa.com^
 ||13txt.net/js/ssgdd.
 ||141.105.69.88/eticilbup/$image,subdocument,script
@@ -20272,6 +20277,7 @@ zzzyk.com###Tinfo
 ||ainb01040zh.com^
 ||ainb01041zh.com^
 ||ainb01050zh.com^
+||ainb01051zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -32166,6 +32172,7 @@ zzzyk.com###Tinfo
 ||qwerioy.top^
 ||qwertyuadf.com^
 ||qwilmiy.top^
+||qwnzzp50x.com^
 ||qwoofao.top^
 ||qwrnkpow.com^
 ||qwsanan.top^

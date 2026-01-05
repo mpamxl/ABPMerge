@@ -11943,6 +11943,8 @@ tieba.baidu.com##.tbui_slideshow_slide
 tieba.baidu.com##.tl_spread
 tieba.baidu.com##.top_toutu_admarks
 tieba.baidu.com##.tuijian-wrap
+tieba.baidu.com##.ylh-ad-container
+tieba.baidu.com##.ylh-ad-wrap
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##div[class*='-ad-pb-']
