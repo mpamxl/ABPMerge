@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-05 16:17:42
-! Total count: 38133
+! Version: 2026-01-06 08:19:02
+! Total count: 38147
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11500,6 +11500,7 @@ huanqiu.com##.itemAd
 huanqiu.com##.r-hqFashion
 huanqiu.com##.r-hqNext-ad
 huanqiu.com##.right-box > article-other-template
+huaren.live##+js(no-window-open-if)
 huaren.live##.action-ad
 huaren.tv##.live-client_left
 huaren.tv##.live-client_right
@@ -20278,6 +20279,7 @@ zzzyk.com###Tinfo
 ||ainb01041zh.com^
 ||ainb01050zh.com^
 ||ainb01051zh.com^
+||ainb01060zh.com^
 ||ainb12241zh.com^
 ||ainb12250zh.com^
 ||ainb12251zh.com^
@@ -22132,6 +22134,7 @@ zzzyk.com###Tinfo
 ||casserole59.top^
 ||cat.da.us.criteo.com^
 ||catalog.fjwhcbsh.com^
+||catalysis39.top^
 ||catbox.moe/bb5wdv.jpg
 ||catherineagnesmj.com^
 ||cautious60.com^
@@ -22363,6 +22366,7 @@ zzzyk.com###Tinfo
 ||cgcg01041ht.com^
 ||cgcg01050ht.com^
 ||cgcg01051ht.com^
+||cgcg01060ht.com^
 ||cgczuu.xyz^
 ||cgdyw.net/xx/
 ||cggyyi.xyz^
@@ -28171,6 +28175,7 @@ zzzyk.com###Tinfo
 ||kdqnaec.cn^
 ||kdslife.com/kds_2023/kafu.
 ||kdslife.com/ui/ad/
+||kduwvaq3dt.com^
 ||kdvmnn.com^
 ||kdw*.com/layer/layer.js
 ||kdyurlid.top^
@@ -30745,6 +30750,7 @@ zzzyk.com###Tinfo
 ||okmuxdbq.com^
 ||okmwfq.xyz^
 ||okn57l1h.top^
+||okokserver.com/js/anti/pop*.js$domain=huaren.live
 ||okooo.com/I/?method=system.data.ad&
 ||okoy.cn^
 ||okpl04301ai.com^
@@ -30838,6 +30844,7 @@ zzzyk.com###Tinfo
 ||oopej.xyz^
 ||ooqiu.com/ad_js/
 ||ooqwc.xyz^
+||oot59rxrwm.com^
 ||ootyx24.com^
 ||ooublik.top^
 ||oovruczakz.com^
@@ -32493,6 +32500,7 @@ zzzyk.com###Tinfo
 ||rlqoyht.icu^
 ||rlri.cn^
 ||rltdxt.com/files/h5/
+||rlvyrr.icu^
 ||rlw86.cyou^
 ||rmbsfh.icu^
 ||rmbvzh.xyz^
@@ -33358,7 +33366,6 @@ zzzyk.com###Tinfo
 ||soduso.com/js/so.js
 ||soffersk.com^
 ||sofire.baidu.com^
-||sofsxz.com^
 ||soft.mumayi.net/images/download.gif
 ||soft.mumayi.net/js/
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
@@ -33584,6 +33591,8 @@ zzzyk.com###Tinfo
 ||static.jfrft.com/js/main_video.js^$script,redirect=noop.js,domain=dilidili.wang,important
 ||static.meijiacun.com^
 ||static.missav.com/js/plyr.js
+||static.okokserver.com/uploads/lesi/$image,domain=huaren.live
+||static.okokserver.com^$media,domain=huaren.live
 ||static.olelive.com/upload/site/*/*.gif
 ||static.ptoahaistais.com^
 ||static.rongkao.com^
@@ -33789,6 +33798,7 @@ zzzyk.com###Tinfo
 ||symjgg.icu^
 ||symposium44.com^
 ||synacast.com^
+||syncope12.top^
 ||syndication.exosrv.com/splash.php?$xhr,redirect=noop.txt,important,domain=hboav.com
 ||syndication.jsadapi.com^$third-party
 ||synergyat.work^
@@ -33975,6 +33985,7 @@ zzzyk.com###Tinfo
 ||tdzqoewz.icu^
 ||teads.tv^$third-party
 ||tebohjhh.xyz^
+||tebv.cn^
 ||tech.jiukang.org^
 ||techain.baidu.com^
 ||techritual.com/wp-content/uploads/*/HDcource_
@@ -35503,6 +35514,7 @@ zzzyk.com###Tinfo
 ||vpvq.cn^
 ||vpw1lig85.com^
 ||vpwizuj.icu^
+||vpx4fmj4z6.com^
 ||vpydjogaytpg.xyz^
 ||vpzohx.xyz^
 ||vqaj6smlmtpym.top^
@@ -35724,6 +35736,7 @@ zzzyk.com###Tinfo
 ||watchmygf.to^$third-party
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
+||waulzelnvh.com^
 ||wazveqv.xyz^
 ||wb7i614qen.com^
 ||wbczkm.icu^
@@ -36755,6 +36768,7 @@ zzzyk.com###Tinfo
 ||xsvyvr.top^
 ||xsxmvb.xyz^
 ||xszw0.icu^
+||xt1nx0rs7n.com^
 ||xtbzff.xyz^
 ||xtcxflak.xyz^
 ||xtdvvp.icu^

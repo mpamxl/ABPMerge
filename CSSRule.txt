@@ -7354,6 +7354,7 @@ huanqiu.com##.itemAd
 huanqiu.com##.r-hqFashion
 huanqiu.com##.r-hqNext-ad
 huanqiu.com##.right-box > article-other-template
+huaren.live##+js(no-window-open-if)
 huaren.live##.action-ad
 huaren.tv##.live-client_left
 huaren.tv##.live-client_right
