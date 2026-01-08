@@ -12131,6 +12131,7 @@ tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
 tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tsviewer.com#@#.adsbygoogle
+tt1069.com#@##ad-slot
 tt1069.com#@##adbrite
 tt776.com##iframe[src="/app/ad.html"]
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]

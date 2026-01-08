@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-08 08:18:53
-! Total count: 38191
+! Version: 2026-01-08 16:18:08
+! Total count: 38178
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2116,12 +2116,9 @@ $websocket,domain=wap.yushuwu.cloud
 .com:*/cc/*?is_not=*&target=*
 .com:*/d/*?c=*$third-party
 .com:*/sc/*?n=$third-party
-.com:1*/static/lbsite/*/*.js?v=$script,3p
 .com:10446/*/get*.html
 .com:12289/$script,3p
 .com:12289/$script,third-party
-.com:2*/static/lbsite/*/*.js?v=$script,3p
-.com:3*/static/lbsite/*/*.js?v=$script,3p
 .com:7891/stats$third-party
 .com:8*/mj*$third-party
 .com:8001/*/*?*=$third-party
@@ -2237,8 +2234,6 @@ $websocket,domain=wap.yushuwu.cloud
 .oeya.com/$domain=realtw.com
 .okp*ai.com/$script,xhr,3p
 .okpp0*.xyz/$script,third-party
-.okpp0*.xyz/$script,xhr,3p
-.okpp1*.xyz/$script,3p
 .okpp1*.xyz/$script,third-party
 .one/ads/
 .org/ad/
@@ -2496,7 +2491,6 @@ $websocket,domain=wap.yushuwu.cloud
 /\.[a-z]dinmi[a-z].top\//$script,third-party
 /\.[a-z]domsi[a-z].top\//$script,3p
 /\.[a-z]domsi[a-z].top\//$script,third-party
-/\.[a-z]dyurli[a-z].top\//$script,3p
 /\.[a-z]dyurli[a-z].top\//$script,third-party
 /\.[a-z]oubli[a-z].top\//$script,third-party
 /\.[a-z]weisi[a-z].top\//$script,third-party
@@ -16348,6 +16342,7 @@ tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
 tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tsviewer.com#@#.adsbygoogle
+tt1069.com#@##ad-slot
 tt1069.com#@##adbrite
 tt776.com##iframe[src="/app/ad.html"]
 ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
@@ -18843,7 +18838,6 @@ zzzyk.com###Tinfo
 ||51cto.com/iframe/get-station-ads
 ||51cto.com/js/activity_pop.js
 ||51dh.xin^
-||51dxs.com^
 ||51fanli.net/misc/images/invite-v4/banner.gif
 ||51gongxiao.com^
 ||51gxqm.com^
@@ -19124,7 +19118,6 @@ zzzyk.com###Tinfo
 ||6820tp1.com^
 ||68287zubo85737.com^
 ||68710266.com^
-||6888.site^
 ||68s4eyiru.com^
 ||68td4yete.com^
 ||68tkaiaji.com^
@@ -19476,7 +19469,6 @@ zzzyk.com###Tinfo
 ||91glqt27.xyz^
 ||91hs005.xyz^*.gif
 ||91jbz.com/file/script/A
-||91ks.online^
 ||91mjw.com/hy-66-90.php
 ||91p20.space/fans/
 ||91p20.space^
@@ -23496,7 +23488,6 @@ zzzyk.com###Tinfo
 ||dhorzivnn.com^
 ||dhukul.com^
 ||dhulzehgk.com^
-||dhuquxqy.com^
 ||dhxrop.com^
 ||di2y21.top/jian/jiansshu.js
 ||di2y21.top^
@@ -24617,7 +24608,6 @@ zzzyk.com###Tinfo
 ||fads315.com^
 ||fafvvt.icu^
 ||fagp.cn^
-||fagrirtn.com^
 ||fahwlqf37l.com^
 ||fajdhuhdh.com^
 ||fajkhr.icu^
@@ -25520,7 +25510,6 @@ zzzyk.com###Tinfo
 ||gmicu.cn^
 ||gmmlmo.xyz^
 ||gmso01010oka.top^
-||gmso1*oka.top/$script,3p
 ||gmso1*oka.top/$script,third-party
 ||gmso12251oka.top^
 ||gmso12261oka.top^
@@ -31551,7 +31540,6 @@ zzzyk.com###Tinfo
 ||pp1hl.xyz^
 ||ppbtdj.icu^
 ||ppedp.cn^
-||ppio1*ios.top/$script,3p
 ||ppio1*ios.top/$script,third-party
 ||ppio12181ios.top^
 ||ppio12191ios.top^
@@ -33987,7 +33975,6 @@ zzzyk.com###Tinfo
 ||tchkcc.cn^
 ||tci.oss-ap-southeast-1.aliyuncs.com^
 ||tcinvdi.top^
-||tciqgx.xyz^
 ||tclimii.top^
 ||tcmap.com.cn/js/b_
 ||tcragarnh.com^
