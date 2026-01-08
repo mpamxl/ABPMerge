@@ -5003,7 +5003,10 @@ cnforex.com##.mleft > a
 cngold.com.cn##.myGuangGao
 cngold.org##.ag_fwindow_ywp
 cngold.org##.fiexdAdvsClosed
+cngold.org##.fixed_jt
+cngold.org##.headCompanys
 cngold.org##.in_content_left_advs
+cngold.org##.jams
 cngold.org##.pageAdv
 cngold.org##.top_bigad
 cnitpm.com##.erweima
@@ -10839,6 +10842,7 @@ quora.com##span[data-nosnippet="true"] .q-box.dom_annotate_ad_image_ad
 quora.com##span[data-nosnippet="true"] .q-box.dom_annotate_ad_video_ad
 quora.com##span[data-nosnippet="true"] .q-box.qu-pb--tiny.qu-pt--medium
 quora.com##span[data-nosnippet="true"] .q-box.qu-pt--medium
+quote.cngold.org##.foot_megagame
 qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
 qxfun.com###beautiful-things
