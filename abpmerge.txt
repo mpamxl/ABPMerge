@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-10 08:16:13
-! Total count: 38211
+! Version: 2026-01-10 16:13:56
+! Total count: 38218
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6602,7 +6602,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=quebeccoupongratuit.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$script,domain=sc2casts.com
 @@||pagead2.googlesyndication.com/pagead/js/*show_ads_impl.js$domain=buickforums.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bricozone.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dailydoge.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elfqrin.com
@@ -6618,6 +6617,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thehomestyle.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=theplace2.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tsviewer.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vide-greniers.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=voyageforum.com
@@ -18476,6 +18476,7 @@ zzzyk.com###Tinfo
 ||2cursjb.com^
 ||2d4f.com/love/
 ||2dctkld.com^
+||2e4xnyfeae.com^
 ||2efgcdcjr000.fun^
 ||2euqnxt25.com^
 ||2g9x9uf.cn^
@@ -21909,6 +21910,7 @@ zzzyk.com###Tinfo
 ||bugs01090ko.com^
 ||bugs01091ko.com^
 ||bugs01100ko.com^
+||bugs01101ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -24085,6 +24087,7 @@ zzzyk.com###Tinfo
 ||e1zin.icu^
 ||e23.cn/js/aaa.js
 ||e26fr9qb4m.com^
+||e2icbtrs1g.com^
 ||e2jda3h01.com^
 ||e3c7.com/dh/
 ||e3c7.com/love/
@@ -25506,6 +25509,7 @@ zzzyk.com###Tinfo
 ||glacier32.com^
 ||glancetree.top^
 ||glczys.xyz^
+||glevvoqy.com^
 ||glgoo.*/gimage/ad/
 ||glhdan.site^
 ||gliacloud.com/player/adgeek_teep
@@ -26231,6 +26235,7 @@ zzzyk.com###Tinfo
 ||hhttm.top^
 ||hi.xiunm.cn^
 ||hi.xiunm.com^
+||hi2pv3e9pr.com^
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
 ||hiad.myweb.hinet.net^
@@ -28255,6 +28260,7 @@ zzzyk.com###Tinfo
 ||kfvq.cn^
 ||kfycmiu.icu^
 ||kfyg.xyz^
+||kgdp030vm1.com^
 ||kgdyoh.icu^
 ||kgeesh.site^
 ||kgelugaz.com^
@@ -31731,6 +31737,7 @@ zzzyk.com###Tinfo
 ||pyeditingpro.biz^
 ||pygokay.cn^
 ||pyjqhb.xyz^
+||pyntbz.icu^
 ||pyonbrj41b.com^
 ||pypwxvo.cn^
 ||pyrfpb.icu^
