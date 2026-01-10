@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-09 16:16:27
-! Total count: 38200
+! Version: 2026-01-10 08:16:13
+! Total count: 38211
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19209,6 +19209,7 @@ zzzyk.com###Tinfo
 ||75b9dfiyb.com^
 ||75ossyemu.com^
 ||75rakcovr.com^
+||7649s7szsu.com^
 ||766lnwfo7h.com^
 ||7676.com^$third-party
 ||767drv.cn^
@@ -19287,6 +19288,7 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
 ||7mxn77h4vr.com^
+||7nb71ub2xi.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
 ||7qo2met.com^
@@ -21906,6 +21908,7 @@ zzzyk.com###Tinfo
 ||bugs01080ko.com^
 ||bugs01090ko.com^
 ||bugs01091ko.com^
+||bugs01100ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -22799,6 +22802,7 @@ zzzyk.com###Tinfo
 ||collector.dcdn.baidu.com^
 ||collegepre.net^
 ||com052bin.com^
+||comedy34.com^
 ||comefromchina.com/images/128bestbuy
 ||comgnnyx.com^
 ||comm100.cn/livechatserver/chatbutton.*&res=
@@ -24578,6 +24582,7 @@ zzzyk.com###Tinfo
 ||ezzwechiiewt.com^
 ||f*.baidu.com/it/u=*,*&fm=$3p,domain=~hao123.com|~haokan.com|~yoojia.com
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
+||f0zvx9koy3.com^
 ||f1.06ps.com^
 ||f1.ichong123.com^
 ||f1.pig66.com^
@@ -28232,6 +28237,7 @@ zzzyk.com###Tinfo
 ||kewaishu.org/m-
 ||kewrutd.top^
 ||key8.com/cache/www/banner_
+||keyboard88.top^
 ||keydot.net^$third-party
 ||keyrun.cn^$third-party
 ||keywin.org/templates/kw_v2/images/youbianad.png
@@ -32675,6 +32681,7 @@ zzzyk.com###Tinfo
 ||rvkhazel.com^
 ||rvlgrb.xyz^
 ||rvnaxwqe.icu^
+||rvr3psha.xyz^
 ||rvrl1srlq.com^
 ||rvtfwryz.icu^
 ||rvxmlj.icu^
@@ -32748,6 +32755,7 @@ zzzyk.com###Tinfo
 ||s1.wesiedu.com^
 ||s11.cn^$3p
 ||s11.cn^$third-party
+||s1918.cc^
 ||s2dcm.com^
 ||s2tu.com/images/*.gif
 ||s3-nl-01.mangabuddy.in^
@@ -33973,6 +33981,7 @@ zzzyk.com###Tinfo
 ||tarqk5.com^
 ||tarvrf.xyz^
 ||tasgxk4ia6.com^
+||taunphoik.com^
 ||tawk.to^$third-party
 ||taxismaned.top^
 ||taxoxz.xyz^
@@ -37036,6 +37045,7 @@ zzzyk.com###Tinfo
 ||yasorlbeu.com^
 ||yatemy.cn^
 ||yb0a.xyz^
+||yb2es1rd82.com^
 ||ybbreqrake.com^
 ||ybcnvqf.cn^
 ||ybixvc.top^
@@ -37368,6 +37378,7 @@ zzzyk.com###Tinfo
 ||yqlzccxn.icu^
 ||yqqv.cn^
 ||yqrsdfh.top^
+||yqsu.cn^
 ||yquqoj.com^
 ||yr2spd4ucy.com^
 ||yrarhzuq.xyz^
