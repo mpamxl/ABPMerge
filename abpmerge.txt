@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-10 16:13:56
-! Total count: 38218
+! Version: 2026-01-11 08:16:16
+! Total count: 38233
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17060,6 +17060,7 @@ wpworld.pl,windowsowo.pl#@##adBanner
 ws://*/api/wss/GetNotReadCount$3p
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$3p
+wss://*.com:29189/880
 wss://*.top/|
 wss://*.xyz:*?e=$3p
 wss://*.xyz:*?x=$3p
@@ -17942,6 +17943,7 @@ zzzyk.com###Tinfo
 ||0bb8jytek.com^
 ||0dwm.icu^
 ||0e1y8x7ft.com^
+||0e9knynfb.com^
 ||0er7pc8.xyz^
 ||0h3uds.com^
 ||0h9yewgei.com^
@@ -19590,6 +19592,7 @@ zzzyk.com###Tinfo
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9j9gc694o4.com^
+||9jk7puqza.com^
 ||9js6.icu^
 ||9jsp.com/pay.png
 ||9k9k.com/jscode/js/
@@ -21911,6 +21914,7 @@ zzzyk.com###Tinfo
 ||bugs01091ko.com^
 ||bugs01100ko.com^
 ||bugs01101ko.com^
+||bugs01110ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -24009,6 +24013,7 @@ zzzyk.com###Tinfo
 ||dxvfdv.icu^
 ||dxwksqa.icu^
 ||dxwsty.cn^
+||dxzgwti.com^
 ||dxzky.love^
 ||dy10000.net^
 ||dy2018.com/js/tj.js
@@ -25994,6 +25999,7 @@ zzzyk.com###Tinfo
 ||hapying.com^
 ||harmful26.top^
 ||harmony573.top^
+||harpsichord34.com^
 ||hasdjksndjk.com^
 ||hasdser.com^
 ||hasgde.site^
@@ -28449,6 +28455,7 @@ zzzyk.com###Tinfo
 ||kr.sdykcloud.cn^
 ||kr1cbkoow.com^
 ||krbulhb.com^
+||kreirkaer.com^
 ||krevn0cq4.com^
 ||krikului.com^
 ||krinkred.com^
@@ -28522,6 +28529,7 @@ zzzyk.com###Tinfo
 ||kuiv.cn^
 ||kuk8.com^$3p
 ||kuk8.com^$third-party
+||kukanmanhua.cyou^
 ||kuke99.com/static/home/js/index/index.js
 ||kuku99.com^$3p
 ||kuku99.com^$third-party
@@ -32390,6 +32398,7 @@ zzzyk.com###Tinfo
 ||reflection67.top^
 ||register04.top^
 ||registration09.top^
+||rehearsal55.top^
 ||reisyxy.icu^
 ||reke.at.sohu.com^
 ||relafp.xyz^
@@ -34831,6 +34840,7 @@ zzzyk.com###Tinfo
 ||u7wnylbb28.top^
 ||u7y.pw^
 ||u833ij.com^
+||u8rnuky6e.com^
 ||ua2.icu^
 ||uaa.com/js/dxj.
 ||uahivaqettl.com^
@@ -35377,6 +35387,7 @@ zzzyk.com###Tinfo
 ||vfjsa6do.icu^
 ||vfjxvt.icu^
 ||vflorp.xyz^
+||vfnq.cn^
 ||vfphbh.xyz^
 ||vfrdewsdg.xyz^
 ||vfsb.cn^
@@ -35390,6 +35401,7 @@ zzzyk.com###Tinfo
 ||vfvdvd99.fun^
 ||vfvrld.xyz^
 ||vfxrpl.xyz^
+||vfymgla.com^
 ||vfzfrx.xyz^
 ||vgao.xyz/images/*.gif
 ||vgfj.cn^
@@ -35552,6 +35564,7 @@ zzzyk.com###Tinfo
 ||voc.com.cn/static/web/js/creattwo11.js
 ||vocabulary83.com^
 ||vogue99.top^
+||vojolj.icu^
 ||vokmhydy.xyz^
 ||vokwlch.xyz^
 ||vokzqgjp.icu^
@@ -37249,6 +37262,7 @@ zzzyk.com###Tinfo
 ||yj2nf.icu^
 ||yjcf360.com/ad.
 ||yje912.cn^
+||yjigiv1ic.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
 ||yjnkas.com^
@@ -37830,6 +37844,7 @@ zzzyk.com###Tinfo
 ||zglww.net/jsnew/pfkf.js
 ||zgm1.com^
 ||zgo8rgvuaf.com^
+||zgqsc3shr.com^
 ||zgtwzq.xyz^
 ||zguqxf.xyz^
 ||zgwsnw.xyz^
