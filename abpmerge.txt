@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-11 08:16:16
-! Total count: 38233
+! Version: 2026-01-11 16:13:58
+! Total count: 38240
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17060,7 +17060,7 @@ wpworld.pl,windowsowo.pl#@##adBanner
 ws://*/api/wss/GetNotReadCount$3p
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$3p
-wss://*.com:29189/880
+wss://*.com:29*/$3p
 wss://*.top/|
 wss://*.xyz:*?e=$3p
 wss://*.xyz:*?x=$3p
@@ -18315,6 +18315,7 @@ zzzyk.com###Tinfo
 ||1kb4atu6x.com^
 ||1ketang.com/Runtime/js/play
 ||1kiaxb3kl.com^
+||1ko8eg0c4.com^
 ||1l1.cc^
 ||1l27pkxp5w.com^
 ||1lqw75ogo.com^
@@ -19213,6 +19214,7 @@ zzzyk.com###Tinfo
 ||75ossyemu.com^
 ||75rakcovr.com^
 ||7649s7szsu.com^
+||765f76kcx.com^
 ||766lnwfo7h.com^
 ||7676.com^$third-party
 ||767drv.cn^
@@ -21915,6 +21917,7 @@ zzzyk.com###Tinfo
 ||bugs01100ko.com^
 ||bugs01101ko.com^
 ||bugs01110ko.com^
+||bugs01111ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -25506,6 +25509,7 @@ zzzyk.com###Tinfo
 ||gkjmev3.com^
 ||gklox.cn^
 ||gknybkl.cn^
+||gkuresx.com^
 ||gkutca.xyz^
 ||gkvrdf.com^
 ||gkypgw.xyz^
@@ -26605,6 +26609,7 @@ zzzyk.com###Tinfo
 ||hupu.com/_dace.gif?
 ||hupu.com^*/interfaceAd/
 ||hupu.com^*/stream.js
+||huqraedu.com^
 ||hur.cn/AhurD/*.gif
 ||hur05071kns.com^
 ||hur05101kns.com^
@@ -35229,6 +35234,7 @@ zzzyk.com###Tinfo
 ||uxieks.com^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
+||uxtlrah.com^
 ||uxtruz.xyz^
 ||uxx1sawfwm.com^
 ||uxxux.com/js/zd.js
@@ -37999,6 +38005,7 @@ zzzyk.com###Tinfo
 ||zmdttx.icu^
 ||zmhqhuq.cn^
 ||zmk.pw/zfb.png
+||zmk852tp7.com^
 ||zmkp6jvq4.com^
 ||zmpgln.icu^
 ||zmrkxz.icu^
