@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-12 08:20:31
-! Total count: 38254
+! Version: 2026-01-12 16:18:02
+! Total count: 38264
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21923,6 +21923,7 @@ zzzyk.com###Tinfo
 ||bugs01110ko.com^
 ||bugs01111ko.com^
 ||bugs01120ko.com^
+||bugs01121ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -23181,6 +23182,7 @@ zzzyk.com###Tinfo
 ||d8962a.xyz^
 ||d89sze2uu.com^
 ||d8lzzy93g.com^
+||d8oh0sebl8.com^
 ||d9q4aa05g4.com^
 ||da-ads.com^$third-party
 ||da-fan-shu.cn/images/kuaijie.jpg
@@ -24605,6 +24607,7 @@ zzzyk.com###Tinfo
 ||f1.zaojv.com^
 ||f11.hackhome.com^
 ||f1tfmxzg.icu^
+||f20r1b13iw.com^
 ||f23jjd8.xyz^
 ||f2dsex1.com/public/fb*.png
 ||f3k194f9i7.com^
@@ -25723,6 +25726,7 @@ zzzyk.com###Tinfo
 ||gsywcc.xyz^
 ||gt.duowan.com^
 ||gt.yy.com^
+||gtaqnnk.com^
 ||gtcbai.icu^
 ||gtcqbnu.cn^
 ||gtdf33.fun^
@@ -27454,6 +27458,7 @@ zzzyk.com###Tinfo
 ||iztwp.com/images/
 ||izuts.com^
 ||izwmfmu.icu^
+||izzodzmuu.com^
 ||j.baminw.cn^
 ||j.dailiqing.net^
 ||j.diangon.com^
@@ -29172,6 +29177,7 @@ zzzyk.com###Tinfo
 ||lpo03240aou.com^
 ||lpocne.top^
 ||lppfnf.icu^
+||lpuqhego.com^
 ||lpxmall.com^
 ||lqdcvj.top^
 ||lqe3.icu^
@@ -30739,6 +30745,7 @@ zzzyk.com###Tinfo
 ||ofincm.icu^
 ||ofja.cn^
 ||ofjslik.top^
+||ofkccsp35i.com^
 ||ofkcww.xyz^
 ||ofooe.cn^
 ||ofqvca.xyz^
@@ -32257,6 +32264,7 @@ zzzyk.com###Tinfo
 ||qwsbegovo.top^
 ||qwti.cn^
 ||qwursery.top^
+||qwuylnl.com^
 ||qxakzox.cn^
 ||qxaz2xcw.com^
 ||qxdx2x6kn6.com^
@@ -35830,6 +35838,7 @@ zzzyk.com###Tinfo
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||waulzelnvh.com^
+||wazqifq.com^
 ||wazveqv.xyz^
 ||wb7i614qen.com^
 ||wbczkm.icu^
@@ -36541,6 +36550,7 @@ zzzyk.com###Tinfo
 ||xfrahb.xyz^
 ||xftsjv.top^
 ||xfvod.pro/images/ad/
+||xfxtqjg.com^
 ||xfxvpt.icu^
 ||xfztgxt.com^
 ||xg8mbvu3x8.com^
