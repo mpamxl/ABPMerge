@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-12 16:18:02
-! Total count: 38264
+! Version: 2026-01-13 08:19:07
+! Total count: 38275
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18490,6 +18490,7 @@ zzzyk.com###Tinfo
 ||2hl.fun^
 ||2i0lliongn.com^
 ||2jse6.icu^
+||2juyabihe.com^
 ||2kandy.com/js/123/
 ||2kbmdtlgme.com^
 ||2lb.cc^
@@ -18764,6 +18765,7 @@ zzzyk.com###Tinfo
 ||4e9ynqm47d.com^
 ||4etsr.xyz^
 ||4f3tsea1m.com^
+||4fd0jlybx.com^
 ||4fptsi5zxo.com^
 ||4fr.icu^
 ||4fs3r.icu^
@@ -19296,6 +19298,7 @@ zzzyk.com###Tinfo
 ||7moor.com^$third-party
 ||7mx63ygcti.com^
 ||7mxn77h4vr.com^
+||7na721c64.com^
 ||7nb71ub2xi.com^
 ||7o2l520r0a.com^
 ||7p5ruxflv0.com^
@@ -21924,6 +21927,8 @@ zzzyk.com###Tinfo
 ||bugs01111ko.com^
 ||bugs01120ko.com^
 ||bugs01121ko.com^
+||bugs01130ko.com^
+||bugs01131ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -23074,6 +23079,7 @@ zzzyk.com###Tinfo
 ||cww.net.cn/js/urdev.js
 ||cwwgqu.xyz^
 ||cx0001.cn^
+||cxafybp.com^
 ||cxdcn9c.fjshxjs.cn^$3p
 ||cxeftgyuer.top^
 ||cxgfq.pinlue.com^
@@ -29169,6 +29175,7 @@ zzzyk.com###Tinfo
 ||lovespenhas.com^
 ||lowadec.cn^
 ||lozmtk.cn^
+||lpalartra.com^
 ||lpasdfgwer.com^
 ||lpeolfa.top^
 ||lpjxzs.com^
@@ -33888,6 +33895,7 @@ zzzyk.com###Tinfo
 ||syndication.exosrv.com/splash.php?$xhr,redirect=noop.txt,important,domain=hboav.com
 ||syndication.jsadapi.com^$third-party
 ||synergyat.work^
+||synopsis95.com^
 ||syr66.com.cn^
 ||syseen.com/content/uploadfile/*/hongbao.png
 ||syshwc.xyz^
@@ -35378,6 +35386,7 @@ zzzyk.com###Tinfo
 ||vdpwuxmo.icu^
 ||vdrfes.site^
 ||vdsdsf2.fun^
+||vdxu.cn^
 ||ve0ke.icu^
 ||veaiyl.icu^
 ||vecggfp.icu^
@@ -36929,6 +36938,7 @@ zzzyk.com###Tinfo
 ||xvbjctqs.xyz^
 ||xve4ww01l.com^
 ||xvgrszkg.xyz^
+||xvhttu3c9.com^
 ||xvideo.cc/etology2.js
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
@@ -37979,6 +37989,7 @@ zzzyk.com###Tinfo
 ||ziravd.xyz^
 ||zisnuthz.com^
 ||zisu.cn.com^
+||zither89.com^
 ||ziweuu.com^
 ||ziyuanm.com/js/g11.js
 ||zj-yxw.com^
