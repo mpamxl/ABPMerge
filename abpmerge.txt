@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-13 16:19:54
-! Total count: 38282
+! Version: 2026-01-14 08:18:39
+! Total count: 38299
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17880,6 +17880,7 @@ zzzyk.com###Tinfo
 ||027dir.com^
 ||027pbj.net^
 ||02asdf.com^
+||02exl1ql2l.com^
 ||02wq.com/script/
 ||02wq.com/script1/
 ||0310cn.com^
@@ -18172,6 +18173,7 @@ zzzyk.com###Tinfo
 ||159i.com^*.php|
 ||15ftgllk1.com^
 ||15hn.net/data/content
+||15mxfnk6sw.com^
 ||15tianqi.com^$3p
 ||15tianqi.com^$third-party
 ||160.com/statics/statics/js/code_13.js
@@ -18271,6 +18273,7 @@ zzzyk.com###Tinfo
 ||18comic.*/templates/frontend/airav/js/92_81c7.js
 ||18comic.*/templates/frontend/airav/js/jquery.*_*.js
 ||18dui.com^
+||18mo21a2ji.com^
 ||1905.com/data/js/*.json
 ||1905.com/data/js/*.json?pwd=*.shtml&rand=$xhr
 ||1905.com/data/js/*.json?pwd=*?fr=videoplay_*&rand=$xhr
@@ -18325,6 +18328,7 @@ zzzyk.com###Tinfo
 ||1mb71rr5oo.com^
 ||1nrlydgrr.com^
 ||1ny3r.icu^
+||1o0g85u7k1.com^
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1p3yg.icu^
 ||1paujqtq9.com^
@@ -19746,6 +19750,7 @@ zzzyk.com###Tinfo
 ||a5t.icu^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
+||a6cfvavw1.xyz^
 ||a7c.icu^
 ||a7wiuh3she.com^
 ||a85t9mxnj.com^
@@ -20566,6 +20571,7 @@ zzzyk.com###Tinfo
 ||amdcopen.m.taobao.com^
 ||amerzbj.cn^
 ||amfhby.cn^
+||amftsawknf.com^
 ||amidicestrins.com^
 ||ammcg.imgscloud.com/toy/
 ||ammonia20.com^
@@ -21931,6 +21937,8 @@ zzzyk.com###Tinfo
 ||bugs01121ko.com^
 ||bugs01130ko.com^
 ||bugs01131ko.com^
+||bugs01140ko.com^
+||bugs01141ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -24191,6 +24199,7 @@ zzzyk.com###Tinfo
 ||ebioweb.com/jslibrary/js
 ||ebioweb.com/newsf/js/inpic.js
 ||ebioweb.com/newsf/js/news_top_banner.js
+||eblindap.com^
 ||eblnzoq.cn^
 ||eboobuv0rk.com^
 ||ebp.renren.com^
@@ -26599,6 +26608,7 @@ zzzyk.com###Tinfo
 ||hujiang.com/ciku/getLesson
 ||hujunhao.name^
 ||hulichuang.mobi^
+||humiliatedaboveboardwho.com^
 ||hummingexam.com^
 ||hunzlj.icu^
 ||huo07091hy.com^
@@ -27871,6 +27881,7 @@ zzzyk.com###Tinfo
 ||jrblfv.icu^
 ||jrbnxw.top^
 ||jrds.net.cn^
+||jrge.cn^
 ||jrj.com.cn/h5Ad?
 ||jrj.com.cn/s?z=
 ||jrjimg.cn/ad/
@@ -27987,6 +27998,7 @@ zzzyk.com###Tinfo
 ||jsxwfb.xyz^
 ||jsyefc.com^
 ||jsyliea.top^
+||jsyunjihui.com^
 ||jsyunmy.com^
 ||jszavs1.com^
 ||jszctech.com^
@@ -29346,6 +29358,7 @@ zzzyk.com###Tinfo
 ||lywww.com/header_pic.php
 ||lyz.radio366.com^
 ||lzbao.net/mtvbox.
+||lzbao.net/syster.
 ||lzep.cn/ep/sda/
 ||lzfzkedp.icu^
 ||lzjzyjh.com^
@@ -33526,6 +33539,7 @@ zzzyk.com###Tinfo
 ||souka.me/ad/
 ||soulsoul.xyz^
 ||soulu365.com/images/zhuce.jpg
+||sourdine34.com^
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
 ||southmoney.com^*/Inc/
@@ -35354,6 +35368,7 @@ zzzyk.com###Tinfo
 ||vast.doublemax.net/adserver/vast.xml$script,xhr,other,redirect=noopvast-2.0
 ||vasz.cn^
 ||vatzxd.xyz^
+||vaudeville44.top^
 ||vaxgyly.cn^
 ||vaykjwn.top^
 ||vbc08091op.com^
@@ -37193,6 +37208,7 @@ zzzyk.com###Tinfo
 ||yfhtbdn.com^
 ||yflieu.cn^
 ||yfminw.cn^
+||yfmwnkd1ti.com^
 ||yfoega.xyz^
 ||yg006.com/attachment/js/
 ||yg006.com/attachment/xjdb.jpg
@@ -38234,6 +38250,7 @@ zzzyk.com###Tinfo
 ||zzbaike.com/sites/all/themes/zzbaike/images/
 ||zzccseo.com/statics/js/di.js
 ||zzdsjxsb.com^
+||zzfxfz.com^
 ||zzgxqlzh.com^
 ||zzisnvb.cn^
 ||zzmyrz.com^
