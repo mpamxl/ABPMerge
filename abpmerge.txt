@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-14 16:19:08
-! Total count: 38302
+! Version: 2026-01-15 08:19:14
+! Total count: 38313
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3158,6 +3158,7 @@ $websocket,domain=wap.yushuwu.cloud
 /js/wahha/*
 /js/wlfloat.js
 /js/xb.js$script,third-party
+/js/xiaxuanfu.js
 /js/yueyupp_3.js
 /js/yzgg.js
 /js/zb.js$script,third-party
@@ -18716,6 +18717,7 @@ zzzyk.com###Tinfo
 ||3wk.cc/images/*.gif
 ||3x5h6x434.com^
 ||3x8zapzon.com^
+||3xeo00tqz.com^
 ||3xl.icu^
 ||3yej.xyz^
 ||3yq51wjim.com^
@@ -21942,6 +21944,7 @@ zzzyk.com###Tinfo
 ||bugs01131ko.com^
 ||bugs01140ko.com^
 ||bugs01141ko.com^
+||bugs01150ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -23344,6 +23347,7 @@ zzzyk.com###Tinfo
 ||dbmp4.com/js/foot.js
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
+||dbraulmat.com^
 ||dbraxb.icu^
 ||dbt6ga5v6d15f.cloudfront.net/slf^$domain=vikacg.com
 ||dbvo.cn^
@@ -24617,6 +24621,7 @@ zzzyk.com###Tinfo
 ||ezprice.com.tw/js/*_ysm_
 ||ezraahdn.icu^
 ||ezrcowa.icu^
+||eztravude.com^
 ||ezu6rd5.houge.in^
 ||ezzwechiiewt.com^
 ||f*.baidu.com/it/u=*,*&fm=$3p,domain=~hao123.com|~haokan.com|~yoojia.com
@@ -27638,6 +27643,7 @@ zzzyk.com###Tinfo
 ||jglgjz.xyz^
 ||jgmywh.icu^
 ||jgntjtyf.icu^
+||jgpo1zqhj.com^
 ||jgsajfggv.xyz^
 ||jgstny.com^$3p
 ||jguhqbe.top^
@@ -28008,6 +28014,7 @@ zzzyk.com###Tinfo
 ||jsztl.com/img/particular/tbyhq.jpg
 ||jt01151knd.com^
 ||jt5.dangbei.net/site/$domain=kan.znds.com,image
+||jtav.cn^
 ||jtbunh.xyz^
 ||jtdltu.top^
 ||jtezxmpb.xyz^
@@ -31535,6 +31542,7 @@ zzzyk.com###Tinfo
 ||plbs9k.icu^
 ||plbslog.umeng.com^
 ||plecnyz.icu^
+||plectrum53.top^
 ||plfwxtgu.icu^
 ||plmn5.com^
 ||plnbnd.xyz^
@@ -32327,6 +32335,7 @@ zzzyk.com###Tinfo
 ||qzq1hq3mt.com^
 ||qzqd2.com^
 ||qzs.gdtimg.com^
+||qzs43ai3p.com^
 ||qzsvwo.xyz^
 ||qzvzluu.xyz^
 ||qzwb.com/phpstat/
@@ -33517,6 +33526,7 @@ zzzyk.com###Tinfo
 ||sojson.com/ui/images/upyun
 ||sokars.com^
 ||solaron.top^
+||solitaire47.com^
 ||somaliainc.com^
 ||somanhua.com/smh/
 ||somewhate.club^
@@ -34981,6 +34991,7 @@ zzzyk.com###Tinfo
 ||ufeuca.icu^
 ||ufgg55.xyz^
 ||ufgl.cn^
+||ufihgd3ck.com^
 ||ufiidvv.icu^
 ||ufile.cc/crod.js
 ||ufile.cc/pps.js
@@ -35810,6 +35821,7 @@ zzzyk.com###Tinfo
 ||w505cb.cc^
 ||w51t.com^$subdocument
 ||w537a7.cc^
+||w54551.cc^
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
@@ -36836,7 +36848,6 @@ zzzyk.com###Tinfo
 ||xn--xhq9mt12cf5v.ren^
 ||xn--zw0autp42d.cn^
 ||xnbuapwp.icu^
-||xncwxw.me/js/xiaxuanfu.
 ||xne1ocient87zxz.360doc.cn^
 ||xng02.com/api.php?mod=ad&
 ||xnimg.cn^*/liveinc/rightlive.js
