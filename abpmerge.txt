@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-16 08:18:32
-! Total count: 38334
+! Version: 2026-01-16 16:17:43
+! Total count: 38340
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19625,6 +19625,7 @@ zzzyk.com###Tinfo
 ||9ku.com/aaa/
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
+||9ma1sr1tb1.com^
 ||9miwo.com^
 ||9o29nhxgp.com^
 ||9odes.ltd^
@@ -20216,6 +20217,7 @@ zzzyk.com###Tinfo
 ||aem.dentsuchina.cn^
 ||aem.three.com.hk/content/three/sosim/app/*/promo-
 ||aem.three.com.hk/content/three/sosim/app/*/promotion/
+||aeqfuyc.com^
 ||aeryt111.fun^
 ||aesxgy.xyz^
 ||aewgwu.icu^
@@ -24880,6 +24882,7 @@ zzzyk.com###Tinfo
 ||firefoxchina.cn^*49560.
 ||firefoxchina.cn^*_couplet
 ||firefoxchina.cn^*_topbanner
+||firqacv.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||fish882.xyz^
 ||fittomniku.com^
@@ -25877,6 +25880,7 @@ zzzyk.com###Tinfo
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
 ||gw2cddpt2hao.site^
+||gw7jpuouik.com^
 ||gw8.icu^
 ||gwbnsh.net.cn/hd/unicom/ad.html
 ||gwertyuadf.com^
@@ -31749,6 +31753,7 @@ zzzyk.com###Tinfo
 ||pubfuture.com^$third-party
 ||public.gdtimg.com^
 ||public.wlbaike.com^
+||pudtyek.com^
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 ||pufei8.com/skin/t6.html
@@ -37136,6 +37141,7 @@ zzzyk.com###Tinfo
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
 ||yahoo.com^*banner_ad
+||yakhaknog.com^
 ||yalingba.com/ggtxjs/
 ||yaltchoaiz.com^
 ||yan007.com/js/sss/ad.js
