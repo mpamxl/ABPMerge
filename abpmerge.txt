@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-16 16:17:43
-! Total count: 38340
+! Version: 2026-01-17 08:15:53
+! Total count: 38354
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17066,6 +17066,7 @@ ws://*/api/wss/GetNotReadCount$3p
 ws://*/api/wss/GetNotReadCount$third-party
 wss://*.*.top/$3p
 wss://*.com:29*/$3p
+wss://*.com:800*/$3p
 wss://*.top/|
 wss://*.xyz:*?e=$3p
 wss://*.xyz:*?x=$3p
@@ -19161,6 +19162,7 @@ zzzyk.com###Tinfo
 ||6b856ee58e.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
+||6cmxoje5k.com^
 ||6cs.icu^
 ||6cyfvvs.com^
 ||6efgcdcjr000.fun^
@@ -21954,6 +21956,7 @@ zzzyk.com###Tinfo
 ||bugs01151ko.com^
 ||bugs01160ko.com^
 ||bugs01161ko.com^
+||bugs01170ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -23863,6 +23866,7 @@ zzzyk.com###Tinfo
 ||downmz.com^$popup,third-party
 ||downxia.com/dgjs/download.js
 ||downyi.com/tg/
+||dowrrav.com^
 ||doxihz.xyz^
 ||dozu5h9yql.com^
 ||dp3.qq.com/qqcom/
@@ -24569,6 +24573,7 @@ zzzyk.com###Tinfo
 ||evidhjksdtgyxrh.xyz^
 ||evkc.cn^
 ||evkzqs.xyz^
+||evpxl9a8h.com^
 ||evreiks.com^
 ||evtubescms.phncdn.com^
 ||ewaterw.top^
@@ -24835,6 +24840,7 @@ zzzyk.com###Tinfo
 ||fhddnh.xyz^
 ||fheiu43bcdhsj.top^
 ||fhfgg.com^
+||fhgaikrolq.com^
 ||fhglcpf.icu^
 ||fhhctb.icu^
 ||fhitagd.cn^
@@ -25875,6 +25881,7 @@ zzzyk.com###Tinfo
 ||gvbhae0.com^
 ||gvbta.icu^
 ||gvideo.qpic.cn^
+||gvje.cn^
 ||gvvedashb6.fun^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
@@ -30672,6 +30679,7 @@ zzzyk.com###Tinfo
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxjuvt.icu^
+||nxkyiwh.com^
 ||nxledn.xyz^
 ||nxnjw.com^
 ||nxrajr.xyz^
@@ -32386,6 +32394,7 @@ zzzyk.com###Tinfo
 ||r6yigjfvp.com^
 ||r75tia.cn^
 ||r7tqkqrvuz.com^
+||ra0mpyy93.com^
 ||ra1.xyz^
 ||ra10.xyz^
 ||rabc1.iteye.com^
@@ -32928,6 +32937,7 @@ zzzyk.com###Tinfo
 ||savionl.com^
 ||saviourketonic.com^
 ||sax*.sina.
+||saxophone90.top^
 ||saxysec.com^
 ||sb4you1.com^
 ||sb6k.top^
@@ -33473,6 +33483,7 @@ zzzyk.com###Tinfo
 ||snmi.cn^$third-party
 ||snnmgdt.icu^
 ||snowflake.qq.com^
+||snowman77.com^
 ||snueirk.icu^
 ||snwuamb.top^
 ||snwucnb.top^
@@ -34915,6 +34926,7 @@ zzzyk.com###Tinfo
 ||u68t5.icu^
 ||u6u.icu^
 ||u6uy9lzdcj.com^
+||u6yzoru6u.com^
 ||u6zsr2xn1.com^
 ||u78s.top^
 ||u7em6.xyz^
@@ -35504,6 +35516,7 @@ zzzyk.com###Tinfo
 ||vgnyli.top^
 ||vgovvoinf.com^
 ||vgragvory.com^
+||vgtmosn.com^
 ||vgxbpf.xyz^
 ||vgxj.cn^
 ||vgzytn.xyz^
@@ -37687,6 +37700,7 @@ zzzyk.com###Tinfo
 ||yyselrqpyu.com^
 ||yystzl.cn^
 ||yyuivw6.com^
+||yyutfzv.com^
 ||yyv.co/Webservices/jsParseLinks.aspx$script,third-party
 ||yyv.co/visitScript/$script,third-party
 ||yywridi.cn^
