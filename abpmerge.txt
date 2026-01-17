@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-17 08:15:53
-! Total count: 38354
+! Version: 2026-01-17 16:13:26
+! Total count: 38362
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18308,6 +18308,7 @@ zzzyk.com###Tinfo
 ||1f84e33459.com^
 ||1futnsio0.com^
 ||1fxs.com^$3p
+||1gj8lhfa1.com^
 ||1gmzo.icu^
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
@@ -18584,6 +18585,7 @@ zzzyk.com###Tinfo
 ||34mede82hj.com^
 ||3520.cc/js/3520/
 ||35336.net/35336.jpg
+||354xxcdt1.com^
 ||3562wsgkbcm.xyz^
 ||35vc.com^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
@@ -21957,6 +21959,7 @@ zzzyk.com###Tinfo
 ||bugs01160ko.com^
 ||bugs01161ko.com^
 ||bugs01170ko.com^
+||bugs01171ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -26090,6 +26093,7 @@ zzzyk.com###Tinfo
 ||hbxhnqj.cn^
 ||hbxmdf.icu^
 ||hbxzlf.xyz^
+||hbz8v.com^
 ||hbzhenquan.cn^
 ||hbzjht.com^$3p
 ||hbzshoes.com^
@@ -29237,6 +29241,7 @@ zzzyk.com###Tinfo
 ||lppfnf.icu^
 ||lpuqhego.com^
 ||lpxmall.com^
+||lqbe7i5gf.com^
 ||lqdcvj.top^
 ||lqe3.icu^
 ||lqfctb.icu^
@@ -32868,6 +32873,7 @@ zzzyk.com###Tinfo
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
 ||s31u.com^
 ||s3t3d2y8.afcdn.net^
+||s45hkb25i.com^
 ||s4te24u.com^
 ||s4y6lhotaw.com^
 ||s4zqj3m.cn^
@@ -34491,6 +34497,7 @@ zzzyk.com###Tinfo
 ||tokendomain.xyz^
 ||tom.com/*TomFlashAd
 ||tom.com/adsender/
+||tomharrph.com^
 ||tongbaimi.cn^$3p
 ||tonghuacun.com/js/uc.js
 ||tongj.xilu.com^
@@ -35865,6 +35872,7 @@ zzzyk.com###Tinfo
 ||w59g.icu^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
+||w5c6d9.cc^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
