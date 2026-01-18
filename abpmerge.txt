@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-17 16:13:26
-! Total count: 38362
+! Version: 2026-01-18 08:16:25
+! Total count: 38374
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1211,6 +1211,7 @@
 ##DIV.duilian[style*='z-index: 9999; top: 0px; ']
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.floating-ad
 ##DIV.footer-appload.js-footer-appload
 ##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
 ##DIV.index_adpic
@@ -19143,6 +19144,7 @@ zzzyk.com###Tinfo
 ||6726lmym.top^
 ||6789.net^$3p
 ||6789.net^$third-party
+||67qlvj0jcj.com^
 ||67u36vmzm.com^
 ||6820tp1.com^
 ||68287zubo85737.com^
@@ -19435,6 +19437,7 @@ zzzyk.com###Tinfo
 ||8d8d.me/images/dealer.gif
 ||8en.net^$third-party
 ||8et.icu^
+||8fdmj67f5e.com^
 ||8feichai.com^
 ||8ff0.cn^
 ||8fo.icu^
@@ -21960,6 +21963,7 @@ zzzyk.com###Tinfo
 ||bugs01161ko.com^
 ||bugs01170ko.com^
 ||bugs01171ko.com^
+||bugs01180ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -22742,6 +22746,7 @@ zzzyk.com###Tinfo
 ||cm.baidu.com^
 ||cmbkgmx.cn^
 ||cmelr.com^
+||cmesgpqq8z.com^
 ||cmgjqqu.cn^
 ||cmh2pw.com^
 ||cmm.xmfish.com^
@@ -26176,6 +26181,7 @@ zzzyk.com###Tinfo
 ||hebstsmgs.com^
 ||hebtv.com/d/a/thea
 ||hectorstatic.baidu.com^
+||hecwgmokvc.com^
 ||heemphaers.com^
 ||hefei.cc/templates/default/index_ad
 ||hefei64.com^
@@ -28195,6 +28201,7 @@ zzzyk.com###Tinfo
 ||k99.cc^$third-party
 ||k9u.icu^
 ||k9w4m.xyz^
+||kacq.cn^
 ||kagdf.com^
 ||kahgjjd.com^
 ||kai5741.xyz^
@@ -28823,6 +28830,7 @@ zzzyk.com###Tinfo
 ||ledni.xyz^
 ||ledollull.com^
 ||ledwtz.icu^
+||leektiylpi.com^
 ||leeleo.top^$3p
 ||leeleo.top^$third-party
 ||legdeh.fun^
@@ -30438,6 +30446,7 @@ zzzyk.com###Tinfo
 ||nibblebit.com/assets/media/adverts.php
 ||nicelinks.site/ad-block-
 ||nidckjnc.com^
+||nie8fe9far.com^
 ||nieae.xyz^
 ||niebiaoyyds.com^
 ||niecarsg.com^
@@ -33566,6 +33575,7 @@ zzzyk.com###Tinfo
 ||sokars.com^
 ||solaron.top^
 ||solitaire47.com^
+||solitaire50.top^
 ||somaliainc.com^
 ||somanhua.com/smh/
 ||somewhate.club^
@@ -37119,6 +37129,7 @@ zzzyk.com###Tinfo
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
 ||xylhwdu.com^
+||xylophone37.com^
 ||xymahuxv.xyz^
 ||xysefte.icu^
 ||xytcboyz.icu^
@@ -38193,6 +38204,7 @@ zzzyk.com###Tinfo
 ||zqifmyt.icu^
 ||zqkxlf.com^
 ||zqntbc.top^
+||zqqwr9snx1.com^
 ||zqydulfzxb.com^
 ||zr3.icu^
 ||zrakpxsf.com^
