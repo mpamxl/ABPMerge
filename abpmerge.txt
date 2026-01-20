@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-19 16:18:04
-! Total count: 38397
+! Version: 2026-01-20 08:19:58
+! Total count: 38408
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19344,6 +19344,7 @@ zzzyk.com###Tinfo
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7y50wscnc8.com^
 ||7yt.org^
+||7yy69rrqpz.com^
 ||7zb.fun^
 ||7zivoy6qs.com^
 ||8052qydk7.com^
@@ -21968,6 +21969,7 @@ zzzyk.com###Tinfo
 ||bugs01181ko.com^
 ||bugs01190ko.com^
 ||bugs01191ko.com^
+||bugs01200ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -22885,6 +22887,7 @@ zzzyk.com###Tinfo
 ||config.chsmarttv.com^
 ||config.inmobi.com^
 ||config.unityads.unity3d.com^
+||confluent54.top^
 ||connect.cointent.com^$domain=themarysue.com
 ||connect.facebook.net/en_US/fbevents.js$script,redirect=noop.js,domain=linetv.tw
 ||connect.facebook.net^*/fbds.js$third-party
@@ -24680,6 +24683,7 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f8ejqxp.cn^
+||f92l2orpu3.com^
 ||f9gv87zoq2.com^
 ||faamhel.com^
 ||faaqgje.icu^
@@ -25566,6 +25570,7 @@ zzzyk.com###Tinfo
 ||gjnbf.com^
 ||gjwind.com/xxmh.gif
 ||gjwxy.cn^
+||gjzpwnuifk.com^
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk99.com/static/js/a-d-sys.js
@@ -25774,6 +25779,8 @@ zzzyk.com###Tinfo
 ||gsjdzx.com^$3p
 ||gsjdzx.com^$third-party
 ||gsjzlssws.com^
+||gsk801200hh.com^
+||gsk801201hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -29245,6 +29252,7 @@ zzzyk.com###Tinfo
 ||lovespenhas.com^
 ||lowadec.cn^
 ||lozmtk.cn^
+||lp340p7czf.com^
 ||lpalartra.com^
 ||lpasdfgwer.com^
 ||lpeolfa.top^
@@ -32907,6 +32915,7 @@ zzzyk.com###Tinfo
 ||s7ki0dcd96.com^
 ||s7tu.com/images/*.gif
 ||s7vf.cn^
+||s7xrlzfa.top^
 ||s8.pw^$3p
 ||s8.pw^$third-party
 ||s83.fun^
@@ -35484,6 +35493,7 @@ zzzyk.com###Tinfo
 ||vdhf042.fun^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
+||vdnh.cn^
 ||vdoqomz.icu^
 ||vdpwuxmo.icu^
 ||vdrfes.site^
@@ -37189,6 +37199,7 @@ zzzyk.com###Tinfo
 ||yaacdn.top^
 ||yaaumqa.top^
 ||yac5t.cn^
+||yah3ph65tc.com^
 ||yahekby.cn^
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
