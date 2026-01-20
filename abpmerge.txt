@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-20 08:19:58
-! Total count: 38408
+! Version: 2026-01-20 16:23:17
+! Total count: 38413
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19068,6 +19068,7 @@ zzzyk.com###Tinfo
 ||5pub.com^
 ||5qjspf2c.xyz^
 ||5s98.com/img/
+||5sghirlr5b.com^
 ||5tmobi.cn^$3p
 ||5u1zleadi.com^
 ||5u3tzh6tc.com^
@@ -19089,6 +19090,7 @@ zzzyk.com###Tinfo
 ||5yqi3kg1g.com^
 ||5z0d3.cyou^
 ||5z2oy.icu^
+||5zxkdat6t8.com^
 ||6.cn/coop/pub/getRand.php?
 ||60.190.139.164^
 ||600g3yf2p.com^
@@ -21970,6 +21972,7 @@ zzzyk.com###Tinfo
 ||bugs01190ko.com^
 ||bugs01191ko.com^
 ||bugs01200ko.com^
+||bugs01201ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -23893,6 +23896,7 @@ zzzyk.com###Tinfo
 ||dpjzr.top^
 ||dpjzzgw.cn^
 ||dpsusqs20.com^
+||dpuhlinevz.com^
 ||dpw202504.com^
 ||dpweupc.icu^
 ||dpxadf.icu^
@@ -32427,6 +32431,7 @@ zzzyk.com###Tinfo
 ||r6yigjfvp.com^
 ||r75tia.cn^
 ||r7tqkqrvuz.com^
+||r8ln4v4nef.com^
 ||ra0mpyy93.com^
 ||ra1.xyz^
 ||ra10.xyz^
