@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-20 16:23:17
-! Total count: 38413
+! Version: 2026-01-21 08:20:06
+! Total count: 38424
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21973,6 +21973,7 @@ zzzyk.com###Tinfo
 ||bugs01191ko.com^
 ||bugs01200ko.com^
 ||bugs01201ko.com^
+||bugs01210ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -24359,6 +24360,7 @@ zzzyk.com###Tinfo
 ||ehox67pahs.com^
 ||ehrhrrx.xyz^
 ||eht116.com^
+||ehvkaakviw.com^
 ||ei1s7b.cn^
 ||ei7.icu^
 ||ei7buknu82.com^
@@ -28214,12 +28216,14 @@ zzzyk.com###Tinfo
 ||k7f67a6s7.xyz^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
+||k90ey77nx.com^
 ||k99.cc^$3p
 ||k99.cc^$third-party
 ||k9u.icu^
 ||k9w4m.xyz^
 ||kacq.cn^
 ||kagdf.com^
+||kagxyvk.com^
 ||kahgjjd.com^
 ||kai5741.xyz^
 ||kaiguangdou.com^
@@ -28413,6 +28417,7 @@ zzzyk.com###Tinfo
 ||kiwihk.net^$third-party
 ||kiykfux.icu^
 ||kizu.org/adv-$popup
+||kj4gddo30.com^
 ||kjanfwss.xyz^
 ||kje9v2ic57.com^
 ||kjggk1.xyz^
@@ -30166,6 +30171,7 @@ zzzyk.com###Tinfo
 ||mvirkw.xyz^
 ||mvlkvth.cn^
 ||mvmqos.xyz^
+||mvt0e2s72.com^
 ||mvwitz.xyz^
 ||mvxh.cn^
 ||mvxz.com/bar3.js
@@ -32882,6 +32888,7 @@ zzzyk.com###Tinfo
 ||s.ufile.cc^
 ||s.union.360.cn^
 ||s.weibo.com/widget.html
+||s.yimg.com/cv/apiv2/tw/bwchou25/
 ||s.yimg.com/ja/ap/$script,subdocument,domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 ||s.yimg.com/ja/ap/tw/js/
 ||s.yimg.com/ma/auc/common/js/ext_y_straas_shell_*.js$domain=tw.bid.yahoo.com
@@ -33951,6 +33958,7 @@ zzzyk.com###Tinfo
 ||svcnmtb.top^
 ||svdpgmt.cn^
 ||svhk4bt874.com^
+||svhw.cn^
 ||svjj.cn^
 ||svncowt.cn^
 ||svnf.cn^
@@ -34943,6 +34951,7 @@ zzzyk.com###Tinfo
 ||u1099.com^
 ||u10nte4ba.com^
 ||u1102.com^
+||u16d4beu5.com^
 ||u22011.com^
 ||u22066.com^
 ||u22088.com^
@@ -36894,6 +36903,7 @@ zzzyk.com###Tinfo
 ||xmbfrn.icu^
 ||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||xmcimg.com/js/m.js
+||xmgi1tqka.com^
 ||xmhszb.xyz^
 ||xmjajv.xyz^
 ||xmkbrfyu.cn^
@@ -37794,6 +37804,7 @@ zzzyk.com###Tinfo
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
 ||z2.fakutownee.cn^
+||z2ubj8bpk.com^
 ||z3yfkdjd.icu^
 ||z3zex.icu^
 ||z4a.net/images/*/960-60.
