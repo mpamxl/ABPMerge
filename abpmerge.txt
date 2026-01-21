@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-21 08:20:06
-! Total count: 38424
+! Version: 2026-01-21 16:26:38
+! Total count: 38432
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19446,6 +19446,7 @@ zzzyk.com###Tinfo
 ||8ff0.cn^
 ||8fo.icu^
 ||8g0j.cn^
+||8g2a7mifv.com^
 ||8gp4wjq3.com^
 ||8gra3.icu^
 ||8h93.com^*.gif
@@ -19562,6 +19563,7 @@ zzzyk.com###Tinfo
 ||9669.com^$script,third-party
 ||96696612.top^
 ||96rj.icu^
+||96zddjwn2.com^
 ||973.com/static/js/pccom.js
 ||97ii.cn^
 ||97kpz.com/js/bbk/g.js
@@ -21974,6 +21976,7 @@ zzzyk.com###Tinfo
 ||bugs01200ko.com^
 ||bugs01201ko.com^
 ||bugs01210ko.com^
+||bugs01211ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -24417,6 +24420,7 @@ zzzyk.com###Tinfo
 ||eliezerpmsa.com^
 ||elinvarpayola.com^
 ||elloisny.com^
+||elmerpmsd.com^
 ||elopatchwork.com^
 ||elphhrj.xyz^
 ||elqfsq.icu^
@@ -25787,6 +25791,7 @@ zzzyk.com###Tinfo
 ||gsjzlssws.com^
 ||gsk801200hh.com^
 ||gsk801201hh.com^
+||gsk801211hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -29099,6 +29104,7 @@ zzzyk.com###Tinfo
 ||lkpmprksau.com^
 ||lkpxzt.xyz^
 ||lkqaq.icu^
+||lkthfpii.xyz^
 ||ll.gxsky.com^
 ||ll.hudong.com^
 ||ll.ibiqiuge.com/m.js
@@ -32164,6 +32170,7 @@ zzzyk.com###Tinfo
 ||qmgria.cn^
 ||qmj89db55u.com^
 ||qmlog.baertt.com^
+||qmoqruden.com^
 ||qmwxb.com/skins/2/images/qp001.gif
 ||qn-cdnfile1pcdn.msstatic.com^
 ||qnalzly.top^
@@ -35919,6 +35926,7 @@ zzzyk.com###Tinfo
 ||w56ff7.cc^
 ||w58547.cc^
 ||w58ce6.cc^
+||w592be.cc^
 ||w59g.icu^
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
