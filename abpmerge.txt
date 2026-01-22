@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-22 08:19:34
-! Total count: 38446
+! Version: 2026-01-22 16:22:34
+! Total count: 38452
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -19207,6 +19207,7 @@ zzzyk.com###Tinfo
 ||6s0zo8jzbb.com^
 ||6s8w2ck1g.com^
 ||6slb0.cyou^
+||6spczz2hj1.com^
 ||6t51r3ge18.com^
 ||6tdz25urqj.com^
 ||6tofsu.com^
@@ -25206,6 +25207,7 @@ zzzyk.com###Tinfo
 ||fygel9rtc.com^
 ||fywaaox.icu^
 ||fz94px.site^
+||fzavvanz.com^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzd3.com/gg/
 ||fzdwtage.icu^
@@ -25797,6 +25799,7 @@ zzzyk.com###Tinfo
 ||gsk801201hh.com^
 ||gsk801211hh.com^
 ||gsk801220hh.com^
+||gsk801221hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -31806,6 +31809,7 @@ zzzyk.com###Tinfo
 ||ptfish.com/*/ad$image,object
 ||ptfxh.com^
 ||ptgdb.cn^
+||pthrumeath.com^
 ||ptju.cn^
 ||ptmabek.cn^
 ||ptrmnx.icu^
@@ -35768,6 +35772,7 @@ zzzyk.com###Tinfo
 ||vpw1lig85.com^
 ||vpwizuj.icu^
 ||vpx4fmj4z6.com^
+||vpxyw6rbv3.com^
 ||vpydjogaytpg.xyz^
 ||vpzohx.xyz^
 ||vqaj6smlmtpym.top^
@@ -36336,6 +36341,7 @@ zzzyk.com###Tinfo
 ||wthrarner.com^
 ||wtiaw.top^
 ||wtienle.top^
+||wtrevvit.com^
 ||wtrotilloye.com^
 ||wtroytj33.fun^
 ||wtyusie.top^
