@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-21 16:26:38
-! Total count: 38432
+! Version: 2026-01-22 08:19:34
+! Total count: 38446
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21977,6 +21977,8 @@ zzzyk.com###Tinfo
 ||bugs01201ko.com^
 ||bugs01210ko.com^
 ||bugs01211ko.com^
+||bugs01220ko.com^
+||bugs01221ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -22225,6 +22227,7 @@ zzzyk.com###Tinfo
 ||cat.da.us.criteo.com^
 ||catalog.fjwhcbsh.com^
 ||catalysis39.top^
+||cataract40.com^
 ||catbox.moe/bb5wdv.jpg
 ||catherineagnesmj.com^
 ||cautious60.com^
@@ -24431,6 +24434,7 @@ zzzyk.com###Tinfo
 ||eltdeh.top^
 ||eluocs.xyz^
 ||elvirassb.com^
+||em7ky342lo.com^
 ||embnvut.com^
 ||emdcadvertise.eastmoney.com^
 ||emilyz.top^
@@ -25792,6 +25796,7 @@ zzzyk.com###Tinfo
 ||gsk801200hh.com^
 ||gsk801201hh.com^
 ||gsk801211hh.com^
+||gsk801220hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -25920,6 +25925,7 @@ zzzyk.com###Tinfo
 ||gw2cddpt2hao.site^
 ||gw7jpuouik.com^
 ||gw8.icu^
+||gwbb1p2t9s.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
 ||gwertyuadf.com^
 ||gwg51.com^
@@ -26245,6 +26251,7 @@ zzzyk.com###Tinfo
 ||hentaicomic.*/data/ds/
 ||hentaicomic.*/data/game/*/wap.gif
 ||hentaistream.com^$popup
+||heoddikvdm.com^
 ||herogame.com^$subdocument,domain=gamer.com.tw
 ||heryt111.fun^
 ||herzotph.icu^
@@ -27238,6 +27245,7 @@ zzzyk.com###Tinfo
 ||inifdlao.top^
 ||inkuae.com^
 ||inlishui.com/index.php?m=poster&
+||innveu2ji6.com^
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
 ||inowe.xyz^
@@ -28113,6 +28121,7 @@ zzzyk.com###Tinfo
 ||juxia.com/jxtp/indexbg.jpg
 ||juzi6.com/js/dp.js
 ||juzi6.com/js/gd.js
+||juzn.cn^
 ||juznlx.xyz^
 ||jv0rlf.com^
 ||jvekga.cn^
@@ -29422,6 +29431,7 @@ zzzyk.com###Tinfo
 ||lygjgzc.com^
 ||lyislol.top^
 ||lyjq9gwob.com^
+||lyk35otqfm.com^
 ||lyo1dkdbp.com^
 ||lyretul.top^
 ||lysq.com/data/attachment/portal/
@@ -32336,6 +32346,7 @@ zzzyk.com###Tinfo
 ||qunar.com/vata?chan=
 ||qunar.com/vataframe/b.html?
 ||qunlove.com^*.gif
+||quoits96.top^
 ||quresdy.top^
 ||qurl.f.360.cn^
 ||qushucheng.com/public/
@@ -35688,6 +35699,7 @@ zzzyk.com###Tinfo
 ||vkdgdt.xyz^
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
+||vkoq4kyzmj.com^
 ||vksy.cn^
 ||vktztp.xyz^
 ||vkur.cn^
@@ -36585,6 +36597,7 @@ zzzyk.com###Tinfo
 ||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js
 ||x05occvjw.com^
 ||x08jd.top^
+||x0lkimaixh.com^
 ||x0or8.icu^
 ||x0y081e.xyz^
 ||x1.52aoteman.com^
@@ -37082,6 +37095,7 @@ zzzyk.com###Tinfo
 ||xv98.com/js/hengfu
 ||xvbcjh.xyz^
 ||xvbjctqs.xyz^
+||xvbwjd.icu^
 ||xve4ww01l.com^
 ||xvgrszkg.xyz^
 ||xvhttu3c9.com^
