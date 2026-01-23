@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-23 08:18:37
-! Total count: 38455
+! Version: 2026-01-23 16:18:32
+! Total count: 38468
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6422,6 +6422,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||linkbabes.com/intermission/loadTargetUrl$xmlhttprequest
 @@||linkbucks.com/intermission/loadTargetUrl$xmlhttprequest
 @@||linkdrop.net^$generichide
+@@||linovelib.com^$generichide
 @@||linuxiarze.pl/images/ad/$image
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
@@ -18308,6 +18309,7 @@ zzzyk.com###Tinfo
 ||1dor1d6vc.com^
 ||1f0l.top^
 ||1f84e33459.com^
+||1fp9k4zrm.com^
 ||1futnsio0.com^
 ||1fxs.com^$3p
 ||1gj8lhfa1.com^
@@ -21980,6 +21982,7 @@ zzzyk.com###Tinfo
 ||bugs01211ko.com^
 ||bugs01220ko.com^
 ||bugs01221ko.com^
+||bugs01231ko.com^
 ||bugzmn.icu^
 ||buhvjv.icu^
 ||bujiangjiu123.com^
@@ -22740,6 +22743,7 @@ zzzyk.com###Tinfo
 ||clldirectasianew.club^
 ||clmcam.xyz^
 ||clmkwi.xyz^
+||clo41zgrs.com^
 ||clog.miguvideo.com^
 ||cloooud.com^
 ||clorso.icu^
@@ -24562,6 +24566,7 @@ zzzyk.com###Tinfo
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
+||etff5y04k.com^
 ||ethicalads.io^
 ||etienlw.top^
 ||etjui.cn^
@@ -24958,6 +24963,7 @@ zzzyk.com###Tinfo
 ||fk3nf1xeh.top^
 ||fkesfg.com^
 ||fkf5.com/public/js/static.js
+||fkhagviev.com^
 ||fkhxlz.xyz^
 ||fkjdiefz.icu^
 ||fklgndklbngg.com^
@@ -25447,6 +25453,7 @@ zzzyk.com###Tinfo
 ||gfrzzzx.cn^
 ||gftefmt.icu^
 ||gfvip09at.com^
+||gfvk.cn^
 ||gfylyw.xyz^
 ||gg-led.com/uploadFile/uploadCompanyLogo/*.gif
 ||gg.*.com/tonglan/tonglan.js
@@ -25800,6 +25807,7 @@ zzzyk.com###Tinfo
 ||gsk801211hh.com^
 ||gsk801220hh.com^
 ||gsk801221hh.com^
+||gsk801231hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -30122,6 +30130,7 @@ zzzyk.com###Tinfo
 ||mstmsbz.com^
 ||mt1exxfnf.com^
 ||mt4v4.com^
+||mtaitdupf.com^
 ||mtawcy.xyz^
 ||mtfc8.com^
 ||mtguwx.xyz^
@@ -30399,6 +30408,7 @@ zzzyk.com###Tinfo
 ||nen.com.cn/eap/
 ||nen.com.cn/service/js/beitou
 ||nenlnl.icu^
+||nenodhezm.com^
 ||neolit.cn^
 ||neryt111.fun^
 ||netded.com/templets/gfan/js/global.js
@@ -31780,6 +31790,7 @@ zzzyk.com###Tinfo
 ||projectwonderful.com$third-party
 ||prokyrn.icu^
 ||prologue23.com^
+||promontory32.com^
 ||promotion-partner.kuaishou.com^
 ||pronpic.org/52mp/index.php/adhandler/
 ||propeller-tracking.com^
@@ -35518,6 +35529,7 @@ zzzyk.com###Tinfo
 ||vbllxaaj.icu^
 ||vbnmjjda.xyz^
 ||vbphograewy.com^
+||vbw3q6jxn.com^
 ||vcaqexl.com^
 ||vcdfsf99.fun^
 ||vcjzjnef.icu^
@@ -36004,6 +36016,7 @@ zzzyk.com###Tinfo
 ||wasabii.com.tw/float/*.js
 ||wasaidailian.com^
 ||watchmygf.to^$third-party
+||waterfall90.top^
 ||watson.microsoft.com^
 ||watson.telemetry.microsoft.com^
 ||waulzelnvh.com^
