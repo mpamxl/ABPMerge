@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-25 08:16:47
-! Total count: 27980
+! Version: 2026-01-25 16:14:53
+! Total count: 27988
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12463,6 +12463,7 @@ zzzyk.com###Tinfo
 ||1990tu.com/i/*.png
 ||1990tu.com^$3p
 ||1999019.com^
+||19dkfu1wg.com^
 ||19o8hzj117.com^
 ||1biqug.com/js/ajax.js
 ||1buu1.penyouw.com^
@@ -16207,6 +16208,7 @@ zzzyk.com###Tinfo
 ||cp.qbaobei.com^
 ||cp121.com/js2/
 ||cp2.eastmoney.com^
+||cp7iys8fp.com^
 ||cpbl-elta.cdn.hinet.net/web/images/ad_
 ||cpc-service-square.aiclk.com^
 ||cpcxke.icu^
@@ -17611,6 +17613,7 @@ zzzyk.com###Tinfo
 ||ffmehcg.cn^
 ||ffnvhig.cn^
 ||ffriedadl.com^
+||ffuakv5nl.com^
 ||ffvmgevrid.com^
 ||ffxe.cn^
 ||ffzz71.com^
@@ -18324,6 +18327,7 @@ zzzyk.com###Tinfo
 ||gsk801240hh.com^
 ||gsk801241hh.com^
 ||gsk801250hh.com^
+||gsk801251hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -23327,6 +23331,7 @@ zzzyk.com###Tinfo
 ||qsko05061mas.com^
 ||qslbahy.top^
 ||qslhdidxkazlzuuelsz.top^
+||qsne.cn^
 ||qsoc.cn^
 ||qsptv.com/tpl/newstyle/js/extension.js
 ||qsptv.net/tpl/newstyle/js/pv.js
@@ -23729,6 +23734,7 @@ zzzyk.com###Tinfo
 ||ruvgbv.icu^
 ||ruvowe4xeo.com^
 ||ruyig.com/730x76.png
+||ruziecoraz.com^
 ||rvbztg.cn^
 ||rvgtaai.top^
 ||rvkhazel.com^
@@ -24838,6 +24844,7 @@ zzzyk.com###Tinfo
 ||thisav.com/nb/
 ||thisav.com/player/video-js-banner/
 ||thisav.video/v3/nb/
+||thj36m3dm.com^
 ||thljnv.top^
 ||thoohizoogli.xyz^
 ||thragmoth.com^
@@ -26050,6 +26057,7 @@ zzzyk.com###Tinfo
 ||w51t.com^$subdocument
 ||w537a7.cc^
 ||w54551.cc^
+||w55b76.cc^
 ||w56953.cc^
 ||w56ff7.cc^
 ||w58547.cc^
