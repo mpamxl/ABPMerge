@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-25 16:14:53
-! Total count: 27988
+! Version: 2026-01-26 08:20:31
+! Total count: 28000
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16765,6 +16765,7 @@ zzzyk.com###Tinfo
 ||dl12349.net^
 ||dlads.cn^
 ||dlads.cn^$3p
+||dldhulolw.com^
 ||dleicukp.com^
 ||dlelkindp.com^
 ||dlig.cn^
@@ -18178,6 +18179,7 @@ zzzyk.com###Tinfo
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
 ||glacier32.com^
+||glacier48.top^
 ||glancetree.top^
 ||glczys.xyz^
 ||glevvoqy.com^
@@ -18328,6 +18330,8 @@ zzzyk.com###Tinfo
 ||gsk801241hh.com^
 ||gsk801250hh.com^
 ||gsk801251hh.com^
+||gsk801260hh.com^
+||gsk801261hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -18624,6 +18628,7 @@ zzzyk.com###Tinfo
 ||hcinmau.top^
 ||hcinvdu.top^
 ||hcirentgh.360doc.cn^
+||hcl6pwowqv.com^
 ||hcokamiu.top^
 ||hcvegu.com^
 ||hdapp1003-a.akamaihd.net^
@@ -19447,6 +19452,7 @@ zzzyk.com###Tinfo
 ||imgwdyey.com^
 ||imgxr.com^$domain=xiuren.org
 ||imgzxr.cn^
+||imjll5rwuq.com^
 ||imjtv.cc^$3p
 ||imjtv.cc^$third-party
 ||imnks.com/ad2023/$image
@@ -21851,6 +21857,7 @@ zzzyk.com###Tinfo
 ||nawpyd.icu^
 ||naxqhla.com^
 ||nb.zol.com.cn/detail_*.html
+||nb4ds7c13d.com^
 ||nbdtdt.icu^
 ||nbegame.com/nbeos/*.jpg
 ||nbehzi.cn^
@@ -22195,6 +22202,7 @@ zzzyk.com###Tinfo
 ||o02231aokk.com^
 ||o02251aokk.com^
 ||o02260aokk.com^
+||o0rnzwzst5.com^
 ||o1.jyjyj.cn^
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
@@ -22245,6 +22253,7 @@ zzzyk.com###Tinfo
 ||ofincm.icu^
 ||ofja.cn^
 ||ofkccsp35i.com^
+||ofoltekbn.com^
 ||ofooe.cn^
 ||ofreadingand.biz^
 ||ofweek.com/pop/ad/
@@ -23433,6 +23442,7 @@ zzzyk.com###Tinfo
 ||r4uws5iu3g.com^
 ||r528e.cn^$3p
 ||r5dfwjtb.icu^
+||r5gcp9.com^
 ||r5twojylmzsym.top^
 ||r6pt6kfz.com^
 ||r6q4mtfno.com^
@@ -23767,6 +23777,7 @@ zzzyk.com###Tinfo
 ||rz6jf5oqz.com^
 ||rzbvxn.icu^
 ||rzcruzullr.com^
+||rzjdsm7tgz.com^
 ||rzkptd.com^
 ||rznscya.cn^
 ||rzsgxmm.cn^
@@ -25221,6 +25232,7 @@ zzzyk.com###Tinfo
 ||tw.live/assets/images/fsk-0*.webp
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
 ||tw0ihhb04.com^
+||twa735xojg.com^
 ||twavtv.com/js/jquery.colorbox
 ||twbymc.cn^
 ||twcnmti.top^
