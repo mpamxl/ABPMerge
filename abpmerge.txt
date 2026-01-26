@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-26 08:20:31
-! Total count: 28000
+! Version: 2026-01-26 16:22:11
+! Total count: 28008
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6586,6 +6586,8 @@ dable.io##[data-ad_id]
 dacota.tw##section[class*="widget_text"] > .widget-wrap > .textwidget > div[class^="Zi_ad"]:upward(3)
 dahe.cn###adArea1
 dahe.cn###adsg
+dailijichang.com,qv2ray.org##.elementor-popup-modal
+dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 dailygh.com###video_fade
 dailygh.com##.div_removeable
 dailymotion.com#@#.ad_box
@@ -10826,6 +10828,7 @@ south-plus.net##a[onclick*="'ad'"]
 soutubot.moe##.bg-gray-800.overflow-hidden
 soyunpan.com###qblad
 soyunpan.com##.jmwb
+spandayoga.ch#@#.elementor-popup-modal
 speedpan.com###float-window
 speedtest.cn##.aP-box
 speedtest.cn##.advertisingSpace
@@ -11256,7 +11259,6 @@ ulifestyle.com.hk##body:style(overflow: auto !important;)
 umbooks.com##+js(abort-current-script, document.writeln)
 umbooks.com##+js(no-window-open-if)
 unikoshardware.com##.elementor-image > a[href^="https://bit.ly/"]
-unikoshardware.com##.elementor-popup-modal
 unikoshardware.com##.elementor-widget-sidebar a[href^="https://bit.ly/"]
 unikoshardware.com##.theiaStickySidebar a[href^="https://bit.ly/"]
 union.58.com#@##advertise
@@ -11665,6 +11667,8 @@ wxsck.com###content > div[style^="clear:"]
 wxsck.com##.fixed-btn ~ div[style^="position:fixed; bottom:"]
 wxsck.com##.footer:style(margin-top: 0px !important;)
 wybg666.com##.container div[id$="ad"] > a[target="_blank"]:only-child > img
+wzzy.cc###notice-overlay
+wzzy.cc##.xgplayer-error
 x-mol.com###rightAllJournal
 x-mol.com##.news-white-content-right
 x.com/*/videoads/
@@ -12761,6 +12765,7 @@ zzzyk.com###Tinfo
 ||3bzsoex618.com^
 ||3cbxqifhd.com^
 ||3czol.com/ad/
+||3dle4u60y7.com^
 ||3dmax8.com/atu4/
 ||3dmax8.com/jiaoche
 ||3dmgame.com/img/a/640-
@@ -14112,6 +14117,8 @@ zzzyk.com###Tinfo
 ||afd.baidu.com^
 ||afdunaui.com^
 ||afenx.top^
+||affxc.com/topbanner-
+||affxc.com^*-792-180.
 ||affyun.com/wp-content/uploads/*-ad.
 ||affyun.com/wp-content/uploads/*/ad-
 ||affyun.com/wp-content/uploads/*/affffff.png
@@ -24389,6 +24396,7 @@ zzzyk.com###Tinfo
 ||sqevnrb.com^
 ||sqif.cn^
 ||sqiorli2w.com^
+||sqmn4wncty.com^
 ||squarewave.top^
 ||sr8jcp5fp.com^
 ||srbzw.cn^
