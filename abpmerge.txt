@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-27 08:20:42
-! Total count: 28022
+! Version: 2026-01-27 16:19:16
+! Total count: 28036
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1578,6 +1578,7 @@ $websocket,domain=wap.yushuwu.cloud
 .cc/js/ads/
 .cc/js/dj1*.js
 .cc/js/dj2*.js
+.cfd/$script,3p,domain=twkan.com
 .cloud/ads/
 .club/ads/
 .club/adv/
@@ -12798,6 +12799,7 @@ zzzyk.com###Tinfo
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
+||3lxk4afsb.com^
 ||3ml8v.cn^
 ||3nopvvhju5.com^
 ||3p8801.co^
@@ -13121,6 +13123,7 @@ zzzyk.com###Tinfo
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
 ||5y9nfpes.52pk.com^
+||5yahh8v3.xyz^
 ||5ydj.com/images/banner/
 ||5yqi3kg1g.com^
 ||5zxkdat6t8.com^
@@ -13269,6 +13272,7 @@ zzzyk.com###Tinfo
 ||77nnv9.xyz^
 ||77qwq.com^
 ||77v6jk9itk.com^
+||77zdmt8yq.com^
 ||77zz7.com^
 ||789peizi.com^
 ||78dfvv.com^
@@ -13878,6 +13882,7 @@ zzzyk.com###Tinfo
 ||ad.v3mh.com^
 ||ad.walkgame.com^
 ||ad.wamxb.info^
+||ad.weibo.com^
 ||ad.winrar.com.cn^
 ||ad.wurangxian.top^
 ||ad.ximalaya.com^
@@ -13932,6 +13937,7 @@ zzzyk.com###Tinfo
 ||adhdsb.cn^
 ||adi*.cnool.net^
 ||adimg.liba.com^
+||adimg.uve.weibo.com^
 ||adintl.cn^
 ||aditibelen.com^
 ||adjb.5nd.com^
@@ -14045,6 +14051,7 @@ zzzyk.com###Tinfo
 ||adstats.tencentmusic.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
+||adstrategy.biz.weibo.com^
 ||adstudio-assets.scdn.co^
 ||adstudio.spotify.com^
 ||adsv.svc.litv.tv/ads?ad_unit=$xhr,redirect=noopvast-3.0,important,domain=ani.gamer.com.tw
@@ -14055,6 +14062,7 @@ zzzyk.com###Tinfo
 ||adtrack.quark.cn^
 ||adtracker.medproad.com^
 ||adtx2.cn^
+||adui.tg.meitu.com^
 ||adunite.com^$3p
 ||adutp.com^$3p
 ||adutp.com^$third-party
@@ -14083,6 +14091,7 @@ zzzyk.com###Tinfo
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
 ||adx-saas.advlion.com^
+||adx-strategy-api-cn.statisticslinks.com^
 ||adx.36kr.com^
 ||adx.ads.heytapmobi.com^
 ||adx.ads.oppomobile.com^
@@ -17768,7 +17777,6 @@ zzzyk.com###Tinfo
 ||foupog90.xyz^
 ||fourier.taobao.com^
 ||fourlaile.com^
-||fovyoqbhjnpvr7.cfd^
 ||fp.nanrenwo.net^
 ||fp2nn4zxlp.com^
 ||fpb*.51edu.com^
@@ -18342,6 +18350,7 @@ zzzyk.com###Tinfo
 ||gsk801260hh.com^
 ||gsk801261hh.com^
 ||gsk801270hh.com^
+||gsk801271hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -20990,6 +20999,7 @@ zzzyk.com###Tinfo
 ||loli.net/2023/05/08/w4aGFUIVmKgOT78.
 ||loli.net^$domain=9kanqq.com|acglover.me|hdsky.me|magnet2048.com|nulltm.com
 ||lolshipin.com/zt/sxx/
+||lonarzelq.com^
 ||longdidi.top^*.js
 ||longzhu.com/i/api/playpage/recommendPop?
 ||longzhu.com/recommendad/
@@ -21626,6 +21636,7 @@ zzzyk.com###Tinfo
 ||mop.com/js/common/watermark.js
 ||mop.com/newIndex/gg.html
 ||moratame.tw/img/contents/banner
+||mores.toponad.com^
 ||mortgagecentres.net/banner.gif
 ||mos05110o9i.com^
 ||mos05111o9i.com^
@@ -22308,6 +22319,7 @@ zzzyk.com###Tinfo
 ||oiuqwppcsdf.com^
 ||oiwlnlu.com^
 ||oizs.cn^
+||oj2c0dkk4.com^
 ||ojbkmcsdx.xyz^
 ||ojizau.icu^
 ||ojmv.cn^
@@ -24713,6 +24725,7 @@ zzzyk.com###Tinfo
 ||tableland06.top^
 ||tad.suning.com^
 ||tagtd.cn^
+||tagtic.cn^
 ||tagtoo.co^$3p
 ||tahltanboutell.com^
 ||taijuba.com/js/*_
@@ -25206,6 +25219,7 @@ zzzyk.com###Tinfo
 ||tui555.com/public/gong/js/a_
 ||tui56.com/guanggao*.html
 ||tuicool.com/images/upload/aliyun
+||tuiguang.meitu.com^
 ||tuisong.baidu.com^
 ||tumeite.cn^
 ||tuobeng.net^
