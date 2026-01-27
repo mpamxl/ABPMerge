@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-26 16:22:11
-! Total count: 28008
+! Version: 2026-01-27 08:20:42
+! Total count: 28022
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17251,6 +17251,7 @@ zzzyk.com###Tinfo
 ||effectivehealthy.cn^
 ||efg.zle.com^
 ||efgh.5lu.com^
+||efmh.cn^
 ||eftd.cn^
 ||efusc.com^
 ||efvsyhbf.xyz^
@@ -17767,6 +17768,7 @@ zzzyk.com###Tinfo
 ||foupog90.xyz^
 ||fourier.taobao.com^
 ||fourlaile.com^
+||fovyoqbhjnpvr7.cfd^
 ||fp.nanrenwo.net^
 ||fp2nn4zxlp.com^
 ||fpb*.51edu.com^
@@ -18339,6 +18341,7 @@ zzzyk.com###Tinfo
 ||gsk801251hh.com^
 ||gsk801260hh.com^
 ||gsk801261hh.com^
+||gsk801270hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -18379,6 +18382,7 @@ zzzyk.com###Tinfo
 ||gtimg.com/www/mobi/js/app-bar-
 ||gtimg.com^*/ad/
 ||gtimg.com^*/adv/
+||gtj1myjla.com^
 ||gtlpa*.com^
 ||gtlpaj.com^
 ||gtokii.icu^
@@ -19144,6 +19148,7 @@ zzzyk.com###Tinfo
 ||i3z.cn^$3p
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i5q1t8vj9.com^
+||i5qquywfz.com^
 ||i73u6dnnh.com^
 ||i7akpd1.xyz^
 ||i7mfm1hl44.com^
@@ -21002,6 +21007,7 @@ zzzyk.com###Tinfo
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lowadec.cn^
 ||lp340p7czf.com^
+||lp780937a.com^
 ||lpalartra.com^
 ||lpasdfgwer.com^
 ||lpeolfa.top^
@@ -22926,6 +22932,7 @@ zzzyk.com###Tinfo
 ||praairfo.com^
 ||prbibo.top^
 ||prdohgp.cn^
+||precipice55.com^
 ||prelandappslab.com^
 ||prelude69.com^
 ||preserved32.top^
@@ -22990,6 +22997,7 @@ zzzyk.com###Tinfo
 ||pufei.cc/skin/middle.js
 ||pufei8.com/skin/t6.html
 ||pufhzpt.cn^
+||pugzutzi.com^
 ||pulfinik.com^
 ||puma.com^$popup,domain=hupu.com
 ||pupudy.com/images/wxrj.gif
@@ -23986,6 +23994,7 @@ zzzyk.com###Tinfo
 ||sdzhongke.cn^
 ||se533.com/template/new/css/*.js
 ||sealine.youku.com^
+||seaquake54.com^
 ||search.ixigua.com^
 ||search3-search.ixigua.com^
 ||search5-search-hl.ixigua.com^
@@ -24980,6 +24989,7 @@ zzzyk.com###Tinfo
 ||tltyygb.cn^
 ||tlula507.com/Public/js/dui
 ||tlula507.com/Public/js/float
+||tluutoido.com^
 ||tmall.com^$popup,domain=eyusky.net|iqiyi.com
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmdqlk.top^
@@ -25483,6 +25493,7 @@ zzzyk.com###Tinfo
 ||uljg.cn^
 ||ulkoxbra.com^
 ||ullc.cn^
+||ulny.cn^
 ||ulog-sdk.gifshow.com^
 ||ulogjs.gifshow.com^
 ||ulogs.umeng.com^
@@ -26078,6 +26089,7 @@ zzzyk.com###Tinfo
 ||w537a7.cc^
 ||w54551.cc^
 ||w55b76.cc^
+||w562f5.cc^
 ||w56953.cc^
 ||w56ff7.cc^
 ||w58547.cc^
@@ -26283,6 +26295,7 @@ zzzyk.com###Tinfo
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
 ||wm02x4gcnx.com^
+||wm0qv5zg3.com^
 ||wm6b9l1av.com^
 ||wmbd.gamersky.com^
 ||wmeng.feihuadns.com^
@@ -26372,6 +26385,7 @@ zzzyk.com###Tinfo
 ||wthrarner.com^
 ||wtiaw.top^
 ||wtienle.top^
+||wtreqnine.com^
 ||wtrevvit.com^
 ||wtrotilloye.com^
 ||wu2088-603.shop^
