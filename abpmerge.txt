@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-28 08:20:03
-! Total count: 28050
+! Version: 2026-01-28 16:25:11
+! Total count: 28054
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6587,7 +6587,6 @@ dable.io##[data-ad_id]
 dacota.tw##section[class*="widget_text"] > .widget-wrap > .textwidget > div[class^="Zi_ad"]:upward(3)
 dahe.cn###adArea1
 dahe.cn###adsg
-dailijichang.com,qv2ray.org##.elementor-popup-modal
 dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 dailygh.com###video_fade
 dailygh.com##.div_removeable
@@ -9073,6 +9072,7 @@ linux.cn##.linuxcnad
 linux.cn##a[href^="https://linux.cn/go/"]
 linuxde.net##.ad360x500
 linuxidc.com##.linux801
+linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
 litv.tv##.ad_impression
 litv.tv##.internal_bn
 litv.tv##body > .right_float_poster_container
@@ -10027,7 +10027,7 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc##.adeles
+ping0.cc##.myeles
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
 pinggu.org##.indextop-r
@@ -12407,6 +12407,7 @@ zzzyk.com###Tinfo
 ||16m.cc^$3p
 ||16sucai.com/ads/
 ||16sucai.com/images/*0
+||16xxq8lb4g.com^
 ||17.huanqiu.com^
 ||1708t.com/js/jquery.js
 ||17173.com/advideo/
@@ -13194,6 +13195,7 @@ zzzyk.com###Tinfo
 ||69t49.com/floating/layer.js
 ||6acupxubky.com^
 ||6avz.com^$script,3p
+||6b8emvi3ya.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
 ||6cmxoje5k.com^
@@ -20238,6 +20240,7 @@ zzzyk.com###Tinfo
 ||jzxpxj.xyz^
 ||k06kldksi3.com^
 ||k0jw6qzyh.com^
+||k0winsnua2.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k1.wendahu.com^
@@ -22482,6 +22485,7 @@ zzzyk.com###Tinfo
 ||otheve.beacon.qq.com^
 ||otheve.play.aiseet.atianqi.com^
 ||otienlk.top^
+||otiladgyo.com^
 ||otkwcg.icu^
 ||otlj.cn^
 ||otme.cn^
@@ -22818,7 +22822,6 @@ zzzyk.com###Tinfo
 ||pin6d37stu.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$3p
-||ping0.cc/static/images/ad/
 ||pinglun11223.xyz^
 ||pingma.qq.com^
 ||pingmeibang.com/zt/zx.jpg
@@ -25180,6 +25183,7 @@ zzzyk.com###Tinfo
 ||trustedcpmrevenue.com^
 ||truthfulsensor.com^
 ||truuhmoen.com^
+||truunnoi.com^
 ||truvidplayer.com^$domain=technews.tw
 ||truxalsl.com^
 ||trvsdlckg.icu^
