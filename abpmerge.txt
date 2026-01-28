@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-27 16:19:16
-! Total count: 28036
+! Version: 2026-01-28 08:20:03
+! Total count: 28050
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11728,6 +11728,8 @@ xiaoz.me##.gg6
 xiaoz.me##.sidebar a > img
 xiaozhongjishu.com##.apd > a[target="_blank"] > img
 xiashanet.com###top_content
+xiazai.zol.com.cn##.soft-summary__buttons > div[style^="width"]:not([class])
+xiazai.zol.com.cn##div[onclick^="zol_niux_tongji"]
 xiazai.zol.com.cn##img[alt^="AiPPT"]
 xiazaizhijia.com###gg_2
 xiazaizhijia.com###public_right_mid_ad
@@ -12125,6 +12127,7 @@ zzzyk.com###Tinfo
 ||036e.cn^
 ||039nez.com^
 ||03asdf.com^
+||03in08p3r1.com^
 ||03t441b8w.com^
 ||042.cn/adver/
 ||0439.com/javascript.php?part=advertisement&
@@ -12557,6 +12560,7 @@ zzzyk.com###Tinfo
 ||21yq.com/mg/21yq/
 ||222aa333bb.com^
 ||222xs.com/js/greentea.js
+||224oztn8dq.com^
 ||22588888.com^$popup
 ||22pixx.xyz/l/
 ||23.224.89.2^$3p
@@ -12661,6 +12665,7 @@ zzzyk.com###Tinfo
 ||2wgolxk.com^
 ||2wq9u06jq.com^
 ||2xmzazd.cn^
+||2xx63f0bfy.com^
 ||2yjw.com/statics/js/jquery.min.
 ||2za.fun^
 ||2zjftxgl5s.com^
@@ -13187,6 +13192,7 @@ zzzyk.com###Tinfo
 ||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
+||6acupxubky.com^
 ||6avz.com^$script,3p
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
@@ -13987,6 +13993,7 @@ zzzyk.com###Tinfo
 ||ads.95516.com^
 ||ads.adaptv.advertising.com/*roll&pageUrl=4gtv.tv$script,xhr,other,redirect=noopvast-2.0
 ||ads.aralego.com^
+||ads.auctions.yahoo.com^
 ||ads.cup.com.cn^
 ||ads.exoclick.com^
 ||ads.google.cn^
@@ -14126,8 +14133,7 @@ zzzyk.com###Tinfo
 ||afd.baidu.com^
 ||afdunaui.com^
 ||afenx.top^
-||affxc.com/topbanner-
-||affxc.com^*-792-180.
+||affxc.com^$3p
 ||affyun.com/wp-content/uploads/*-ad.
 ||affyun.com/wp-content/uploads/*/ad-
 ||affyun.com/wp-content/uploads/*/affffff.png
@@ -14599,7 +14605,6 @@ zzzyk.com###Tinfo
 ||appsupport.qq.com^
 ||apptime.xyz^
 ||apptry.easylife.tw/pub/js/common/common.js
-||appversion.115.com^
 ||apsgo.com/assets/js/union.
 ||apsgo.com/go/
 ||aqc.gucheng.com^
@@ -18351,6 +18356,8 @@ zzzyk.com###Tinfo
 ||gsk801261hh.com^
 ||gsk801270hh.com^
 ||gsk801271hh.com^
+||gsk801280hh.com^
+||gsk801281hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -21237,7 +21244,9 @@ zzzyk.com###Tinfo
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
 ||m3cqjc3og6.com^
+||m3ks1o8jz.com^
 ||m43ocq1uoj.com^
+||m485oq2gym.top^
 ||m4fxreb5s.com^
 ||m4pgay.com^
 ||m4r.fun^
@@ -21527,6 +21536,7 @@ zzzyk.com###Tinfo
 ||mjvr.cn^
 ||mk10ow7zoi.com^
 ||mkd88.cc/16.32.jpg
+||mkff.cn^
 ||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
@@ -22192,6 +22202,7 @@ zzzyk.com###Tinfo
 ||nyahentai.pw/js/check_cat.js
 ||nychinaren.com/houbei/
 ||nyokruzoir.com^
+||nyv388w6lc.com^
 ||nyvgbt.xyz^
 ||nyzrbx.icu^
 ||nz04com.com/aabdd/
@@ -24804,6 +24815,7 @@ zzzyk.com###Tinfo
 ||tejr.cn^
 ||telecome.cn^
 ||telemetry.sdk.inmobi.com^
+||tempest33.com^
 ||templates_pc/default/scripts/chapter_bottom.js
 ||tencent-cloud.com/s9m1/12f70718c866ea3e5f22c68e6a34c54f.
 ||tencent-cloud.com/s9m1/54cb71aff82cfd690619065f2e31c346.
@@ -25960,6 +25972,7 @@ zzzyk.com###Tinfo
 ||vokmhydy.xyz^
 ||vokwlch.xyz^
 ||volc.bj.ad.track.66mobi.com^
+||volcano93.top^
 ||volcano98.com^
 ||volgreal.com^
 ||volume68.top^
@@ -26436,6 +26449,7 @@ zzzyk.com###Tinfo
 ||wv.inner-active.mobi^
 ||wvcnmte.top^
 ||wvepppysvo.com^
+||wvrp.cn^
 ||wvyqks.xyz^
 ||wvzd.cn^
 ||ww7814.win/pic
