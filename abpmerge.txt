@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-29 08:27:59
-! Total count: 28067
+! Version: 2026-01-29 16:31:52
+! Total count: 28073
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5622,6 +5622,7 @@ baidu.com##DIV[data-module='rec:undefined-undefined']
 baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
 baidu.com##[class^='ball-wrapper']
+baidu.com##[data-log-view*='swan-ad-fc-ad-item']
 baidu.com##[data-tpl='adv_wenku_fc']
 baidu.com##[data-video-player='true']
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
@@ -14783,6 +14784,7 @@ zzzyk.com###Tinfo
 ||ayxz.com/images/enkj_small.gif
 ||ayybzhd.cn^
 ||azaleada1.top^
+||azb6ljd22.com^
 ||azdxypf.cn^
 ||azhibo.*/media/aimg/*.gif
 ||azhibo.*images/leisu.png
@@ -18366,6 +18368,7 @@ zzzyk.com###Tinfo
 ||gsk801280hh.com^
 ||gsk801281hh.com^
 ||gsk801290hh.com^
+||gsk801291hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -21872,6 +21875,7 @@ zzzyk.com###Tinfo
 ||n3xpjc.xyz^
 ||n55ylc001.vip^
 ||n5725.com^
+||n5a92p9zo.com^
 ||n5m5.com/static/js/playcon.js
 ||n5ta9.site^
 ||n6579.com^
@@ -26668,6 +26672,7 @@ zzzyk.com###Tinfo
 ||x6img.com^$domain=picturedata.org
 ||x6u6kw4sg.com^
 ||x8kwcr3l.xyz^
+||x9flqeptn.com^
 ||xahycw.com^
 ||xaiqrania.com^
 ||xapu7phoge.com^
@@ -27559,6 +27564,7 @@ zzzyk.com###Tinfo
 ||z1.cwbaike.com^
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
+||z1e2vp1gw.com^
 ||z1hihu.xmcimg.com^
 ||z2.fakutownee.cn^
 ||z2ubj8bpk.com^
