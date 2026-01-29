@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-28 16:25:11
-! Total count: 28054
+! Version: 2026-01-29 08:27:59
+! Total count: 28067
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1285,6 +1285,7 @@
 ##a[href^="http://yunbofangbt."]
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://adm.beimg.com/"]
+##a[href^="https://l.erodalabs.com"]
 ##a[href^="javascript:GoDb"]
 ##a[href^="javascript:gl012"]
 ##a[href^="javascript:gl012"] + img
@@ -7633,6 +7634,7 @@ hanime1-me.icu,hanime1-me.top##div[style="display: flex;flex-wrap: wrap;margin: 
 hanime1-me.icu,hanime1-me.top##iframe[src^="/herebyad"]
 hanime1.me##.search-rows-wrapper > .content-padding-new > .row > .multiple-link-wrapper:has(> a[href*=".labsda.com"])
 hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-align:"]
+hanime1.me##div[style*="text-align:"]:has(>div[style*="color: white"])
 hanime1.me##div[style*="width: 310px; height: 282px;"]
 hanime1.me#@#[class*="juicyads"]
 hanjutv2020.com##a[href*=".hujiang.com"]
@@ -12861,6 +12863,7 @@ zzzyk.com###Tinfo
 ||4567.org^$3p
 ||45yz5i35r.com^
 ||465k3mlo9.com^
+||4667gwyg1.com^
 ||47.100.0.249/js/thea
 ||470kk.com/js/config.js
 ||470kk.com/js/indextop.js
@@ -13068,7 +13071,7 @@ zzzyk.com###Tinfo
 ||5bess6df0.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
-||5dm.link/htm1/$image
+||5dm.link/htm$image
 ||5dm.link/htmI/*.gif
 ||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
@@ -13294,6 +13297,7 @@ zzzyk.com###Tinfo
 ||79181531227.com^
 ||797sun.com/include/js/common_footer.
 ||79zxcv.com^
+||7asx1bxaw.com^
 ||7awf4fi9k7.com^
 ||7bfst8xxtc.com^
 ||7c96k2gysn.com^
@@ -13611,6 +13615,7 @@ zzzyk.com###Tinfo
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9txnu9rlmd.com^
+||9vmbje748.com^
 ||9vviyje1s.top^
 ||9wcn.com/gcld/500.gif
 ||9xf9qkz5.com^
@@ -18360,6 +18365,7 @@ zzzyk.com###Tinfo
 ||gsk801271hh.com^
 ||gsk801280hh.com^
 ||gsk801281hh.com^
+||gsk801290hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -18410,6 +18416,7 @@ zzzyk.com###Tinfo
 ||gtrphahmu.com^
 ||gtuavqu.icu^
 ||gtuy6el1hd.com^
+||gtwrpsm.icu^
 ||guang.sdsgwy.com^
 ||guang1.zhakao.cn/common/ni_h/common/ffx_f/ek.js
 ||guang1.zhakao.cn^
@@ -20887,6 +20894,7 @@ zzzyk.com###Tinfo
 ||lknnbd.xyz^
 ||lkpmprksau.com^
 ||lkthfpii.xyz^
+||lkwj.cn^
 ||ll.gxsky.com^
 ||ll.ibiqiuge.com/m.js
 ||llaxl.com^
@@ -21046,6 +21054,7 @@ zzzyk.com###Tinfo
 ||lqftuugziloa.com^
 ||lqfvredung.com^
 ||lqjinx.xyz^
+||lqvz7e4xa.com^
 ||lqweqk61qlih.click^
 ||lqxzx.com^
 ||lrlsrz.xyz^
@@ -24598,6 +24607,7 @@ zzzyk.com###Tinfo
 ||suitcase890.top^
 ||suiyishop.cn/zhuangxiu_
 ||summerwm1.com^
+||summit87.com^
 ||sump4.cc/js/wcount.js
 ||sums.suning.com^$3p
 ||sun66387567606.online^
@@ -25551,6 +25561,7 @@ zzzyk.com###Tinfo
 ||un.ubaike.cn^
 ||un1.lawyernet.cn^
 ||undergoon.com^
+||undertow52.top^
 ||undm.qibulo.com^
 ||unecne.com/wp-content/uploads/*ad-
 ||unetall.com^
@@ -26129,6 +26140,7 @@ zzzyk.com###Tinfo
 ||w5ba5b.cc^
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
+||w5daa5.com^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
@@ -27997,6 +28009,7 @@ zzzyk.com###Tinfo
 ||zxsnllo.cn^
 ||zxvklz.icu^
 ||zxw51.com^$3p
+||zxwfcwm.icu^
 ||zxwstong.com^
 ||zxzj.me/slade2.js
 ||zyauopr.icu^
