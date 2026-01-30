@@ -9395,6 +9395,8 @@ yufile.com##.fb_r > a
 yufile.com##.lo_box
 yule.iqiyi.com##div[style="width:180px;padding:25px 0 20px 20px;float:right;margin-right: 30px;"]
 yunduanxin.xyz###adb-mask
+yunjiema.net##.container > .row.table-hover.bg-messages:has(+ .row.table-hover > .col-md-8 > .adsbygoogle):style(background-color: transparent !important;)
+yunjiema.net##.container > .row.table-hover:has(> .col-md-8 > .adsbygoogle)
 yunpan.com#@#.share-new
 yunpan.com#@#.share-wrapper
 yunpanziyuan.xyz##.card-site-info + .card
