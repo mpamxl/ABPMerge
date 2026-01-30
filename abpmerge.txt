@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-29 16:31:52
-! Total count: 28073
+! Version: 2026-01-30 08:26:52
+! Total count: 28086
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12540,6 +12540,7 @@ zzzyk.com###Tinfo
 ||2020mustang.com^
 ||2021.dxsbb.com^
 ||2022facaiabc9.xyz^
+||202xs.com^
 ||2048hd1.com/js/tc.js
 ||205.209.138.102^
 ||208622.top^
@@ -16285,6 +16286,7 @@ zzzyk.com###Tinfo
 ||criitpoy.com^
 ||crinukpd.com^
 ||criteo.net^
+||crjitvekbx.com^
 ||crobotb.com^
 ||crolerl.com^
 ||croqoltdp.com^
@@ -17191,6 +17193,7 @@ zzzyk.com###Tinfo
 ||eastmoney.com/trade/hqb_hq.html
 ||easyai.tech/wp-content/uploads/*-576x1024.
 ||easyicon.net/gg2019/
+||eaygjik.icu^
 ||eaylmi.icu^
 ||ebcf.cn^
 ||ebhaliragd.com^
@@ -18369,6 +18372,7 @@ zzzyk.com###Tinfo
 ||gsk801281hh.com^
 ||gsk801290hh.com^
 ||gsk801291hh.com^
+||gsk801300hh.com^
 ||gslb.hpplay.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -19608,6 +19612,7 @@ zzzyk.com###Tinfo
 ||irs03.com^
 ||irtefs.xyz^
 ||iruacwa.xyz^
+||iry7addri8.com^
 ||irzi.cn^
 ||is02041qqp.xyz^
 ||is02050qqp.xyz^
@@ -19620,6 +19625,7 @@ zzzyk.com###Tinfo
 ||islbaho.top^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
+||isthmus72.com^
 ||istraxuhh.com^
 ||iswgnn.com^
 ||isyd.net/images/ad1.jpg
@@ -20233,6 +20239,7 @@ zzzyk.com###Tinfo
 ||jygiizv.icu^
 ||jyhlo0.com^
 ||jynthelon.com^
+||jynv.cn^
 ||jyqkijp.icu^
 ||jyrd.com/statics/*/js/baizhu/
 ||jyt58.top^
@@ -20624,6 +20631,7 @@ zzzyk.com###Tinfo
 ||l6906qxga.com^
 ||l6h17ybxe.com^
 ||l80ays.com^
+||l9moubljmc.com^
 ||l9qxrmda6.com^
 ||laawmmy.cn^
 ||labuladong.github.io/algo/pictures/ad/
@@ -21493,6 +21501,7 @@ zzzyk.com###Tinfo
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||miaozhen.com^
 ||miaozhen.com^$3p
+||mias92zmaf.com^
 ||miav-cse.avlyun.com^
 ||micaitu.net/js/dibu.js
 ||micro-xdb.com^
@@ -21671,6 +21680,7 @@ zzzyk.com###Tinfo
 ||motsjnv.cn^
 ||motuopj.cn^
 ||mountain.zhidao.baidu.com^
+||mountain48.top^
 ||mountainrood.com^
 ||mouseflow.com^
 ||mouthop3.com^
@@ -21873,6 +21883,7 @@ zzzyk.com###Tinfo
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n3xpjc.xyz^
+||n4kd6phdxw.com^
 ||n55ylc001.vip^
 ||n5725.com^
 ||n5a92p9zo.com^
@@ -22171,6 +22182,7 @@ zzzyk.com###Tinfo
 ||nswtojdi.icu^
 ||ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||ntegrodvtu.com^
+||nthaumotzz.com^
 ||ntimg.cn/original/images/www_ads.jpg
 ||ntozchv.icu^
 ||nuannuanqi.top^
@@ -26974,6 +26986,7 @@ zzzyk.com###Tinfo
 ||xpzodh.icu^
 ||xqblnei.cn^
 ||xqcjfcb.cn^
+||xqhfb9hzrs.com^
 ||xqoh.cn^
 ||xqrydt.icu^
 ||xqtcpf.icu^
