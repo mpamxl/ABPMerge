@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-31 08:18:15
-! Total count: 27366
+! Version: 2026-01-31 16:16:22
+! Total count: 27374
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6354,6 +6354,7 @@ cnforex.com##.mleft > a
 cngold.com.cn##.myGuangGao
 cngold.org##.fiexdAdvsClosed
 cngold.org##.fixed_jt
+cngold.org##.foot_megagame
 cngold.org##.headCompanys
 cngold.org##.in_content_left_advs
 cngold.org##.jams
@@ -18076,6 +18077,7 @@ zzzyk.com###Tinfo
 ||gsk801300hh.com^
 ||gsk801301hh.com^
 ||gsk801310hh.com^
+||gsk801311hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -20208,6 +20210,7 @@ zzzyk.com###Tinfo
 ||kukanmanhua.cyou^
 ||kuku99.com^$3p
 ||kukudm.com/mg/show2.js
+||kumphurwyr.com^
 ||kunpeng-sc.csdnimg.cn/?timestamp=$subdocument,domain=blog.csdn.net
 ||kunzhang.name^
 ||kuresdd.top^
@@ -21879,6 +21882,7 @@ zzzyk.com###Tinfo
 ||ogfvadunon.com^
 ||oghqvffmnt.com^
 ||ognujxj.cn^
+||ogpdgve4v.com^
 ||oh100.com/js/pubuliu.
 ||ohaereatw.com^
 ||ohchehw.cn^
@@ -22618,6 +22622,7 @@ zzzyk.com###Tinfo
 ||q5sn40kmp2.com^
 ||q7qhlnyfx.com^
 ||q83v5haaz.com^
+||q9ss0yqwa.com^
 ||qa6z7kz5r.com^
 ||qaemphaels.com^
 ||qaljfiwv.com^
@@ -24803,6 +24808,7 @@ zzzyk.com###Tinfo
 ||uaqe.cn^
 ||uavk.cn^
 ||ub1.job592.com^
+||ub6weu52p.com^
 ||ubeeludrt.com^
 ||ubmcvideo.baidustatic.com^
 ||ubudhal.com^
@@ -25456,6 +25462,7 @@ zzzyk.com###Tinfo
 ||w41.i7x3.fun^
 ||w4sn20zpvz.com^
 ||w505cb.cc^
+||w510e2.com^
 ||w51t.com^$subdocument
 ||w537a7.cc^
 ||w54551.cc^
@@ -26520,6 +26527,7 @@ zzzyk.com###Tinfo
 ||yflieu.cn^
 ||yfminw.cn^
 ||yfmwnkd1ti.com^
+||yg0051thk.com^
 ||yg006.com/attachment/js/
 ||yg006.com/attachment/xjdb.jpg
 ||ygg1e0gmc.com^

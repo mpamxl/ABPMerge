@@ -3843,6 +3843,7 @@ cnforex.com##.mleft > a
 cngold.com.cn##.myGuangGao
 cngold.org##.fiexdAdvsClosed
 cngold.org##.fixed_jt
+cngold.org##.foot_megagame
 cngold.org##.headCompanys
 cngold.org##.in_content_left_advs
 cngold.org##.jams
