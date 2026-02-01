@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-01-31 16:16:22
-! Total count: 27374
+! Version: 2026-02-01 08:21:10
+! Total count: 27386
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12904,6 +12904,7 @@ zzzyk.com###Tinfo
 ||4sexmail.com^
 ||4taoxs.com/api/accept/
 ||4totls9uh.com^
+||4u079hpvl.com^
 ||4u3222y7.xyz^
 ||4ufutzmihl.com^
 ||4v6a7i3dkz.com^
@@ -15611,6 +15612,7 @@ zzzyk.com###Tinfo
 ||cdyee.com/external/5070.files/ad/
 ||ce.wlaoc.cn^$3p
 ||ce71jubc2.com^
+||ce9qb0h4v.com^
 ||cedhoinle.com^
 ||cee1.iteye.com^
 ||ceh.cehbh.com^
@@ -18078,6 +18080,8 @@ zzzyk.com###Tinfo
 ||gsk801301hh.com^
 ||gsk801310hh.com^
 ||gsk801311hh.com^
+||gsk802010hh.com^
+||gsk802011hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -19170,6 +19174,7 @@ zzzyk.com###Tinfo
 ||imtmp.net^
 ||imuchalo.com^
 ||in-page-push.com^
+||incapacity75.top^
 ||info.vip.iqiyi.com/promotion/
 ||information43.com^
 ||infucierg.com^
@@ -19927,6 +19932,7 @@ zzzyk.com###Tinfo
 ||k8mb640mta.com^
 ||k90ey77nx.com^
 ||k99.cc^$3p
+||k9egtgh8v.com^
 ||k9w4m.xyz^
 ||kacq.cn^
 ||kagdf.com^
@@ -20697,6 +20703,7 @@ zzzyk.com###Tinfo
 ||ltrb.cn^
 ||ltrs8bv54p.com^
 ||ltsubzgmw.xyz^
+||ltuzz346m.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
 ||lu228.com/ajs/
@@ -21361,6 +21368,7 @@ zzzyk.com###Tinfo
 ||mwvt.cn^
 ||mwzbp.ccbangong.com^
 ||mwzbp.iask.com.cn^
+||mx278ol2d.com^
 ||mxafaw.icu^
 ||mxevdii.cn^
 ||mxvl.cn^
@@ -21482,6 +21490,7 @@ zzzyk.com###Tinfo
 ||nbehzi.cn^
 ||nbfieef.cn^
 ||nbgsintl.com^
+||nbhedrelpl.com^
 ||nbpczr.icu^
 ||nbraenkikrn.com^
 ||nbragzui.com^
@@ -23057,6 +23066,7 @@ zzzyk.com###Tinfo
 ||rc.ie13.com^
 ||rc7e.top^
 ||rcblfd.xyz^
+||rcguamf.icu^
 ||rchqtr.icu^
 ||rcilgeill.com^
 ||rcqmvmq.cn^
@@ -25435,6 +25445,7 @@ zzzyk.com###Tinfo
 ||vyqn.cn^
 ||vyreat.icu^
 ||vytn.cn^
+||vyxw.cn^
 ||vyye.cn^
 ||vzeuvcdi.icu^
 ||vzia.cn^
@@ -26610,6 +26621,7 @@ zzzyk.com###Tinfo
 ||yitongkan.com/splash.xml$redirect=noop.js,domain=yitongkan.com,script
 ||yitongwl.cn^
 ||yiukig.icu^
+||yiunpfniv.com^
 ||yiw2iei.icu^
 ||yiybmi.icu^
 ||yizj5fcwaj.com^
