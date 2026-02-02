@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-01 16:18:01
-! Total count: 27392
+! Version: 2026-02-02 08:32:04
+! Total count: 27401
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15430,6 +15430,7 @@ zzzyk.com###Tinfo
 ||c6hhfkvxv.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
+||c8q27tqnaw.com^
 ||c9r05q.com^
 ||ca.yangshengtv.com^
 ||caaie.xyz^
@@ -18084,6 +18085,8 @@ zzzyk.com###Tinfo
 ||gsk801311hh.com^
 ||gsk802010hh.com^
 ||gsk802011hh.com^
+||gsk802020hh.com^
+||gsk802021hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -18174,6 +18177,7 @@ zzzyk.com###Tinfo
 ||guqu.net/Cooperate/
 ||gushi.network^
 ||gusp.cn^
+||guu0bfmpf5.com^
 ||guurniuvgo.com^
 ||guzsjdl.cn^
 ||gv0oi9ecji.com^
@@ -21927,8 +21931,10 @@ zzzyk.com###Tinfo
 ||oizs.cn^
 ||oj2c0dkk4.com^
 ||ojbkmcsdx.xyz^
+||ojh9bc9puh.com^
 ||ojizau.icu^
 ||ojmv.cn^
+||ojn1zxz0ni.com^
 ||ojrgbc6kfz.com^
 ||ojxr.cn^
 ||ok-11-cai.cc^
@@ -22798,6 +22804,7 @@ zzzyk.com###Tinfo
 ||qiyipic.com/zongyi/fix/runningman20141008_bg03.jpg
 ||qiyun.org/images/js/*.htm
 ||qizhihaotian.com^*.js
+||qizq4hn7pr.com^
 ||qj9m4nou8t.com^
 ||qjekt0c.xyz^
 ||qjiz.cn^
@@ -23682,6 +23689,7 @@ zzzyk.com###Tinfo
 ||simblotusitate.com^
 ||simi1234.com^
 ||simi2345.com^
+||similarity98.com^
 ||similm.xyz^
 ||simiyue2.com^
 ||simplewebanalysis.com^
@@ -25585,6 +25593,7 @@ zzzyk.com###Tinfo
 ||wefoidnknsl.net^
 ||weggrq0p42.com^
 ||wegowan.com^
+||weh5lofraa.com^
 ||wei2008.com/js/*0.
 ||wei2008.com/js/t_
 ||wei2008.com/skin/js/top.js
