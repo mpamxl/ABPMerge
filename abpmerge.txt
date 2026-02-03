@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-03 08:26:31
-! Total count: 27107
+! Version: 2026-02-03 16:40:51
+! Total count: 27115
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6560,7 +6560,6 @@ dable.io##[data-ad_id]
 dacota.tw##section[class*="widget_text"] > .widget-wrap > .textwidget > div[class^="Zi_ad"]:upward(3)
 dahe.cn###adArea1
 dahe.cn###adsg
-dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 dailygh.com###video_fade
 dailygh.com##.div_removeable
 dailymotion.com#@#.ad_box
@@ -8719,6 +8718,8 @@ jmcomic1.me##+js(remove-node-text, #text, 中間廣告)
 jmcomic1.me##.container > div.row:has(ins[data-width="300"])
 jmcomic1.me##div[style^="max-height: 600px"]
 jmnews.com.cn##div[id^="couplet_"]
+jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
+jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 jmw.com.cn##.head_1b
 jmw.com.cn##.head_3
 jmw.com.cn##.leftCouplet
@@ -9046,7 +9047,6 @@ linux.cn##.linuxcnad
 linux.cn##a[href^="https://linux.cn/go/"]
 linuxde.net##.ad360x500
 linuxidc.com##.linux801
-linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
 litv.tv##.ad_impression
 litv.tv##.internal_bn
 litv.tv##body > .right_float_poster_container
@@ -11119,6 +11119,7 @@ tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
 tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tt1069.com#@##ad-slot
+tt1069.com#@#.adzone
 tt776.com##iframe[src="/app/ad.html"]
 ttshow.tw##div[id^="ad_article_"]
 ttshow.tw##div[id^="ad_index_"]
@@ -17604,6 +17605,7 @@ zzzyk.com###Tinfo
 ||gavbus*.com/assets/common/js/admenu.js
 ||gavm.cn^
 ||gawnaze.com^
+||gb3scpejq.com^
 ||gbcnvip15.com^
 ||gbiathrilzik.com^
 ||gbrtyhnsc.xyz^
@@ -17828,6 +17830,7 @@ zzzyk.com###Tinfo
 ||gn01.top^
 ||gn6u494hn.com^
 ||gndmnrh.cn^
+||gnfr03906.com^
 ||gnglehraith.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
@@ -17963,6 +17966,7 @@ zzzyk.com###Tinfo
 ||gsk802020hh.com^
 ||gsk802021hh.com^
 ||gsk802030hh.com^
+||gsk802031hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -19837,6 +19841,7 @@ zzzyk.com###Tinfo
 ||kczq.cn^
 ||kdcl.pchome.com.tw^
 ||kdcxhr.cn^
+||kdewa111.familydoctor.com.cn^
 ||kdfjglkdflg.com^
 ||kdkgorjbvlxjrnv.com^
 ||kdou.com/ad_js.php?adid=
@@ -22390,6 +22395,7 @@ zzzyk.com###Tinfo
 ||pv966.us/js/tw.js
 ||pvajlmhjjq.xyz^
 ||pvkc.cn^
+||pvtd.cn^
 ||pvtest.zol.com.cn^
 ||pvvxfh.top^
 ||pvymlsvo.xyz^
@@ -22424,6 +22430,7 @@ zzzyk.com###Tinfo
 ||q.f05.xyz^
 ||q06g.com^
 ||q1.yyxwzx.com^
+||q1txsah8s.com^
 ||q27sz.com^
 ||q29k22vpu.com^
 ||q2fwgl4q8.com^
@@ -26681,6 +26688,7 @@ zzzyk.com###Tinfo
 ||zcczrvsaqw.xyz^
 ||zcczrvsaw.xyz^
 ||zcdfnl.top^
+||zceniddd.com^
 ||zcfhi.cn.com^
 ||zcgqsd.icu^
 ||zcvyzsyd.icu^

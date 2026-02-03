@@ -4074,7 +4074,6 @@ dable.io##[data-ad_id]
 dacota.tw##section[class*="widget_text"] > .widget-wrap > .textwidget > div[class^="Zi_ad"]:upward(3)
 dahe.cn###adArea1
 dahe.cn###adsg
-dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 dailygh.com###video_fade
 dailygh.com##.div_removeable
 dailymotion.com#@#.ad_box
@@ -6227,6 +6226,8 @@ jmcomic1.me##+js(remove-node-text, #text, 中間廣告)
 jmcomic1.me##.container > div.row:has(ins[data-width="300"])
 jmcomic1.me##div[style^="max-height: 600px"]
 jmnews.com.cn##div[id^="couplet_"]
+jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
+jmsnode.com,linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-sticky--active[data-settings*="bottom"]
 jmw.com.cn##.head_1b
 jmw.com.cn##.head_3
 jmw.com.cn##.leftCouplet
@@ -6553,7 +6554,6 @@ linux.cn##.linuxcnad
 linux.cn##a[href^="https://linux.cn/go/"]
 linuxde.net##.ad360x500
 linuxidc.com##.linux801
-linuxsss.com,linuxssr.com,linuxtrojan.com,linuxv2ray.com,linuxxray.com,tizidajian.com,dailijichang.com,qv2ray.org##.elementor-popup-modal
 litv.tv##.ad_impression
 litv.tv##.internal_bn
 litv.tv##body > .right_float_poster_container
@@ -8619,6 +8619,7 @@ tsdm39.com###ct > div > a[target="_blank"] > img
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
 tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tt1069.com#@##ad-slot
+tt1069.com#@#.adzone
 tt776.com##iframe[src="/app/ad.html"]
 ttshow.tw##div[id^="ad_article_"]
 ttshow.tw##div[id^="ad_index_"]
