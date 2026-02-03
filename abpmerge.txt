@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-02 16:26:26
-! Total count: 27100
+! Version: 2026-02-03 08:26:31
+! Total count: 27107
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15159,6 +15159,7 @@ zzzyk.com###Tinfo
 ||brfvyrrp.com^
 ||bridgetnbe.com^
 ||briefcase95.com^
+||brirriek.com^
 ||brownfox.top^
 ||brownnx.top^
 ||browser.sentry-cdn.com^$third-party
@@ -17786,6 +17787,7 @@ zzzyk.com###Tinfo
 ||gjh9v.tianshilv.cn^
 ||gjinuqg.top^
 ||gjipd.xyz^
+||gjk1sc9o2.com^
 ||gjkame6.com^
 ||gjkbyt.com^
 ||gjwind.com/xxmh.gif
@@ -17960,6 +17962,7 @@ zzzyk.com###Tinfo
 ||gsk802011hh.com^
 ||gsk802020hh.com^
 ||gsk802021hh.com^
+||gsk802030hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -20252,6 +20255,7 @@ zzzyk.com###Tinfo
 ||lgoewtd.icu^
 ||lgohse.fun^
 ||lgoseh.fun^
+||lgu7in90o.com^
 ||lguaud.icu^
 ||lgygy.cn^
 ||lh168.net^*/attachment/portal/
@@ -22073,6 +22077,7 @@ zzzyk.com###Tinfo
 ||periscope73.com^
 ||perlmaven.com/img/*0x2
 ||perlmaven.com/img/sticker-you.jpg
+||permissible67.com^
 ||perspective44.top^
 ||petalen88.top^
 ||pevmdv.top^
@@ -22552,6 +22557,7 @@ zzzyk.com###Tinfo
 ||qiuw.com/static/xin-ad.js
 ||qiuxl11.cn^
 ||qiuyi.cn/Baojian/
+||qiv532lr6.com^
 ||qiwqaagnaell.com^
 ||qixingquan.com/api.php?mod=ad&adid=
 ||qixingquan.com/partner/
@@ -26608,6 +26614,7 @@ zzzyk.com###Tinfo
 ||z1e2vp1gw.com^
 ||z1hihu.xmcimg.com^
 ||z2.fakutownee.cn^
+||z2ke56999.com^
 ||z2ubj8bpk.com^
 ||z3yfkdjd.icu^
 ||z4a.net/images/*/960-60.
