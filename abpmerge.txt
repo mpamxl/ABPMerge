@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-04 08:29:35
-! Total count: 27128
+! Version: 2026-02-04 16:34:55
+! Total count: 27132
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12606,6 +12606,7 @@ zzzyk.com###Tinfo
 ||2e4xnyfeae.com^
 ||2euqnxt25.com^
 ||2fjxw3dyip.com^
+||2g1lbrr0qv.com^
 ||2g9x9uf.cn^
 ||2hiu.com^$3p
 ||2i0lliongn.com^
@@ -19891,6 +19892,7 @@ zzzyk.com###Tinfo
 ||kgelugaz.com^
 ||kgeshe.site^
 ||kgfjrb711.com^
+||kgihdv57il.com^
 ||kgoj4nrhe.com^
 ||khegritww.com^
 ||khehliets.com^
@@ -22581,6 +22583,7 @@ zzzyk.com###Tinfo
 ||qixingquan.com/partner/
 ||qixingquan.com/qxq-images/dawangka.png
 ||qixingquan.com/qxq-images/js/qxq_t.js
+||qiydigatu.com^
 ||qiyeb.iaskbus.com^
 ||qiyegongqiu1.qiyegongqiu.com^
 ||qiyeshangpu.net^
@@ -22764,6 +22767,7 @@ zzzyk.com###Tinfo
 ||qunar.com/vata?chan=
 ||qunar.com/vataframe/b.html?
 ||qunlove.com^*.gif
+||qunphoty.com^
 ||quoits96.top^
 ||qurl.f.360.cn^
 ||qushucheng.com/public/
