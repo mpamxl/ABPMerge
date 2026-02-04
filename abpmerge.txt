@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-03 16:40:51
-! Total count: 27115
+! Version: 2026-02-04 08:29:35
+! Total count: 27128
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12857,6 +12857,7 @@ zzzyk.com###Tinfo
 ||4kfv18.cn^
 ||4kwu.cc/static/js/tj.js
 ||4kxczstxil.com^
+||4l5bbkug99.com^
 ||4nc4qc1fo.com^
 ||4p04u96158.com^
 ||4paradigm.com^$domain=sina.com.cn
@@ -13384,6 +13385,7 @@ zzzyk.com###Tinfo
 ||8g0j.cn^
 ||8g2a7mifv.com^
 ||8gp4wjq3.com^
+||8gptk28oag.com^
 ||8h93.com^*.gif
 ||8jkx.com^
 ||8k69vb6421.com^
@@ -14959,6 +14961,7 @@ zzzyk.com###Tinfo
 ||bhddjf.top^
 ||bhdnti.top^
 ||bheirqrol.com^
+||bheknoinum.com^
 ||bhgzwqy.top^
 ||bhjuy10.com^
 ||bhl401f8g.com^
@@ -17832,6 +17835,8 @@ zzzyk.com###Tinfo
 ||gndmnrh.cn^
 ||gnfr03906.com^
 ||gnglehraith.com^
+||gnla02040qp.com^
+||gnla02041qp.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
 ||go.hangzhou.com.cn^
@@ -17967,6 +17972,8 @@ zzzyk.com###Tinfo
 ||gsk802021hh.com^
 ||gsk802030hh.com^
 ||gsk802031hh.com^
+||gsk802040hh.com^
+||gsk802041hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -18529,6 +18536,7 @@ zzzyk.com###Tinfo
 ||houotgk3m.com^
 ||house.sina.com.cn/2.0/abp/
 ||house365.com/js/lbpopup.js
+||household35.top^
 ||houstonbbs.com/data/ad/
 ||houyi.baofeng.net^*.html
 ||hoznpn.icu^
@@ -19321,6 +19329,7 @@ zzzyk.com###Tinfo
 ||jbbydz.icu^
 ||jbdch1.appmobile.cn^
 ||jbhhxd.xyz^
+||jbiwvt6x1e.com^
 ||jbzyw.com/Application/M/adv/
 ||jc001.cn/ci/jad/fix.
 ||jc1.dayfund.com.cn^
@@ -20911,6 +20920,7 @@ zzzyk.com###Tinfo
 ||mhaqoffcj7.com^
 ||mhaw.cn^
 ||mhdnspro.com^
+||mhgu.cn^
 ||mhhanman.xyz/data/my/myjs.js
 ||mhoccoirq.com^
 ||mhoiia.icu^
@@ -21886,6 +21896,7 @@ zzzyk.com###Tinfo
 ||ouargilbpg.com^
 ||ouccoc.icu^
 ||oucnmtk.top^
+||oudw850vbx.com^
 ||oueia.xyz^
 ||ougannike.com^
 ||ouiokaq.top^
@@ -24223,6 +24234,7 @@ zzzyk.com###Tinfo
 ||tlbjw.com^
 ||tljrvn.icu^
 ||tlprlf.xyz^
+||tlq8ufqddj.com^
 ||tlsgq.cn^
 ||tltyygb.cn^
 ||tlula507.com/Public/js/dui
@@ -25228,6 +25240,7 @@ zzzyk.com###Tinfo
 ||w510e2.com^
 ||w51t.com^$subdocument
 ||w537a7.cc^
+||w537a7.com^
 ||w54551.cc^
 ||w55b76.cc^
 ||w562f5.cc^
