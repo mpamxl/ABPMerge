@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-04 16:34:55
-! Total count: 27132
+! Version: 2026-02-05 08:31:32
+! Total count: 27144
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9170,6 +9170,7 @@ m.shuhaige.net##+js(abort-current-script, Math.random, parentNode.insertBefore)
 m.shuhaige.net##+js(abort-current-script, document.createElement, return a.split)
 m.shuhaige.net##+js(abort-current-script, navigator, location.href)
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
+m.smzdm.com##.damo-footer-open-app__fixed-logo
 m.so.com##.e_idea_list
 m.sohu.com##.feed-list-scoped > div[data-spm-type="content"]
 m.tvsou.com##.sogou-temp-hidden
@@ -15272,6 +15273,7 @@ zzzyk.com###Tinfo
 ||bvlang.com/ad/
 ||bvpqrydt.xyz^
 ||bvraciedl.com^
+||bvrukrud.com^
 ||bvsfv6.com^
 ||bvtwtwp.xyz^
 ||bvvb9.com^
@@ -16108,6 +16110,7 @@ zzzyk.com###Tinfo
 ||d5xogy0qi.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
+||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d7fl3a3vwh.com^
 ||d7ynwsj5l.com^
@@ -16978,6 +16981,7 @@ zzzyk.com###Tinfo
 ||eltdeh.top^
 ||em7ky342lo.com^
 ||embnvut.com^
+||embofjpks.com^
 ||emdcadvertise.eastmoney.com^
 ||emilyz.top^
 ||emjs.mkzhan.com^
@@ -17838,6 +17842,7 @@ zzzyk.com###Tinfo
 ||gnglehraith.com^
 ||gnla02040qp.com^
 ||gnla02041qp.com^
+||gnla02050qp.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
 ||go.hangzhou.com.cn^
@@ -17975,6 +17980,7 @@ zzzyk.com###Tinfo
 ||gsk802031hh.com^
 ||gsk802040hh.com^
 ||gsk802041hh.com^
+||gsk802050hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -18064,6 +18070,7 @@ zzzyk.com###Tinfo
 ||gushi.network^
 ||gusp.cn^
 ||guu0bfmpf5.com^
+||guuia6hxf.com^
 ||guurniuvgo.com^
 ||guzsjdl.cn^
 ||gv0oi9ecji.com^
@@ -19036,6 +19043,7 @@ zzzyk.com###Tinfo
 ||imjll5rwuq.com^
 ||imjtv.cc^$3p
 ||imjtv.cc^$third-party
+||immediate49.com^
 ||imnks.com/ad2023/$image
 ||imooc.com/open/courselistrandjs
 ||imp.zol.com.cn^
@@ -19277,6 +19285,7 @@ zzzyk.com###Tinfo
 ||j1.piaobing.com^
 ||j2jtq0hpb.com^
 ||j33xvvanl.com^
+||j3fvhzit0.com^
 ||j4mxrs21gh.com^
 ||j4s12kfavg.com^
 ||j694fx3bp.com^
@@ -19769,6 +19778,7 @@ zzzyk.com###Tinfo
 ||jzxpxj.xyz^
 ||k06kldksi3.com^
 ||k0jw6qzyh.com^
+||k0tdrkbhx.com^
 ||k0winsnua2.com^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
@@ -21536,6 +21546,7 @@ zzzyk.com###Tinfo
 ||nnntxx.icu^
 ||nnocsin.cn^
 ||nnqwe.xyz^
+||nnvx.cn^
 ||no1.168abc.net/upload/
 ||nodejs.cn/_static/js/common.js
 ||nogff.top^
@@ -21605,6 +21616,7 @@ zzzyk.com###Tinfo
 ||nutlzt.icu^
 ||nuucmzuc.com^
 ||nuwurorwbr.com^
+||nv0cl4nnq.com^
 ||nvielkaa.com^
 ||nvsheng.com/js/gg.js
 ||nvxq.cn^
