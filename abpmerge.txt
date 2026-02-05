@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-05 08:31:32
-! Total count: 27144
+! Version: 2026-02-05 16:35:49
+! Total count: 27149
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14706,6 +14706,7 @@ zzzyk.com###Tinfo
 ||balerdoits.com^
 ||ballive.*/addm/
 ||balmoralmkt.com^$3p
+||balvehgmhw.com^
 ||bangyuandianzi.top^
 ||banhui.xyz^
 ||banma.com/get_ad/
@@ -17843,6 +17844,7 @@ zzzyk.com###Tinfo
 ||gnla02040qp.com^
 ||gnla02041qp.com^
 ||gnla02050qp.com^
+||gnla02051qp.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
 ||go.hangzhou.com.cn^
@@ -17981,6 +17983,7 @@ zzzyk.com###Tinfo
 ||gsk802040hh.com^
 ||gsk802041hh.com^
 ||gsk802050hh.com^
+||gsk802051hh.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
 ||gsweum.icu^
@@ -19086,6 +19089,7 @@ zzzyk.com###Tinfo
 ||invention66.com^
 ||inwuamo.top^
 ||inwucno.top^
+||inzy3qq8q.com^
 ||iobvmtx.xyz^
 ||iocoder.cn/alert/js/alert.js
 ||ioiksw.cn^
@@ -22582,6 +22586,7 @@ zzzyk.com###Tinfo
 ||qingkong.net/skin/htcs/images/980.jpg
 ||qingsedhh.com/images/gg.gif
 ||qingxinwx.*/static/xbiquge/js/wap.
+||qirqritp.com^
 ||qishula.com/css/ding.js
 ||qishula.com/css/wap.
 ||qiu4592.xyz^
