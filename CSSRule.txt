@@ -7797,7 +7797,6 @@ quark.cn#@#.share-save
 qudong.com##.advert_bottom
 qunar.com##.flight_ad
 qunar.com##.list_promotion_bar
-quote.cngold.org##.foot_megagame
 qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
 qxfun.com###beautiful-things
