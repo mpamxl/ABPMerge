@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-07 08:19:45
-! Total count: 27170
+! Version: 2026-02-07 16:18:40
+! Total count: 27176
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17810,6 +17810,7 @@ zzzyk.com###Tinfo
 ||gjk1sc9o2.com^
 ||gjkame6.com^
 ||gjkbyt.com^
+||gjt6z9wga.com^
 ||gjwind.com/xxmh.gif
 ||gjzpwnuifk.com^
 ||gk1.582582.com^
@@ -17856,6 +17857,7 @@ zzzyk.com###Tinfo
 ||gnla02051qp.com^
 ||gnla02061qp.com^
 ||gnla02070qp.com^
+||gnla02071qp.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
 ||go.hangzhou.com.cn^
@@ -18766,6 +18768,7 @@ zzzyk.com###Tinfo
 ||i7akpd1.xyz^
 ||i7mfm1hl44.com^
 ||i7pnx0t.cn^
+||i7xkqmhjw.com^
 ||i8m6.com^
 ||i8tq.com/adImg/
 ||i90ptshd.top^
@@ -20220,6 +20223,7 @@ zzzyk.com###Tinfo
 ||lcd.aivote.com^
 ||lcgcrldp6m.com^
 ||lcidauv.top^
+||lcugzodfdo.com^
 ||lcvl.cn^
 ||lcxw.cn/d/js/thea
 ||lcxw.cn/i/*dl.js
@@ -25511,6 +25515,7 @@ zzzyk.com###Tinfo
 ||wnzle.com^
 ||wo1990.com^
 ||wo30sg1orn.com^
+||wo6h5tx8w.com^
 ||woaidu.org/images/20180802/3.jpg
 ||wodeshucheng.com^*/0
 ||wodeshucheng.com^*/1
@@ -25963,6 +25968,7 @@ zzzyk.com###Tinfo
 ||xjrvwz.com^
 ||xjssjc.com^
 ||xjvunf.top^
+||xjwhad.com^
 ||xjwhtz10.com^
 ||xjwhtz2.com^
 ||xjwhtz3.com^
