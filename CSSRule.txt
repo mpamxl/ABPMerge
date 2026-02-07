@@ -397,6 +397,8 @@
 ##.afc_popup
 ##.alert_windows > .q-card__actions > a
 ##.anniversary-wrap-2018
+##.ant-modal-root > .ant-modal-mask
+##.ant-modal-root > .tuia-modal-wrap
 ##.apd-footer
 ##.apd-home
 ##.apd-right

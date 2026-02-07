@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-06 16:33:21
-! Total count: 27159
+! Version: 2026-02-07 08:19:45
+! Total count: 27170
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -402,6 +402,8 @@
 ##.afc_popup
 ##.alert_windows > .q-card__actions > a
 ##.anniversary-wrap-2018
+##.ant-modal-root > .ant-modal-mask
+##.ant-modal-root > .tuia-modal-wrap
 ##.apd-footer
 ##.apd-home
 ##.apd-right
@@ -12806,6 +12808,7 @@ zzzyk.com###Tinfo
 ||40fenzhong.com^
 ||40images25.com^
 ||40wan.com/js/www2/
+||412dyo1ef.com^
 ||4199tv.com^
 ||41grk.icu^
 ||4275.com/css/91kf.
@@ -12837,6 +12840,7 @@ zzzyk.com###Tinfo
 ||4aqoxkesav.com^
 ||4asfgyx.com^
 ||4bo5t8fzd.com^
+||4br824ktty.com^
 ||4d0m.cn^
 ||4d45i6p0g.com^
 ||4d9f09z8c.com^
@@ -14507,6 +14511,7 @@ zzzyk.com###Tinfo
 ||avjj26.com/api/?d=pc&c=advert&
 ||avkd.cn^
 ||avple.video/asset/bann.js
+||avpr.cn^
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
@@ -16238,6 +16243,7 @@ zzzyk.com###Tinfo
 ||dcsxv.com^
 ||dcvbnzss.xyz^
 ||dcvefz.xyz^
+||dcwxhamq0.com^
 ||dcxdtp.com^
 ||dd1.diymianmo.com^
 ||dd112233dd.com^
@@ -17849,6 +17855,7 @@ zzzyk.com###Tinfo
 ||gnla02050qp.com^
 ||gnla02051qp.com^
 ||gnla02061qp.com^
+||gnla02070qp.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
 ||go.hangzhou.com.cn^
@@ -19246,6 +19253,7 @@ zzzyk.com###Tinfo
 ||ivrokpyr.com^
 ||ivvn.cn^
 ||ivy.pconline.com.cn^
+||ivza0m05f.com^
 ||ivzaq2irg.com^
 ||ivzfpwm.cn^
 ||iwanad.baidu.com^
@@ -22946,6 +22954,7 @@ zzzyk.com###Tinfo
 ||rehearsal55.top^
 ||reke.at.sohu.com^
 ||relafp.xyz^
+||reluctance58.com^
 ||remedyy46.com^
 ||remehealth.net^$3p
 ||remfebd.cn^
@@ -25227,6 +25236,7 @@ zzzyk.com###Tinfo
 ||vwtbrzymoz.com^
 ||vwtjvd.xyz^
 ||vwuudahnarh.com^
+||vwvaddoet.com^
 ||vwvj.cn^
 ||vxcewh.cn^
 ||vxhsj.cn^
@@ -27106,6 +27116,7 @@ zzzyk.com###Tinfo
 ||zxzj.me/slade2.js
 ||zyauopr.icu^
 ||zybkrv.icu^
+||zyek35wsn.com^
 ||zygehty.cn^
 ||zygkzytb.cn^
 ||zygscl.cn^
