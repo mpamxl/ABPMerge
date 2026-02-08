@@ -8618,6 +8618,7 @@ tropica.cn##.a_mu1
 tropica.cn##.bm.a_c1
 tropica.cn##.wp1.a_t
 tsdm39.com###ct > div > a[target="_blank"] > img
+tstrs.me##+js(no-setTimeout-if, offsetHeight === 0)
 tsubasa.im##+js(no-setInterval-if, /home/?adblock=)
 tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tt1069.com#@##ad-slot
