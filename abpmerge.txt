@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-08 08:22:21
-! Total count: 27186
+! Version: 2026-02-08 16:19:14
+! Total count: 27194
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12687,6 +12687,7 @@ zzzyk.com###Tinfo
 ||3562wsgkbcm.xyz^
 ||35kjurwwb6.com^
 ||35vc.com^
+||35wo96wkjs.com^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
 ||360.cn/festival_zone.html
 ||360.cn/index/showjokes?callback=
@@ -13563,6 +13564,7 @@ zzzyk.com###Tinfo
 ||9o29nhxgp.com^
 ||9odes.ltd^
 ||9oru1vh0w.com^
+||9oxhstb2m2.com^
 ||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9soefyenw.com^
@@ -13684,6 +13686,7 @@ zzzyk.com###Tinfo
 ||a4xvv2g18l.com^
 ||a5xiazai.com/z/
 ||a6cfvavw1.xyz^
+||a6o69f9ky0.com^
 ||a7wiuh3she.com^
 ||a85t9mxnj.com^
 ||a8age.com^
@@ -17861,6 +17864,7 @@ zzzyk.com###Tinfo
 ||gnla02070qp.com^
 ||gnla02071qp.com^
 ||gnla02080qp.com^
+||gnla02081qp.com^
 ||gnqxd.cn^
 ||gnrnws.cn^
 ||go.hangzhou.com.cn^
@@ -21555,6 +21559,7 @@ zzzyk.com###Tinfo
 ||nlvgxr.xyz^
 ||nlyuuy.cn^
 ||nlzyp.cn^
+||nm68kgmnf1.com^
 ||nm6c33x8a.com^
 ||nmdotj.xyz^
 ||nmetrics.samsung.com^
@@ -26520,6 +26525,7 @@ zzzyk.com###Tinfo
 ||yqrsdfh.top^
 ||yqsu.cn^
 ||yquqoj.com^
+||yr-names.click^
 ||yr2spd4ucy.com^
 ||yrgsqi0zc.com^
 ||yrnv.cn^
@@ -26872,6 +26878,7 @@ zzzyk.com###Tinfo
 ||zfvltd.xyz^
 ||zfxakx.xyz^
 ||zg.mmyuer.com^
+||zgb6rg0r3h.com^
 ||zgdshoes.com^
 ||zgfshoes.com^
 ||zggrxf.life^
@@ -27089,6 +27096,7 @@ zzzyk.com###Tinfo
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztdbfz.top^
+||zthuhludil.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztqdkzn.cn^
 ||ztshg.cn^
