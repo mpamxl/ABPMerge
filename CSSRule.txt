@@ -9264,11 +9264,13 @@ yahoo.com##.ad-tl2b
 yahoo.com##.bg-card-bg-1[class*="300px"]
 yahoo.com##.js-stream-content:has(a[href*=".promotions."])
 yahoo.com##.js-stream-content:has(div:contains(雅虎搜尋))
+yahoo.com##.pointer-events-none > .sticky:has(> div[id^="sda-"][id$="-iframe"]:only-child)
 yahoo.com##.stream-item:has(>div>div>div>span:contains(即日熱搜))
 yahoo.com##.stream-responsive-ad-item
 yahoo.com##.taboola-ad-item-wrapper
 yahoo.com##.wafer-beacon:has(a[data-ylk*=":ad;"])
 yahoo.com##a[class^="Pos"][href*=".promotions."]
+yahoo.com##article .atoms > .bg-toast-background:has(> div[id^="sda-"][id$="-iframe"])
 yahoo.com##div[class*="bg-Ad"]
 yahoo.com##div[data-content="廣告"]:not(#sda-MAST-iframe)
 yahoo.com##div[id$="-Ad-Proxy"]
