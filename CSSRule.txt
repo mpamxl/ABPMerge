@@ -5471,7 +5471,7 @@ huanqiu.com##.adindexList
 huanqiu.com##.itemAd
 huanqiu.com##.r-hqNext-ad
 huaren.live##.action-ad
-huaren.live,mumbooks.com##+js(no-window-open-if)
+huaren.live,umbooks.com##+js(no-window-open-if)
 huaren.tv##.live-client_left
 huaren.tv##.live-client_right
 huaren.tv##a[style*="height:"]
