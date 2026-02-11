@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-11 08:36:50
-! Total count: 27212
+! Version: 2026-02-11 16:54:21
+! Total count: 27220
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6333,8 +6333,10 @@ cngold.org##.foot_megagame
 cngold.org##.headCompanys
 cngold.org##.in_content_left_advs
 cngold.org##.jams
+cngold.org##.mainRight > .border_top:first-child
 cngold.org##.pageAdv
 cngold.org##.top_bigad
+cngold.org##.w310:has(>.swiper-company)
 cnjxol.com##.linked
 cnki.net##.translateOutAdLink
 cnki.net#@#.ad_right
@@ -8279,6 +8281,7 @@ iplark.com##body > #capture-area ~ div[class]:empty
 iplark.com##body > div:not([class]):not([style])
 iplark.com##div.search-container > [style='display: block;']
 iplark.com##div[class^="banner"]
+iplark.com##div[style="position: relative;"]
 iplaysoft.com###_cblzx
 iplaysoft.com###link1111
 iplaysoft.com###section_postbanner
@@ -9104,6 +9107,7 @@ lukedreyer.com##div[style$="width: 125px;z-index:2000;"]
 luogu.com.cn##.side > div:not(.l-card):has(> span > svg.fa-rectangle-ad)
 luogu.me##.propaganda
 luoqiuzw.com##DIV[id^="a-loading-"]
+lupanda.tw##.blogimove-inline-css-0
 lusongsong.com###main > center
 luyixian.cn##.side
 lwgod.me###wp > a:first-child
@@ -13174,6 +13178,7 @@ zzzyk.com###Tinfo
 ||6gukaitu.xyz^
 ||6gvg5saail.com^
 ||6gxs.net/js/
+||6h6pdph56.com^
 ||6hejing.cn^
 ||6iwoif.com^
 ||6jei0t6xp.com^
@@ -16528,7 +16533,7 @@ zzzyk.com###Tinfo
 ||dms.xuexxing.com^
 ||dmvckj.icu^
 ||dmxfdp.xyz^
-||dmym.aixyy.com^
+||dmym.fwol.cn^
 ||dmyrza.com^
 ||dmzj.com/js/ad/
 ||dmzj.com/js/m_BtmApp.js
@@ -21239,6 +21244,7 @@ zzzyk.com###Tinfo
 ||mvdrecrull.com^
 ||mvgucp.com^
 ||mvlkvth.cn^
+||mvquiema.xyz^
 ||mvt0e2s72.com^
 ||mvwitz.xyz^
 ||mvxh.cn^
@@ -25820,6 +25826,7 @@ zzzyk.com###Tinfo
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js
 ||x05occvjw.com^
+||x0b5edl6u.com^
 ||x0lkimaixh.com^
 ||x1.52aoteman.com^
 ||x1abo.com^
@@ -27015,6 +27022,7 @@ zzzyk.com###Tinfo
 ||zjzh2019.com^
 ||zk.91post.com^
 ||zk789.cn/Res/Scripts/Show/NetSys/Show.ashx
+||zkcizao.com^
 ||zkraktak.com^
 ||zktats.top^
 ||zlbcxr.xyz^

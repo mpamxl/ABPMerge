@@ -3848,8 +3848,10 @@ cngold.org##.foot_megagame
 cngold.org##.headCompanys
 cngold.org##.in_content_left_advs
 cngold.org##.jams
+cngold.org##.mainRight > .border_top:first-child
 cngold.org##.pageAdv
 cngold.org##.top_bigad
+cngold.org##.w310:has(>.swiper-company)
 cnjxol.com##.linked
 cnki.net##.translateOutAdLink
 cnki.net#@#.ad_right
@@ -5786,6 +5788,7 @@ iplark.com##body > #capture-area ~ div[class]:empty
 iplark.com##body > div:not([class]):not([style])
 iplark.com##div.search-container > [style='display: block;']
 iplark.com##div[class^="banner"]
+iplark.com##div[style="position: relative;"]
 iplaysoft.com###_cblzx
 iplaysoft.com###link1111
 iplaysoft.com###section_postbanner
@@ -6610,6 +6613,7 @@ lukedreyer.com##div[style$="width: 125px;z-index:2000;"]
 luogu.com.cn##.side > div:not(.l-card):has(> span > svg.fa-rectangle-ad)
 luogu.me##.propaganda
 luoqiuzw.com##DIV[id^="a-loading-"]
+lupanda.tw##.blogimove-inline-css-0
 lusongsong.com###main > center
 luyixian.cn##.side
 lwgod.me###wp > a:first-child
