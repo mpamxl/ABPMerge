@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-10 16:54:06
-! Total count: 27206
+! Version: 2026-02-11 08:36:50
+! Total count: 27212
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12456,6 +12456,7 @@ zzzyk.com###Tinfo
 ||1gj8lhfa1.com^
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
+||1hhwyb4vl.com^
 ||1hmklj60i.com^
 ||1iuh5l.com^
 ||1iuybpo.com^
@@ -13179,6 +13180,7 @@ zzzyk.com###Tinfo
 ||6jyi7mzae.com^
 ||6kpudsordv.com^
 ||6m8tk53pw.com^
+||6mdf9teiz.com^
 ||6mh8.com^
 ||6n528aywi9.com^
 ||6o719vq4x.com^
@@ -17886,6 +17888,7 @@ zzzyk.com###Tinfo
 ||godni.xyz^
 ||goeyxwhp.site^
 ||gogorenti.wang/js/m_cp
+||gohgn02111la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -18590,6 +18593,7 @@ zzzyk.com###Tinfo
 ||hqcx.net/index.php?m=poster&
 ||hqdlhgx.cn^
 ||hqdoor.com/Web/
+||hqfhspz.com^
 ||hqgearb.icu^
 ||hqluu46i3a.com^
 ||hqnpwzu.cn^
@@ -23609,6 +23613,7 @@ zzzyk.com###Tinfo
 ||skfjd1.xyz^
 ||skfqxkk.cn^
 ||skidfqh.xyz^
+||skirmish33.top^
 ||skluff.com^
 ||sknkggfnm.com^
 ||skogsborg.net^
@@ -26682,6 +26687,7 @@ zzzyk.com###Tinfo
 ||yyys.shop^
 ||yzc35326.top^
 ||yzcpgadw.icu^
+||yzhcp6cw1.com^
 ||yziwoidi.icu^
 ||yziwujuzq.live^
 ||yzldy.info^
