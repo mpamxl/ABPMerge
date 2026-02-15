@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-14 16:18:08
-! Total count: 27244
+! Version: 2026-02-15 16:18:08
+! Total count: 27262
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3131,7 +3131,7 @@ $websocket,domain=wap.yushuwu.cloud
 18moe.org##.alignnone[alt="恰饭广告"]
 18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 1905.com##.mobile_ad_promote
-1909.me,8se.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
+1909.me,8se.me,crxs.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
 199it.com,softwarebrother.com##.adsbygoogle
 19lou.com##.ad-980x40
 19lou.com##.editor-ad
@@ -6469,6 +6469,7 @@ crsky.com##.ml10.Gs_d
 crx4.com,galacg.me,moneyweekly.com.tw###carousel-example-generic
 crxs.me##+js(abort-current-script, document.createElement, visitUrl)
 crxs.me##.content-box:has(> div[class^="static-container-"] > a[href][target="_blank"])
+crxs.me##div[id^="z-extra-"]
 crxs.me,8se.me,xchina.*##.push-top
 cs.com.cn##.js-ad1
 cs.com.cn,pjtime.com##.ad_txt
@@ -8293,6 +8294,7 @@ iplaysoft.com##.d250x90
 iplaysoft.com##.entry-content + div[style="margin:-10px 0 0 0;overflow:hidden"]
 iplaysoft.com##[style*="width:3"][style*="height:2"]
 iplaysoft.com##div[style="background:#fcf0ef;width:680px;height:130px;border-radius:8px;margin-top:28px;position:relative"]
+ippure.com##.ippure-ads
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > .result ~ div:not([class]):not([style])
@@ -11678,6 +11680,13 @@ xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]
 xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
+xchina001.online###core-zone-4
+xchina001.online###z-extra-2
+xchina001.online###z-extra-3
+xchina001.online##.z-gate-mask
+xchina001.online##.z1-strip
+xchina001.online##.z2-slot
+xchina001.online##.z3-root
 xclient.info###pop_business
 xfastest.com##.vw-header-ads-wrapper
 xfastest.com##iframe[src*="//ads.xfastest.com/"]
@@ -12187,6 +12196,7 @@ zzzyk.com###Tinfo
 ||0wpfe0duo.com^
 ||0x7iufg8hy.com^
 ||0xzxwnkqdu.com^
+||0yjeii25x4.com^
 ||0yq00i.cn^
 ||0z3zbnbkv.com^
 ||1.07swz.com^
@@ -13104,6 +13114,7 @@ zzzyk.com###Tinfo
 ||5vdd.com/mobile.jpg
 ||5vkyqkc.cn^
 ||5vuk.xyz^
+||5w31xv1a2.com^
 ||5wl8x.xyz^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
@@ -13331,6 +13342,7 @@ zzzyk.com###Tinfo
 ||7zivoy6qs.com^
 ||8052qydk7.com^
 ||8070kk.com/statics/js/guo
+||80753325p.com^
 ||80juqing.com^
 ||80ms6831o.com^
 ||80s.la/m/js/
@@ -17201,6 +17213,7 @@ zzzyk.com###Tinfo
 ||f8dy.tv/template/m1938/js/foot.js
 ||f8ejqxp.cn^
 ||f92l2orpu3.com^
+||f9bnlbgjf.com^
 ||f9gv87zoq2.com^
 ||faamhel.com^
 ||fabuye.vip/zhuanfa/
@@ -18387,6 +18400,7 @@ zzzyk.com###Tinfo
 ||herogame.com^$subdocument,domain=gamer.com.tw
 ||heshun365.cn^
 ||hesramfi.com^
+||heuristic95.top^
 ||hevepyrmt.com^
 ||hexun.*/hxpage/index.html
 ||hexun.com*/hx_news/hx_news_finalpage.js
@@ -22233,6 +22247,7 @@ zzzyk.com###Tinfo
 ||phputils.wc-os.com^
 ||phqew.cn^
 ||phue.cn^
+||phuolhogmxin.com^
 ||phuustikd.com^
 ||phwv.cn^
 ||phx9cqla2.com^
@@ -24995,6 +25010,7 @@ zzzyk.com###Tinfo
 ||v6jt.cn^
 ||v84tz11w7.com^
 ||v88yaat.xyz^
+||v8fjvv9o3.com^
 ||v8j1rkai1.com^
 ||v9gfm.xyz^
 ||vahmimb.com^
@@ -25407,6 +25423,7 @@ zzzyk.com###Tinfo
 ||wbe4.cn^
 ||wbea.cn^
 ||wbesryx.cn^
+||wbkar038r.com^
 ||wbmbr16tt.com^
 ||wbqhehokmy.com^
 ||wbupbv.com^
@@ -25896,6 +25913,7 @@ zzzyk.com###Tinfo
 ||xchina.*/service/assets/core-state.
 ||xchina.click/upload/*.webp
 ||xchina.co/scripts/push_*.js
+||xchina.io/$media,domain=xchina001.online
 ||xcisleoa.cn^
 ||xckj0623.com^
 ||xckyqq.com^

@@ -1901,7 +1901,7 @@
 18moe.org##.alignnone[alt="恰饭广告"]
 18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 1905.com##.mobile_ad_promote
-1909.me,8se.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
+1909.me,8se.me,crxs.me,xchina.site,xchina.biz,xchina.co##div[id^="z-extra-"]
 199it.com,softwarebrother.com##.adsbygoogle
 19lou.com##.ad-980x40
 19lou.com##.editor-ad
@@ -3983,6 +3983,7 @@ crsky.com##.ml10.Gs_d
 crx4.com,galacg.me,moneyweekly.com.tw###carousel-example-generic
 crxs.me##+js(abort-current-script, document.createElement, visitUrl)
 crxs.me##.content-box:has(> div[class^="static-container-"] > a[href][target="_blank"])
+crxs.me##div[id^="z-extra-"]
 cs.com.cn##.js-ad1
 cs.com.cn,pjtime.com##.ad_txt
 cs.com.cn,qinbing.cn,sonimei.cn###leftDiv
@@ -5800,6 +5801,7 @@ iplaysoft.com##.d250x90
 iplaysoft.com##.entry-content + div[style="margin:-10px 0 0 0;overflow:hidden"]
 iplaysoft.com##[style*="width:3"][style*="height:2"]
 iplaysoft.com##div[style="background:#fcf0ef;width:680px;height:130px;border-radius:8px;margin-top:28px;position:relative"]
+ippure.com##.ippure-ads
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > .result ~ div:not([class]):not([style])
@@ -9164,6 +9166,13 @@ xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]
 xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
+xchina001.online###core-zone-4
+xchina001.online###z-extra-2
+xchina001.online###z-extra-3
+xchina001.online##.z-gate-mask
+xchina001.online##.z1-strip
+xchina001.online##.z2-slot
+xchina001.online##.z3-root
 xclient.info###pop_business
 xfastest.com##.vw-header-ads-wrapper
 xfastest.com##iframe[src*="//ads.xfastest.com/"]
