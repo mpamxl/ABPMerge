@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-15 16:18:08
-! Total count: 27262
+! Version: 2026-02-16 08:35:49
+! Total count: 27268
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12512,6 +12512,7 @@ zzzyk.com###Tinfo
 ||1wkg.cn^
 ||1x6666.com/img/
 ||1ykbpp1jx.com^
+||1zdywcgmlt.com^
 ||2.haoxue360.com^
 ||2.yunsxk.xyz^
 ||200218.com^$3p
@@ -12902,6 +12903,7 @@ zzzyk.com###Tinfo
 ||4wg67b9vb.com^
 ||4wmiuiyd70.com^
 ||4wym8gups.com^
+||4xdma060ad.com^
 ||4xicd08qs.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
@@ -19109,6 +19111,7 @@ zzzyk.com###Tinfo
 ||imjll5rwuq.com^
 ||imjtv.cc^$3p
 ||imjtv.cc^$third-party
+||immaterial79.com^
 ||immediate49.com^
 ||imnks.com/ad2023/$image
 ||imooc.com/open/courselistrandjs
@@ -22984,6 +22987,7 @@ zzzyk.com###Tinfo
 ||rcguamf.icu^
 ||rchqtr.icu^
 ||rcilgeill.com^
+||rcjmypjyey.com^
 ||rcqmvmq.cn^
 ||rcqqlwb.cn^
 ||rcruulnot.com^
@@ -25871,6 +25875,7 @@ zzzyk.com###Tinfo
 ||x1c9gze9i.com^
 ||x21.cn/service/feeds.
 ||x23qb.com/skin/themex.js
+||x35ehot6mu.com^
 ||x360xs.com/tops/
 ||x3lps9uuog.com^
 ||x3pfkiohz.com^
@@ -26222,6 +26227,7 @@ zzzyk.com###Tinfo
 ||xuwfmhh.icu^
 ||xuwmylm697.com^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
+||xv62yli8iz.com^
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
 ||xvbwjd.icu^
