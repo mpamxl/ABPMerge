@@ -2373,7 +2373,6 @@
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52niuyan.cc##.top_fixed
 52niuyan.cc##a[onclick][rel][style*="toutiaoimg.com"]
-52niuyanks.org###content > a
 52pk.com###baidutop
 52pk.com###baidutop2
 52pk.com###bg_link
@@ -7236,6 +7235,7 @@ niotv.com##.epg_ad3
 niotv.com##.epg_ad_list
 niotv.com##.right_ad1
 niusnews.com##a[href^="https://www.niusnews.com/index.php/main/gotoBanner/"]
+niuyankan.top###content > a
 nivod2.com,nivod2.tv,nivod4.com,nivod5.com##+js(set-constant, detailParams.is_ad_play, false)
 nivod2.com,nivod2.tv,nivod4.com,nivod5.com##+js(set-constant, pageData.__banners.0.commercial.jumpUrl, '')
 nivod2.com,nivod2.tv,nivod4.com,nivod5.com##+js(set-constant, pageData.__banners.0.commercial.mediaUrl, '')
@@ -7606,6 +7606,12 @@ portablesoft.org##.sidebar-widget:first-child
 power.baidu.com,www.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
 pp.ua###id_ad_image
+pp3858a.cc,pp3859a.cc,pp3792a.cc,pp3795a.cc##.banner1
+pp3858a.cc,pp3859a.cc,pp3792a.cc,pp3795a.cc##.downurl
+pp3858a.cc,pp3859a.cc,pp3792a.cc,pp3795a.cc##.footer-fixed-abk
+pp3858a.cc,pp3859a.cc,pp3792a.cc,pp3795a.cc##.popup
+pp3858a.cc,pp3859a.cc,pp3792a.cc,pp3795a.cc##.popup-overlay
+pp3858a.cc,pp3859a.cc,pp3792a.cc,pp3795a.cc##.xxlaink
 ppsport.com##.slide-img[href^="http"]
 pptstore.net#@#.ad-big
 pptv.com##.mod_960x90
