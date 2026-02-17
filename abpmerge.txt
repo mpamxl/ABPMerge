@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-16 16:32:39
-! Total count: 27284
+! Version: 2026-02-17 08:34:14
+! Total count: 27290
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6469,7 +6469,6 @@ crsky.com##.ml10.Gs_d
 crx4.com,galacg.me,moneyweekly.com.tw###carousel-example-generic
 crxs.me##+js(abort-current-script, document.createElement, visitUrl)
 crxs.me##.content-box:has(> div[class^="static-container-"] > a[href][target="_blank"])
-crxs.me##div[id^="z-extra-"]
 crxs.me,8se.me,xchina.*##.push-top
 cs.com.cn##.js-ad1
 cs.com.cn,pjtime.com##.ad_txt
@@ -13146,6 +13145,7 @@ zzzyk.com###Tinfo
 ||62422.cn/ggimg/
 ||627txt.com/da/*js
 ||62868.com/static/js/gg.
+||629jpgi3i.com^
 ||62mao.com/52
 ||63007.com:82/haodxi.js
 ||637o.top^
@@ -17458,6 +17458,7 @@ zzzyk.com###Tinfo
 ||fontke.com/custom/
 ||foodmate.net/file/script/A
 ||fooid.xyz^
+||foremost57.top^
 ||forestseasons.com.cn^
 ||foreveryoung.gz01.bdysite.com^
 ||forflygonom.com^
@@ -18826,6 +18827,7 @@ zzzyk.com###Tinfo
 ||i5qquywfz.com^
 ||i73u6dnnh.com^
 ||i7akpd1.xyz^
+||i7bqmgn87.com^
 ||i7mfm1hl44.com^
 ||i7pnx0t.cn^
 ||i7xkqmhjw.com^
@@ -23250,6 +23252,7 @@ zzzyk.com###Tinfo
 ||rwbqll.top^
 ||rwix.cn^
 ||rwtezd.icu^
+||rwtraqur.com^
 ||rwtzv9ehv.com^
 ||rxaqwhu54d.com^
 ||rxdxzb.top^
@@ -23584,6 +23587,7 @@ zzzyk.com###Tinfo
 ||shuneiya.com/static/js/ding.js
 ||shunlianhudong.com^
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
+||shushenge.com/js/BC
 ||shuyu2001.cn^
 ||shuzilm.cn^
 ||shxubwa.xyz^
@@ -24066,6 +24070,7 @@ zzzyk.com###Tinfo
 ||szhongzi.com/js/
 ||szhszxfw.cn^
 ||szipkp.com^
+||szjbo9a13.com^
 ||szjjzs.com/js/cs*.js
 ||szjjzs.com/js/d*.js
 ||szjjzs.com/js/fe
@@ -24139,6 +24144,7 @@ zzzyk.com###Tinfo
 ||tasgxk4ia6.com^
 ||taunphoik.com^
 ||taxismaned.top^
+||tb1mdkeni.com^
 ||tb4gv2cp5z.com^
 ||tb58.net/plugin.php?id=tb58_
 ||tbcdn.cn/mm/tanxssp-custom/sina_

@@ -3982,7 +3982,6 @@ crsky.com##.ml10.Gs_d
 crx4.com,galacg.me,moneyweekly.com.tw###carousel-example-generic
 crxs.me##+js(abort-current-script, document.createElement, visitUrl)
 crxs.me##.content-box:has(> div[class^="static-container-"] > a[href][target="_blank"])
-crxs.me##div[id^="z-extra-"]
 cs.com.cn##.js-ad1
 cs.com.cn,pjtime.com##.ad_txt
 cs.com.cn,qinbing.cn,sonimei.cn###leftDiv
