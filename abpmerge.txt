@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-18 08:34:08
-! Total count: 27307
+! Version: 2026-02-18 16:52:36
+! Total count: 27308
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1897,8 +1897,6 @@ $websocket,domain=wap.yushuwu.cloud
 .zone/ads/
 /*/*.add.*.add
 /*_*_aubi.js$third-party
-/*_09c09p09v.js
-/*_10c10p10v.js
 //*.emgrt.com^$3p
 //cdn.*/uni-ggs.js$3p
 //m.manhua123.net/js/com2.js
@@ -13445,6 +13443,7 @@ zzzyk.com###Tinfo
 ||8mg050.n3cdn1.secureserver.net^*.gif
 ||8mg050.n3cdn1.secureserver.net^*/960
 ||8mhcc.top^
+||8p14q886v2.com^
 ||8pjqjxmr.com^
 ||8proe3xx6.com^
 ||8radc6a0m2.com^
@@ -14654,6 +14653,7 @@ zzzyk.com###Tinfo
 ||bace10.top^
 ||bachashuku.cc/scripts/ad/
 ||backchina.com/banners/
+||bad.news/scripts?
 ||bad996.com/dakaads.js
 ||badmintoncn.com/cbo_include/js/cboaaa.js
 ||baggvon.icu^
@@ -27277,6 +27277,7 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.min.js
 ||zztxr.cn^
 ||zztxt.net/Public/wapbiquge/js/static.js
+||zzuccikqt.com^
 ||zzxedr.xyz^
 ||zzxlhwyp.com^
 ||zzycj.com^
