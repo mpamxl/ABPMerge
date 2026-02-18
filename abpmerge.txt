@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-17 16:45:02
-! Total count: 27292
+! Version: 2026-02-18 08:34:08
+! Total count: 27307
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1602,9 +1602,16 @@ $websocket,domain=wap.yushuwu.cloud
 .cn:8005/cc/*?is_not=
 .co/js/ads/
 .com*/ps/psCreat.js
+.com/00*00*00*_*c*p*v*.js$~third-party
 .com/0gg/gg*.js
+.com/11*11*11*_*c*p*v*.js$~third-party
 .com/17*?rid=17$third-party
+.com/22*22*22*_*c*p*v*.js$~third-party
+.com/33*33*33*_*c*p*v*.js$~third-party
+.com/44*44*44*_*c*p*v*.js$~third-party
+.com/55*55*55*_*c*p*v*.js$~third-party
 .com/5y*/31*.$~third-party
+.com/66*66*66*_*c*p*v*.js$~third-party
 .com/?Intr=$popup,3p
 .com/?aff=$popup,3p
 .com/Public/js/duileft.js
@@ -1890,6 +1897,8 @@ $websocket,domain=wap.yushuwu.cloud
 .zone/ads/
 /*/*.add.*.add
 /*_*_aubi.js$third-party
+/*_09c09p09v.js
+/*_10c10p10v.js
 //*.emgrt.com^$3p
 //cdn.*/uni-ggs.js$3p
 //m.manhua123.net/js/com2.js
@@ -13728,6 +13737,7 @@ zzzyk.com###Tinfo
 ||a85t9mxnj.com^
 ||a8age.com^
 ||a8h4zhbmxi.com^
+||a8qwjt7dwi.com^
 ||a962m.xyz^
 ||a9able.com^
 ||aa.gushiwen.org^
@@ -14966,6 +14976,7 @@ zzzyk.com###Tinfo
 ||bekco.xyz^
 ||bekd.cn^
 ||belindanbd.com^
+||benchmark84.top^
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/mo/adm_iframe.htm?
 ||bendrunb.com^
@@ -22531,6 +22542,7 @@ zzzyk.com###Tinfo
 ||pw321.com^*.gif
 ||pwaihoe.icu^
 ||pwchaukoieor.com^
+||pwk73hidf2.com^
 ||pwvt.cn^
 ||px.ucweb.com^
 ||px02mouzas.com^
@@ -24746,6 +24758,7 @@ zzzyk.com###Tinfo
 ||uckgqa.xyz^
 ||ucmx.cn^
 ||ucriqupq.com^
+||ucuypyhcns.com^
 ||uczfl.com/data/content
 ||ud783c02.com^
 ||udc.yahoo.com^
@@ -25369,6 +25382,7 @@ zzzyk.com###Tinfo
 ||w0yg6igaoz.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
+||w1irjtvdt4.com^
 ||w2j4kdjma.com^
 ||w3.ting55.com^
 ||w3019cdt.top^
@@ -26787,6 +26801,7 @@ zzzyk.com###Tinfo
 ||z1.cwbaike.com^
 ||z1.o8h7d.cn^
 ||z1.pclady.com.cn^
+||z198vxfuy3.com^
 ||z1e2vp1gw.com^
 ||z1hihu.xmcimg.com^
 ||z2.fakutownee.cn^
