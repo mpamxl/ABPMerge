@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-19 16:40:28
-! Total count: 27317
+! Version: 2026-02-20 08:30:29
+! Total count: 27323
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14508,6 +14508,7 @@ zzzyk.com###Tinfo
 ||atool.org/res/ads/
 ||atsgiu.icu^
 ||att.ydss.cn/attachments/portal/
+||attendant36.top^
 ||attraction85.com^
 ||aty.sohu.com/v?
 ||aty.sohu.com^
@@ -16863,6 +16864,7 @@ zzzyk.com###Tinfo
 ||e3ol.com/inc/
 ||e49.xyz^
 ||e4jdb7k8j.com^
+||e59x4phq3a.com^
 ||e5nnk.com^
 ||e5yx.com^$popup
 ||e75liqii98.com^
@@ -19239,6 +19241,7 @@ zzzyk.com###Tinfo
 ||iqkrungrikhu.com^
 ||iqnew.com/d/js/m/thea
 ||iqoi.cn^
+||iqqwi8tyq1.com^
 ||iqshw.com/d/js/m/thea
 ||iqsswq.icu^
 ||iqtucudfff.com^
@@ -23131,6 +23134,7 @@ zzzyk.com###Tinfo
 ||rilwzsit.icu^
 ||rinl.cn^
 ||rinshy17.xyz^
+||rio9s1zdpd.com^
 ||riqmqrd.icu^
 ||rir8h6qxk.com^
 ||rising.cn/js/haoAdData.js
@@ -26364,6 +26368,7 @@ zzzyk.com###Tinfo
 ||y1ma8c054n.com^
 ||y1n1n3e0v.com^
 ||y3600.cc/js/jquery.min.js
+||y40milgijh.com^
 ||y4g8fgj6ra.com^
 ||y4re1yokqv.com^
 ||y63eay93i.com^
@@ -27184,6 +27189,7 @@ zzzyk.com###Tinfo
 ||zqifmyt.icu^
 ||zqntbc.top^
 ||zqqwr9snx1.com^
+||zqy0jcfipu.com^
 ||zqydulfzxb.com^
 ||zrakpxsf.com^
 ||zrblog.net*/gg/
