@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-20 16:26:33
-! Total count: 27325
+! Version: 2026-02-21 08:19:37
+! Total count: 27331
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12111,6 +12111,7 @@ zzzyk.com###Tinfo
 ||00p034d0dw.com^
 ||00xvppy.cn^
 ||011qt7cln.com^
+||0171pjx5q.com^
 ||01anf08rf.com^
 ||01u.net/js/tj.js
 ||01v62.xyz^
@@ -18230,6 +18231,7 @@ zzzyk.com###Tinfo
 ||h6295.com^$popup
 ||h6cp.icu^
 ||h731.icu^
+||h8cjr6nhm.com^
 ||h8ne.com^
 ||hacde1.icu^
 ||hacde10.icu^
@@ -18859,6 +18861,7 @@ zzzyk.com###Tinfo
 ||iabao.com/sladewap.js
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
+||iadsvbox2.com^
 ||iafg.cn^
 ||ianyshare.xyz^
 ||iapolo.com/myjs/
@@ -19389,6 +19392,7 @@ zzzyk.com###Tinfo
 ||j.sdqoi2d.com^$3p
 ||j.zlszw.com^
 ||j1.piaobing.com^
+||j2fu64j4e.com^
 ||j2jtq0hpb.com^
 ||j33xvvanl.com^
 ||j3fvhzit0.com^
@@ -19398,6 +19402,7 @@ zzzyk.com###Tinfo
 ||j6zh4g0.cn^
 ||j7ifivzy.icu^
 ||j7kv55pr70.com^
+||j85izots6.com^
 ||j8tzoy3xwn.com^
 ||ja*.gamersky.com^
 ||ja.yushuha.com^
@@ -21476,6 +21481,7 @@ zzzyk.com###Tinfo
 ||ndja.cn^
 ||ndqcz0e.xyz^
 ||nebzrn.icu^
+||necessitate22.com^
 ||needle058.top^
 ||neets.cc/assets/js/dup.js
 ||nefbjp.xyz^
