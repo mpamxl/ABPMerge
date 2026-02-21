@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-21 08:19:37
-! Total count: 27331
+! Version: 2026-02-21 16:17:53
+! Total count: 27344
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13092,6 +13092,7 @@ zzzyk.com###Tinfo
 ||5gg466kzv.com^
 ||5ggj5cp.com^
 ||5h3wnuhr8.com^
+||5hdz1gnue.com^
 ||5hffr1p22j.com^
 ||5hu7hee0pt.com^
 ||5ibanma.com^
@@ -14799,6 +14800,7 @@ zzzyk.com###Tinfo
 ||basically97.top^
 ||bastion1.top^
 ||batteryod.com^
+||bauddoih.com^
 ||bavde1.icu^
 ||bavde3.icu^
 ||bavei.com/img/*.png
@@ -16092,6 +16094,7 @@ zzzyk.com###Tinfo
 ||cupid.iqiyi.com/show2?
 ||cuqpi.cn^
 ||curthkivew.com^
+||cuutiethm.com^
 ||cvftv2.com^
 ||cvsheil.com^
 ||cw9twua9.shop^
@@ -17320,6 +17323,7 @@ zzzyk.com###Tinfo
 ||fds-1230.cc^
 ||fe4c0422j.com^
 ||fedoq.com^
+||feeceeyf.com^
 ||feed.baidu.com^
 ||feernhuhe.com^
 ||feesoon.com/js/cnzz_
@@ -17404,6 +17408,7 @@ zzzyk.com###Tinfo
 ||firqacv.com^
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||fish882.xyz^
+||fitchpmsa.com^
 ||fittomniku.com^
 ||fiu07031kl.com^
 ||fiu07041kl.com^
@@ -17952,6 +17957,7 @@ zzzyk.com###Tinfo
 ||gogorenti.wang/js/m_cp
 ||gohgn02111la.com^
 ||gohgn02161la.com^
+||gohgn02211la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -18682,6 +18688,7 @@ zzzyk.com###Tinfo
 ||hsex.men/nb/
 ||hsex.men/view/img/*.gif
 ||hsfbpp.xyz^
+||hsjnnr.icu^
 ||hslbahu.top^
 ||hsrgnac.cn^
 ||hssapp.shop^
@@ -22512,6 +22519,7 @@ zzzyk.com###Tinfo
 ||ptbus.com/s.js
 ||ptfish.com/*/ad$image,object
 ||ptfxh.com^
+||ptga.cn^
 ||ptgdb.cn^
 ||pthrumeath.com^
 ||ptju.cn^
@@ -22565,6 +22573,7 @@ zzzyk.com###Tinfo
 ||pwvt.cn^
 ||px.ucweb.com^
 ||px02mouzas.com^
+||pxdb08b82.com^
 ||pxhuiben.com^
 ||pxrbnf.icu^
 ||pxvbnt.top^
@@ -22995,6 +23004,7 @@ zzzyk.com###Tinfo
 ||r6q4mtfno.com^
 ||r6yigjfvp.com^
 ||r75tia.cn^
+||r7pnnukr.xyz^
 ||r7tqkqrvuz.com^
 ||r8ln4v4nef.com^
 ||ra0mpyy93.com^
@@ -24211,6 +24221,7 @@ zzzyk.com###Tinfo
 ||teeniaole.com^
 ||tejr.cn^
 ||telecome.cn^
+||telphiruq.com^
 ||tempest33.com^
 ||templates_pc/default/scripts/chapter_bottom.js
 ||tencent-cloud.com/s9m1/12f70718c866ea3e5f22c68e6a34c54f.
@@ -25427,6 +25438,7 @@ zzzyk.com###Tinfo
 ||w58ce6.cc^
 ||w58ce6.com^
 ||w592be.cc^
+||w592be.com^
 ||w5ba5b.cc^
 ||w5ba5b.com^
 ||w5bi16f3co.com^
@@ -25614,6 +25626,7 @@ zzzyk.com###Tinfo
 ||wlgxaij.cn^
 ||wlhcb.cn^
 ||wliksa.icu^
+||wlnaukfq.com^
 ||wlrjy.com/assets/images/*.gif
 ||wlrjy.com/assets/images/tuidc.png
 ||wlsyuule.cam^
