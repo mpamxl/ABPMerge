@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-23 08:37:43
-! Total count: 27369
+! Version: 2026-02-23 16:43:26
+! Total count: 27371
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16054,6 +16054,7 @@ zzzyk.com###Tinfo
 ||cs.37see.com^$3p
 ||cs.luckyorange.net^
 ||csaimall.com^$popup,3p
+||cscbd31jv.com^
 ||csdn.net/ggmm/
 ||csdn.net/msg.popup.js
 ||csdnimg.cn/check-adblock/
@@ -27301,6 +27302,7 @@ zzzyk.com###Tinfo
 ||zwlikv.cn^
 ||zwvq.cn^
 ||zx.docin.com^
+||zx3o9i43h.com^
 ||zxcrr.com^
 ||zxcv1.com^
 ||zxdnsx7si.com^
