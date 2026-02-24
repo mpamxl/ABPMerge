@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-24 08:35:12
-! Total count: 27379
+! Version: 2026-02-24 16:55:24
+! Total count: 27383
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17324,6 +17324,7 @@ zzzyk.com###Tinfo
 ||fdc.com.cn^*adv
 ||fdc.my0511.com^$script
 ||fddxbn.xyz^
+||fdetolgput.com^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
 ||fdgem.com^
@@ -17974,6 +17975,7 @@ zzzyk.com###Tinfo
 ||gohgn02230la.com^
 ||gohgn02231la.com^
 ||gohgn02240la.com^
+||gohgn02241la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -25604,6 +25606,7 @@ zzzyk.com###Tinfo
 ||westca.com/server/
 ||weste.net/js/showpagead.js
 ||wew.dushiwenxue.net^
+||wew56nanuc.com^
 ||wewlkq.com^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfndponfd.com^
@@ -26921,6 +26924,7 @@ zzzyk.com###Tinfo
 ||zbjimg.com/static/union/
 ||zbl40hvzzy.com^
 ||zblz.me^
+||zbmeerconq.com^
 ||zbrtnv.icu^
 ||zbv7kxrteclub.xyz^
 ||zbvchabjbcj.com^
