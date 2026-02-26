@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-02-26 08:35:07
-! Total count: 27402
+! Version: 2026-02-26 16:45:55
+! Total count: 27408
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7153,6 +7153,7 @@ f2dsex1.com##div.link
 fabconvert.com#@#.ad-banner-top
 fabconvert.com,knews.com.tw,1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.*,manhuafen.com,world68.com##.ad
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
+facemood.grtimed.com##.promote-img-wrap
 familydoctor.com.cn##.adExtra
 familydoctor.com.cn##.global-top-links-wrap
 fang.com###xmlAd
@@ -14013,6 +14014,7 @@ zzzyk.com###Tinfo
 ||aem.three.com.hk/content/three/sosim/app/*/promotion/
 ||aeqfuyc.com^
 ||aewgwu.icu^
+||aexoao7lg6.com^
 ||af29.com/banner/
 ||af31f.site^
 ||afablca.cn^
@@ -14428,6 +14430,7 @@ zzzyk.com###Tinfo
 ||apk.tw/static/js/showpic.js
 ||apk02061oo.xyz^
 ||apk02070oo.xyz^
+||apmcx60sm5.com^
 ||app-g.39.net/NNN/
 ||app-measurement.com^
 ||app.bugsnag.com^
@@ -17983,6 +17986,7 @@ zzzyk.com###Tinfo
 ||gohgn02240la.com^
 ||gohgn02241la.com^
 ||gohgn02251la.com^
+||gohgn02261la.com^
 ||goi08130kh.com^
 ||goi08131kh.com^
 ||goi08141kh.com^
@@ -22619,6 +22623,7 @@ zzzyk.com###Tinfo
 ||pxx.tnklrs.cn^$3p
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
+||pybmulveaz.com^
 ||pyeditingpro.biz^
 ||pygokay.cn^
 ||pyjqhb.xyz^
@@ -25482,6 +25487,7 @@ zzzyk.com###Tinfo
 ||w55b76.cc^
 ||w55b76.com^
 ||w562f5.cc^
+||w562f5.com^
 ||w56953.cc^
 ||w56ff7.cc^
 ||w58547.cc^

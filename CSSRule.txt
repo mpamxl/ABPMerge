@@ -4654,6 +4654,7 @@ f2dsex1.com##div.link
 fabconvert.com#@#.ad-banner-top
 fabconvert.com,knews.com.tw,1905.com,news.ltn.com.tw,commonhealth.com.tw,health.tvbs.com.tw,idreamx.com,xchina.*,manhuafen.com,world68.com##.ad
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
+facemood.grtimed.com##.promote-img-wrap
 familydoctor.com.cn##.adExtra
 familydoctor.com.cn##.global-top-links-wrap
 fang.com###xmlAd
