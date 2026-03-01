@@ -8416,6 +8416,7 @@ suopao.org##.tr3.t_one[onmouseout]
 supercloudsms.com##.container > img
 supercloudsms.com##a[href^="/redirect?"]
 superlife.ca##.sidebar-ad-zone
+supermoto8.com###myModal
 supertaste.tvbs.com.tw###ad_m_bottom
 supertaste.tvbs.com.tw###lightbox--ad
 supertaste.tvbs.com.tw##.ad_m_block
