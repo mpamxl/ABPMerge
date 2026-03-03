@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-02 16:32:33
-! Total count: 27455
+! Version: 2026-03-03 08:29:44
+! Total count: 27462
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15135,6 +15135,7 @@ zzzyk.com###Tinfo
 ||bjxty88.com/js/foot.js
 ||bk2l4eidc.com^
 ||bkad13gfu.com^
+||bkam33lsr.com^
 ||bkhblj.xyz^
 ||bkhxut1rz.com^
 ||bkill.com/css/js/*top
@@ -15445,6 +15446,7 @@ zzzyk.com###Tinfo
 ||c2000.cn/c2000/
 ||c21x8nmdak.com^
 ||c3q6l5oeq.com^
+||c3vzqvifsn.com^
 ||c4d.cn/api.php?mod=ad&adid=
 ||c4d.cn/template/iscwo_zcool/iscwo/ad/
 ||c4d4.cn^
@@ -17625,6 +17627,7 @@ zzzyk.com###Tinfo
 ||fuztty4b5g.com^
 ||fvffd678.xyz^
 ||fvfizj.icu^
+||fvfxpkmo.icu^
 ||fvitteilse.com^
 ||fvk6k2jrdu.com^
 ||fvlqjw.top^
@@ -21937,6 +21940,7 @@ zzzyk.com###Tinfo
 ||ofweek.com/pop/ad/
 ||ofwq.cn^
 ||og.zyzjpx.cn^$3p
+||og7231kq7.com^
 ||oganilglk.cyou^
 ||ogbt4k.site^
 ||ogdoad7.top^
@@ -23440,6 +23444,7 @@ zzzyk.com###Tinfo
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
 ||s31u.com^
 ||s3t3d2y8.afcdn.net^
+||s3t75j8o7.com^
 ||s45hkb25i.com^
 ||s4te24u.com^
 ||s4y6lhotaw.com^
@@ -26056,6 +26061,7 @@ zzzyk.com###Tinfo
 ||x43slxjwzx.com^
 ||x4jdm.tv/mdp.js
 ||x5hnj21.com^
+||x6d93mku0.com^
 ||x6img.com^$domain=picturedata.org
 ||x6u6kw4sg.com^
 ||x8kwcr3l.xyz^
@@ -26112,6 +26118,7 @@ zzzyk.com###Tinfo
 ||xdyjt.com^
 ||xdyn03010jy.com^
 ||xdyn03011jy.com^
+||xdyn03021jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
