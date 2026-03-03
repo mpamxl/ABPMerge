@@ -633,6 +633,10 @@
 ##.main-ad-r
 ##.main-ad-r + .topad
 ##.main-container > #dhxhtml
+##.main-container div[id^="core-zone-"]
+##.main-container div[id^="z-extra-"]
+##.main-container ~ div.z-gate-mask
+##.main-container ~ div[class^="z"][class$="-root"]
 ##.main-content > .a2b3
 ##.main[style="border:#7D8C8E solid 1px;height: 23px;"]
 ##.mainbg > #s11navtop
@@ -4993,6 +4997,7 @@ ghxi.com##.ad_single_12
 ghxi.com##.entry-content > div[style^="position:"]
 ghxi.com##.widget_html_ad + div[style]
 ghxi.com##.wpcom_ad_wrap:style(position: absolute !important; left: -3000px !important;)
+ghxi.com##a[href^="https://www.aipyaipy.com/"]
 ghxi.com#@#.social-item
 ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
 girlsoncam.net,japonfilmleri.com,minaeast.net###playerdavLayer
