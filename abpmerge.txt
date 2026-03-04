@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-03 16:35:39
-! Total count: 27288
+! Version: 2026-03-04 08:28:13
+! Total count: 27293
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5812,7 +5812,9 @@ bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
+bing.com,cn.bing.net##.b_ans
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
+bing.com,cn.bing.net##.b_bza_pole
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
@@ -6290,7 +6292,6 @@ cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
 cn.bing.com###b_results > li:has(.b_adProvider)
 cn.bing.com##.b_bza_pole
-cn.bing.com,cn.bing.net##.b_bza_pole
 cna.com.tw##.ad_336_2
 cna.com.tw##.fb_fanpage_inpage > .other_news_box_2:style(padding: 0 0px!important; margin: 26px 0!important;)
 cna.com.tw,ettoday.net##.ad_970
@@ -15772,6 +15773,7 @@ zzzyk.com###Tinfo
 ||choujue.net/script/
 ||choupsee.com^
 ||chozarpeases.com^
+||chplea1tj9.top^
 ||chromeba.net/wp-content/uploads/
 ||chuantu.biz^$domain=7mav2.com|thztv.cc
 ||chuantu.xyz/t6/714/1580707721x3703728804.jpg
@@ -17494,6 +17496,7 @@ zzzyk.com###Tinfo
 ||fourlaile.com^
 ||fp.nanrenwo.net^
 ||fp2nn4zxlp.com^
+||fp9gvw5ber.com^
 ||fpb*.51edu.com^
 ||fpb.sohu.com^
 ||fpb1.apple886.com^
@@ -18609,6 +18612,7 @@ zzzyk.com###Tinfo
 ||hndhas.com^
 ||hnfnjn.xyz^
 ||hnlczgjx.com^
+||hnlghkmp.icu^
 ||hnlphr.cn^
 ||hnltcw.com^
 ||hnnuange.com^
@@ -21055,6 +21059,7 @@ zzzyk.com###Tinfo
 ||mhdnspro.com^
 ||mhgu.cn^
 ||mhhanman.xyz/data/my/myjs.js
+||mhmciof8ef.com^
 ||mhoccoirq.com^
 ||mhoiia.icu^
 ||mhqcyar.icu^
