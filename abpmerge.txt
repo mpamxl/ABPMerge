@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-05 08:29:32
-! Total count: 27332
+! Version: 2026-03-05 17:53:55
+! Total count: 27342
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2677,6 +2677,7 @@ $websocket,domain=wap.yushuwu.cloud
 /tourl.html?url=
 /tres/recommend/*$domain=ifeng.com
 /ts/ttfc.html?sc=$document,popup
+/tt/ttfc.html?sc=$document,popup
 /tt1-1367073066.cos.
 /tuiguang/*$domain=~jikexiu.com|~jikexiu.vip
 /tuiguang366.oss-
@@ -5827,13 +5828,13 @@ bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bing.com##li[class="b_algo"]:has(.b_attribution[data-partnertag]+p[class])
 bing.com,cn.bing.net###bnp_rich_div
+bing.com,cn.bing.net###uaanswer
 bing.com,cn.bing.net##.ad_sc
 bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
-bing.com,cn.bing.net##.b_ans
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
 bing.com,cn.bing.net##.b_bza_pole
 bing.com,cn.bing.net##.pa_sb
@@ -9413,6 +9414,7 @@ mnews.tw##.ad-container-pc-only
 mnw.cn##.mnw_685
 mnw.cn##.mnw_960
 mnw.cn##.mnw_top_ads
+mnya.tw#@##advertise
 mo.fish##.list-item-content-ad
 mobanwang.com##.box960x90
 mobanwang.com##.g960
@@ -11099,6 +11101,7 @@ tieba.baidu.com##.ylh-ad-wrap
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##div[class*='-ad-pb-']
+tieba.baidu.com##div[data-key^="ad__"]
 tieba.baidu.com,wapp.baidu.com##.iSlider-wrapper-container-hot-thread
 tieba.baidu.com,wapp.baidu.com##a.fixed_bar
 tiexue.net##.reloadCont > div:first-child
@@ -13382,6 +13385,7 @@ zzzyk.com###Tinfo
 ||7ryx7ph5y.com^
 ||7scs.com/Public/img/list-
 ||7strqfn56s.com^
+||7tshsz6k1.com^
 ||7u4b8l1zt.com^
 ||7usgqu07mk.com^
 ||7wzx9.com/tbad.
@@ -14805,6 +14809,7 @@ zzzyk.com###Tinfo
 ||baizhan.net/js/136/jingyun_righttop.
 ||baizhu.cc^$3p
 ||baj.fanwenzhan.com^
+||bakrathtfa.com^
 ||balerdoits.com^
 ||ballive.*/addm/
 ||balmoralmkt.com^$3p
@@ -17679,6 +17684,7 @@ zzzyk.com###Tinfo
 ||g3f3.com/love/
 ||g3m92egwo.com^
 ||g4yk4cyyw.com^
+||g64njjhyh.com^
 ||g66ryy88z.com^
 ||g7htk7ls7.com^
 ||g8hi6r3odr.com^
@@ -18508,6 +18514,7 @@ zzzyk.com###Tinfo
 ||hflwgg.xyz^
 ||hfqarnolmm.com^
 ||hfqdipw.cn^
+||hfrkamhoz.com^
 ||hfttufu4jo.top^
 ||hftxbq.top^
 ||hgehse.site^
@@ -20023,6 +20030,7 @@ zzzyk.com###Tinfo
 ||kdcxhr.cn^
 ||kdewa111.familydoctor.com.cn^
 ||kdfjglkdflg.com^
+||kdiwpsdrk.com^
 ||kdkgorjbvlxjrnv.com^
 ||kdou.com/ad_js.php?adid=
 ||kdow.cn^
@@ -21478,6 +21486,7 @@ zzzyk.com###Tinfo
 ||n906n29tm.com^
 ||naarnurm.com^
 ||naemailom.fun^
+||nahg4lhbr.com^
 ||naiep.xyz^
 ||naivety48.com^
 ||naivtyu.icu^
@@ -26000,6 +26009,7 @@ zzzyk.com###Tinfo
 ||xdyn03010jy.com^
 ||xdyn03011jy.com^
 ||xdyn03021jy.com^
+||xdyn03051jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
