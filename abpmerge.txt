@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-05 17:53:55
-! Total count: 27342
+! Version: 2026-03-06 08:26:51
+! Total count: 27355
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9405,10 +9405,6 @@ mm-cg.com###ioshowAD
 mm-cg.com##.TW_UTtoy
 mm-cg.com##.UT_thread
 mm-cg.com##.ut1_img_content_js
-mmff30.com##.titletablediv .titletablecell > a[target="_blank"]:not([href$="html"]):not([target="_self"])
-mmff30.com##.top_box
-mmff30.com##a[href$="/ref.html"]
-mmff30.com##span[id$="_gg"]
 mnews.tw##.ad-container-pc
 mnews.tw##.ad-container-pc-only
 mnw.cn##.mnw_685
@@ -10053,7 +10049,9 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
+ping0.cc###adxright
 ping0.cc##.myeles
+ping0.cc##.xxeles
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
 pinggu.org##.indextop-r
@@ -12221,6 +12219,7 @@ zzzyk.com###Tinfo
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
 ||0er7pc8.xyz^
+||0fs6pe6w0j.com^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
 ||0hagz9mdc.com^
@@ -13088,7 +13087,6 @@ zzzyk.com###Tinfo
 ||580bk.com/ceshi/
 ||5888.tv/User_Ad/
 ||58avgo.*/AirADPic/
-||58cdn.com.cn/*.gif$domain=mmff30.com
 ||58cdn.com.cn/ds/tgbrand/*.js
 ||58cdn.com.cn/ds/zhuangxiu/jzad-
 ||58file.com/down/xyk.
@@ -13465,6 +13463,7 @@ zzzyk.com###Tinfo
 ||88r6s1hecp.com^
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
+||89ga0evbha.com^
 ||89mtdab.xyz^
 ||8bnouo6r6.com^
 ||8chj9.com^
@@ -15221,6 +15220,7 @@ zzzyk.com###Tinfo
 ||bohanhengtian.cn^
 ||bolecdn.com/button/txt.js
 ||bonbonme.com/js/g1313166/
+||boodper.com^
 ||bookben.com/js/m/wap.js
 ||booking.com^$domain=honglingjin.co.uk|sunnylife.tw
 ||bookrb.com/images/jtt
@@ -15269,6 +15269,7 @@ zzzyk.com###Tinfo
 ||braagniddp.com^
 ||braised58.top^
 ||brand.sogou.com/micro?yyid=
+||brb3mb25zg.com^
 ||bremphumz.com^
 ||brendanbc.com^
 ||brfgbn.xyz^
@@ -15605,6 +15606,7 @@ zzzyk.com###Tinfo
 ||cdn.holmesmind.com^$3p
 ||cdn.itphanpytor.club^
 ||cdn.jquery-cdn.cc^
+||cdn.ping0.cc/images/ax/*.gif$~3p
 ||cdn.shdsp.net/ad
 ||cdn.uameta.ai/file/bucket-media/image/advertisement/
 ||cdn.vidcrunch.com/integrations/*_Responsive_Floating_DFP_$domain=discuss.com.hk
@@ -17061,6 +17063,7 @@ zzzyk.com###Tinfo
 ||ekdky.cn^
 ||ekdtywtkc.com^
 ||eknz.cn^
+||ekpafzj.com^
 ||ekzf.cn^
 ||el2m3qr7v.com^
 ||elclaq.icu^
@@ -17810,6 +17813,7 @@ zzzyk.com###Tinfo
 ||geziyd.com^
 ||gfan.com/press/
 ||gfbdb1.com^
+||gfh9j4wyub.com^
 ||gfnulonelb.com^
 ||gfrzzzx.cn^
 ||gfvip09at.com^
@@ -18747,6 +18751,7 @@ zzzyk.com###Tinfo
 ||hsyfcenter.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||ht9s1j1bf.com^
+||hthelulyq.com^
 ||hthivr.xyz^
 ||htienlu.top^
 ||htjrlm.com^
@@ -20498,6 +20503,7 @@ zzzyk.com###Tinfo
 ||lijie.in^
 ||lijunkai.com^
 ||likdie.com^
+||likelihood55.com^
 ||limbecculvers.com^
 ||line1-log.biligame.net^
 ||linecg.com/uploads/banner/
@@ -20774,6 +20780,7 @@ zzzyk.com###Tinfo
 ||lwlwlw.com/js/FVgg.js
 ||lwlybwd5zq.com^
 ||lwnxzp.icu^
+||lwvz4vwkc8.com^
 ||lwzdzf.xyz^
 ||lwzgfp.icu^
 ||lxapk.com/wp-content/uploads/*.gif
@@ -22509,6 +22516,7 @@ zzzyk.com###Tinfo
 ||pr88vhg.com^
 ||praairfo.com^
 ||practitioner23.com^
+||prankubg.com^
 ||prbibo.top^
 ||prdohgp.cn^
 ||precipice55.com^
@@ -25035,6 +25043,7 @@ zzzyk.com###Tinfo
 ||uxcnhsf.cn^
 ||uxfa.cn^
 ||uxfe.cn^
+||uxjw.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
 ||uxtlrah.com^
@@ -26010,6 +26019,8 @@ zzzyk.com###Tinfo
 ||xdyn03011jy.com^
 ||xdyn03021jy.com^
 ||xdyn03051jy.com^
+||xdyn03060jy.com^
+||xdyn03061jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
@@ -26326,6 +26337,7 @@ zzzyk.com###Tinfo
 ||xxffo.com^*_slett.php
 ||xxfphsg.cn^
 ||xxgslt.com^
+||xxhfuaek.icu^
 ||xxhh.com/xh.js
 ||xxhp2iz.icu^
 ||xxir.com/static/images/ad.
@@ -26785,6 +26797,7 @@ zzzyk.com###Tinfo
 ||yxonk5bcue.com^
 ||yxqhuy.icu^
 ||yxqmryq.top^
+||yxtmums.com^
 ||yxvoud.com^
 ||yxwg21lyyn.com^
 ||yxzp.net/left.js
