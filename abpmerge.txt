@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-07 16:16:59
-! Total count: 27373
+! Version: 2026-03-08 08:20:12
+! Total count: 27388
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12652,6 +12652,7 @@ zzzyk.com###Tinfo
 ||26yj3wme9q.com^
 ||277txt.com/da/*.js
 ||27gh.cc^$popup,3p
+||27ocdto914.com^
 ||283.laobanfa.com^
 ||2898.com/index/flowexchange/getGoods?
 ||28hse.com/adsman/www/images/
@@ -13244,6 +13245,7 @@ zzzyk.com###Tinfo
 ||6acupxubky.com^
 ||6avz.com^$script,3p
 ||6b8emvi3ya.com^
+||6c34boi06m.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
 ||6cmxoje5k.com^
@@ -14546,6 +14548,7 @@ zzzyk.com###Tinfo
 ||atnnf.xyz^
 ||ato.tooopen.com^
 ||atool.org/res/ads/
+||atpm.cn^
 ||atsgiu.icu^
 ||att.ydss.cn/attachments/portal/
 ||attendant36.top^
@@ -15066,6 +15069,7 @@ zzzyk.com###Tinfo
 ||bh0874.online^
 ||bhaabom.cn^
 ||bhaelkaers.com^
+||bhaldailm.com^
 ||bhaoea.cn^
 ||bhcnmrn.icu^
 ||bhddjf.top^
@@ -15404,6 +15408,7 @@ zzzyk.com###Tinfo
 ||by4d.com/love/
 ||by8428.com^
 ||bycrovalb.com^
+||byirzeamuu.com^
 ||byjykj.xyz^
 ||byscy.cn^$3p
 ||byt73g6rrr.com^
@@ -16748,6 +16753,7 @@ zzzyk.com###Tinfo
 ||drgakaelgp.com^
 ||drmcmm.baidu.com^
 ||drohlaneh.com^
+||drudgery89.com^
 ||drvsky.com/js/jolimark.gif
 ||dryvoa.cn^
 ||ds.ruanwengfa.com^
@@ -18759,6 +18765,7 @@ zzzyk.com###Tinfo
 ||hthivr.xyz^
 ||htienlu.top^
 ||htjrlm.com^
+||htlwbn.icu^
 ||htqyy.com/kiees/
 ||htseca.top^
 ||httpcn.com/Images/banner
@@ -20076,6 +20083,7 @@ zzzyk.com###Tinfo
 ||keyboard88.top^
 ||keywin.org/templates/kw_v2/images/youbianad.png
 ||kf2038zvxt.com^
+||kfa9grestp.com^
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfejnjs.cn^
 ||kfvq.cn^
@@ -20997,6 +21005,7 @@ zzzyk.com###Tinfo
 ||mbg06270pg.com^
 ||mbg06271pg.com^
 ||mbjaob.cn^
+||mbn6duism5.com^
 ||mbveryu.top^
 ||mbxsku.cn^
 ||mbxw.xyz^
@@ -21484,6 +21493,7 @@ zzzyk.com###Tinfo
 ||n0ocxl4w5g.top^
 ||n0usvkb1x.com^
 ||n0zwlat83.com^
+||n1yy6blznk.com^
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
 ||n26iiffw9.com^
@@ -21636,6 +21646,7 @@ zzzyk.com###Tinfo
 ||nhcdn.cn^
 ||nhjkm.com^
 ||nhjsw.cn^
+||nhnehvef.icu^
 ||nhnsoh.cn^
 ||nhpwwd.cn^
 ||nhscv.cn^
@@ -25640,6 +25651,7 @@ zzzyk.com###Tinfo
 ||wj.jiancai365.cn^
 ||wj9uod3838.com^
 ||wjxc92bc.xyz^
+||wkjwumtex3.com^
 ||wkrcbszi.xyz^
 ||wkzvf2658.com^
 ||wkzw.me^
@@ -25716,6 +25728,7 @@ zzzyk.com###Tinfo
 ||wpuzzcudultv.com^
 ||wpwpquse.cn^
 ||wpy6xuq4.xyz^
+||wq26xa0tr.com^
 ||wqdro6us.icu^
 ||wqdwork.com^
 ||wqhmzb.cn^
@@ -26036,6 +26049,8 @@ zzzyk.com###Tinfo
 ||xdyn03061jy.com^
 ||xdyn03070jy.com^
 ||xdyn03071jy.com^
+||xdyn03080jy.com^
+||xdyn03081jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
