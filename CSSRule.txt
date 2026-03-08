@@ -3530,7 +3530,6 @@ buzzorange.com##.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
 buzzorange.com##div[data-id="7c6b7b2"]
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
-bz88888.net##+js(abort-current-script, document.getElementsByTagName, _mtj)
 c.biancheng.net##.ggxc-box > a[target="_blank"] > img
 c114.com.cn###ad_r1
 c114.com.cn###barrage_ad
@@ -7329,6 +7328,7 @@ ntp.msn.cn##recommended-sites
 ntpcb.com##img[width="1195"]
 ntunhs.edu.tw,ntust.edu.tw,sjsmitaa.org#@#.module-ads
 numberempire.com#@##perm_ad
+nunuju.net,bz88888.net##+js(abort-current-script, document.getElementsByTagName, _mtj)
 nunuyy3.org##+js(abort-current-script, $, infoid)
 nwell.net##.f14hui[width="25%"]
 nxflv.com##div[style="position: absolute; width: 100%; height: 133px; bottom: 0px;"]
