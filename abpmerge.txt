@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-09 08:33:35
-! Total count: 27413
+! Version: 2026-03-09 16:48:07
+! Total count: 27420
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8011,6 +8011,7 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huavod.com##a[href^="https://lesi198.com"]
 huavod.com,huaren.live##+js(set-constant, ConFig.config.ads, {})
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
@@ -13265,6 +13266,7 @@ zzzyk.com###Tinfo
 ||6iwoif.com^
 ||6jei0t6xp.com^
 ||6jyi7mzae.com^
+||6k2fehacp.com^
 ||6kpudsordv.com^
 ||6m8tk53pw.com^
 ||6mdf9teiz.com^
@@ -15402,6 +15404,7 @@ zzzyk.com###Tinfo
 ||bwau1s2fm.com^
 ||bwcnmtv.top^
 ||bwdhuanbao.com^
+||bwvhtadad.com^
 ||bxackzj.icu^
 ||bxdupj.icu^
 ||bxhm.cn^
@@ -18313,6 +18316,7 @@ zzzyk.com###Tinfo
 ||h6fh0e4hg.com^
 ||h731.icu^
 ||h8cjr6nhm.com^
+||h9806gjhz.com^
 ||hacde1.icu^
 ||hacde10.icu^
 ||hacde3.icu^
@@ -19339,6 +19343,7 @@ zzzyk.com###Tinfo
 ||iqshw.com/d/js/m/thea
 ||iqsswq.icu^
 ||iqtucudfff.com^
+||iremnazae.com^
 ||irkp.cn^
 ||irlj.cn^
 ||irp37bmmt.com^
@@ -24022,7 +24027,8 @@ zzzyk.com###Tinfo
 ||static.jfrft.com/js/main_video.js^$script,redirect=noop.js,domain=dilidili.wang,important
 ||static.meijiacun.com^
 ||static.missav.com/js/plyr.js
-||static.okokserver.com/uploads/lesi/$image,domain=huaren.live
+||static.okokserver.com/uploads/lesi/$image,domain=huaren.live|huavod.com
+||static.okokserver.com/uploads/lesi/lesi.mp4$media
 ||static.okokserver.com^$media,domain=huaren.live
 ||static.olelive.com/upload/site/*/*.gif
 ||static.ptoahaistais.com^
@@ -26335,6 +26341,7 @@ zzzyk.com###Tinfo
 ||xs.dmzj.com^
 ||xs.houyi.baofeng.net^
 ||xsbiquge.la/js/detail.js
+||xscp03091xq.com^
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^

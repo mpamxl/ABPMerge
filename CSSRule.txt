@@ -5512,6 +5512,7 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huavod.com##a[href^="https://lesi198.com"]
 huavod.com,huaren.live##+js(set-constant, ConFig.config.ads, {})
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
