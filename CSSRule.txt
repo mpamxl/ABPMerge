@@ -527,6 +527,7 @@
 ##.float-left12 > .div-list
 ##.floatAd
 ##.float_bot_right
+##.floating-ad
 ##.fnwehjnc12
 ##.frAd
 ##.frontpageAdvM
