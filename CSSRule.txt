@@ -4558,7 +4558,7 @@ elecinfo.com##div[class$="-advert"]
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io##.toc-content > .m-t-16px
 element-plus.gitee.io##aside > .page-content
-element-plus.org##aside > div[class^="doc-content-"]
+element-plus.org##aside > div[class^="vp-"]
 elle.com.hk##.tpc-container
 elle.com.hk##article > div.block-default:has(> div.content-wrapper p > span:contains(Cosmart))
 elsworld.cn#@##footer-banner
@@ -6277,6 +6277,7 @@ jmw.com.cn##[class^="advertising"]
 jokeji.cn##.ad360_280
 jokerlu.com##.closebox
 jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
+joyacg.top##a[href^="http"] > .img-fluid
 jpfans.com,jpseek.com##table[cellspacing="1"][cellpadding="6"]
 jpsub.com##.floatbar_div
 jq-school.com##.setfarme:nth-child(7)
@@ -8446,7 +8447,7 @@ sunnylife.tw##.post-entry > div[style="min-width: 300px; min-height:300px;"]
 sunofbeach.net##div[id$="-ad"]
 suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
-supercloudsms.com##.container > img
+supercloudsms.com##.container > a > img
 supercloudsms.com##a[href^="/redirect?"]
 superlife.ca##.sidebar-ad-zone
 supermoto8.com###myModal
