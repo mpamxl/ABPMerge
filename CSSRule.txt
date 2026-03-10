@@ -8674,6 +8674,7 @@ tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tt1069.com#@##ad-slot
 tt1069.com#@#.adzone
 tt776.com##iframe[src="/app/ad.html"]
+ttks.tw##.txtcenter
 ttshow.tw##div[id^="ad_article_"]
 ttshow.tw##div[id^="ad_index_"]
 ttsp.tv##.play_list_adbox

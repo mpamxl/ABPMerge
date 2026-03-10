@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-09 16:48:07
-! Total count: 27420
+! Version: 2026-03-10 08:30:04
+! Total count: 27435
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11182,6 +11182,7 @@ tsubasa.im##+js(no-setTimeout-if, /home/?adblock=)
 tt1069.com#@##ad-slot
 tt1069.com#@#.adzone
 tt776.com##iframe[src="/app/ad.html"]
+ttks.tw##.txtcenter
 ttshow.tw##div[id^="ad_article_"]
 ttshow.tw##div[id^="ad_index_"]
 ttsp.tv##.play_list_adbox
@@ -12244,6 +12245,7 @@ zzzyk.com###Tinfo
 ||0v0qj9fnwf.top^
 ||0vllsf2g2.com^
 ||0w58wpq55.com^
+||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
 ||0x7iufg8hy.com^
 ||0xzxwnkqdu.com^
@@ -15085,6 +15087,7 @@ zzzyk.com###Tinfo
 ||bheknoinum.com^
 ||bhgzwqy.top^
 ||bhidhaerb.com^
+||bhiohollun.com^
 ||bhjuy10.com^
 ||bhl401f8g.com^
 ||bholneath.com^
@@ -19488,6 +19491,7 @@ zzzyk.com###Tinfo
 ||j3gkwzt7o.com^
 ||j4mxrs21gh.com^
 ||j4s12kfavg.com^
+||j5sgdum5n4.com^
 ||j694fx3bp.com^
 ||j6zh4g0.cn^
 ||j7ifivzy.icu^
@@ -19731,6 +19735,7 @@ zzzyk.com###Tinfo
 ||jnhgm.com^
 ||jnjslk.top^
 ||jnlc.com/www/fund/newsmarket
+||jnlenb.icu^
 ||jnmascx.xyz^
 ||jnp0kmm.icu^
 ||jntmwrm.com^
@@ -20847,6 +20852,7 @@ zzzyk.com###Tinfo
 ||lyz.radio366.com^
 ||lzbao.net/mtvbox.
 ||lzbao.net/syster.
+||lzdjxp.icu^
 ||lzep.cn/ep/sda/
 ||lzfzkedp.icu^
 ||lzjzyjh.com^
@@ -21057,6 +21063,7 @@ zzzyk.com###Tinfo
 ||medaahmo.com^
 ||mediav.com^$3p,domain=~dev.360.cn|~g.360.cn
 ||medicine4.top^
+||mediocre38.com^
 ||medsci.cn/aimgs/$script
 ||medsci.cn/images/wyg.jpg
 ||meenehboq.com^
@@ -21902,6 +21909,7 @@ zzzyk.com###Tinfo
 ||o1.jyjyj.cn^
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
+||o2x4h2txrc.com^
 ||o40d17vln.com^
 ||o6oxvugdl.com^
 ||o8u3n4q7fe.com^
@@ -22072,6 +22080,7 @@ zzzyk.com###Tinfo
 ||oot59rxrwm.com^
 ||ootyx24.com^
 ||oovruczakz.com^
+||op1z5h5171.com^
 ||op9dbh1i0.com^
 ||opdh.cn^
 ||open.e.kuaishou.cn^
@@ -24639,6 +24648,7 @@ zzzyk.com###Tinfo
 ||tthrirgud.com^
 ||ttienli.top^
 ||ttimhethzm.com^
+||ttks.tw/js/otherad.
 ||ttly888.com^
 ||ttnjhlhys.icu^
 ||tttddb.icu^
@@ -25211,6 +25221,8 @@ zzzyk.com###Tinfo
 ||vexilorath.com^
 ||vezeqzyb.com^
 ||vfbwcfej.icu^
+||vfcv.cn^
+||vfie3ximi3elx4uw.cfd^
 ||vfjsa6do.icu^
 ||vfjxvt.icu^
 ||vfnq.cn^
@@ -26080,6 +26092,7 @@ zzzyk.com###Tinfo
 ||xdyn03081jy.com^
 ||xdyn03090jy.com^
 ||xdyn03091jy.com^
+||xdyn03100jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
@@ -26342,6 +26355,8 @@ zzzyk.com###Tinfo
 ||xs.houyi.baofeng.net^
 ||xsbiquge.la/js/detail.js
 ||xscp03091xq.com^
+||xscp03100xq.com^
+||xscp03101xq.com^
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^
