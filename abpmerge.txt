@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-10 16:47:10
-! Total count: 27440
+! Version: 2026-03-11 08:29:46
+! Total count: 27456
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -804,7 +804,6 @@
 ##.txp_ad[data-role="txpad-interact-pause"]
 ##.txp_ad_center
 ##.txtguanggao
-##.uk-container.uk-container-expand
 ##.uk-width-1-1.adbox
 ##.vg-overlay-pause
 ##.video-ad-item
@@ -1256,6 +1255,8 @@
 ##a[href*="/h91.tv"]
 ##a[href*="/kt169.com"]
 ##a[href*="/l1y9.com"]
+##a[href*="/lesi151.cc"]
+##a[href*="/lesi198.com"]
 ##a[href*="/mobads.php?"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/uu5566.cn.com/"]
@@ -8786,8 +8787,6 @@ jq.131458.com##.soso_02
 jq22.com##.fdad
 jqzb.com.cn##.zk_xf
 jr31.xyz##body > div.wp > div.wp > a[rel="nofollow"] > img
-jr35.xyz###hd + .wp
-jr35.xyz##a[href^="ad."]
 jrj.com.cn###comment > a:first-child
 jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
@@ -11411,6 +11410,9 @@ vpsdx.com##.gsfha3-form
 vpsdx.com##.gthfdsa
 vpser.net##.ab_cpb
 vpser.net##.ab_cpr
+vpstop.cn##.sidebar > div.uk-card:contains(赞助商家)
+vpstop.cn##a[href*="/ClickAd"]
+vpstop.cn##a[target="_blank"] > img[style^="width: 100%;max-height:"]
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
 vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuetifyjs.com##.v-sponsors
@@ -12137,6 +12139,7 @@ zzzyk.com###Tinfo
 |http://ad.$domain=~ad.cnr.cn|~ckckk.com|~jxnews.com.cn
 |http://gg.$3p,domain=~guagua.cn
 ||*.$image,redirect=1x1.gif,3p,domain=rmdown.com
+||*.mp4$redirect=noop-0.1s.mp3,domain=huavod.com,media
 ||*/ad/$redirect=noop-0.1s.mp3,domain=huaren.tv,media
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
@@ -16144,6 +16147,7 @@ zzzyk.com###Tinfo
 ||ctfile.com/iz.php?
 ||ctfile.com/popjump.php?$popup
 ||ctienlf.top^
+||ctirhpp.com^
 ||ctobsnssdk.com^
 ||ctquh0q.xyz^
 ||ctrip.com/Domestic/tool/AjaxGetCPTList.ashx?advpositioncode=
@@ -17318,6 +17322,7 @@ zzzyk.com###Tinfo
 ||facebook.com/v2.6/plugins/video.$domain=storm.mg
 ||fadjqqe.top^
 ||fads315.com^
+||fagmiethe.com^
 ||fagp.cn^
 ||fahwlqf37l.com^
 ||fajdhuhdh.com^
@@ -18936,6 +18941,7 @@ zzzyk.com###Tinfo
 ||i.imgur.com^$domain=av.movie
 ||i0y0i9vz0.com^
 ||i100.cao-gao.xyz/aimgs/
+||i12het785.com^
 ||i14laze0.xyz^
 ||i2fxsez4f0.com^
 ||i2wj211yk.com^
@@ -18948,6 +18954,7 @@ zzzyk.com###Tinfo
 ||i5q1t8vj9.com^
 ||i5qquywfz.com^
 ||i5rp73ne9h.com^
+||i6nnwepgm.com^
 ||i73u6dnnh.com^
 ||i7akpd1.xyz^
 ||i7bqmgn87.com^
@@ -19790,6 +19797,7 @@ zzzyk.com###Tinfo
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jpysvip.net/ad/
+||jpzbjh.icu^
 ||jqbhtv.icu^
 ||jqkcett.icu^
 ||jqmr7zssmd.com^
@@ -21005,6 +21013,7 @@ zzzyk.com###Tinfo
 ||maomaoks.com/1.
 ||maopu.tv/d/file/p/2019/07/6ac50c702cf9e6a9a7910a510c40cb73.jpg
 ||maoskk.com^
+||mapbbqy.com^
 ||mapsmnx.cyou^
 ||margueritenice.com^
 ||marjorienice.com^
@@ -21782,6 +21791,7 @@ zzzyk.com###Tinfo
 ||nnntxx.icu^
 ||nnocsin.cn^
 ||nnqwe.xyz^
+||nnuc.cn^
 ||nnvx.cn^
 ||no1.168abc.net/upload/
 ||nodejs.cn/_static/js/common.js
@@ -22319,6 +22329,7 @@ zzzyk.com###Tinfo
 ||pcxnrr.icu^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
 ||pdhhmf.cn^
+||pdhwzl.icu^
 ||pdiabbi.cn^
 ||pdjjrh.xyz^
 ||pdrerzug.com^
@@ -23397,6 +23408,7 @@ zzzyk.com###Tinfo
 ||rxyggrq.cn^
 ||rxys.cn^
 ||rxzefz.icu^
+||ryd626moj.com^
 ||rythtg.top^
 ||ryvvzl.icu^
 ||rywnvzd.cn^
@@ -24081,6 +24093,7 @@ zzzyk.com###Tinfo
 ||strakvad.com^
 ||strawberryy14.top^
 ||stricaik.com^
+||stringent19.com^
 ||strip.chat/widgets/$domain=tktube.com
 ||strip.taobaocdn.com/tfscom/$subdocument
 ||stsgus.icu^
@@ -26098,6 +26111,7 @@ zzzyk.com###Tinfo
 ||xdyn03091jy.com^
 ||xdyn03100jy.com^
 ||xdyn03101jy.com^
+||xdyn03110jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
@@ -26362,6 +26376,7 @@ zzzyk.com###Tinfo
 ||xscp03091xq.com^
 ||xscp03100xq.com^
 ||xscp03101xq.com^
+||xscp03110xq.com^
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^
@@ -26923,6 +26938,7 @@ zzzyk.com###Tinfo
 ||z.tudouxy01.com^
 ||z0a1b2c3d4.com^
 ||z0ha6abmi.com^
+||z0rto0758.com^
 ||z0u6tmmudb.com^
 ||z0vogb8ns.com^
 ||z1.chezhuzhinan.com^

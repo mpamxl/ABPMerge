@@ -799,7 +799,6 @@
 ##.txp_ad[data-role="txpad-interact-pause"]
 ##.txp_ad_center
 ##.txtguanggao
-##.uk-container.uk-container-expand
 ##.uk-width-1-1.adbox
 ##.vg-overlay-pause
 ##.video-ad-item
@@ -1251,6 +1250,8 @@
 ##a[href*="/h91.tv"]
 ##a[href*="/kt169.com"]
 ##a[href*="/l1y9.com"]
+##a[href*="/lesi151.cc"]
+##a[href*="/lesi198.com"]
 ##a[href*="/mobads.php?"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/uu5566.cn.com/"]
@@ -6286,8 +6287,6 @@ jq.131458.com##.soso_02
 jq22.com##.fdad
 jqzb.com.cn##.zk_xf
 jr31.xyz##body > div.wp > div.wp > a[rel="nofollow"] > img
-jr35.xyz###hd + .wp
-jr35.xyz##a[href^="ad."]
 jrj.com.cn###comment > a:first-child
 jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
@@ -8900,6 +8899,9 @@ vpsdx.com##.gsfha3-form
 vpsdx.com##.gthfdsa
 vpser.net##.ab_cpb
 vpser.net##.ab_cpr
+vpstop.cn##.sidebar > div.uk-card:contains(赞助商家)
+vpstop.cn##a[href*="/ClickAd"]
+vpstop.cn##a[target="_blank"] > img[style^="width: 100%;max-height:"]
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
 vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vuetifyjs.com##.v-sponsors
