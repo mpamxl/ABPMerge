@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-11 08:29:46
-! Total count: 27456
+! Version: 2026-03-11 16:40:28
+! Total count: 27466
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1572,6 +1572,7 @@ $websocket,domain=wap.yushuwu.cloud
 *$denyallow=xpxs.net|jiasucdn.com,domain=xpxs.net,xhr,image,script
 *$script,3p,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com,domain=banzhu1111111.com|banzhu2222222.com|banzhu3333333.com|banzhu4444444.com|banzhu5555555.com|banzhu6666666.com|banzhu7777777.com|banzhu8888888.com|banzhu9999999.com
 *$script,3p,denyallow=mega.co.nz|mega.nz|libs.baidu.com|ilfcdn.li|bytecdntp.com|doodcdn.io|intensedebate.com|vixcloud.co|cdn.plyr.io|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|imgsmail.ru|cloudflare.net|rabbitstream.net|x.com|51.la|cloudflareinsights.com|tongjiniao.com|vp1shop.shop|lamparasde.net|hoopchina.com.cn|kankan2024.com|ovscdns.com|rumanhua.org|cdnsrc.asp.net|ddxsmf.com|apps.bdimg.com|alicdn.com,_,domain=wap.dmwenku.com|m.wfxs.tw|wap.ishuquge.la|m.91zww.com|592mh.top|dubuxiaoshuo.com|clm410.buzz|bookbl.com|shuku99.com|qiyoudy2.com|1yydstxt178.com|rouman5.com|feijisu20.com|iqb5.org|wap.xkushu.com|spoilertop.com|booktxts.com|bixia33.com|rouwenwu19.com|91porny.com|yznnw.com|vodtw.la|ckplayer.vip|uuread.tw|fengchedmp.com|aeahsck.cc|xiaoshubao.net|wap.yushuwu.cloud|twbook.cc|vodtw.xyz|xbqg6.com|qq3009qq.link|18jtv.cc|m.haxuku.com|xm200.com|av6k.com|18j.tv|haiwaishubao.com|uaa.com|lamparasde.net|bbs.hupu.com|kankan2024.com|hanime1-me.icu|hanime1-me.top|rumanhua.org|ddxsmf.com|xb6v.org|6v520.cc
+*$script,3p,domain=huanggua22.com
 *$script,3p,xhr,domain=m.biquge700.com|biquge001.com
 *$script,xhr,3p,domain=m.1024txt.com
 *$xhr,denyallow=ddxsmf.com|apps.bdimg.com|cdnsrc.asp.net,domain=ddxsmf.com
@@ -1752,6 +1753,7 @@ $websocket,domain=wap.yushuwu.cloud
 .gif|$domain=7mshipin.org|viidii.info
 .gif|$domain=8727ck.cc|8726ck.cc
 .gif|$domain=99re.com
+.gif|$image,3p,domain=huanggua22.com
 .hgo0*uyi.com/$script,xhr,3p
 .hh0*aoik.com/$script,xhr,3p
 .html?android=hx*&_$csp=script-src
@@ -2446,10 +2448,6 @@ $websocket,domain=wap.yushuwu.cloud
 /lapi/sign/phonegameapi/getinfo
 /lapi/sign/signapi/getinfo
 /lapi/sign/web/getinfo
-/lenovo/2021/all*.js
-/lenovo/pc/all*.js
-/lenovo/pc/piaofu2.js
-/lenovo/pc/top.js
 /letv-gug/*
 /live173/640320_
 /live173_*/46860.
@@ -4783,7 +4781,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@||mm.maxthon.cn/ad/
 @@||mmaa99.xyz^$generichide
 @@||mmee04.com^$generichide
-@@||mmff30.com^$generichide
 @@||mmgd.xyz^$generichide
 @@||mmstat.com/eg.js$domain=1688.com|taobao.com|tmall.com|tudou.com|youku.com
 @@||mmuu22.link^$generichide
@@ -6264,6 +6261,7 @@ chromecj.com##.topblock
 chtoen.com##.adsbygoogle:not([data-ad-slot="9717665976"])
 chuandong.com##div[class*="-ad"]
 chuandong.com,instrument.com.cn,manhuabika.com##a[href*="/ad/"]
+chuanghongjituan.com##.streamer-container2
 chunyuyisheng.com###ad_modal
 chunyuyisheng.com##.ad-modal-left
 chunyuyisheng.com##.ui-grid + .fixed-layer
@@ -7993,6 +7991,8 @@ hualongxiang.com##.quick_reply_ad
 hualongxiang.com##.wheelplayer
 huamu.cn##.banner_Ad
 huamu.cn##.midle-ad-list
+huanggua22.com##[href^="https://oxs31.pdom3k.icu/"]
+huanggua22.com##[src^="https://tutu.facaiimage.com/"]
 huanqiu.com###winNext
 huanqiu.com##+js(set-constant, AD_SURVEY_Add_AdPos, noopFunc)
 huanqiu.com##+js(set-constant, AD_SURVEY_Add_AdPos_Simple, noopFunc)
@@ -10053,7 +10053,6 @@ pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 ping0.cc###adxright
-ping0.cc##.myeles
 ping0.cc##.xxeles
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -12720,6 +12719,7 @@ zzzyk.com###Tinfo
 ||2xx63f0bfy.com^
 ||2yjw.com/statics/js/jquery.min.
 ||2zjftxgl5s.com^
+||2ztav5r7r.com^
 ||2zzt.com/file/aliyun
 ||2zzt.com/images/
 ||3.5646.cn^
@@ -13275,6 +13275,7 @@ zzzyk.com###Tinfo
 ||6jei0t6xp.com^
 ||6jyi7mzae.com^
 ||6k2fehacp.com^
+||6knlhnjfv.com^
 ||6kpudsordv.com^
 ||6m8tk53pw.com^
 ||6mdf9teiz.com^
@@ -17365,6 +17366,7 @@ zzzyk.com###Tinfo
 ||faxingw.cn/js/detailgcbox.js
 ||fb2newr2nm.com^
 ||fbhorutgy.com^
+||fbraaphra.com^
 ||fbtacriikh.com^
 ||fc.3dmgame.com^
 ||fc.gaizong.cn^
@@ -17623,6 +17625,7 @@ zzzyk.com###Tinfo
 ||fsnpbh.xyz^
 ||fstats.xyz^
 ||fsu1cg19c.com^
+||fsuooh.cc^
 ||fszpzd.xyz^
 ||ft.com/a.html
 ||ft8e.top^
@@ -18210,6 +18213,7 @@ zzzyk.com###Tinfo
 ||gtj1myjla.com^
 ||gtlpa*.com^
 ||gtlpaj.com^
+||gtmajs.click^
 ||gtokii.icu^
 ||gtoyouin.biz^
 ||gtpso.com/Home/TopSdk/getFavCoupItems
@@ -18776,6 +18780,7 @@ zzzyk.com###Tinfo
 ||hsbianma.com/Ad/
 ||hsbianma.com/content/images/*-ad-
 ||hsdawz.com^
+||hsehk.cn^
 ||hsex.men/nb/
 ||hsex.men/view/img/*.gif
 ||hsfbpp.xyz^
@@ -22013,6 +22018,7 @@ zzzyk.com###Tinfo
 ||oizs.cn^
 ||oj2c0dkk4.com^
 ||ojbkmcsdx.xyz^
+||ojg8sflgl.com^
 ||ojh9bc9puh.com^
 ||ojizau.icu^
 ||ojn1zxz0ni.com^
@@ -22262,6 +22268,7 @@ zzzyk.com###Tinfo
 ||pageview.kgsz.cn^
 ||palmertx.com/template/js/img-1.php
 ||pan.baidu.com/act/api/activityentry?
+||pan0304.com/ads.
 ||panc.cc/uploads/hongbao.png
 ||panchaxumbilic.com^
 ||panda.kdnet.net^
@@ -25714,6 +25721,7 @@ zzzyk.com###Tinfo
 ||wl.uqwjdhgv.top^
 ||wlberlaiw.com^
 ||wlemdl1yx.com^
+||wlgjz02mo.com^
 ||wlgxaij.cn^
 ||wlhcb.cn^
 ||wliksa.icu^
@@ -26112,6 +26120,7 @@ zzzyk.com###Tinfo
 ||xdyn03100jy.com^
 ||xdyn03101jy.com^
 ||xdyn03110jy.com^
+||xdyn03111jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
@@ -26377,6 +26386,7 @@ zzzyk.com###Tinfo
 ||xscp03100xq.com^
 ||xscp03101xq.com^
 ||xscp03110xq.com^
+||xscp03111xq.com^
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^
