@@ -2080,8 +2080,8 @@
 28hse.com###floating_left_div
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
 2chcn.com##img[width="300"]
-2cycomic.com,whnyd.com,yemancomic.com##body > a
-2cycomic.com,yemancomic.com##body > div > center
+2cycomic.com##body > div > center
+2cycomic.com,whnyd.com##body > a
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
@@ -9365,6 +9365,7 @@ ydwgame.net##.cl.wp[style="width:1200px;"]
 ydwgame.net##.pictextad
 ydwgame.net##a[href="http://www.discuz.net"]
 yeeyi.com##.js_handle_right
+yemancomic.com##.z-index-99 > a
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yes-news.com###content-728
 yes-news.com###content-728-top

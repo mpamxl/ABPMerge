@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-11 16:40:28
-! Total count: 27466
+! Version: 2026-03-12 08:31:53
+! Total count: 27485
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3314,8 +3314,8 @@ $websocket,domain=wap.yushuwu.cloud
 28hse.com###floating_left_div
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
 2chcn.com##img[width="300"]
-2cycomic.com,whnyd.com,yemancomic.com##body > a
-2cycomic.com,yemancomic.com##body > div > center
+2cycomic.com##body > div > center
+2cycomic.com,whnyd.com##body > a
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
@@ -11886,6 +11886,7 @@ ydwgame.net##.cl.wp[style="width:1200px;"]
 ydwgame.net##.pictextad
 ydwgame.net##a[href="http://www.discuz.net"]
 yeeyi.com##.js_handle_right
+yemancomic.com##.z-index-99 > a
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yes-news.com###content-728
 yes-news.com###content-728-top
@@ -13219,6 +13220,7 @@ zzzyk.com###Tinfo
 ||64lv69ncb9.com^
 ||64ma.com/tv/images/web.png
 ||65432.pw^
+||65487496.xyz^
 ||66.fmx.cn/js/
 ||663008888.com^
 ||6651tp.com^
@@ -13271,6 +13273,7 @@ zzzyk.com###Tinfo
 ||6gxs.net/js/
 ||6h6pdph56.com^
 ||6hejing.cn^
+||6iiz8ni96v.com^
 ||6iwoif.com^
 ||6jei0t6xp.com^
 ||6jyi7mzae.com^
@@ -13570,6 +13573,7 @@ zzzyk.com###Tinfo
 ||92dp.com/home/showga?
 ||92ghai.com/zz/
 ||92hjv5r20.com^
+||92p3c8lgqt.com^
 ||92uq.com/Ads/
 ||933m.com/1.js
 ||93692zubo66936.com^
@@ -17136,6 +17140,7 @@ zzzyk.com###Tinfo
 ||en8848.com.cn/js/content.
 ||en8848.com.cn/js/lianxi.js
 ||enbg.cn^
+||endlesshandbaglinked.com^
 ||endowmentoverhangutmost.com^
 ||enelveufry.com^
 ||enennsa.gushiwen.cn^
@@ -17980,6 +17985,7 @@ zzzyk.com###Tinfo
 ||gkvrdf.com^
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
+||gl0r6d2uyy.com^
 ||glacier32.com^
 ||glacier48.top^
 ||glancetree.top^
@@ -18263,6 +18269,7 @@ zzzyk.com###Tinfo
 ||guu0bfmpf5.com^
 ||guuia6hxf.com^
 ||guurniuvgo.com^
+||guwd.cn^
 ||guzsjdl.cn^
 ||gv0oi9ecji.com^
 ||gvbhae0.com^
@@ -18791,6 +18798,7 @@ zzzyk.com###Tinfo
 ||hstbrt.xyz^
 ||hsvtdj.top^
 ||hsvtdj.top^$all
+||hsvwvr.icu^
 ||hswfj.cn^
 ||hsyfcenter.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
@@ -19927,6 +19935,7 @@ zzzyk.com###Tinfo
 ||jubsg4r6qy.com^
 ||jucnwta.top^
 ||judicial4.com^
+||judicious85.top^
 ||juejin.cn/content_api/v1/advert/query_adverts?
 ||juicyads.com^
 ||jujcjz.xyz^
@@ -21679,6 +21688,7 @@ zzzyk.com###Tinfo
 ||nfydd.com/template/wap1/js/dd.js
 ||ng8f.top^
 ||ngbthf.xyz^
+||ngdrld.icu^
 ||ngfkrduait.com^
 ||nghdp.cn^
 ||nghivugi92.com^
@@ -21951,6 +21961,7 @@ zzzyk.com###Tinfo
 ||obiknmm.icu^
 ||obl74.xyz^
 ||obmphi.xyz^
+||obv3epx22d.com^
 ||oceanbot-steam.com^
 ||ocmr.cn^
 ||ocvr.cn^
@@ -22132,6 +22143,7 @@ zzzyk.com###Tinfo
 ||orbk.cn^
 ||orchidea46.com^
 ||orpy.cn^
+||orqmimfug.in^
 ||orxsq.xyz^
 ||orzx.im/Document/recommend/flashpoint.html
 ||orzx.im/Document/union/
@@ -22805,6 +22817,7 @@ zzzyk.com###Tinfo
 ||qhimgs4.com/*.gif$domain=hdmoli.com
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhimgs4.com/t01d8315ddb1a5adcce.gif
+||qhirlilzda.com^
 ||qhjm600.com^
 ||qhkxs.cn^
 ||qhnews.com/tupian/
@@ -25362,6 +25375,7 @@ zzzyk.com###Tinfo
 ||vm5xs8nvqh.com^
 ||vmbzhfh.cn^
 ||vmdlxj.xyz^
+||vmj428qvi4.com^
 ||vmjr.cn^
 ||vmkp.cn^
 ||vmlrxs.top^
@@ -26121,6 +26135,8 @@ zzzyk.com###Tinfo
 ||xdyn03101jy.com^
 ||xdyn03110jy.com^
 ||xdyn03111jy.com^
+||xdyn03120jy.com^
+||xdyn03121jy.com^
 ||xebetp.icu^
 ||xeccotftw.com^
 ||xecner.top^
@@ -26387,6 +26403,8 @@ zzzyk.com###Tinfo
 ||xscp03101xq.com^
 ||xscp03110xq.com^
 ||xscp03111xq.com^
+||xscp03120xq.com^
+||xscp03121xq.com^
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^
@@ -26512,6 +26530,7 @@ zzzyk.com###Tinfo
 ||y63eay93i.com^
 ||y66xvgo5i.chuimg.com^
 ||y673shtv.xyz^
+||y6a7ap3io3.com^
 ||y6oiuyphb.com^
 ||y74s.xyz^
 ||y7pcgacfn.com^
