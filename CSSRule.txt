@@ -8698,7 +8698,7 @@ tvsou.com##.sogou-temp-show
 tvsou.com##.story_ad_android
 tvsou.com##.story_ad_content_footer
 tvsou.com##.story_ad_ios
-tvyun07.com,yemancomic.com,zkk78.com##div[style^="position:fixed;"]
+tvyun07.com,zkk78.com##div[style^="position:fixed;"]
 tw.bid.yahoo.com###livePromote
 tw.live##.fsk-window-film
 tw.news.yahoo.com###module-mktIframe
@@ -8730,6 +8730,7 @@ twinsyang.net#@#.Zi_ad_a_H
 twinsyang.net,free.com.tw###custom_html-7
 twkan.com###mobile-ad
 twkan.com##.txtcenter
+twmanga.com###baoziAdPopup
 twpkinfo.com###div_close_cf
 twword.com##.gadBlock
 twxgct.com,xgcartoon.com,dailygh.com###video-top-ad
