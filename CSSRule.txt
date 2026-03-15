@@ -9072,6 +9072,8 @@ wiki.mbalib.com###p-ad-bd
 wiki.mbalib.com##.ad-br
 wiki.mbalib.com##.tool-bar > a[target="_blank"]
 wiki.mbalib.com##div[id^="p-ad-"]
+wikisport.cc##+js(addEventListener-defuser, click, window.open)
+wikisport.cc##+js(no-window-open-if)
 wikisport.cc##+js(prevent-innerHTML, div, _mtj)
 win7w.com###xldz
 win7xzb.com##.four_box
