@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-15 16:21:34
-! Total count: 27529
+! Version: 2026-03-16 08:44:34
+! Total count: 27539
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3133,23 +3133,6 @@ $websocket,domain=wap.yushuwu.cloud
 18comic.org,18comic.vip##div[data-height="250"][data-width="300"]
 18comic.org,18comic.vip##div[data-height="90"][data-width="728"]
 18comic.org,18comic.vip#@#img[style*="300px"]
-18comic.org,18comic.vip,18comic.ink###guide-modal
-18comic.org,18comic.vip,18comic.ink##.div_sticky2
-18comic.org,18comic.vip,18comic.ink##.modal-backdrop
-18comic.org,18comic.vip,18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
-18comic.org,18comic.vip,18comic.ink##:has(>ins+div)
-18comic.org,18comic.vip,18comic.ink##:has(>ins+script)
-18comic.org,18comic.vip,18comic.ink##:has(>ins+style)
-18comic.org,18comic.vip,18comic.ink##:has(>script+ins)
-18comic.org,18comic.vip,18comic.ink##:not(body):has(>script[src*=".realsrv.com"])
-18comic.org,18comic.vip,18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
-18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
-18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
-18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img
-18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
-18comic.org,18comic.vip,18comic.ink##div[data-group]:has(>.group-notice)
-18comic.org,18comic.vip,18comic.ink##div[data-group][data-width="300"]
-18comic.org,18comic.vip,18comic.ink##style + div[style="cursor: pointer; position: relative;"]
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
@@ -3527,6 +3510,7 @@ $websocket,domain=wap.yushuwu.cloud
 4gamers.com.tw##video[src^="https://img.4gamers.com.tw/ads-media/"]
 4gtv.tv##+js(prevent-fetch, pagead2.googlesyndication.com)
 4hu.tv##.couplet-left
+4hu.tv##.kkm-content
 4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
 4rzxy.net,kzs1w.com,sehuatang.net,sehuatang.org##div[class^="show-text"]
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,uliba.net,ypojie.com##.widget_ui_orbui
@@ -8751,6 +8735,23 @@ jkptgbf.xyz,mfulbvu.xyz,91porna.com##a.checkNum[target="_blank"]:not([href*="91p
 jkptgbf.xyz,mfulbvu.xyz,91porna.com##div[class^="aspect-"]:has(> div > .swiper-backface-hidden)
 jlmhk.com##.bn
 jlpcn.net##.vodAd
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink###guide-modal
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##.div_sticky2
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##.modal-backdrop
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##.row[style="display: flex;flex-wrap: wrap;"]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>ins+div)
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>ins+script)
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>ins+style)
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:has(>script+ins)
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##:not(body):has(>script[src*=".realsrv.com"])
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[herf*="//"]:not([href*="18c"]) > img
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > [style*="back"]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > div[style]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##a[href*="//"]:not([href*="18c"]) > img + [style]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##div[data-group]:has(>.group-notice)
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##div[data-group][data-width="300"]
+jm18c-oec.net,18comic.org,18comic.vip,18comic.ink##style + div[style="cursor: pointer; position: relative;"]
 jmbbs.com###xjj_jmbbs2015_01
 jmbbs.com##.middle_guanggao
 jmbbs.com##img[width="1100"]
@@ -12568,6 +12569,7 @@ zzzyk.com###Tinfo
 ||1rwa5e8a6.com^
 ||1s8hpetv3.com^
 ||1s8pj.cn^$3p
+||1tvg524vih.com^
 ||1u5gy.xyz^
 ||1uo9djbnsr.com^
 ||1vd2esrss.com^
@@ -13793,6 +13795,7 @@ zzzyk.com###Tinfo
 ||a1bw2cup.top^
 ||a2.xinhuanet.com^
 ||a2424xe80.com^
+||a2pfs5k90i.com^
 ||a2put.chinaz.com^
 ||a3.jandan.net^
 ||a32a.com.cn^$3p
@@ -16181,6 +16184,7 @@ zzzyk.com###Tinfo
 ||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com/show2?
 ||cuqpi.cn^
+||curogmc.com^
 ||curthkivew.com^
 ||cuutiethm.com^
 ||cvftv2.com^
@@ -16822,6 +16826,7 @@ zzzyk.com###Tinfo
 ||dtrcw.cc^
 ||dtrinzael.com^
 ||dtroldad.com^
+||dtrurqeq.com^
 ||dtscout.com^
 ||dtsxn.cn^
 ||dtths.cn^
@@ -21876,6 +21881,7 @@ zzzyk.com###Tinfo
 ||nsul.cn^
 ||nsvohb.top^
 ||nswtojdi.icu^
+||nsxrfh.icu^
 ||ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||ntegrodvtu.com^
 ||nthaumotzz.com^
@@ -22403,6 +22409,7 @@ zzzyk.com###Tinfo
 ||people.com.cn/adv/
 ||people.com.cn/img/gjt/
 ||pepnsnq.cn^
+||pepwpv.icu^
 ||performance89.com^
 ||periscope73.com^
 ||perlmaven.com/img/*0x2
@@ -24123,6 +24130,7 @@ zzzyk.com###Tinfo
 ||stats.v.duowan.com^
 ||stats.wp.com^
 ||status-un.trafficmanager.net^
+||ste000u5mk.com^
 ||steamers77.com^
 ||steelcn.cn/img/bj_*_146_315.jpg
 ||stemedntm.com^
@@ -24201,6 +24209,7 @@ zzzyk.com###Tinfo
 ||suppose84.com^
 ||surface361.com^
 ||surgeon38.top^
+||surmount35.com^
 ||surperverse.com^
 ||surveys.hotjar.com^
 ||suy5x8.com^
@@ -25594,6 +25603,7 @@ zzzyk.com###Tinfo
 ||w6xdba54n.com^
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
+||w97nv5ibv4.com^
 ||w9uwz5966.com^
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wa9dald544.com^
