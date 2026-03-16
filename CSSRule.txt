@@ -4832,7 +4832,6 @@ fsjoy.com#@#.main_adv
 fsylr.com##.plus_r
 ft.com,ftchinese.com##.bn-ph
 ftchinese.com##+js(no-setTimeout-if, .offsetHeight)
-ftchinese.com#@#.AdsBox
 ftvnews.com.tw##div[id^="div_gpt_"]
 fububu.com###wendibu
 fujieace.com##.single-goods

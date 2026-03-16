@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-16 08:44:34
-! Total count: 27539
+! Version: 2026-03-16 16:53:21
+! Total count: 27541
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7325,7 +7325,6 @@ fsjoy.com#@#.main_adv
 fsylr.com##.plus_r
 ft.com,ftchinese.com##.bn-ph
 ftchinese.com##+js(no-setTimeout-if, .offsetHeight)
-ftchinese.com#@#.AdsBox
 ftvnews.com.tw##div[id^="div_gpt_"]
 fububu.com###wendibu
 fujieace.com##.single-goods
@@ -16928,6 +16927,7 @@ zzzyk.com###Tinfo
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
 ||dz3tfc2m9.com^
+||dz6xqe19d2.com^
 ||dzbhdm.com/wp-content/uploads/2021/10/c278390aead8a2f7caea15eb42b36314.
 ||dzfzfv.xyz^
 ||dzjzg.com^
@@ -25270,6 +25270,7 @@ zzzyk.com###Tinfo
 ||vbjzdl.top^
 ||vbnmjjda.xyz^
 ||vbphograewy.com^
+||vbunpfvdn.com^
 ||vbw3q6jxn.com^
 ||vcaqexl.com^
 ||vcjzjnef.icu^
@@ -25666,6 +25667,7 @@ zzzyk.com###Tinfo
 ||wdpkx.cn^
 ||wdrn97z1o.com^
 ||wdswgjn.cn^
+||wdtw.cn^
 ||wdzwd.xyz^
 ||we560.com/js/*.js
 ||weather-analytics-events.apple.com^
