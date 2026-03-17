@@ -8864,6 +8864,7 @@ vansky.com##.liAds
 vansky.com##.safari_pop
 vansky.com##.scol-banner
 vansky.com##.top-ad-link
+verb.tw##.adsbox.ad-placement.ad-banner.textad.sponsorad:style(display: block !important;)
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips

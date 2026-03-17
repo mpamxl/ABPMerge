@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-17 08:40:40
-! Total count: 27551
+! Version: 2026-03-17 16:55:52
+! Total count: 27554
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2308,7 +2308,7 @@ $websocket,domain=wap.yushuwu.cloud
 /htmm/20*.php$popup
 /https?:\/\/[^\/]*18comic\.(org|vip)\/static\/.*?\d{3}[-xX_]\d{3}.*?\.gif/$domain=18comic.org|18comic.vip
 /huijiad/huijiad.
-/huya/main/widget/roomGg
+/huya/main3/widget_roomGaTop_
 /huya_promotion_content_
 /ifengRotatorAd.js
 /ifeng_jdttemplate.js
@@ -11370,6 +11370,7 @@ vansky.com##.liAds
 vansky.com##.safari_pop
 vansky.com##.scol-banner
 vansky.com##.top-ad-link
+verb.tw##.adsbox.ad-placement.ad-banner.textad.sponsorad:style(display: block !important;)
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
@@ -14144,6 +14145,7 @@ zzzyk.com###Tinfo
 ||aiclk.com^
 ||aidfni7yk0.com^
 ||aifei0755.net/123/
+||aiheatta.com^
 ||ailehui9149.com^
 ||aili.com^$3p
 ||ainb01010zh.com^
@@ -15602,6 +15604,7 @@ zzzyk.com###Tinfo
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbgyhe.cn^
 ||cbh365.club^
+||cbhzxctgm.com^
 ||cbjs.baidu.com^
 ||cbo9vo98i.com^
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
@@ -16269,6 +16272,7 @@ zzzyk.com###Tinfo
 ||d3nfknbv.icu^
 ||d3s9in1sg.com^
 ||d4.sina.com.cn^$object,script
+||d48paxyhx.com^
 ||d4vd.life/love/
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
 ||d5.sina.com.cn^$object,script
@@ -21437,7 +21441,6 @@ zzzyk.com###Tinfo
 ||mssdk.volces.com^
 ||msslwa.icu^
 ||msstatic.com/huya/main/img/mc-recom_
-||msstatic.com/huya/main3/widget/roomGg
 ||msstatic.net/main3/common/assets/template/head/ad.
 ||mstmsbz.com^
 ||mt1exxfnf.com^
