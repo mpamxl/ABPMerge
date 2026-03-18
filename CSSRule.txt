@@ -4152,6 +4152,7 @@ demaxiya.com##.tp_box
 dep-family.hccg.gov.tw#@#.ad_1
 dep-family.hccg.gov.tw#@#.ad_2
 detail.zol.com.cn##.link_jd
+dgav17.com,eporner2.top,chuanghongjituan.com##.streamer-container2
 dhaomu.com##.ceo-ad
 dhaomu.com##.ceo-footer-h
 dhaomu.com##.sidebar > .slide
@@ -4579,7 +4580,6 @@ eol.cn,firefoxchina.cn,site.baidu.com##.popup
 eoof.net##.tableborder1[cellspacing="1"][cellpadding="3"]
 epinv.com##.epinv_b
 epinv.com##.epinv_f
-eporner2.top,chuanghongjituan.com##.streamer-container2
 eprice.com.hk##.ad-end-article
 eprice.com.hk##.article__content > div[style*="text-align"]
 eprice.com.hk##.main-section > .text-center[style^="min-height:"]:has(> div[class^="ad-"])

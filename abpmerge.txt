@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-17 16:55:52
-! Total count: 27554
+! Version: 2026-03-18 08:37:08
+! Total count: 27563
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6642,6 +6642,7 @@ demaxiya.com##.tp_box
 dep-family.hccg.gov.tw#@#.ad_1
 dep-family.hccg.gov.tw#@#.ad_2
 detail.zol.com.cn##.link_jd
+dgav17.com,eporner2.top,chuanghongjituan.com##.streamer-container2
 dhaomu.com##.ceo-ad
 dhaomu.com##.ceo-footer-h
 dhaomu.com##.sidebar > .slide
@@ -7072,7 +7073,6 @@ eol.cn,firefoxchina.cn,site.baidu.com##.popup
 eoof.net##.tableborder1[cellspacing="1"][cellpadding="3"]
 epinv.com##.epinv_b
 epinv.com##.epinv_f
-eporner2.top,chuanghongjituan.com##.streamer-container2
 eprice.com.hk##.ad-end-article
 eprice.com.hk##.article__content > div[style*="text-align"]
 eprice.com.hk##.main-section > .text-center[style^="min-height:"]:has(> div[class^="ad-"])
@@ -20366,6 +20366,7 @@ zzzyk.com###Tinfo
 ||kvhee.com^
 ||kvqp.cn^
 ||kvsqa.xyz^
+||kvxc7buwv3.com^
 ||kvzscvzk0t.com^
 ||kw17vswzu.com^
 ||kw7addjwr.com^
@@ -20669,6 +20670,7 @@ zzzyk.com###Tinfo
 ||lk0v8teerw.com^
 ||lkancklanklcav.com^
 ||lkdqrtsj6g.com^
+||lkhmlx.icu^
 ||lkmgjfkhfh.top^
 ||lkmhn.com^
 ||lknhrnd.com^
@@ -22971,6 +22973,7 @@ zzzyk.com###Tinfo
 ||qlogo.cn^$domain=chichiav1.xyz
 ||qmav.cn^
 ||qmavyy.icu^
+||qmeqraen.com^
 ||qmfcybwbf12.com^
 ||qmfcybwbf16.com^
 ||qmfcybwbf19.com^
@@ -23480,6 +23483,7 @@ zzzyk.com###Tinfo
 ||rxys.cn^
 ||rxzefz.icu^
 ||ryd626moj.com^
+||rypebb.icu^
 ||rythtg.top^
 ||ryvvzl.icu^
 ||rywnvzd.cn^
@@ -25306,6 +25310,7 @@ zzzyk.com###Tinfo
 ||venienceilo.fun^
 ||veq8qbwjh.com^
 ||veqekuph.com^
+||verboten84.top^
 ||vercel.app/ads/
 ||vernaellac.com^
 ||verysadfun.com/assets/publish/jquery.*.js
@@ -25875,6 +25880,7 @@ zzzyk.com###Tinfo
 ||wqshui.com^
 ||wr.yiyouliao.com^
 ||wraataikep.com^
+||wral.cn^
 ||wravorzt.com^
 ||wres.cn^
 ||wrestle22.top^
@@ -26268,6 +26274,7 @@ zzzyk.com###Tinfo
 ||xiaoz.top/assets/imgurl.js
 ||xiarikui08.com^
 ||xiazaizhijia.com/w2/js/wxzzj.js
+||xibvdjz2x2.com^
 ||xiexingcun.com/tongji.js
 ||xiexingcun.com/tyong.js
 ||xiezhuo038.cn^
@@ -26823,6 +26830,7 @@ zzzyk.com###Tinfo
 ||yn9k86cpsf.com^
 ||yncjsc.cn^
 ||ynfxxbp.xyz^
+||ynkunarlg.com^
 ||ynslvyou.com^
 ||ynzhby.com^
 ||ynztzh.com^$3p
@@ -27058,6 +27066,7 @@ zzzyk.com###Tinfo
 ||z6faiv46r.com^
 ||z6ro5.xyz^
 ||z9dy1kq9wv.com^
+||z9sab7vr0b.com^
 ||zabdybod*.club^
 ||zacff.com^
 ||zahrvfbd*.xyz^
