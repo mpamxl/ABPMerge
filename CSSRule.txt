@@ -3133,6 +3133,7 @@ baidu.com##div.ad-wrapper
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##div[class*="fc-"][tplid]
 baidu.com##div[data-ad]
+baidu.com##div[data-key^="ad__"]
 baidu.com##div[id^="toast"]
 baidu.com##div[style="padding: 20px 9px 20px 10px;widget:250px;height:250px;"]
 baidu.com#@##header > div:last-child
@@ -3297,6 +3298,7 @@ bilibili.com##.online + .adpos
 bilibili.com##.operate-card[data-target-url*=".miaozhen."]
 bilibili.com##.operate-card[data-target-url*="doubleclick."]
 bilibili.com##.recommended-container_floor-aside .container > div[class$="feed-card"]:has(div[style$="56.25%;"] > div[class]:matches-css(before, content: /AdGuard/))
+bilibili.com##.recommended-swipe .carousel-footer-title > a[href^="http"]:not([href*=".bilibili.com/"])
 bilibili.com##.recommended-swipe-body-normal div.vui_carousel__slide:has(> div.carousel-area > div.carousel-area-img > a > img[src$="/eva.png"])
 bilibili.com##.title > span > a[href^="http"]:not([href*=".bilibili."])
 bilibili.com##.topic-preview > li > a[href^="http"]:not([href*=".bilibili."])
@@ -6141,7 +6143,7 @@ jianhuadaily.com##.alignnone[width="1050"]
 jianhuadaily.com##.alignnone[width="300"]
 jianhuadaily.com##.alignnone[width="800"]
 jianshen114.com##.index_temp
-jianshen8.com,manwa.me##.index-banner
+jianshen8.com##.index-banner
 jianshu.com###note-fixed-ad-container
 jianshu.com##+js(set-constant, NEWS_FEED, noopFunc)
 jianshu.com##.app-float-btn
@@ -6782,7 +6784,6 @@ manhuagui.com##div[style^="width: 300px; height: 250px;"]
 manhuapica.com##a[href^="/ad/"]
 manhuaren.com###lb-win
 manmanw.net##.tlads
-manwa.me##.ad-area > a
 manwa.me#@#.ad-area
 manwa1.me,manwa2.me,manwa.me##.ad-area-close
 manwa1.me,manwa2.me,manwa.me##.swiper-container.swiper-container-horizontal
