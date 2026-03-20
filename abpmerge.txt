@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-19 16:47:08
-! Total count: 27578
+! Version: 2026-03-20 08:30:28
+! Total count: 27584
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -22415,6 +22415,7 @@ zzzyk.com###Tinfo
 ||pdweigee.com^
 ||pdxdxl.xyz^
 ||pdxubxc.cn^
+||pdzzjz.icu^
 ||pealefe.com^
 ||pebrihmethwa.com^
 ||peculiar93.top^
@@ -24753,6 +24754,7 @@ zzzyk.com###Tinfo
 ||tt123.eastday.com^
 ||ttavav6.com/zz/
 ||ttdgbh.top^
+||tthelitnfv.com^
 ||tthrirgud.com^
 ||ttienli.top^
 ||ttimhethzm.com^
@@ -25076,6 +25078,7 @@ zzzyk.com###Tinfo
 ||un.ubaike.cn^
 ||un1.lawyernet.cn^
 ||undergoon.com^
+||underhand19.com^
 ||undertow52.top^
 ||undm.qibulo.com^
 ||unecne.com/wp-content/uploads/*ad-
@@ -25567,6 +25570,7 @@ zzzyk.com###Tinfo
 ||vwtjvd.xyz^
 ||vwuudahnarh.com^
 ||vwvaddoet.com^
+||vx2tbw9xin.com^
 ||vxcewh.cn^
 ||vxhsj.cn^
 ||vxhtxt.xyz^
@@ -26722,6 +26726,7 @@ zzzyk.com###Tinfo
 ||yghonola.com^
 ||ygshu.com/js/h
 ||ygwdai.cn^
+||ygx2myq993.com^
 ||ygxgk.cn^
 ||ygz1pd7.online^
 ||ygzqlnt.cn^
@@ -27249,6 +27254,7 @@ zzzyk.com###Tinfo
 ||zfnclk.buzz^
 ||zfotrq.xyz^
 ||zfowbr.buzz^
+||zfpn7ef472.com^
 ||zfru.cn^
 ||zfteiv.xyz^
 ||zfticz.buzz^
