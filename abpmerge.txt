@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-20 08:30:28
-! Total count: 27584
+! Version: 2026-03-20 16:32:04
+! Total count: 27587
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1754,6 +1754,7 @@ $websocket,domain=wap.yushuwu.cloud
 .gif|$domain=8727ck.cc|8726ck.cc
 .gif|$domain=99re.com
 .gif|$image,3p,domain=huanggua22.com
+.gif|$image,3p,domain=jiuqugan.top
 .hgo0*uyi.com/$script,xhr,3p
 .hh0*aoik.com/$script,xhr,3p
 .html?android=hx*&_$csp=script-src
@@ -10115,7 +10116,6 @@ plus28.com##div[style="width:270px; height:180px;"]
 plus28.com##div[style="width:960px;margin: auto;"]
 poedb.tw###head_toolbar + .text-center
 poedb.tw##+js(abort-current-script, document.getElementById, /#myModal'\)\.modal/)
-pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
 poklw.com##img[alt="恰饭广告"]
 polyapt.com#@#.ad-one
 popart.hk###slideshow
@@ -11306,6 +11306,7 @@ up01.cc###popad
 up01.cc##div[style="position:fixed;width:468px;left: 50%;transform:translate(-50%,0);height:60px;background:#fff;bottom:0px;text-align:center;z-index:9"]
 upmedia.mg###divider_ad
 upsangel.com##a[href="https://upsangel.com/check/surfsharkvpn/"]
+uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
 user.qzone.qq.com###qz_notification
 user.qzone.qq.com##.f-single-biz
 user.qzone.qq.com##div[id^="fct_20050606_"]
@@ -12959,6 +12960,7 @@ zzzyk.com###Tinfo
 ||4kxczstxil.com^
 ||4l5bbkug99.com^
 ||4nc4qc1fo.com^
+||4nfesm3itf.com^
 ||4nndezdx2u.com^
 ||4p04u96158.com^
 ||4paradigm.com^$domain=sina.com.cn
@@ -18001,6 +18003,7 @@ zzzyk.com###Tinfo
 ||githubusercontent.com/vip888vip/ug/main/*.gif
 ||githuhey.com^
 ||giwl0p3gx7.com^
+||gjbk0mis4q.com^
 ||gjh9v.tianshilv.cn^
 ||gjipd.xyz^
 ||gjk1sc9o2.com^
