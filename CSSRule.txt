@@ -741,6 +741,7 @@
 ##.readmidad
 ##.recommended-grids > .file[style="margin: 5px 2px 5px 2px;"]
 ##.right > .content > .ads
+##.ripro_gg_wrap
 ##.rm-twoa > a[href*=".umtrack.com"]
 ##.room-ad-bottom
 ##.room-ad-top
@@ -9316,7 +9317,6 @@ xxooo.cf###overlay
 xxt.cn#@##mainAd
 xxxsm.vip##.ad280x165
 xxxsm.vip##a[href="ilupian8.html"]
-xxxxx520.com##.ripro_gg_wrap
 xydai.cn##.deanad4s
 xz.ccoo.cn##.index_banner
 xz7.com##div[class^="AD_"]
