@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-22 08:23:20
-! Total count: 27610
+! Version: 2026-03-22 16:18:47
+! Total count: 27614
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11220,6 +11220,7 @@ tw.news.yahoo.com##div[id^="defaultLDRB"]
 tw.news.yahoo.com##li[id^="ad-"]
 tw.nextapple.com##[class^="na-ad-"]
 tw.nextapple.com##[id^="lrec"]
+tw.stock.yahoo.com###nonStickyHeader-0-AdWrapper-Proxy
 tw.stock.yahoo.com###ysmcm
 tw.stock.yahoo.com##.news > div[class="bd quote"]:has(ul > li > .geminiAd)
 tw.stock.yahoo.com##td > div.ysm
@@ -12727,6 +12728,7 @@ zzzyk.com###Tinfo
 ||2wq9u06jq.com^
 ||2xmzazd.cn^
 ||2xx63f0bfy.com^
+||2y2lttjs.hair^
 ||2yjw.com/statics/js/jquery.min.
 ||2zjftxgl5s.com^
 ||2ztav5r7r.com^
@@ -21449,6 +21451,7 @@ zzzyk.com###Tinfo
 ||mrgecm.xyz^
 ||mrhboe.xyz^
 ||mrj6nrqwz.com^
+||mrkjo1f9kz.com^
 ||mrko3xiug.com^
 ||mrlxc51byo.com^
 ||mrqbuf.xyz^
@@ -27053,6 +27056,7 @@ zzzyk.com###Tinfo
 ||yy1veaxhf.com^
 ||yy4480qpgyy.com^
 ||yy8090.vip/js/abc/
+||yyauzedlqv.com^
 ||yyax.cn^
 ||yydsxs.com/js/cnzzpiao.
 ||yydsxs.com/js/guding.
