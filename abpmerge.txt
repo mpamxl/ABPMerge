@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-22 16:18:47
-! Total count: 27614
+! Version: 2026-03-23 08:43:45
+! Total count: 27613
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3456,7 +3456,6 @@ $websocket,domain=wap.yushuwu.cloud
 40407.com##.bg_r
 40407.com##.con_tj
 40407.com,lzep.cn,qudong.com,xitong8.com##.top_banner
-404: Not Found
 423down.com##.content > a
 423down.com##.content > h3 > a[rel="external nofollow"][target="_blank"]
 423down.com##.content > p[style]
@@ -3972,12 +3971,6 @@ $websocket,domain=wap.yushuwu.cloud
 :9875/vh2/
 :9875/vj2/
 :99/js/ads/
-</body>
-</html>
-<body>
-<center><h1>301 Moved Permanently</h1></center>
-<head><title>301 Moved Permanently</title></head>
-<hr><center>nginx/1.20.1</center>
 =AdCode_$script,3p
 =AdCode_sjdb
 =BAIDU_SSP_define&
@@ -12890,6 +12883,7 @@ zzzyk.com###Tinfo
 ||3v7c7y.online^
 ||3vnofjidlv.com^
 ||3wk.cc/images/*.gif
+||3x1ry6we9.com^
 ||3x5h6x434.com^
 ||3x8zapzon.com^
 ||3xeo00tqz.com^
@@ -13417,6 +13411,7 @@ zzzyk.com###Tinfo
 ||7qo2met.com^
 ||7qxv9s5q16.com^
 ||7r227ut.cn^
+||7r4jkbpol.com^
 ||7rag9q1on.com^
 ||7ryx7ph5y.com^
 ||7s8z7w24u.com^
@@ -16207,6 +16202,7 @@ zzzyk.com###Tinfo
 ||curthkivew.com^
 ||cuutiethm.com^
 ||cvftv2.com^
+||cvpl9qbz6.com^
 ||cvsheil.com^
 ||cw9twua9.shop^
 ||cw9twuas.xyz^
@@ -18654,6 +18650,7 @@ zzzyk.com###Tinfo
 ||hhba03210kdh.com^
 ||hhba03211kdh.com^
 ||hhba03221kdh.com^
+||hhba03230kdh.com^
 ||hhdmh.net/bd/36mh.js
 ||hhdmh.net/js/g1.js
 ||hhdus.com^
@@ -18691,7 +18688,7 @@ zzzyk.com###Tinfo
 ||hitime5.com/skin/css/*.js
 ||hizechizr.com^
 ||hjbqnwb.com^
-||hjfile.cn/analytics/site/TrackEvent.js404: Not Found<html>
+||hjfile.cn/analytics/site/TrackEvent.js404: Not Found404: Not Found
 ||hjgkr0g.xyz^
 ||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
@@ -22709,6 +22706,7 @@ zzzyk.com###Tinfo
 ||procdn.asia^
 ||prodigalpromotion.com^
 ||proewildfire.cn/fd.js
+||profitablecpmratenetwork.com^
 ||proginn.com/cms/10000/
 ||programmer-club.com.tw/images/uuu/
 ||progress12.com^
@@ -27114,6 +27112,7 @@ zzzyk.com###Tinfo
 ||z60ft9y8lj.com^
 ||z6faiv46r.com^
 ||z6ro5.xyz^
+||z84dbowgc.com^
 ||z9dy1kq9wv.com^
 ||z9sab7vr0b.com^
 ||zabdybod*.club^
