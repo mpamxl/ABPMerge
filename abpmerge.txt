@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-23 16:46:41
-! Total count: 27618
+! Version: 2026-03-24 08:42:07
+! Total count: 27628
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12691,6 +12691,7 @@ zzzyk.com###Tinfo
 ||2d4f.com/love/
 ||2dctkld.com^
 ||2e4xnyfeae.com^
+||2e629ntxk3.com^
 ||2euqnxt25.com^
 ||2fjxw3dyip.com^
 ||2g1lbrr0qv.com^
@@ -13289,6 +13290,7 @@ zzzyk.com###Tinfo
 ||6k2fehacp.com^
 ||6knlhnjfv.com^
 ||6kpudsordv.com^
+||6lpm5zq6t3.com^
 ||6m8tk53pw.com^
 ||6mdf9teiz.com^
 ||6mh8.com^
@@ -13415,6 +13417,7 @@ zzzyk.com###Tinfo
 ||7r4jkbpol.com^
 ||7rag9q1on.com^
 ||7ryx7ph5y.com^
+||7s7bvoungt.com^
 ||7s8z7w24u.com^
 ||7scs.com/Public/img/list-
 ||7strqfn56s.com^
@@ -14738,6 +14741,7 @@ zzzyk.com###Tinfo
 ||b7yy.com/ad/
 ||b82q168jgj.com^
 ||b8b4ix7bj.com^
+||b8mnb9ke9z.com^
 ||b9b2oe8720j.xyz^
 ||b9jda4zig.com^
 ||baby-kingdom.com/reqsads?
@@ -19452,6 +19456,7 @@ zzzyk.com###Tinfo
 ||islbaho.top^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
+||isthmus08.top^
 ||isthmus72.com^
 ||iswgnn.com^
 ||isyd.net/images/ad1.jpg
@@ -21761,6 +21766,7 @@ zzzyk.com###Tinfo
 ||nfvp.cn^
 ||nfxonb.icu^
 ||nfydd.com/template/wap1/js/dd.js
+||ng2y405w3y.com^
 ||ng8f.top^
 ||ngbthf.xyz^
 ||ngdrld.icu^
@@ -21794,6 +21800,7 @@ zzzyk.com###Tinfo
 ||nijlfx.icu^
 ||nijnqwem.xyz^
 ||nike666.com^
+||niljvt71w5.com^
 ||nimaxrv.cn^
 ||nimoatl.icu^
 ||nio08270lt.com^
@@ -22425,6 +22432,7 @@ zzzyk.com###Tinfo
 ||pcqsajr.icu^
 ||pcstore.com.tw/adm/psearch_payad_
 ||pcstore.com.tw/css/myacc_init.js
+||pctzdv.icu^
 ||pcvideoyf.titan.mgtv.com/pb/*.mp4
 ||pcvzpj.xyz^
 ||pcxnrr.icu^
@@ -22854,6 +22862,7 @@ zzzyk.com###Tinfo
 ||qcmm05.com^
 ||qcogiellq.com^
 ||qcra.cn^
+||qcrohnef.com^
 ||qcs6kxekav.com^
 ||qctcu.com^
 ||qcuncolm.com^
@@ -23536,6 +23545,7 @@ zzzyk.com###Tinfo
 ||rzkptd.com^
 ||rznscya.cn^
 ||rzsgxmm.cn^
+||rzxhrl.icu^
 ||s-msn.com/portal/xiatui.js
 ||s.69vj.com/assets/DIY.$image,media
 ||s.bdstatic.com^
