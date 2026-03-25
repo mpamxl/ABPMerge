@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-25 08:40:50
-! Total count: 27646
+! Version: 2026-03-25 16:56:15
+! Total count: 27659
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -132,6 +132,8 @@
 ###googleAD2
 ###googleAD3
 ###googleAdIndexTop
+###gridAdvContent
+###gridAdvoOerlay
 ###guanggao1[style^="position"]
 ###guanggao2[style^="position"]
 ###gudingweiDiv
@@ -9233,6 +9235,12 @@ macdaxue.com##.content > div.asb
 macfans.org###portal_block_180
 macromicro.me##+js(abort-current-script, $, /deposit-bonus?platform=26&utm_source=)
 macromicro.me##+js(abort-current-script, $, mmPopup() {)
+madou.com###videoPauseBox
+madou.com##.floatSwiperPop
+madou.com##.info-row-wrap
+madou.com##.scroll-wrapper
+madou.com##.top-and-banners
+madou.com##a[ref="nofollow sponsored"]
 maguays.cc##.animate-bounce-up
 mahua.com##.hidden_ab
 maiche.com##a.some-img
@@ -13079,6 +13087,7 @@ zzzyk.com###Tinfo
 ||53shop.com/js/dun.js
 ||5442tu.com/style/ads5442.js
 ||54admin.net/images/ad_
+||54ads.com^
 ||54askjdklm.xyz^
 ||54dbg.xyz^
 ||54new.com*/da/
@@ -14158,6 +14167,7 @@ zzzyk.com###Tinfo
 ||aiamok.icu^
 ||aibing.cc/vip/img/gou.gif
 ||aichuangfu.cn/jquery/
+||aickw1c4w.com^
 ||aiclk.com^
 ||aidfni7yk0.com^
 ||aifei0755.net/123/
@@ -14395,6 +14405,7 @@ zzzyk.com###Tinfo
 ||amdc.m.taobao.com^
 ||amerzbj.cn^
 ||amftsawknf.com^
+||amlindred.com^
 ||ammcg.imgscloud.com/toy/
 ||ammonia20.com^
 ||amradmin.5173.com^
@@ -23613,6 +23624,7 @@ zzzyk.com###Tinfo
 ||sa.sina.cn^
 ||sa669.com^$popup
 ||sa8zdui.com^
+||sab5a4zz5.com^
 ||saccac11.com^
 ||sacfasv.com^
 ||sacre.cn^
@@ -24722,6 +24734,7 @@ zzzyk.com###Tinfo
 ||tovppl.cn^
 ||tp.sgcn.com^
 ||tp.suppercacheimages.top^
+||tp4d21qek.com^
 ||tpaxot.cn^
 ||tphurqalq.com^
 ||tpjw.cn^

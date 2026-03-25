@@ -127,6 +127,8 @@
 ###googleAD2
 ###googleAD3
 ###googleAdIndexTop
+###gridAdvContent
+###gridAdvoOerlay
 ###guanggao1[style^="position"]
 ###guanggao2[style^="position"]
 ###gudingweiDiv
@@ -6742,6 +6744,12 @@ macdaxue.com##.content > div.asb
 macfans.org###portal_block_180
 macromicro.me##+js(abort-current-script, $, /deposit-bonus?platform=26&utm_source=)
 macromicro.me##+js(abort-current-script, $, mmPopup() {)
+madou.com###videoPauseBox
+madou.com##.floatSwiperPop
+madou.com##.info-row-wrap
+madou.com##.scroll-wrapper
+madou.com##.top-and-banners
+madou.com##a[ref="nofollow sponsored"]
 maguays.cc##.animate-bounce-up
 mahua.com##.hidden_ab
 maiche.com##a.some-img
