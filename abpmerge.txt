@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-24 16:53:48
-! Total count: 27635
+! Version: 2026-03-25 08:40:50
+! Total count: 27646
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12150,6 +12150,7 @@ zzzyk.com###Tinfo
 ||003store.com^
 ||007ds.com/js/js/
 ||00eeekk.com//html5/activityPage/
+||00k456wyh.com^
 ||00p034d0dw.com^
 ||00xvppy.cn^
 ||011qt7cln.com^
@@ -18488,6 +18489,7 @@ zzzyk.com###Tinfo
 ||hapic1.zhuangxiu22.com^
 ||happyhongkong.com/images/client/
 ||hapying.com^
+||harbour47.com^
 ||harmful26.top^
 ||harmony573.top^
 ||harpsichord34.com^
@@ -21784,6 +21786,7 @@ zzzyk.com###Tinfo
 ||ngjfjf.icu^
 ||ngvrtj.icu^
 ||ngygalitlv.com^
+||ngyoawu.icu^
 ||nh3q4ucdlb.com^
 ||nh3ymjjdkx.com^
 ||nhcdn.cn^
@@ -22746,6 +22749,7 @@ zzzyk.com###Tinfo
 ||pstatp.com/toutiao/push.js
 ||pstatp.com^$domain=5217kdy1.xyz
 ||pstvvb.xyz^
+||pswzggx.icu^
 ||psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||ptauxofi.net^
 ||ptbus.com/s.js
@@ -22760,6 +22764,7 @@ zzzyk.com###Tinfo
 ||ptvfzv.xyz^
 ||ptxcfn.icu^
 ||ptyw.yiche.com/ssp/
+||ptzxed507.com^
 ||puata.info^
 ||pub.funshion.com^
 ||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$xhr,redirect=noopvast-3.0,important
@@ -23588,6 +23593,7 @@ zzzyk.com###Tinfo
 ||s2tu.com/images/*.gif
 ||s3-nl-01.mangabuddy.in^
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
+||s3bltexcm.com^
 ||s3t3d2y8.afcdn.net^
 ||s3t75j8o7.com^
 ||s45hkb25i.com^
@@ -24500,6 +24506,7 @@ zzzyk.com###Tinfo
 ||tggsd07.com^
 ||tghigvud.com^
 ||tgjxzf.top^
+||tgxpdr.icu^
 ||tgymhwt.cn^
 ||tgyxpfjws.com^
 ||thaadotyvrf.com^
@@ -24764,6 +24771,7 @@ zzzyk.com###Tinfo
 ||trmn.cn^
 ||trognoi.com^
 ||trombone48.com^
+||trouupjeu.com^
 ||trp69.top^
 ||trqhf.xyz^
 ||trslw.cn^
@@ -24907,6 +24915,7 @@ zzzyk.com###Tinfo
 ||txscn.cn^
 ||txt9999.cc/m*.js
 ||txtyuzhaiwu.com/astyle/wap.js
+||txutayo.com^
 ||txvq.cn^
 ||txzqw.*/js/float.js
 ||txzqw.me/attachment88txzqw/*.gif
@@ -25062,6 +25071,7 @@ zzzyk.com###Tinfo
 ||ufile.cc^
 ||ufne.cn^
 ||ufthraevuy.com^
+||uftokromta.com^
 ||ufvauj.cn^
 ||ufxs.cn^
 ||ug.snssdk.com^
@@ -25085,6 +25095,7 @@ zzzyk.com###Tinfo
 ||uiqouw.icu^
 ||uiteligularly.fun^
 ||uivc.cn^
+||uj2h8xm8w.com^
 ||ujgf120.com^
 ||ujhu.cn^
 ||ujnkn.com^
