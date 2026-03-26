@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-25 16:56:15
-! Total count: 27659
+! Version: 2026-03-26 08:43:04
+! Total count: 27675
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3458,6 +3458,7 @@ $websocket,domain=wap.yushuwu.cloud
 40407.com##.bg_r
 40407.com##.con_tj
 40407.com,lzep.cn,qudong.com,xitong8.com##.top_banner
+404: Not Found
 423down.com##.content > a
 423down.com##.content > h3 > a[rel="external nofollow"][target="_blank"]
 423down.com##.content > p[style]
@@ -3973,6 +3974,12 @@ $websocket,domain=wap.yushuwu.cloud
 :9875/vh2/
 :9875/vj2/
 :99/js/ads/
+</body>
+</html>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<head><title>301 Moved Permanently</title></head>
+<hr><center>nginx/1.20.1</center>
 =AdCode_$script,3p
 =AdCode_sjdb
 =BAIDU_SSP_define&
@@ -9798,8 +9805,10 @@ nodejs.cn###biz_nav
 nodejs.cn###pagead
 nodejs.cn###pagead0
 nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
+nodejs.cn##+js(set-constant, adRender, noopFunc)
 nodejs.cn##+js(set-constant, adsbygoogle, {})
 nodejs.cn##+js(set-constant, adsbygoogle.loaded, true)
+nodejs.cn##.mymn-banner
 nodeloc.com###wghtml
 nodeloc.com##.AfruxWidgets-sideNavAlt
 nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
@@ -14753,6 +14762,7 @@ zzzyk.com###Tinfo
 ||b5v0m3q8.com^
 ||b79e4u3hz7.com^
 ||b7ijghyla1.com^
+||b7pgs2ifvq.com^
 ||b7sw62.pingshu8.xyz^
 ||b7yy.com/ad/
 ||b82q168jgj.com^
@@ -15995,6 +16005,7 @@ zzzyk.com###Tinfo
 ||cn.ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||cn6x.com^
 ||cna5.cc/skins/js/
+||cnaiuks.icu^
 ||cnalzlf.top^
 ||cnbd1.appmobile.cn^
 ||cnblogs.com/ajax/bigbanner/
@@ -17269,6 +17280,7 @@ zzzyk.com###Tinfo
 ||esgher.site^
 ||eslbahw.top^
 ||estcruden.biz^
+||estuary98.top^
 ||et3lc8yoe.com^
 ||etadult.com*/images/20
 ||etahub.com^
@@ -17370,6 +17382,7 @@ zzzyk.com###Tinfo
 ||f3k194f9i7.com^
 ||f4h123m89w.com^
 ||f53a.com^
+||f5g8ouidvf.com^
 ||f5nn75ozf.com^
 ||f6jd4k4xgo.com^
 ||f77j6t2b.com^
@@ -18713,7 +18726,7 @@ zzzyk.com###Tinfo
 ||hitime5.com/skin/css/*.js
 ||hizechizr.com^
 ||hjbqnwb.com^
-||hjfile.cn/analytics/site/TrackEvent.js404: Not Found404: Not Found
+||hjfile.cn/analytics/site/TrackEvent.js404: Not Found<html>
 ||hjgkr0g.xyz^
 ||hjjwxb.icu^
 ||hjkhxfh.360doc.cn^
@@ -21914,7 +21927,7 @@ zzzyk.com###Tinfo
 ||nnuc.cn^
 ||nnvx.cn^
 ||no1.168abc.net/upload/
-||nodejs.cn/_static/js/common.js
+||nodejs.cn/scripts/adsbygoogle.js
 ||nogff.top^
 ||nohcff.xyz^
 ||nongjitong.com/adm/
@@ -22429,6 +22442,7 @@ zzzyk.com###Tinfo
 ||pblwxn.icu^
 ||pbmp.ali213.net/js/
 ||pbtsjh.xyz^
+||pbuuzazvrw.com^
 ||pbwlwdzje.com^
 ||pc6.com/img/
 ||pc841.com/show/
@@ -24874,6 +24888,7 @@ zzzyk.com###Tinfo
 ||tvcnmti.top^
 ||tvdpebx.cn^
 ||tvgkatu.icu^
+||tvlmzx.icu^
 ||tvqagropu.com^
 ||tvqmgheb.com^
 ||tvrshv.xyz^
@@ -27150,6 +27165,7 @@ zzzyk.com###Tinfo
 ||z2.fakutownee.cn^
 ||z2ke56999.com^
 ||z2ubj8bpk.com^
+||z2uyyp069d.com^
 ||z3yfkdjd.icu^
 ||z4a.net/images/*/960-60.
 ||z4a.net^$domain=aotu43.com|9xav.cc
