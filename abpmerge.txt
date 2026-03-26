@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-26 08:43:04
-! Total count: 27675
+! Version: 2026-03-26 16:52:31
+! Total count: 27681
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17011,6 +17011,7 @@ zzzyk.com###Tinfo
 ||e3c7.com/love/
 ||e3ol.com/inc/
 ||e49.xyz^
+||e4iwtfza99.com^
 ||e4jdb7k8j.com^
 ||e59x4phq3a.com^
 ||e5nnk.com^
@@ -17934,6 +17935,7 @@ zzzyk.com###Tinfo
 ||gexing.com/j/??zmask.js,easing.js?
 ||gexq.cn^
 ||geziyd.com^
+||gf6axe5bdb.com^
 ||gfan.com/press/
 ||gfbdb1.com^
 ||gfh9j4wyub.com^
@@ -20534,6 +20536,7 @@ zzzyk.com###Tinfo
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
 ||layuion.com/get/showcase/
 ||lb5o9.com^
+||lbhs95fqkd.com^
 ||lbjupq.top^
 ||lbnqnp.xyz^
 ||lbprjdi.cn^
@@ -22992,6 +22995,7 @@ zzzyk.com###Tinfo
 ||qingkong.net/skin/htcs/images/980.jpg
 ||qingsedhh.com/images/gg.gif
 ||qingxinwx.*/static/xbiquge/js/wap.
+||qirloith.com^
 ||qirqritp.com^
 ||qishula.com/css/ding.js
 ||qishula.com/css/wap.
@@ -25124,6 +25128,7 @@ zzzyk.com###Tinfo
 ||uiteligularly.fun^
 ||uivc.cn^
 ||uj2h8xm8w.com^
+||ujfyzxfc01.com^
 ||ujgf120.com^
 ||ujhu.cn^
 ||ujnkn.com^
@@ -26938,6 +26943,7 @@ zzzyk.com###Tinfo
 ||yncjsc.cn^
 ||ynfxxbp.xyz^
 ||ynkunarlg.com^
+||ynpkjip43x.com^
 ||ynslvyou.com^
 ||ynzhby.com^
 ||ynztzh.com^$3p
