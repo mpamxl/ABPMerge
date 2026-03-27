@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-27 08:40:26
-! Total count: 27690
+! Version: 2026-03-27 16:42:31
+! Total count: 27695
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13222,6 +13222,7 @@ zzzyk.com###Tinfo
 ||5wl8x.xyz^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
+||5xvtbbvb6.com^
 ||5y9nfpes.52pk.com^
 ||5yahh8v3.xyz^
 ||5yc8ui0n3j.com^
@@ -13693,6 +13694,7 @@ zzzyk.com###Tinfo
 ||9e0917xf7x.com^
 ||9ez.me/embd.php?type=
 ||9f0usaep8c.com^
+||9fcoh811c.com^
 ||9fgh98k.com^
 ||9fum.ifeng.com^
 ||9fwz.com^
@@ -13901,6 +13903,7 @@ zzzyk.com###Tinfo
 ||abds.pingpingw.com^
 ||abenshishabi.com^
 ||abernc.xyz^
+||abgcrap.icu^
 ||abmedia.io/*/pum/
 ||abminbuy.com/*.mp4$media,redirect=noop-1s.mp4
 ||abminbuy.com/789.
@@ -14779,6 +14782,7 @@ zzzyk.com###Tinfo
 ||bace10.top^
 ||bachashuku.cc/scripts/ad/
 ||backchina.com/banners/
+||bad.news/images/ad/
 ||bad.news/scripts?
 ||bad996.com/dakaads.js
 ||badmintoncn.com/cbo_include/js/cboaaa.js
@@ -25383,6 +25387,7 @@ zzzyk.com###Tinfo
 ||vast.doublemax.net/adserver/vast.xml$script,xhr,other,redirect=noopvast-2.0
 ||vasz.cn^
 ||vaudeville44.top^
+||vauu8z77p.com^
 ||vaxgyly.cn^
 ||vbc08091op.com^
 ||vbc08100op.com^
