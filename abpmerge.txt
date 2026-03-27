@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-26 16:52:31
-! Total count: 27681
+! Version: 2026-03-27 08:40:26
+! Total count: 27690
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9809,6 +9809,7 @@ nodejs.cn##+js(set-constant, adRender, noopFunc)
 nodejs.cn##+js(set-constant, adsbygoogle, {})
 nodejs.cn##+js(set-constant, adsbygoogle.loaded, true)
 nodejs.cn##.mymn-banner
+nodejs.cn##a[href*="crmeb.net"]
 nodeloc.com###wghtml
 nodeloc.com##.AfruxWidgets-sideNavAlt
 nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
@@ -12567,6 +12568,7 @@ zzzyk.com###Tinfo
 ||1l1.cc^
 ||1l27pkxp5w.com^
 ||1lqw75ogo.com^
+||1m5bj2707.com^
 ||1mb71rr5oo.com^
 ||1n4vrzxdms.com^
 ||1nevsf92q.com^
@@ -13000,6 +13002,7 @@ zzzyk.com###Tinfo
 ||4wym8gups.com^
 ||4xdma060ad.com^
 ||4xicd08qs.com^
+||4yduy53ik.com^
 ||4yl3e3fmv.com^
 ||4z50jczq2.com^
 ||4zm6p17ppr.com^
@@ -13445,6 +13448,7 @@ zzzyk.com###Tinfo
 ||7strqfn56s.com^
 ||7tshsz6k1.com^
 ||7u4b8l1zt.com^
+||7u7jwonbf.com^
 ||7usgqu07mk.com^
 ||7wzx9.com/tbad.
 ||7x7n.com/static/image/888.jpg
@@ -16616,6 +16620,7 @@ zzzyk.com###Tinfo
 ||dikmnhyxz.xyz^
 ||dilmcrybf.com^
 ||dimtown.com/adimg/
+||dinatoikw.com^
 ||ding.cxzudwk.com^
 ||dingbu.bj.bcebos.com^
 ||dingdangsheji.com^*/%E5%9B%BE%E6%80%AA%E5%85%BD
@@ -22859,6 +22864,7 @@ zzzyk.com###Tinfo
 ||pzjizsyf.icu^
 ||pzkrgcp.cn^
 ||pznnvt.top^
+||pzpcbt.icu^
 ||pzq7ilwvv.com^
 ||pzqqstb.icu^
 ||pztnzqwz.icu^
@@ -23293,6 +23299,7 @@ zzzyk.com###Tinfo
 ||rarbt.cc/js/index960_
 ||raspberry55o.com^
 ||ratedxbiz.com/d/
+||raurread.com^
 ||razrzh.xyz^
 ||rb51rh02h.com^
 ||rbbko.com^
@@ -23454,6 +23461,7 @@ zzzyk.com###Tinfo
 ||rkzby.cn^
 ||rl1vypwyd2.com^
 ||rlavvoeo.com^
+||rlhhlp.icu^
 ||rliwiqr.icu^
 ||rljjt.cn^
 ||rlkx.cn^
@@ -25770,6 +25778,7 @@ zzzyk.com###Tinfo
 ||warthog4.top^
 ||wasabii.com.tw/float/*.js
 ||wasaidailian.com^
+||waterfall33.com^
 ||waterfall90.top^
 ||waulzelnvh.com^
 ||wazqifq.com^
