@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-27 16:42:31
-! Total count: 27695
+! Version: 2026-03-28 08:27:55
+! Total count: 27706
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9620,7 +9620,7 @@ mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 mydrivers.com##div[style="margin: auto;width: 800px;padding: 10px 0;"]
 mydrivers.com##div[style="text-align: center;margin-top: 10px;"]
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
-mydrivers.com##li:has(>.titl+:contains(好物))
+mydrivers.com##li:has(>.titl+:contains(/好\s*物/))
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
 myexception.cn##.c_a_3
 myexception.cn##.m_a
@@ -14775,6 +14775,7 @@ zzzyk.com###Tinfo
 ||b82q168jgj.com^
 ||b8b4ix7bj.com^
 ||b8mnb9ke9z.com^
+||b8o9c4s42l.com^
 ||b9b2oe8720j.xyz^
 ||b9jda4zig.com^
 ||baby-kingdom.com/reqsads?
@@ -15636,6 +15637,7 @@ zzzyk.com###Tinfo
 ||cat.da.us.criteo.com^
 ||catalysis39.top^
 ||cataract40.com^
+||cataract77.top^
 ||catbox.moe/bb5wdv.jpg
 ||catherineagnesmj.com^
 ||cautious60.com^
@@ -16640,6 +16642,7 @@ zzzyk.com###Tinfo
 ||dioguitar23.*/images/*.gif
 ||dioimg.net/images/*.gif
 ||dioimg.net^$domain=18board.com|18board.net|18p2p.com
+||diouidlf98.com^
 ||diouy9cvtx.xyz^
 ||discards55.com^
 ||discount63.top^
@@ -17386,6 +17389,7 @@ zzzyk.com###Tinfo
 ||f11.hackhome.com^
 ||f17hdccbws.com^
 ||f1tfmxzg.icu^
+||f20hgvkx7r.com^
 ||f20r1b13iw.com^
 ||f23jjd8.xyz^
 ||f2dsex1.com/public/fb*.png
@@ -17822,6 +17826,7 @@ zzzyk.com###Tinfo
 ||g4yk4cyyw.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
+||g6x2uvza37.com^
 ||g7htk7ls7.com^
 ||g8hi6r3odr.com^
 ||g8ygkqhm9p.com^
@@ -18370,6 +18375,7 @@ zzzyk.com###Tinfo
 ||gvbhae0.com^
 ||gvje.cn^
 ||gvodieta.com^
+||gvrugeri.com^
 ||gw1jvhs.com^
 ||gw7jpuouik.com^
 ||gwbb1p2t9s.com^
@@ -19627,6 +19633,7 @@ zzzyk.com###Tinfo
 ||j4s12kfavg.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
+||j6gi9jgjpb.com^
 ||j6zh4g0.cn^
 ||j7ifivzy.icu^
 ||j7kv55pr70.com^
@@ -22692,6 +22699,7 @@ zzzyk.com###Tinfo
 ||poasotha.com^
 ||poco.cn/v1_1/rank/get_floating_layer_ad
 ||poco.cn^*_info_banner
+||podcxz.icu^
 ||poereawer.top^
 ||pogwua.cn^
 ||pohpll.xyz^
@@ -25410,6 +25418,7 @@ zzzyk.com###Tinfo
 ||vbw3q6jxn.com^
 ||vcaqexl.com^
 ||vcjzjnef.icu^
+||vclunl.icu^
 ||vcvbnmto.xyz^
 ||vcydyzd.icu^
 ||vcz9kuhac.com^
@@ -26355,6 +26364,7 @@ zzzyk.com###Tinfo
 ||xg8mbvu3x8.com^
 ||xggdrks.icu^
 ||xghylt.com/api.php?mod=ad&adid=
+||xgilfhwxre.com^
 ||xgsvpsz7f4.com^
 ||xgzdys.com^
 ||xh04i9ine.com^
@@ -26994,6 +27004,7 @@ zzzyk.com###Tinfo
 ||youzhan.org/img/aliyun-
 ||yp0loy5lcl.com^
 ||yp868.com/js/54h/
+||ypirlqn.icu^
 ||yptqys.tianqistatic.com^
 ||ypyr.cn^
 ||ypzps.com^
