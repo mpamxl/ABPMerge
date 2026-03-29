@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-29 08:29:52
-! Total count: 27719
+! Version: 2026-03-29 16:24:49
+! Total count: 27723
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10156,6 +10156,7 @@ portablesoft.org##.downcenter
 portablesoft.org##.rightside > :nth-child(n+2)
 portablesoft.org##.sidebar-box
 portablesoft.org##.sidebar-widget:first-child
+post.smzdm.com##.side-eleven-activity
 power.baidu.com,www.baidu.com,zhidao.baidu.com##style[id*="s-m"] + div[id^="m"]
 power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
 pp.ua###id_ad_image
@@ -21317,6 +21318,7 @@ zzzyk.com###Tinfo
 ||mhdnspro.com^
 ||mhgu.cn^
 ||mhhanman.xyz/data/my/myjs.js
+||mhittahqa.com^
 ||mhmciof8ef.com^
 ||mhoccoirq.com^
 ||mhoiia.icu^
@@ -21916,6 +21918,7 @@ zzzyk.com###Tinfo
 ||njhlvz.icu^
 ||njogejt.icu^
 ||njpilt.icu^
+||njri9gn72.com^
 ||njtprv.xyz^
 ||njupt-sacc.com^
 ||njxzwh.com/pcsoft/statics/ycgg/
@@ -26949,6 +26952,7 @@ zzzyk.com###Tinfo
 ||yk-ssp.ad.youku.com^
 ||ykad-data.youku.com^
 ||ykcjxvg.cn^
+||ykfqztvfj.com^
 ||yki9xpcuc.com^
 ||ykkbwdf.cn^
 ||yklfg.cn^
