@@ -3544,6 +3544,7 @@ cam4.tw###newTippingViewer + div[data-ab]
 cam4.tw##.hbanner
 cam4.tw##.subfoot-section
 camerabay.tv##.popupad
+candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
 cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 cangku.moe##.slider
 cankaoxiaoxi.com###qihupic
@@ -3815,6 +3816,7 @@ cn-healthcare.com##.fh_advent_wrap
 cn.bing.com###b_results > li:has(.b_adProvider)
 cn.bing.com##.b_bza_pole
 cna.com.tw##.ad_336_2
+cna.com.tw##.advertiseTopArticlePad
 cna.com.tw##.fb_fanpage_inpage > .other_news_box_2:style(padding: 0 0px!important; margin: 26px 0!important;)
 cna.com.tw,ettoday.net##.ad_970
 cnbeta.com.tw##.article-global
@@ -8814,7 +8816,6 @@ up01.cc###popad
 up01.cc##div[style="position:fixed;width:468px;left: 50%;transform:translate(-50%,0);height:60px;background:#fff;bottom:0px;text-align:center;z-index:9"]
 upmedia.mg###divider_ad
 upsangel.com##a[href="https://upsangel.com/check/surfsharkvpn/"]
-uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
 user.qzone.qq.com###qz_notification
 user.qzone.qq.com##.f-single-biz
 user.qzone.qq.com##div[id^="fct_20050606_"]
