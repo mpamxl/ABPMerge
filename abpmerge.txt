@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-29 16:24:49
-! Total count: 27723
+! Version: 2026-03-30 09:02:36
+! Total count: 27734
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13158,6 +13158,7 @@ zzzyk.com###Tinfo
 ||5azvpjx8xj.com^
 ||5b025cnm.top^
 ||5b0a1c63v9.com^
+||5bayjqsrgd.com^
 ||5bess6df0.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
@@ -18631,6 +18632,7 @@ zzzyk.com###Tinfo
 ||heioa.xyz^
 ||heipa666.xyz/hp/
 ||heirui.cn/static/hb_
+||heiw99ovji.com^
 ||heiye.cc/js/bancity.
 ||heiye.cc/js/bf.js
 ||heiye.cc/js/hei
@@ -19389,6 +19391,7 @@ zzzyk.com###Tinfo
 ||imjtv.cc^$third-party
 ||immaterial79.com^
 ||immediate49.com^
+||immunity44.com^
 ||imnks.com/ad2023/$image
 ||imooc.com/open/courselistrandjs
 ||imp.zol.com.cn^
@@ -20302,6 +20305,7 @@ zzzyk.com###Tinfo
 ||kjvaqbyebqarl.top^
 ||kk3fefl2b3.com^
 ||kkbnzz.cn^
+||kkh3e6ylwt.com^
 ||kkisoo.com^
 ||kkjshsj.com^
 ||kkkkdm.com/js/comic-
@@ -21508,6 +21512,7 @@ zzzyk.com###Tinfo
 ||mps.wenkuzu.com^
 ||mputq031w.com^
 ||mq54k4yxpt.com^
+||mqaae0c7m1.com^
 ||mql5.com/rq?
 ||mqndhoceat.com^
 ||mqondrun.com^
@@ -23582,6 +23587,7 @@ zzzyk.com###Tinfo
 ||ruyig.com/730x76.png
 ||ruziecoraz.com^
 ||rvbztg.cn^
+||rvdkjn.icu^
 ||rvkhazel.com^
 ||rvlgrb.xyz^
 ||rvr3psha.xyz^
@@ -24615,6 +24621,7 @@ zzzyk.com###Tinfo
 ||throlnod.com^
 ||throxul.com^
 ||thumbb86.com^
+||thvptb.icu^
 ||thvx9i.icu^
 ||thztv.*/tool/
 ||tiandesign.top^
@@ -25098,6 +25105,7 @@ zzzyk.com###Tinfo
 ||udcm.yahoo.com^
 ||udd1i5.zhihu.com^
 ||udeztrb.cn^
+||udghekzitv.com^
 ||udiab1.jianshu.com^
 ||udn.com.tw/upf/*_banners/BD/
 ||udn.com.tw/upf/*_banners/BD/$3p
@@ -25279,6 +25287,7 @@ zzzyk.com###Tinfo
 ||usgo.chucaotang.net/ua.js
 ||uslbaht.top^
 ||uslsxe.com^
+||usoxsak.icu^
 ||uspauline.com^
 ||usphfiona.com^
 ||usrzh.cn^
@@ -25613,6 +25622,7 @@ zzzyk.com###Tinfo
 ||voqf299p8.com^
 ||vorluic.cn^
 ||vowellm4.com^
+||vpeebbq.com^
 ||vplrvf.icu^
 ||vps234.com/resources/images/hosting-promotion/
 ||vpsgu.cn^
@@ -26612,6 +26622,7 @@ zzzyk.com###Tinfo
 ||xqmd2dzzvh.com^
 ||xqoh.cn^
 ||xqtcpf.icu^
+||xr40kfkxeo.com^
 ||xrb0owc.icu^
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
