@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-03-30 16:46:47
-! Total count: 27738
+! Version: 2026-03-31 08:46:24
+! Total count: 27750
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12759,6 +12759,7 @@ zzzyk.com###Tinfo
 ||30qk5pvdh.com^
 ||315che.com/tree/ad.js
 ||31fq.com^$3p
+||31io8wshq.com^
 ||31vcd.com^*.js
 ||32.huanqiu.com^
 ||321.jintang114.org^
@@ -13224,6 +13225,7 @@ zzzyk.com###Tinfo
 ||5vuk.xyz^
 ||5w31xv1a2.com^
 ||5wl8x.xyz^
+||5wzew9jht.com^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
 ||5xvtbbvb6.com^
@@ -14769,6 +14771,7 @@ zzzyk.com###Tinfo
 ||b2xy4m.xyz^
 ||b4641y3dw.com^
 ||b477.life^$popup,3p
+||b4afsapz0.com^
 ||b4dg.life/love/
 ||b4g7k9d2.com^
 ||b59.xyz^
@@ -15413,6 +15416,7 @@ zzzyk.com###Tinfo
 ||btn.pchome.net^
 ||btpian.com/static/*960.js
 ||btpian.com/static/wenquan.js
+||btreelmulq.com^
 ||btschool.net/images/*/HDYGR
 ||btsvad8.com^
 ||bttazsyk.icu^
@@ -20415,6 +20419,7 @@ zzzyk.com###Tinfo
 ||kshuiz.top^
 ||kslbahd.top^
 ||ksqfwxu.cn^
+||ksr6uu1mk.com^
 ||ksro.cn^
 ||kssolo.com^
 ||kstj.baidu.com^
@@ -22807,6 +22812,7 @@ zzzyk.com###Tinfo
 ||ps123.net/MyFile/
 ||ps557.com/link/
 ||ps886.us/js/*.js
+||psa1xoeve.com^
 ||pstatp.com/growth/fe_sdk/bannersdk
 ||pstatp.com/origin/1381500009611bc201d61
 ||pstatp.com/origin/13816000374e83a453717.jpg
@@ -23414,6 +23420,7 @@ zzzyk.com###Tinfo
 ||retrieval-bd.duote.com^
 ||reversible68.com^
 ||revk.cn^
+||revocation30.com^
 ||rewvfghoya.com^
 ||rf.cnlongshou.com^
 ||rf10b9mq8.com^
@@ -23488,6 +23495,7 @@ zzzyk.com###Tinfo
 ||rkjmhv2lvh.com^
 ||rkoi.cn^
 ||rkozoima.com^
+||rkrhfl.icu^
 ||rksnqq.com^
 ||rkxy.com.cn/js/text_
 ||rkzby.cn^
@@ -24367,6 +24375,7 @@ zzzyk.com###Tinfo
 ||svdpgmt.cn^
 ||svhk4bt874.com^
 ||svhw.cn^
+||svi7vnxcv.com^
 ||svnf.cn^
 ||svrj.cn^
 ||svvbrkk.cn^
@@ -24745,6 +24754,7 @@ zzzyk.com###Tinfo
 ||tnjvz.cn^
 ||tns.simba.taobao.com^
 ||tnvkb6bcnf.com^
+||tnwotuqey.com^
 ||tnwuami.top^
 ||tnwucni.top^
 ||tnze.cn^
@@ -25129,6 +25139,7 @@ zzzyk.com###Tinfo
 ||uebohjhh.xyz^
 ||uejdsw.com^
 ||uektedsni.com^
+||uemurnl.com^
 ||uenqeotul.com^
 ||ueqo.cn^
 ||ueqy.cn^
@@ -26752,6 +26763,7 @@ zzzyk.com###Tinfo
 ||xylophone37.com^
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
+||xyzcvx.icu^
 ||xzji.com/data/block_js/softShow_
 ||xzkumjdqj.com^
 ||xzvhyx.com^
