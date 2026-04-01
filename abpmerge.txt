@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-01 08:53:48
-! Total count: 27760
+! Version: 2026-04-01 16:43:29
+! Total count: 27766
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11388,7 +11388,7 @@ vansky.com##.liAds
 vansky.com##.safari_pop
 vansky.com##.scol-banner
 vansky.com##.top-ad-link
-verb.tw##.adsbox.ad-placement.ad-banner.textad.sponsorad:style(display: block !important;)
+verb.tw##.adsbygoogle.ad-slot.ad-banner.textads.banner-ads:style(display: block !important;)
 vgtime.com##.vgart_top
 vgtime.com##.vgart_top > img
 vid.onlymu.site##.tips
@@ -12249,6 +12249,7 @@ zzzyk.com###Tinfo
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
 ||0er7pc8.xyz^
+||0etmx4b4o.com^
 ||0fs6pe6w0j.com^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
@@ -12641,6 +12642,7 @@ zzzyk.com###Tinfo
 ||22588888.com^$popup
 ||22eo9qlbpt.com^
 ||22pixx.xyz/l/
+||22vie9ula.com^
 ||23.224.89.2^$3p
 ||23.231.151.252^
 ||2324av.com/zz/
@@ -12684,6 +12686,7 @@ zzzyk.com###Tinfo
 ||25662zubo23739.com^
 ||256856.com/fei-ad/
 ||258zw.com^$3p
+||25rpllbbg.com^
 ||268de.com/js/
 ||26gg.bnq86.com^$3p
 ||26yj3wme9q.com^
@@ -19026,6 +19029,7 @@ zzzyk.com###Tinfo
 ||hur05121kns.com^
 ||hur05130kns.com^
 ||hushenqiquan.com^
+||huwgjgf.icu^
 ||huya.com*/cache1min.
 ||huya.com/leaf/*=vodadv&$redirect=noop-0.1s.mp3,domain=huya.com,media
 ||huyaimg.msstatic.com/cdnimage/roomad/
@@ -20345,6 +20349,7 @@ zzzyk.com###Tinfo
 ||klvt.cn^
 ||kmbopoie.com^
 ||kmcjai.icu^
+||kmdjdu5cc.com^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
 ||kmhnk00.com^
@@ -22850,6 +22855,7 @@ zzzyk.com###Tinfo
 ||public.gdtimg.com^
 ||public.wlbaike.com^
 ||pudtyek.com^
+||pudyrxxaq.com^
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 ||pufei8.com/skin/t6.html
