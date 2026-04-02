@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-01 16:43:29
-! Total count: 27766
+! Version: 2026-04-02 08:44:37
+! Total count: 27774
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12744,6 +12744,7 @@ zzzyk.com###Tinfo
 ||2rwonuh.com^
 ||2u1h56851n.top^
 ||2u3v4w5x6y.com^
+||2vcb9onxjm.com^
 ||2vqgtxw.cn^
 ||2wgolxk.com^
 ||2wq9u06jq.com^
@@ -13367,6 +13368,7 @@ zzzyk.com###Tinfo
 ||72xh073u9.com^
 ||732quilulv.com^
 ||73336zubo25326.com^
+||73vzmvg2bi.com^
 ||75.125.41.29:8080/
 ||75b9dfiyb.com^
 ||75ossyemu.com^
@@ -16768,6 +16770,7 @@ zzzyk.com###Tinfo
 ||dngz.net/x/
 ||dnightwish.xyz^
 ||dnjxds.top^
+||dnminullwq.com^
 ||dnnxq2b16.com^
 ||dnokacraldho.com^
 ||dnpz123.com^$3p
@@ -20797,6 +20800,7 @@ zzzyk.com###Tinfo
 ||llbquucai.com^
 ||llj22.com/1.gif
 ||llksja.com^
+||lllencim.com^
 ||llmb.cn^
 ||llpuhx.xyz^
 ||lls11050ko.com^
@@ -22109,6 +22113,7 @@ zzzyk.com###Tinfo
 ||o03fssif8l.com^
 ||o0rnzwzst5.com^
 ||o1.jyjyj.cn^
+||o1fhfeu6qa.com^
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
 ||o2x4h2txrc.com^
@@ -22532,6 +22537,7 @@ zzzyk.com###Tinfo
 ||pdrerzug.com^
 ||pdrtcgfx.cn^
 ||pdrv.cn^
+||pdtffl.icu^
 ||pdweigee.com^
 ||pdxdxl.xyz^
 ||pdxubxc.cn^
@@ -23427,6 +23433,7 @@ zzzyk.com###Tinfo
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.taotu.org/adimages/
 ||res.vps234.com/resources/images/hosting-promotion/
+||rescission77.top^
 ||reservation35.top^
 ||resource.baomihua.com^
 ||restorationbowelsunflower.com^
@@ -23551,6 +23558,7 @@ zzzyk.com###Tinfo
 ||rpox.cn^
 ||rppihz.xyz^
 ||rptdhu.top^
+||rpvkpz.icu^
 ||rpvqhicca.com^
 ||rpyor0k.xyz^
 ||rqxtbr.xyz^
