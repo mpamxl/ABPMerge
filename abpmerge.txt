@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-03 08:41:27
-! Total count: 27788
+! Version: 2026-04-03 16:29:15
+! Total count: 27794
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12411,6 +12411,7 @@ zzzyk.com###Tinfo
 ||127.net/external/js6public163_
 ||12img.com/ad/
 ||12ybs41sa.com^
+||12ypksztq.com^
 ||131458.com/union/
 ||1328f.com/js/jquery.js
 ||1342a.com/js/jquery.js
@@ -15656,6 +15657,7 @@ zzzyk.com###Tinfo
 ||cartoon18.com/images/friend/
 ||casisi118.vip^
 ||casserole59.top^
+||castatic.fengkongcloud.cn/pr/
 ||cat.da.us.criteo.com^
 ||catalysis39.top^
 ||cataract40.com^
@@ -15726,6 +15728,7 @@ zzzyk.com###Tinfo
 ||cdn.itphanpytor.club^
 ||cdn.jquery-cdn.cc^
 ||cdn.ping0.cc/images/ax/*.gif$~3p
+||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=m.yichengwlkj.com
 ||cdn.shdsp.net/ad
 ||cdn.uameta.ai/file/bucket-media/image/advertisement/
 ||cdn.vidcrunch.com/integrations/*_Responsive_Floating_DFP_$domain=discuss.com.hk
@@ -21101,6 +21104,7 @@ zzzyk.com###Tinfo
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m.ygexing.com/d/js/acmsd
 ||m.yhdm.so/bar/yfgg.js
+||m.yichengwlkj.com/ssp_ad_sdk.js
 ||m.yinghuacd.com/bar
 ||m.ysxs8.com/js/content_db.js
 ||m03dv.xyz^
@@ -21780,6 +21784,7 @@ zzzyk.com###Tinfo
 ||ncjqjp.icu^
 ||ncmxwhf.icu^
 ||ncnfjasd.net^
+||ncnwmwomz.com^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndatzo.cn^
 ||ndbaxn.xyz^
@@ -22259,6 +22264,7 @@ zzzyk.com###Tinfo
 ||olpv.cn^
 ||olpv.onlylady.com^
 ||om.cn/api/ad-om/
+||om1aq1t27.com^
 ||omelette12.top^
 ||omes-sec.heytapmobi.com^
 ||omgid.qq.com^
