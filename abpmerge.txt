@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-04 08:30:04
-! Total count: 27806
+! Version: 2026-04-04 16:24:01
+! Total count: 27812
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1182,6 +1182,7 @@
 ##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
 ##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
+##[style='display: block; width: 100%; height: 127px; background-size: 100% 100%;']
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
 ##[style='position:absolute !important;padding:0px !important;margin:0px !important;width:100% !important;font-size:0px !important;line-height:0px !important;']
 ##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
@@ -7173,6 +7174,7 @@ facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 facemood.grtimed.com##.promote-img-wrap
 familydoctor.com.cn##.adExtra
 familydoctor.com.cn##.global-top-links-wrap
+familydoctor.com.cn##IFRAME[width='400']
 fang.com###xmlAd
 fang.com##.bannger_inbox
 fang.com,soufun.com##.add1200
@@ -16896,6 +16898,7 @@ zzzyk.com###Tinfo
 ||dryvoa.cn^
 ||ds.ruanwengfa.com^
 ||ds1.kaijia.com^
+||ds8k3y2d5n.com^
 ||dsbjdeh.cn^
 ||dsbt7.com^
 ||dsdklnks.com^
@@ -19102,6 +19105,7 @@ zzzyk.com###Tinfo
 ||i.cidianwang.com^
 ||i.flive.ifeng.com/baidu_*.html?parentId=frondAd_
 ||i.imgur.com^$domain=av.movie
+||i06s7yrhn1.com^
 ||i0y0i9vz0.com^
 ||i100.cao-gao.xyz/aimgs/
 ||i12het785.com^
@@ -24115,6 +24119,7 @@ zzzyk.com###Tinfo
 ||snlyplsoli.com^
 ||snmi.cn^$3p
 ||snowman77.com^
+||sntcbhv.com^
 ||snwuamb.top^
 ||snwucnb.top^
 ||snxyf.com^$3p
@@ -25211,6 +25216,7 @@ zzzyk.com###Tinfo
 ||ufvauj.cn^
 ||ufxs.cn^
 ||ug.snssdk.com^
+||ug54oqjpqq.com^
 ||ugbjqwe.com^
 ||uggrianvo.com^
 ||ugheqrikui.com^
