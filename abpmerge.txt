@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-03 16:29:15
-! Total count: 27794
+! Version: 2026-04-04 08:30:04
+! Total count: 27806
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1178,6 +1178,7 @@
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
 ##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
+##[style*='width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
 ##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
 ##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
@@ -12559,6 +12560,7 @@ zzzyk.com###Tinfo
 ||1gqd0o687z.com^
 ||1hhwyb4vl.com^
 ||1hmklj60i.com^
+||1hotu9uyll.com^
 ||1iuh5l.com^
 ||1iuybpo.com^
 ||1jc5t.xyz^
@@ -17492,6 +17494,7 @@ zzzyk.com###Tinfo
 ||faxingw.cn/js/detailgcbox.js
 ||fb2newr2nm.com^
 ||fbhorutgy.com^
+||fbolloiwd.com^
 ||fbraaphra.com^
 ||fbtacriikh.com^
 ||fc.3dmgame.com^
@@ -19108,6 +19111,7 @@ zzzyk.com###Tinfo
 ||i2ye9dnle.com^
 ||i322.com/ad_avshow/
 ||i3j6h7j9cj.com^
+||i3l7wf.com^
 ||i3z.cn^$3p
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i4320rdrta.com^
@@ -20452,6 +20456,7 @@ zzzyk.com###Tinfo
 ||ktdlsb.com^
 ||ktfmk4utug.com^
 ||ktgpgoa.top^
+||kthul22k2z.com^
 ||ktienld.top^
 ||ktzhk.com/file/adv/
 ||kuaicad.com/rest/common/getConfigureByName?
@@ -20963,6 +20968,7 @@ zzzyk.com###Tinfo
 ||ltn.com.tw/js/ad_door.js
 ||ltrb.cn^
 ||ltrs8bv54p.com^
+||ltruhowa.com^
 ||ltsubzgmw.xyz^
 ||ltuzz346m.com^
 ||lu.sogou.com^
@@ -21396,6 +21402,7 @@ zzzyk.com###Tinfo
 ||minixiazai.com/others/all_soft.js
 ||minixiazai.com/statics/js/soft/index.js
 ||miniye.xjts.cn^
+||minutes20.com^
 ||mipcdn.com/c/s/by.manhuachi.com
 ||mipcdn.com^*/mip-*ad-
 ||mipcdn.com^*/mip-*ad.
@@ -22073,6 +22080,7 @@ zzzyk.com###Tinfo
 ||nwholf.icu^
 ||nwq7zxf6jt.com^
 ||nws5ay4cr2.com^
+||nwtg5ywz2j.com^
 ||nwxs5.com/js/
 ||nx2jt4p4r.com^
 ||nx2ucbzw1.com^
@@ -22857,6 +22865,7 @@ zzzyk.com###Tinfo
 ||ptfxh.com^
 ||ptga.cn^
 ||ptgdb.cn^
+||pthaktierl.com^
 ||pthrumeath.com^
 ||ptju.cn^
 ||ptmabek.cn^
@@ -25020,6 +25029,7 @@ zzzyk.com###Tinfo
 ||two.fsylr.com^
 ||twrank.com^$3p
 ||twunbbs.com/images/
+||twvsdn.icu^
 ||twww.sbs^
 ||twzadf.xyz^
 ||twzui6.com^
@@ -25596,6 +25606,7 @@ zzzyk.com###Tinfo
 ||vigyn4gpx.com^
 ||vihppjk.cn^
 ||vijnhyru.xyz^
+||vinanb.icu^
 ||vinoinqih.com^
 ||vinsgcs.com^
 ||violetop33.top^
@@ -27379,6 +27390,7 @@ zzzyk.com###Tinfo
 ||zdfl.xyz^
 ||zdftqc.xyz^
 ||zdg-bend.xyz^
+||zdg2g7v5xe.com^
 ||zdgbend.buzz^
 ||zdh10230lo.com^
 ||zdh10231lo.com^
