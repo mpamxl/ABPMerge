@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-05 08:32:58
-! Total count: 27819
+! Version: 2026-04-05 16:25:31
+! Total count: 27825
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12740,6 +12740,7 @@ zzzyk.com###Tinfo
 ||2ld8mx979a.com^
 ||2lj9n8sz0w.com^
 ||2lzg9mqzw.com^
+||2nl6sgd9c.com^
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2osq127yy.com^
@@ -19268,6 +19269,7 @@ zzzyk.com###Tinfo
 ||ihclam.cn^
 ||ihgm.cn^
 ||ihhmh.com/mg/show
+||ihhuyvugv.com^
 ||ihtqqws.cn^
 ||ihwdun.xyz^
 ||ii.joqtfa.cn^
@@ -21550,6 +21552,7 @@ zzzyk.com###Tinfo
 ||mp4ba.com^*/js/head.js
 ||mp4ba.net/static/js/mp4ba.js
 ||mp65va7y1.com^
+||mp7sblfkx.com^
 ||mp83fkx.cn^
 ||mp999.net/wp-content/uploads/*zgg
 ||mpb1.iteye.com^
@@ -21870,6 +21873,7 @@ zzzyk.com###Tinfo
 ||nfmovies.com/pic/tu/banner
 ||nfmovies.com/static/*.jpg
 ||nfmovies.com/static/210203.png
+||nfrvficeao.com^
 ||nftfdj.icu^
 ||nftjjw.com^
 ||nftxfd.top^
@@ -25223,6 +25227,7 @@ zzzyk.com###Tinfo
 ||ufvauj.cn^
 ||ufxs.cn^
 ||ug.snssdk.com^
+||ug4x1tagz.com^
 ||ug54oqjpqq.com^
 ||ugbjqwe.com^
 ||uggrianvo.com^
@@ -26327,6 +26332,7 @@ zzzyk.com###Tinfo
 ||wwzw.cc/img/
 ||wx.sina.com.cn/iframe/pdps/
 ||wx.uc.downcdn.top^
+||wx6hczwhh.com^
 ||wxc.cc/scripts/gg.
 ||wxddid.cn^
 ||wxdqgmr.cn^
