@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-04 16:24:01
-! Total count: 27812
+! Version: 2026-04-05 08:32:58
+! Total count: 27819
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15244,6 +15244,7 @@ zzzyk.com###Tinfo
 ||biz.weibo.com^
 ||bj1.118pan.com^
 ||bj5iodzgyi.com^
+||bj9zvb5ih.com^
 ||bjcathay.com/s?z=
 ||bjfsk.xyz^
 ||bjhockey.org/public/pc/video/test.mp4
@@ -16361,6 +16362,7 @@ zzzyk.com###Tinfo
 ||d5.sina.com.cn^$object,script
 ||d56p.com/love/
 ||d5xogy0qi.com^
+||d5zkrmttu.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d6gsujd8v.com^
@@ -17836,6 +17838,7 @@ zzzyk.com###Tinfo
 ||fznidd.top^
 ||fzpchome.com/txt/$script
 ||fzruzulad.com^
+||fzu7rg.site^
 ||fzxiaoshuo.com/source/
 ||g-years.com/gy/
 ||g-years.com/tb/
@@ -20156,6 +20159,7 @@ zzzyk.com###Tinfo
 ||jygdb.com^
 ||jygiizv.icu^
 ||jyhlo0.com^
+||jyiwnb82b.com^
 ||jynthelon.com^
 ||jynv.cn^
 ||jyqkijp.icu^
@@ -20638,6 +20642,7 @@ zzzyk.com###Tinfo
 ||leektiylpi.com^
 ||leeleo.top^$3p
 ||legdeh.fun^
+||legislator85.top^
 ||legopq.site^
 ||leiphone.com/uploads/new/category/pic/*/740x140/
 ||leirerspfz.com^
@@ -23682,6 +23687,7 @@ zzzyk.com###Tinfo
 ||rzjdsm7tgz.com^
 ||rzkptd.com^
 ||rznscya.cn^
+||rzrnpx.icu^
 ||rzsgxmm.cn^
 ||rzxhrl.icu^
 ||s-msn.com/portal/xiatui.js
@@ -24780,6 +24786,7 @@ zzzyk.com###Tinfo
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlbjw.com^
 ||tljrvn.icu^
+||tljsxt.icu^
 ||tlprlf.xyz^
 ||tlq8ufqddj.com^
 ||tlsgq.cn^
