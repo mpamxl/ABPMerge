@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-06 09:00:13
-! Total count: 27834
+! Version: 2026-04-06 16:35:38
+! Total count: 27840
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17832,6 +17832,7 @@ zzzyk.com###Tinfo
 ||fy14.cn^
 ||fy1vifdn5.com^
 ||fygel9rtc.com^
+||fyosies.icu^
 ||fz55vq.site^
 ||fz94px.site^
 ||fzavvanz.com^
@@ -20554,6 +20555,7 @@ zzzyk.com###Tinfo
 ||l.qq.com/lview?
 ||l.ykimg.com^
 ||l0vij7q78.com^
+||l1bj5pxqzk.com^
 ||l235cj20z.com^
 ||l23jhjfasd.xyz^
 ||l2qdfaq62o.com^
@@ -21388,6 +21390,7 @@ zzzyk.com###Tinfo
 ||mi2zv8wiw0.com^
 ||mianbao99.com/a/mianbao
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
+||miaoshu6.com/static/js/read.
 ||miaozhen.com^
 ||miaozhen.com^$3p
 ||mias92zmaf.com^
@@ -22091,6 +22094,7 @@ zzzyk.com###Tinfo
 ||nuwurorwbr.com^
 ||nv0cl4nnq.com^
 ||nvbrfj.icu^
+||nvgst8gvjy.com^
 ||nvielkaa.com^
 ||nvsheng.com/js/gg.js
 ||nvxq.cn^
@@ -23586,6 +23590,7 @@ zzzyk.com###Tinfo
 ||rnhqxh.com^
 ||rnvwzd0t9.com^
 ||rnxhdv.icu^
+||rofnjd.icu^
 ||roj7ah16d.com^
 ||romiyee.icu^
 ||ronbbf.xyz^
@@ -24652,6 +24657,7 @@ zzzyk.com###Tinfo
 ||tgdlqeqpbh.com^
 ||tgdopodk.com^
 ||tgfyq.cn^
+||tggrurcutf.com^
 ||tggsd07.com^
 ||tghigvud.com^
 ||tgjxzf.top^
