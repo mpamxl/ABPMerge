@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-07 08:52:12
-! Total count: 27850
+! Version: 2026-04-07 16:45:18
+! Total count: 27855
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1581,6 +1581,7 @@ $websocket,domain=wap.yushuwu.cloud
 *$script,3p,domain=m.roushuwu.vip
 *$script,3p,xhr,domain=m.biquge700.com|biquge001.com
 *$script,xhr,3p,domain=m.1024txt.com
+*$script,xhr,3p,domain=m.niupizhi.net
 *$xhr,denyallow=ddxsmf.com|apps.bdimg.com|cdnsrc.asp.net,domain=ddxsmf.com
 *.lijie.*/*_*?$third-party
 */blsx_*_*_*?*$third-party
@@ -13567,6 +13568,7 @@ zzzyk.com###Tinfo
 ||8gp4wjq3.com^
 ||8gptk28oag.com^
 ||8h93.com^*.gif
+||8hx7k0211.com^
 ||8j7tu8vtxx.com^
 ||8jkx.com^
 ||8k69vb6421.com^
@@ -16553,6 +16555,7 @@ zzzyk.com###Tinfo
 ||destc10.icu^
 ||destc8.icu^
 ||device.fishmobi.com^
+||devll8j4n.com^
 ||dexinyi.cn^
 ||dexuanyu.top^
 ||deyangs.com/img/
@@ -21117,6 +21120,7 @@ zzzyk.com###Tinfo
 ||m.mianbao99.com/js/detail.js
 ||m.nanyangqiaoxiang.cn^$3p
 ||m.nereus.live^
+||m.niupizhi.net/lokedpgdjs
 ||m.pianba.tv/ad/
 ||m.pmtong.shop^
 ||m.q1xs.com/17mb/script/wap.js
@@ -23729,6 +23733,7 @@ zzzyk.com###Tinfo
 ||s.yimg.com/uv/dm/scripts/syndication.js
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
 ||s.zixuntop.com^
+||s00hv1jp8.com^
 ||s06g9qvr5.com^
 ||s0drxaq4v7.com^
 ||s0p6s02x28.com^
