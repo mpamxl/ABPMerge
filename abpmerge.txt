@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-07 16:45:18
-! Total count: 27855
+! Version: 2026-04-08 08:51:47
+! Total count: 27869
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -870,6 +870,7 @@
 ##A[href*=".com/?Agent="]
 ##A[href*='-fghgdf.com']
 ##A[href*='-fghhjj.com']
+##A[href*='.life/8888'][style='display: inline-block;']
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
 ##A[href*='aducx.com']
@@ -13343,6 +13344,7 @@ zzzyk.com###Tinfo
 ||6mdf9teiz.com^
 ||6mh8.com^
 ||6n528aywi9.com^
+||6o2k80jf8w.com^
 ||6o719vq4x.com^
 ||6ogiuks905.com^
 ||6p2g1kk03.com^
@@ -14956,6 +14958,7 @@ zzzyk.com###Tinfo
 ||baomitu.duapp.com/js/layer.js
 ||baphullpet.com^
 ||baqwo74y8.com^
+||barrister85.top^
 ||barscreative1.com^
 ||bas.boshi.tv^
 ||basically97.top^
@@ -17671,6 +17674,7 @@ zzzyk.com###Tinfo
 ||fkxs.net/tops/
 ||fl0hg5wlr.com^
 ||fl6n.com/adtop/
+||fl7i15bxzr.com^
 ||flagshipism.com^
 ||flash.cn/success/$popup
 ||flash.mycar168.com/data/js/
@@ -22128,6 +22132,7 @@ zzzyk.com###Tinfo
 ||nxu3l4c8u.com^
 ||nxwm44neo.com^
 ||nxxyjn.com^
+||ny2oqsu7et.com^
 ||ny70zesy5v.com^
 ||nyaa.*/static/js/ccheck.js
 ||nyahentai.pw/js/check_cat.js
@@ -22932,6 +22937,7 @@ zzzyk.com###Tinfo
 ||push.m.youku.com^
 ||pusherblight.com^
 ||putaoys.com/static/js/acb1.js
+||putmtmkfjbitxzlhijfc.top^
 ||putonghua520.com/skins/10ym/3jin.gif
 ||putonghua520.com/skins/10ym/baicai.gif
 ||puy2.cn^
@@ -23699,6 +23705,7 @@ zzzyk.com###Tinfo
 ||rxyggrq.cn^
 ||rxys.cn^
 ||rxzefz.icu^
+||ry7icaih0p.com^
 ||ryd626moj.com^
 ||rypebb.icu^
 ||rythtg.top^
@@ -24936,6 +24943,7 @@ zzzyk.com###Tinfo
 ||trerqekuw.com^
 ||trfmxf.xyz^
 ||trigminp.com^
+||trikahrta.com^
 ||tringrod.com^
 ||tristaspd.com^
 ||trjfoagf.icu^
@@ -25035,6 +25043,7 @@ zzzyk.com###Tinfo
 ||tvce.cn^
 ||tvcnmti.top^
 ||tvdpebx.cn^
+||tvfvxr.icu^
 ||tvgkatu.icu^
 ||tvlmzx.icu^
 ||tvqagropu.com^
@@ -25614,6 +25623,7 @@ zzzyk.com###Tinfo
 ||vhsutpgui.xyz^
 ||vhulan.com^
 ||vhutitpu.icu^
+||vhxahf.icu^
 ||vhxzfz.icu^
 ||vickyellend.com^
 ||victoriaelmae.com^
@@ -26496,6 +26506,7 @@ zzzyk.com###Tinfo
 ||xeynozl.icu^
 ||xfdlfj.icu^
 ||xfgctg.com^
+||xfidfuxidr.in^
 ||xflsj.com^
 ||xftsjv.top^
 ||xfvod.pro/images/ad/
@@ -26836,6 +26847,7 @@ zzzyk.com###Tinfo
 ||xxsmtz7.com^
 ||xxsmtz8.com^
 ||xxsmtz9.com^
+||xxss6677.com^
 ||xxsywxj.com^
 ||xxtalp.xyz^
 ||xxts11130zs.com^
@@ -27093,6 +27105,7 @@ zzzyk.com###Tinfo
 ||ykyfhxr.xyz^
 ||yl04z4v.cn^
 ||ylghac.icu^
+||ylr1xn2b4i.com^
 ||ylznwl.cn^
 ||ym3jmnu05.com^
 ||ymapiatm.xyz^
@@ -27640,6 +27653,7 @@ zzzyk.com###Tinfo
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjgfq.com^$3p
 ||zjjbtl.com^
+||zjjfmf9m3q.com^
 ||zjjhfc.com/js/zt.js
 ||zjklt4ei4.com^
 ||zjkssw.com^
