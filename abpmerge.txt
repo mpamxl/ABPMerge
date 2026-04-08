@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-08 08:51:47
-! Total count: 27869
+! Version: 2026-04-08 16:50:54
+! Total count: 27874
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14303,6 +14303,7 @@ zzzyk.com###Tinfo
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
 ||akcnkancklankl.com^
+||akcuqkr.com^
 ||akdie.xyz^
 ||akhirzaea.com^
 ||akmh074.vip^
@@ -18972,6 +18973,7 @@ zzzyk.com###Tinfo
 ||hsvtdj.top^$all
 ||hsvwvr.icu^
 ||hswfj.cn^
+||hswxsatk7x.com^
 ||hsyfcenter.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||ht9s1j1bf.com^
@@ -21627,6 +21629,7 @@ zzzyk.com###Tinfo
 ||mtienlx.top^
 ||mtiicw.icu^
 ||mtime.cn/tg/
+||mtjaiko.com^
 ||mtmvrulutr.com^
 ||mttpsy6666.cc^
 ||mtuvpoyfy.com^
@@ -22678,6 +22681,7 @@ zzzyk.com###Tinfo
 ||phputils.wc-os.com^
 ||phqew.cn^
 ||phue.cn^
+||phulkuhf.com^
 ||phuolhogmxin.com^
 ||phwv.cn^
 ||phx9cqla2.com^
@@ -25283,6 +25287,7 @@ zzzyk.com###Tinfo
 ||uimr.cn^
 ||uioozpxq.com^
 ||uiqouw.icu^
+||uiqyuydt9t.com^
 ||uiteligularly.fun^
 ||uivc.cn^
 ||uj2h8xm8w.com^
