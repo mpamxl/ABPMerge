@@ -5502,6 +5502,7 @@ huanqiu.com##.adindexList
 huanqiu.com##.itemAd
 huanqiu.com##.r-hqNext-ad
 huaren.live##.action-ad
+huaren.live##.pause-love
 huaren.live,huavod.com##+js(no-setTimeout-if, bait.offsetHeight===0)
 huaren.live,huavod.com#@#.ad_unit
 huaren.live,umbooks.com##+js(no-window-open-if)
