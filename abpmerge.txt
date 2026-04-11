@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-10 16:40:16
-! Total count: 27917
+! Version: 2026-04-11 08:31:51
+! Total count: 27923
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12256,6 +12256,7 @@ zzzyk.com###Tinfo
 ||096iokj.com^
 ||09jsufg.com^
 ||0a0atz2sh.top^
+||0a66kw9r8.com^
 ||0b4qu3nxa.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
@@ -22946,6 +22947,7 @@ zzzyk.com###Tinfo
 ||ptxcfn.icu^
 ||ptyw.yiche.com/ssp/
 ||ptzxed507.com^
+||pu3xxlqjr.com^
 ||puata.info^
 ||pub.funshion.com^
 ||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$xhr,redirect=noopvast-3.0,important
@@ -24362,6 +24364,7 @@ zzzyk.com###Tinfo
 ||ssyy881.com/zz/
 ||st-fly.b-cdn.net^
 ||stadig.ifeng.com^
+||staircase59.com^
 ||staitcfile.org^
 ||stamenbs4.com^
 ||stamina4.top^
@@ -25813,6 +25816,7 @@ zzzyk.com###Tinfo
 ||vrr.name^
 ||vrrm.cn^
 ||vrrw.net//templets/default/js/ad.js
+||vrtafd.icu^
 ||vruzexzl.com^
 ||vrzuhj.icu^
 ||vs1.exo01.xyz^$image,3p
@@ -26509,10 +26513,12 @@ zzzyk.com###Tinfo
 ||xdea.cn^
 ||xdf.cn/v4/js/leyus/
 ||xdh0808.com^$popup
+||xdlipr.icu^
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdns.asia^
 ||xdoriq.cn^
+||xdxqw9nnr.com^
 ||xdyjt.com^
 ||xdyn0*jy.com^$script,xhr,3p
 ||xdyn03010jy.com^
