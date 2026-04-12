@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-11 16:25:48
-! Total count: 27930
+! Version: 2026-04-12 08:37:22
+! Total count: 27945
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12658,6 +12658,7 @@ zzzyk.com###Tinfo
 ||21yq.com/mg/21yq/
 ||222aa333bb.com^
 ||222xs.com/js/greentea.js
+||223qu6jnqv.com^
 ||224oztn8dq.com^
 ||22588888.com^$popup
 ||22eo9qlbpt.com^
@@ -13183,6 +13184,7 @@ zzzyk.com###Tinfo
 ||598n8mpd6.com^
 ||59gt.cn^
 ||59xx2yr9i.com^
+||59zzkdt8pj.com^
 ||5adbjiwp.xyz^
 ||5axxw.com/extends/ad/
 ||5azvpjx8xj.com^
@@ -13200,6 +13202,8 @@ zzzyk.com###Tinfo
 ||5dmail.net/image/ad_
 ||5dmail.net/js/
 ||5dscw.com/public/
+||5dxs.net/themes/jieqi/wap/js/fixed.
+||5dxs.net/themes/jieqi/wap/js/test.
 ||5dycay3rr.com^
 ||5dyx.com/static/jquery.js
 ||5dyx.com/static/js/deny.js
@@ -17291,6 +17295,7 @@ zzzyk.com###Tinfo
 ||emoney.cn/www/officalWebStatic/js/slideAd.js
 ||emphidaho.com^
 ||ems.youku.com^
+||ems59cq77u.com^
 ||emslgm.icu^
 ||emsq.cn^
 ||en8848.com.cn/js/ad
@@ -17744,6 +17749,7 @@ zzzyk.com###Tinfo
 ||fotao9.com^
 ||fou2684.xyz^
 ||foupog90.xyz^
+||fourier.alibaba.com^
 ||fourier.taobao.com^
 ||fourlaile.com^
 ||fp.nanrenwo.net^
@@ -19094,6 +19100,7 @@ zzzyk.com###Tinfo
 ||hur05110kns.com^
 ||hur05121kns.com^
 ||hur05130kns.com^
+||hurriedly18.com^
 ||hushenqiquan.com^
 ||huwgjgf.icu^
 ||huya.com*/cache1min.
@@ -21329,6 +21336,7 @@ zzzyk.com###Tinfo
 ||meaqcj.cn^
 ||mecv.cn^
 ||medaahmo.com^
+||mediav.com$third-party
 ||mediav.com^$3p,domain=~dev.360.cn|~g.360.cn
 ||medicine4.top^
 ||mediocre38.com^
@@ -22479,6 +22487,7 @@ zzzyk.com###Tinfo
 ||owlunimmvn.com^
 ||owqbirykia.com^
 ||owrkwilxbw.com^
+||owvqpfbrrk.com^
 ||ox3e5wyy79.com^
 ||oxggiwdp57.com^
 ||oxidation83.com^
@@ -23262,6 +23271,7 @@ zzzyk.com###Tinfo
 ||qpoiwnelc.com^
 ||qpqp05100oki.com^
 ||qpqp05101oki.com^
+||qpvrutah.com^
 ||qpztub.xyz^
 ||qq-hls.xyz^
 ||qq.com/Index/getAdsAndHotspot
@@ -24765,6 +24775,7 @@ zzzyk.com###Tinfo
 ||thjfcs.cn/hc237/uploads/default/other/2025-12-10/81a0f876800ea81616864d841f102ef4.
 ||thljnv.top^
 ||thoohizoogli.xyz^
+||thpvrn.icu^
 ||thragmoth.com^
 ||thraittidz.com^
 ||thricroiw.com^
@@ -24886,6 +24897,7 @@ zzzyk.com###Tinfo
 ||tmochyf.cn^
 ||tmpsdp.icu^
 ||tmqhageaip.com^
+||tmtmkfjbitxzlhijfcen.top^
 ||tmwbszn.icu^
 ||tnc3-aliec2.zijieapi^
 ||tnc3-alisc1.zijieapi.com^
@@ -25278,6 +25290,7 @@ zzzyk.com###Tinfo
 ||udn.com^*/ad/
 ||udnfunlife.com/mall/cus/cat/OutWebAd.do
 ||udsf.cn^
+||udtnjdhtdb.com^
 ||udwlki.icu^
 ||udxi.cn^
 ||udyi.cn^
@@ -25843,6 +25856,7 @@ zzzyk.com###Tinfo
 ||vtongm82lz.com^
 ||vtook3j0l.com^
 ||vtqhelleano.com^
+||vtrabj.icu^
 ||vtrelphail.com^
 ||vtrrxqbi.xyz^
 ||vtvnnl.xyz^
@@ -25870,6 +25884,7 @@ zzzyk.com###Tinfo
 ||vvdzucs.cn^
 ||vvfht.fun^
 ||vvllrb.top^
+||vvqc95xhtx.com^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vvwuqxp.icu^
