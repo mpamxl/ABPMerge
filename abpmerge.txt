@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-12 16:27:12
-! Total count: 27945
+! Version: 2026-04-13 09:27:12
+! Total count: 27955
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4637,6 +4637,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||hopto.org/js/prebid-ads.
 @@||hopto.org^$generichide
 @@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
+@@||huavod.com^$generichide
 @@||huhupan.com/e/extend/down/$generichide
 @@||huke88.com^*-tracking.js
 @@||i2.bahamut.com.tw/JS/ad/animeLogo.js^$domain=ani.gamer.com.tw
@@ -9482,7 +9483,7 @@ money18.on.cc#@#.ads-bg
 moneynet.com.tw##.ads-fixed-bottom
 moneyweekly.com.tw##div[id*="_ScupioHomeAD"]
 mongoing.com##.widget_custom_html:has(> .custom-html-widget > a[href^="http"]:not([href*="mongoing.com"]))
-mooc1.chaoxing.com#@#iframe[width="100%"][height="120"]:not([src*="bandcamp.com"])
+mooc1.chaoxing.com#@#iframe[width="100%"][height="120"]:not([src*="bandcamp.com"], [src*="player-widget.mixcloud.com"])
 moonbbs.com##.dm-header-ad
 mop.com##.post-content[href*=".taobao.com"]
 mop.com##.rel-item-gg
@@ -12281,6 +12282,7 @@ zzzyk.com###Tinfo
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0oi1ej7mo.com^
 ||0p7w.cn^
+||0qxfxqif0.com^
 ||0rvv7l6k7g.com^
 ||0s1wclct6.com^
 ||0sg1gx04is.com^
@@ -13088,6 +13090,7 @@ zzzyk.com###Tinfo
 ||51xuex.com.cn^
 ||51y5.net^
 ||51yhzp.com^$3p
+||51ympuu7y.com^
 ||51ztzj.com/js/you.js
 ||51ztzj.com/res/web/img/download_sign
 ||51ztzj.com/res/web/img/pic/inshow.jpg
@@ -13258,6 +13261,7 @@ zzzyk.com###Tinfo
 ||5vuk.xyz^
 ||5w31xv1a2.com^
 ||5wl8x.xyz^
+||5wv0y42ub.com^
 ||5wzew9jht.com^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
@@ -13366,6 +13370,7 @@ zzzyk.com###Tinfo
 ||6o719vq4x.com^
 ||6ogiuks905.com^
 ||6p2g1kk03.com^
+||6p6vcukqz.com^
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
@@ -13636,6 +13641,7 @@ zzzyk.com###Tinfo
 ||90oo.com/tp/msn.jpg
 ||90q0tq3bwo.com^
 ||90qxskdmn9.com^
+||9112rj8wo.com^
 ||9129666tp.com^$domain=9xav.cc
 ||918000.xyz^
 ||9191.site/ad.js
@@ -13769,6 +13775,7 @@ zzzyk.com###Tinfo
 ||9odes.ltd^
 ||9oru1vh0w.com^
 ||9oxhstb2m2.com^
+||9p81m19kr.com^
 ||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9soefyenw.com^
@@ -22931,6 +22938,7 @@ zzzyk.com###Tinfo
 ||propagate44.top^
 ||propeller-tracking.com^
 ||property.hk/js/adside.js
+||property58.top^
 ||providentsopport.site^
 ||ps123.net/MyFile/
 ||ps557.com/link/
@@ -24418,6 +24426,7 @@ zzzyk.com###Tinfo
 ||static.jfrft.com/js/main_video.js^$script,redirect=noop.js,domain=dilidili.wang,important
 ||static.meijiacun.com^
 ||static.missav.com/js/plyr.js
+||static.okokserver.com/js/anti/adblocker.js
 ||static.okokserver.com/uploads/lesi/$image,domain=huaren.live|huavod.com
 ||static.okokserver.com/uploads/lesi/lesi.mp4$media
 ||static.okokserver.com^$media,domain=huaren.live
@@ -24880,6 +24889,7 @@ zzzyk.com###Tinfo
 ||tl9q49ffi.com^
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlbjw.com^
+||tlgivardfp.com^
 ||tljrvn.icu^
 ||tljsxt.icu^
 ||tlprlf.xyz^
