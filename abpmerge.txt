@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-13 09:27:12
-! Total count: 27955
+! Version: 2026-04-13 16:53:56
+! Total count: 27960
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -20750,6 +20750,7 @@ zzzyk.com###Tinfo
 ||lflmdm.com^
 ||lfzk2cp.icu^
 ||lg0lh2qfj4.com^
+||lgaekait.com^
 ||lgaicreal.com^
 ||lganilgll.cyou^
 ||lgecqrb.com^
@@ -22515,6 +22516,7 @@ zzzyk.com###Tinfo
 ||oyxp.xyz^
 ||oyysbc.xyz^
 ||oyz61nhz8.com^
+||oz6q1drif.com^
 ||ozkbdxdu.icu^
 ||oztg6i0ass.com^
 ||p.7060.la^
@@ -26816,6 +26818,7 @@ zzzyk.com###Tinfo
 ||xopxptn.cn^
 ||xoqsxdpx.xyz^
 ||xoxitt.icu^
+||xp600.com/js/
 ||xp85.com/common/js/allpage.js
 ||xpcha.com/js/notice.js
 ||xpcwrgy.cn^
@@ -27492,6 +27495,7 @@ zzzyk.com###Tinfo
 ||zbv7kxrteclub.xyz^
 ||zbvchabjbcj.com^
 ||zbx01.com^
+||zbyfef74e.com^
 ||zbzbzb.xyz^
 ||zc13uyyok7.com^
 ||zc173.com/173fee/
@@ -27754,6 +27758,7 @@ zzzyk.com###Tinfo
 ||zkmnpnt4xg.com^
 ||zkraktak.com^
 ||zktats.top^
+||zkvqdf.icu^
 ||zlbcxr.xyz^
 ||zlbnjb.icu^
 ||zlclgzs.cn^
