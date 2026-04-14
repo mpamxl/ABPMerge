@@ -5019,6 +5019,8 @@ ghxi.com##.wpcom_ad_wrap:style(position: absolute !important; left: -3000px !imp
 ghxi.com##a[href^="https://www.aipyaipy.com/"]
 ghxi.com#@#.social-item
 ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
+girlsoncam.net##.x-slots-banner-only
+girlsoncam.net##.x-slots-hero-after
 girlsoncam.net,japonfilmleri.com,minaeast.net###playerdavLayer
 girlsoncam.net,japonfilmleri.com,minaeast.net##.da
 girlsoncam.net,japonfilmleri.com,minaeast.net##div[style^="position: fixed;"]
