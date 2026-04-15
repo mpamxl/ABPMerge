@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-15 09:09:32
-! Total count: 27989
+! Version: 2026-04-15 16:53:00
+! Total count: 27998
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1245,6 +1245,7 @@
 ##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*="/122.51.121.126:"]
 ##a[href*="/137.220.194.105:"]
+##a[href*="/137.220.194.123:"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/33hth.cn"]
 ##a[href*="/445.ee/"]
@@ -13608,6 +13609,7 @@ zzzyk.com###Tinfo
 ||8jkx.com^
 ||8k69vb6421.com^
 ||8k9ynfczfd.com^
+||8khgnlxk6.com^
 ||8lmggang9.com^
 ||8lz3swf01q.com^
 ||8maple.ru/dzcm$redirect=1x1.gif,domain=8maple.ru,image
@@ -17108,6 +17110,7 @@ zzzyk.com###Tinfo
 ||e1wluazgt.com^
 ||e23.cn/js/aaa.js
 ||e26fr9qb4m.com^
+||e2fpulacx.com^
 ||e2icbtrs1g.com^
 ||e2jda3h01.com^
 ||e2us4880k.com^
@@ -22078,6 +22081,7 @@ zzzyk.com###Tinfo
 ||nl1d8gzi5.com^
 ||nl2cq0jr.xyz^
 ||nl2v1uw9e.com^
+||nlkylpo.com^
 ||nlnlrn.top^
 ||nlvgxr.xyz^
 ||nly9u12pi.com^
@@ -22845,6 +22849,7 @@ zzzyk.com###Tinfo
 ||pktfla.top^
 ||pkvs.com/public/300/
 ||pkvs.com/public/as.js
+||pkwnpgsex.com^
 ||pl520.com^$3p
 ||pl53l7tyw.com^
 ||plateau77.com^
@@ -22966,6 +22971,7 @@ zzzyk.com###Tinfo
 ||ps557.com/link/
 ||ps886.us/js/*.js
 ||psa1xoeve.com^
+||psgpllf.com^
 ||psrfbr.icu^
 ||pstatp.com/growth/fe_sdk/bannersdk
 ||pstatp.com/origin/1381500009611bc201d61
@@ -23829,6 +23835,7 @@ zzzyk.com###Tinfo
 ||s00hv1jp8.com^
 ||s06g9qvr5.com^
 ||s0drxaq4v7.com^
+||s0khf11i8.com^
 ||s0p6s02x28.com^
 ||s1-a1.dnvodcdn.me^*.mp4
 ||s1-a1.dnvodcdn.me^*.svg
@@ -25441,6 +25448,7 @@ zzzyk.com###Tinfo
 ||universe7.top^
 ||uniway.cn.com^
 ||unjld.com^
+||unjrkrxme.com^
 ||unjs.jingyanben.com^
 ||unpkg.com/hjadu/
 ||unpkg.com/sejie
@@ -26528,6 +26536,7 @@ zzzyk.com###Tinfo
 ||x6img.com^$domain=picturedata.org
 ||x6u6kw4sg.com^
 ||x8kwcr3l.xyz^
+||x8wyxfxul.com^
 ||x9flqeptn.com^
 ||xahycw.com^
 ||xapu7phoge.com^
