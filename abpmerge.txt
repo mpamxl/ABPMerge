@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-15 16:53:00
-! Total count: 27998
+! Version: 2026-04-16 09:08:41
+! Total count: 28009
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12996,6 +12996,7 @@ zzzyk.com###Tinfo
 ||484r.com/images/flash/gallery_
 ||48dswtxkw.com^
 ||49ioqq6kt.com^
+||49o4m4a5eo.com^
 ||4aqoxkesav.com^
 ||4asfgyx.com^
 ||4bo5t8fzd.com^
@@ -13402,6 +13403,7 @@ zzzyk.com###Tinfo
 ||6w4ix4bxz1.com^
 ||6x59axt21.com^
 ||6yfcuuw.com^
+||6zc7gvmavf.com^
 ||6zmcb1x9fn.top^
 ||70.86.24.120:8060/
 ||7011.stia.cn^
@@ -13511,6 +13513,7 @@ zzzyk.com###Tinfo
 ||7tshsz6k1.com^
 ||7u4b8l1zt.com^
 ||7u7jwonbf.com^
+||7ue931y0gn.com^
 ||7usgqu07mk.com^
 ||7wzx9.com/tbad.
 ||7x7n.com/static/image/888.jpg
@@ -15228,6 +15231,7 @@ zzzyk.com###Tinfo
 ||bgf05280lko.com^
 ||bgf05290lko.com^
 ||bgf05291lko.com^
+||bgjylr.icu^
 ||bgrukidu.com^
 ||bh0874.online^
 ||bhaabom.cn^
@@ -16042,6 +16046,7 @@ zzzyk.com###Tinfo
 ||cj81gcvm2.com^
 ||cj99fbulb4.com^
 ||cja0m4iew.com^
+||cjb6nr5csu.com^
 ||cjdby.net/Public/home/images/advImg/
 ||cjgdch.com^
 ||cjjjs.com/image/banner/ali
@@ -17440,6 +17445,7 @@ zzzyk.com###Tinfo
 ||ewbs.cn^
 ||ewcnmtw.top^
 ||ewdk.cn^
+||ewekeoqn.com^
 ||ewfsef.com^
 ||ewgu.cn^
 ||ewrrpuquc1.com^
@@ -23120,6 +23126,7 @@ zzzyk.com###Tinfo
 ||qcvf.ifeng.com^
 ||qczcxe.cn^
 ||qd.x4399.com^
+||qd38xgoin9.com^
 ||qdaily.com/mount_details/pc/
 ||qdasflqe.top^
 ||qdczx66.com^
@@ -23676,6 +23683,7 @@ zzzyk.com###Tinfo
 ||rkzby.cn^
 ||rl1vypwyd2.com^
 ||rlavvoeo.com^
+||rlduhmakdm.com^
 ||rlhhlp.icu^
 ||rliwiqr.icu^
 ||rljjt.cn^
@@ -23747,6 +23755,7 @@ zzzyk.com###Tinfo
 ||ruanyifeng.com/9he/
 ||rubmdu.top^
 ||rubrafoz.com^
+||rucksack85.top^
 ||rudhjah.top^
 ||rugao35.com/Public/config/Couplet/Index
 ||ruguoapp.com^$domain=aixiaoju.com
@@ -24934,6 +24943,7 @@ zzzyk.com###Tinfo
 ||tmall.com^$popup,domain=eyusky.net|iqiyi.com
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmea116.oss-cn-beijing.aliyuncs.com^
+||tmkfjbitxzlhijfcenxe.top^
 ||tmkhirkrol.com^
 ||tmlyhh.icu^
 ||tmochyf.cn^
@@ -25885,6 +25895,7 @@ zzzyk.com###Tinfo
 ||vruzexzl.com^
 ||vrzuhj.icu^
 ||vs1.exo01.xyz^$image,3p
+||vsbdvf.icu^
 ||vsct.cn^
 ||vsjalz.icu^
 ||vsjavu.top^
