@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-16 17:03:19
-! Total count: 28012
+! Version: 2026-04-17 09:07:49
+! Total count: 28028
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3632,7 +3632,7 @@ $websocket,domain=wap.yushuwu.cloud
 52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn524.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
-52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52niuyan.cc##.top_fixed
 52niuyan.cc##a[onclick][rel][style*="toutiaoimg.com"]
@@ -4977,6 +4977,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||sssbozh.com^$generichide
 @@||stapewithadblock.monster^$generichide
 @@||static.hdslb.com/ad-images/$image
+@@||staticsns.cdn.bcebos.com/amis/$image,domain=pan.baidu.com
 @@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.
@@ -8616,6 +8617,10 @@ jandan.net##.commentlist > li.row:has(> div > font:contains(广告))
 jandan.net##.goods2-list
 jandan.net##.post[style="padding-left:150px;width:336px;height:280px;"]
 jandan.net##a[href*="/money.php?"]
+jav224.shop,ttp229.shop,clp126.shop,hsq233.shop###AFOO
+jav224.shop,ttp229.shop,clp126.shop,hsq233.shop##+js(abort-current-script, document.write, /<script src=.*Math\.floor\(Date\.now\(\)/)
+jav224.shop,ttp229.shop,clp126.shop,hsq233.shop##+js(no-setTimeout-if, ](getComputedStyle\,)
+jav224.shop,ttp229.shop,clp126.shop,hsq233.shop#@#.ad-unit:not(.textads)
 jav777.cc,jav777.xyz###playertopads
 jav777.cc,jav777.xyz##.myad_alert_82
 jav777.cc,jav777.xyz##.myad_alert_82_box
@@ -11009,6 +11014,7 @@ supportdap.online##.td-post-content > a[rel="nofollow"] > img
 surirt.com##+js(set-constant, ad_id_for_555, '')
 surirt.com##+js(set-constant, all520dddaaa2022ccc, true)
 surirt.com,520cc.cc,v.5278.mobi,jizz99.com,bonbonyou.com,in99.org,av99.us,jav777.xyz,520call.me,hboav.com###inplayer
+surumi.shop###container > .art-video-player + div[id][style^="position: absolute;"][style*="z-index: 999"]
 susongbbs.com#@#.ad_banner
 sutin0831.pixnet.net##div[class*="-ad-sidebar-"]:style(position: absolute!important; left: -3000px!important;)
 suxzp.com##.full-screen-cover
@@ -11644,6 +11650,7 @@ wmzhe.com##.downloader
 wn01.uk##IMG[alt][style='width: 100%; height: 100%;']
 wn789.com##.sidebar > .widget:not(:first-child):not(.widget_ui_posts)
 wn789.com##a[href^="http"]:not([href*="://www.wn789."]) > img
+wnacg.com##a[href*="erodatalabs.com"]
 wnacg.com##a[href^="https://ent.ystwfucb.shop/"]
 wnacg.com##a[href^="https://l.labsda.com/"]
 wnacg.com#@##adsbox
@@ -17566,6 +17573,7 @@ zzzyk.com###Tinfo
 ||fast8.cc/skin/default/images/630652.png
 ||fastadmin.net/uploads/store/aliyun
 ||fastadmin.net/uploads/store/tencent
+||favourite74.com^
 ||fawb62hh9.com^
 ||faxffjo.com^
 ||faxingw.cn/js/*0
@@ -18022,6 +18030,7 @@ zzzyk.com###Tinfo
 ||gd.ct10000.com^*/push/$popup,3p
 ||gd.sina.com.cn/iframe/22/
 ||gd163.*/2018_ad/
+||gdbegok47.com^
 ||gdbyhtl.net^*adfix/
 ||gdcytv.cn^*.gif
 ||gdfp.gifshow.com^
@@ -18204,6 +18213,7 @@ zzzyk.com###Tinfo
 ||gknybkl.cn^
 ||gkryjuqq3.com^
 ||gkuresx.com^
+||gkvjmx3xf.com^
 ||gkvrdf.com^
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
@@ -19012,6 +19022,7 @@ zzzyk.com###Tinfo
 ||hqnpwzu.cn^
 ||hqol.cn/up/ad/
 ||hqvkbn.icu^
+||hqvrvageaf.com^
 ||hqzcths.cn^
 ||hriy.cn^
 ||hrjg.com.cn^$3p
@@ -19692,6 +19703,7 @@ zzzyk.com###Tinfo
 ||itqseeh.icu^
 ||itqyik.icu^
 ||itraamelr.com^
+||its1zeqni.com^
 ||ituba.cc/uploads/allimg/201610/603/
 ||itv.hexun.com
 ||itweepinbelltor.com^
@@ -24591,6 +24603,7 @@ zzzyk.com###Tinfo
 ||swedmo.icu^
 ||swoole.com/_images/kundian
 ||swoole.com/_images/w7.jpg
+||swqerog.com^
 ||swqmuo.icu^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sx.fakjkwp.cn^
@@ -25164,6 +25177,7 @@ zzzyk.com###Tinfo
 ||tvrshv.xyz^
 ||tvsou.com/js/360ad.js
 ||tvszazx.icu^
+||tvxvhx.icu^
 ||tvyan.com/images/jscss/tv-
 ||tvyun07.com/template/mytheme/statics/js/layer/
 ||tvzapt.icu^
@@ -26154,6 +26168,7 @@ zzzyk.com###Tinfo
 ||wfndponfd.com^
 ||wftihvn.xyz^
 ||wfvs.cn^
+||wfwadedzk.com^
 ||wgceetonr.com^
 ||wgoeisdnlk.com^
 ||wh2mu9uj5f.com^
@@ -27937,6 +27952,7 @@ zzzyk.com###Tinfo
 ||zwdu.com/getuserinfo.php
 ||zwfkxb.xyz^
 ||zwfnfd.icu^
+||zwfqxj.icu^
 ||zwgqzgo.icu^
 ||zwjaoni.cn^
 ||zwlhfjh4h.com^
