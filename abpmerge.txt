@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-18 08:38:27
-! Total count: 28044
+! Version: 2026-04-18 16:27:46
+! Total count: 28051
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -972,6 +972,7 @@
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.playVideo-centerAd
 ##DIV.row.no-gutters.m-0
+##DIV.small-icon-container.is_mb
 ##DIV.stui-player__item.clearfix > img[url]
 ##DIV.swiper2.swiper-initialized.swiper-horizontal
 ##DIV.theme-hope-content.ads-container
@@ -12294,6 +12295,7 @@ zzzyk.com###Tinfo
 ||0hagz9mdc.com^
 ||0hasprzzu.com^
 ||0iem8mw1lx.com^
+||0ihw4ipvm5.com^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
 ||0m483y7.cn^
@@ -13001,6 +13003,7 @@ zzzyk.com###Tinfo
 ||465k3mlo9.com^
 ||4667gwyg1.com^
 ||46q8oxohlt.com^
+||46y7erj0mw.com^
 ||47.100.0.249/js/thea
 ||470kk.com/js/config.js
 ||470kk.com/js/indextop.js
@@ -15669,6 +15672,7 @@ zzzyk.com###Tinfo
 ||c6.friok.com^
 ||c64ihqx0gj.com^
 ||c6hhfkvxv.com^
+||c7bijgz6zr.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
 ||c8q27tqnaw.com^
@@ -18834,6 +18838,7 @@ zzzyk.com###Tinfo
 ||hgo06061uyi.com^
 ||hgpbhuj.cn^
 ||hgreils.com^
+||hgruknobpq.com^
 ||hgyouxi.com/data/hgyouxiad/
 ||hgyouxi.net/source/plugin/hgyouxiad/
 ||hh.jiankang.com^
@@ -20660,6 +20665,7 @@ zzzyk.com###Tinfo
 ||l.ykimg.com^
 ||l0vij7q78.com^
 ||l1bj5pxqzk.com^
+||l1owmrzjdw.com^
 ||l235cj20z.com^
 ||l23jhjfasd.xyz^
 ||l2qdfaq62o.com^
@@ -23510,6 +23516,7 @@ zzzyk.com###Tinfo
 ||r4uws5iu3g.com^
 ||r528e.cn^$3p
 ||r5dfwjtb.icu^
+||r5g13d8py3.com^
 ||r5gcp9.com^
 ||r5twojylmzsym.top^
 ||r6pt6kfz.com^
