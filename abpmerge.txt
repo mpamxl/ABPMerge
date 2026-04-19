@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-18 16:27:46
-! Total count: 28051
+! Version: 2026-04-19 08:42:23
+! Total count: 28062
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12296,6 +12296,7 @@ zzzyk.com###Tinfo
 ||0hasprzzu.com^
 ||0iem8mw1lx.com^
 ||0ihw4ipvm5.com^
+||0jghm60qg.com^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
 ||0m483y7.cn^
@@ -12712,6 +12713,7 @@ zzzyk.com###Tinfo
 ||239300.net/template/*_mh_gg
 ||23aitt.com/zz/
 ||23bei.com/static/plugins/layer/layer.
+||23cox7hu4.com^
 ||23dhj4q.com^
 ||23img.com^*/qomnyi.
 ||23jgiy.com^
@@ -12736,6 +12738,7 @@ zzzyk.com###Tinfo
 ||25rpllbbg.com^
 ||268de.com/js/
 ||26gg.bnq86.com^$3p
+||26io4qnxz.com^
 ||26yj3wme9q.com^
 ||277txt.com/da/*.js
 ||27gh.cc^$popup,3p
@@ -13542,6 +13545,7 @@ zzzyk.com###Tinfo
 ||7xi9g1.com1.z0.glb.clouddn.com^
 ||7xixi.site^
 ||7xsf3h.com1.z0.glb.clouddn.com^
+||7xx3jbcil.com^
 ||7y50wscnc8.com^
 ||7yt.org^
 ||7yy69rrqpz.com^
@@ -15427,6 +15431,7 @@ zzzyk.com###Tinfo
 ||bootscritp.com^
 ||bootstron.com^
 ||boraerzutd.com^
+||borh1pxlp.com^
 ||boshishuwu.com/js/middlestyle.js
 ||boshishuwu.com/js/zhuanhua.js
 ||bosw.net/js/bos/*960
@@ -17150,6 +17155,7 @@ zzzyk.com###Tinfo
 ||e5nnk.com^
 ||e5yx.com^$popup
 ||e75liqii98.com^
+||e90m7tos2.com^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||ea5s00h6oo.com^
 ||eabids.com^
@@ -17874,6 +17880,7 @@ zzzyk.com###Tinfo
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
 ||fujifood.hk^
 ||fujincenter.com^
+||fukzsbkp8.com^
 ||fulibac.com/images/upload/ad/
 ||fulibl.com/wp-content/uploads/2016/06/320-230.jpg
 ||fuliwang.cc^
@@ -22662,6 +22669,7 @@ zzzyk.com###Tinfo
 ||parnett55.xyz^
 ||partnerads.ysm.yahoo.com^
 ||partnership75.com^
+||patient15.top^
 ||patriotic66.top^
 ||pavdiibdvr.com^
 ||pavwrr.icu^
@@ -23602,6 +23610,7 @@ zzzyk.com###Tinfo
 ||rehearsal55.top^
 ||reke.at.sohu.com^
 ||relafp.xyz^
+||relapse37.com^
 ||reluctance58.com^
 ||remedyy46.com^
 ||remehealth.net^$3p
@@ -26685,6 +26694,7 @@ zzzyk.com###Tinfo
 ||xgilfhwxre.com^
 ||xgsvpsz7f4.com^
 ||xgzdys.com^
+||xgzxpdy.com^
 ||xh04i9ine.com^
 ||xh33g.net^
 ||xhe87zexdk.com^
@@ -26900,6 +26910,7 @@ zzzyk.com###Tinfo
 ||xommzrn.com^
 ||xonlines.com/upload/gg/
 ||xonlines.com/yyh_qp_200_200.png
+||xopldz.icu^
 ||xopxptn.cn^
 ||xoqsxdpx.xyz^
 ||xoxitt.icu^
