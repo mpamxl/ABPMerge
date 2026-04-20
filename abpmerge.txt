@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-19 16:28:38
-! Total count: 27814
+! Version: 2026-04-20 09:48:57
+! Total count: 27825
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5864,6 +5864,7 @@ bitauto.com###video_floatBox
 bitauto.com##.advertise-nav-down
 bitauto.com##div > ins[data-type="ad_play"]
 bitauto.com##ins[type="ad_play"]
+bitxzlhi*.top/$script,xhr,3p
 biz.ifeng.com##.header
 biz.ifeng.com##.riodel
 biznetvigator.com#@##container_ad
@@ -9443,7 +9444,6 @@ mitbbs.ca,mitbbs.com##table[width="336"][height="280"]
 mitbbs.ca,mitbbs.com##table[width="915"] > tbody > tr:first-child > td[width]
 miushuo.com###leftDiv1
 mjzj.com##div[id^="sidebar-top-carouse"]
-mkfjbitxzlhijf*.top/$script,xhr,3p
 mm-cg.com###ArticlesEx_box
 mm-cg.com###ioshowAD
 mm-cg.com##.TW_UTtoy
@@ -12999,6 +12999,7 @@ zzzyk.com###Tinfo
 ||4438x*.com/Runtime/js/
 ||444223564.xyz^
 ||445nan.com/ad/
+||44ipavmq2n.com^
 ||44pd.com^*xds/
 ||44r9fl.xyz^
 ||4567.org^$3p
@@ -13278,6 +13279,7 @@ zzzyk.com###Tinfo
 ||5qjspf2c.xyz^
 ||5s98.com/img/
 ||5sghirlr5b.com^
+||5t5z6augl3.com^
 ||5tmobi.cn^$3p
 ||5u1zleadi.com^
 ||5u3tzh6tc.com^
@@ -13371,6 +13373,7 @@ zzzyk.com###Tinfo
 ||6acupxubky.com^
 ||6avz.com^$script,3p
 ||6b8emvi3ya.com^
+||6b9wbbjf5s.com^
 ||6c34boi06m.com^
 ||6c641lgikp.top^
 ||6cjdya3djn.com^
@@ -16366,6 +16369,7 @@ zzzyk.com###Tinfo
 ||cypcb.net^
 ||cyq3noz.icu^
 ||cyq8vqq9s.com^
+||cz16vlh0la.com^
 ||czghjt.com^
 ||czsp12.com/api/*=advert&
 ||czsp12.com/api/*=announce&
@@ -19138,6 +19142,7 @@ zzzyk.com###Tinfo
 ||hybbs.com/i/$image,object
 ||hydrocarbon77.top^
 ||hyeqp.xyz^
+||hygiene86.com^
 ||hyhnas.com^
 ||hyidlu.com^
 ||hylmfeifei.com^
@@ -20233,6 +20238,7 @@ zzzyk.com###Tinfo
 ||k5w06v2yzh.com^
 ||k69wes8q8.com^
 ||k7f67a6s7.xyz^
+||k7m4co459k.com^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
 ||k90ey77nx.com^
@@ -20340,6 +20346,7 @@ zzzyk.com###Tinfo
 ||kfa9grestp.com^
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfejnjs.cn^
+||kfjbitxzlhijfcenxejc.top^
 ||kfvq.cn^
 ||kfyg.xyz^
 ||kgaviuu42.com^
@@ -24631,6 +24638,7 @@ zzzyk.com###Tinfo
 ||tfdmzsgy.icu^
 ||tfexcludes.shop^
 ||tfg2.com/images/upfile/AD/
+||tfgfgtm.com^
 ||tfgotoai.shop^
 ||tfhpxv.icu^
 ||tfio.cn^
@@ -24906,6 +24914,7 @@ zzzyk.com###Tinfo
 ||traiqnien.com^
 ||travel44.top^
 ||trc.taboola.com^
+||treatment11.top^
 ||trebleperfect.com^$3p
 ||trektinyreproduce.com^
 ||trendmicro.com.tw/wp-content/uploads/*Banner
@@ -25533,6 +25542,7 @@ zzzyk.com###Tinfo
 ||veirkaey.com^
 ||vejrp6iq25.com^
 ||vel7.xyz^
+||veldpj.icu^
 ||velocity30.com^
 ||venator.link^
 ||venetrigni.com^
@@ -26830,6 +26840,7 @@ zzzyk.com###Tinfo
 ||xzxhpcdz.icu^
 ||y.photoint.net^
 ||y0764.cn^
+||y0af0gwpdb.com^
 ||y0tf2wp.online^
 ||y1.junshitt.com^
 ||y18ut1kw22.com^
