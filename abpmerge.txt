@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-20 09:48:57
-! Total count: 27825
+! Version: 2026-04-20 16:54:56
+! Total count: 27829
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12927,6 +12927,7 @@ zzzyk.com###Tinfo
 ||3dwwwgame.com^$3p
 ||3er88wn.com^
 ||3exfu7vaxu.com^
+||3f6e7oacgi.com^
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
 ||3g.qq.com/lview?
@@ -19362,6 +19363,7 @@ zzzyk.com###Tinfo
 ||ilade.xyz^
 ||ildopxge.com^
 ||ilgt04vkw4.com^
+||ilvuqx9vlt.com^
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||ilyf4amifh.com^
 ||im-x.jd.com^
@@ -19719,6 +19721,7 @@ zzzyk.com###Tinfo
 ||j.guanjiabo.net^
 ||j.sdqoi2d.com^$3p
 ||j.zlszw.com^
+||j0saeheja5.com^
 ||j1.piaobing.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
@@ -26008,6 +26011,7 @@ zzzyk.com###Tinfo
 ||widgets.outbrain.com/outbrain.js
 ||widgets.pinterest.com^
 ||widow5blackfr.com^
+||wifytd4tlq.com^
 ||wigqae.icu^
 ||wih5mo0586.top^
 ||wildwist.com^
