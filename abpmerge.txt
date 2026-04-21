@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-21 09:16:51
-! Total count: 27841
+! Version: 2026-04-21 16:48:32
+! Total count: 27848
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1232,6 +1232,7 @@
 ##a[href*=".com/tg.html?id="]
 ##a[href*=".com?intr="]
 ##a[href*=".com?s="]
+##a[href*=".erodatalabs.com/"]
 ##a[href*=".fdgsnnvfsdv2df1bf3fdb1.cc"]
 ##a[href*=".gaimin.gg/cn"]
 ##a[href*=".jmtybc.com"]
@@ -7556,6 +7557,7 @@ goodav17.com###sticky_ads
 goodav17.com##+js(abort-on-property-read, popunder)
 goodav17.com##.ads_pc
 goodav17.com##div[id$="content"] > div[style="margin: 0 auto; text-align:center; margin-top:30px; width:90%;"]
+goodinfo.tw,myqqjd.com,cnprint.org,ez3c.tw,easylife.tw##.adsbygoogle
 googleads.g.doubleclick.net###mys-wrapper
 goosedaily.com##.lightboxbnr
 goosedaily.com##div[class^="ad-area-"]
@@ -9664,7 +9666,6 @@ myqqjd.com##.adsbygoogl
 myqqjd.com##.cms-news-normal-box > article:has(span.merge-cat > a[href$="/activity/"])
 myqqjd.com##.qz-box
 myqqjd.com##aside[id^="sponsor-"]
-myqqjd.com,cnprint.org,ez3c.tw,easylife.tw##.adsbygoogle
 mysteel.com###float-adv
 mysteel.com##[class*="-adv"]
 mysteel.com##body:style(background-image: none !important;)
@@ -9899,6 +9900,8 @@ o8tv.com##.myui-panel_bd > .col-xs-1 > a[target="_blank"] > img
 o8tv.com##a[href^="https://c.madeqr.com/"][target="_blank"] > img
 oeeee.com###adImg
 oeeee.com##.homeAD
+ofiii.com##+js(json-prune-fetch-response, prerolls midrolls postrolls comm_ad house_ad pause_ad block_ad end_ad exit_ad pin_ad content_pool vertical_ad elements, , api/v1/detail)
+ofiii.com##.nonlinear_ad
 ofweek.com###\5f ad-2100
 ofweek.com###fixedADWrap
 oh100.com##.mySwiperBox
@@ -12640,6 +12643,7 @@ zzzyk.com###Tinfo
 ||1s8pj.cn^$3p
 ||1tvg524vih.com^
 ||1u5gy.xyz^
+||1ub29e88i.com^
 ||1uo9djbnsr.com^
 ||1vd2esrss.com^
 ||1w73a5d.cn^
@@ -12988,6 +12992,7 @@ zzzyk.com###Tinfo
 ||412dyo1ef.com^
 ||4199tv.com^
 ||41grk.icu^
+||41vtzzt0s.com^
 ||4275.com/css/91kf.
 ||42vaywaovr.com^
 ||42yenxh.cn^
@@ -25369,6 +25374,7 @@ zzzyk.com###Tinfo
 ||upzabkw.cn^
 ||uqelxct.cn^
 ||uqkcqk.icu^
+||uqtwyajmw.com^
 ||uraseszincy.com^
 ||urimnugocfr.com^
 ||urlkwqi.cn^
@@ -25820,6 +25826,7 @@ zzzyk.com###Tinfo
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
 ||vzorzilmf.com^
+||vzrhwmsj.icu^
 ||vzttq.brfvyrrp.com^
 ||vzvvifw.cn^
 ||w.bnlg.fun^
