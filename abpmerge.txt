@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-20 16:54:56
-! Total count: 27829
+! Version: 2026-04-21 09:16:51
+! Total count: 27841
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12900,6 +12900,7 @@ zzzyk.com###Tinfo
 ||3987.com/statics/tow_skin/new_img/20
 ||39jz.com^
 ||39mydp.xyz^
+||39q0imqo0.com^
 ||3ad5iot.com^
 ||3alian.net^$3p
 ||3bmmmesj.life/skin/js/dny.
@@ -15259,6 +15260,7 @@ zzzyk.com###Tinfo
 ||bheirqrol.com^
 ||bheknoinum.com^
 ||bhgzwqy.top^
+||bhhybt.icu^
 ||bhidhaerb.com^
 ||bhiohollun.com^
 ||bhjuy10.com^
@@ -16204,6 +16206,7 @@ zzzyk.com###Tinfo
 ||compose99.com^
 ||comxei.icu^
 ||concave88.top^
+||concussion33.top^
 ||conf.hpplay.cn^
 ||config.unityads.unity3d.com^
 ||confluent54.top^
@@ -16775,6 +16778,7 @@ zzzyk.com###Tinfo
 ||djicdn.com/uploads/ad_image_file/
 ||djs.baomihua.com^
 ||djv99sxoqpv11.cloudfront.net^
+||djx3um1my.com^
 ||dkaktsb.icu^
 ||dkaon1jjeo.com^
 ||dkc63u5su8.com^
@@ -21259,6 +21263,7 @@ zzzyk.com###Tinfo
 ||marketpd4.top^
 ||masadora.net/kakusan-
 ||masdk.3g.qq.com^
+||masockq.com^
 ||masturbation22.com/d/
 ||mat.chasedream.com^*.gif
 ||mat1.gtimg.com/2014/vikkydu/GA/haier
@@ -22372,6 +22377,7 @@ zzzyk.com###Tinfo
 ||opzphurkro.com^
 ||oq6ry.com^
 ||oqcw1f9yw.com^
+||oqfy4va7a.com^
 ||oqjfekdkc.net^
 ||oqmqqm.icu^
 ||oqpgq.top^
@@ -23050,6 +23056,7 @@ zzzyk.com###Tinfo
 ||qdwnlkdw.com^
 ||qdzilh.cn^
 ||qdzyspjx.com^
+||qe9wckxig.com^
 ||qedvcu.com^
 ||qegkek.icu^
 ||qeih.cn^
@@ -23436,6 +23443,7 @@ zzzyk.com###Tinfo
 ||rchqtr.icu^
 ||rcilgeill.com^
 ||rcjmypjyey.com^
+||rcpwryza5.com^
 ||rcqmvmq.cn^
 ||rcqqlwb.cn^
 ||rcruulnot.com^
@@ -23792,6 +23800,7 @@ zzzyk.com###Tinfo
 ||same.eastmoney.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
+||sanatorium73.top^
 ||sandbank56.com^
 ||sandbank68.com^
 ||sange20221226.xyz^
@@ -25862,6 +25871,7 @@ zzzyk.com###Tinfo
 ||w6xdba54n.com^
 ||w75zr9nfj.com^
 ||w766ewvx75.com^
+||w7gx7y9wk.com^
 ||w97nv5ibv4.com^
 ||w9uwz5966.com^
 ||wa.kuwo.cn/lyrics/img/kwgg/
@@ -25922,6 +25932,7 @@ zzzyk.com###Tinfo
 ||wd.adcolony.com^
 ||wdadad.cn
 ||wddsva0.com^
+||wde0a1qrm.com^
 ||wdff.buzz/hengf.
 ||wdpkx.cn^
 ||wdrn97z1o.com^
@@ -27747,6 +27758,7 @@ zzzyk.com###Tinfo
 ||zvdc9y.icu^
 ||zvgvenibe.com^
 ||zvou.cn^
+||zvptrf.icu^
 ||zvrl.cn^
 ||zvvg678.xyz^
 ||zwbngpnpa.com^
