@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-21 16:48:32
-! Total count: 27848
+! Version: 2026-04-22 09:11:29
+! Total count: 27856
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12732,6 +12732,7 @@ zzzyk.com###Tinfo
 ||24cmm.com:8888/js
 ||24klm.cn^
 ||24klm.net^
+||24nf8sxd9p.com^
 ||24y0c8hek.com^
 ||2500sz.com/site/
 ||250sy.cc/gg/
@@ -16773,6 +16774,7 @@ zzzyk.com###Tinfo
 ||diyibanzhu*/js/cdn.js$~third-party
 ||diyifanwen.com/siteimages/jiqiren
 ||diyijjj.com/data/content
+||dizziness47.com^
 ||dj09j5u.cn^
 ||dj155.com/gg/
 ||dj97.com/api.php?mod=ad&
@@ -17395,6 +17397,7 @@ zzzyk.com###Tinfo
 ||esanciw.top^
 ||esgher.fun^
 ||esgher.site^
+||eshm72fwql.com^
 ||eslbahw.top^
 ||estcruden.biz^
 ||estuary98.top^
@@ -17900,6 +17903,7 @@ zzzyk.com###Tinfo
 ||fzbm.com/bbs/static/js/bma.js
 ||fzczw7.site^
 ||fzd3.com/gg/
+||fziydh0npy.com^
 ||fzlol.com/images/$script
 ||fznidd.top^
 ||fzpchome.com/txt/$script
@@ -25060,6 +25064,7 @@ zzzyk.com###Tinfo
 ||twbymc.cn^
 ||twcnmti.top^
 ||twdjn.cn^
+||tweaahmal.com^
 ||twfovierbz.com^
 ||twfqi9im3v.com^
 ||twgzgqqu.com^
@@ -26051,6 +26056,7 @@ zzzyk.com###Tinfo
 ||wj8i1rlp2b.com^
 ||wj9uod3838.com^
 ||wjxc92bc.xyz^
+||wk70ccjk1a.com^
 ||wkjwumtex3.com^
 ||wkrcbszi.xyz^
 ||wkzvf2658.com^
@@ -26851,6 +26857,7 @@ zzzyk.com###Tinfo
 ||xygwh.cc/js/x
 ||xyimg.net^$domain=~xy.com
 ||xyizgh.cn^
+||xyllbx.icu^
 ||xylophone37.com^
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
@@ -27645,6 +27652,7 @@ zzzyk.com###Tinfo
 ||zk789.cn/Res/Scripts/Show/NetSys/Show.ashx
 ||zkcizao.com^
 ||zkmnpnt4xg.com^
+||zknqll.icu^
 ||zkraktak.com^
 ||zktats.top^
 ||zkvqdf.icu^
