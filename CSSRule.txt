@@ -760,6 +760,7 @@
 ##.self-gg
 ##.single-ad-banner
 ##.slider-ad[adid]
+##.socialmedia > #middletextbanner
 ##.space-y-6 > .advertising
 ##.spon-img[src*=".alicdn."]
 ##.spot_nav_under_ad
@@ -1230,6 +1231,7 @@
 ##a[href*=".erodatalabs.com/"]
 ##a[href*=".fdgsnnvfsdv2df1bf3fdb1.cc"]
 ##a[href*=".gaimin.gg/cn"]
+##a[href*=".hongguotuiguang."]
 ##a[href*=".jmtybc.com"]
 ##a[href*=".labsda.com"] > img[src^="/game/20"]
 ##a[href*=".lui8426.xyz"]
@@ -1264,6 +1266,7 @@
 ##a[href*="/mobads.php?"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/uu5566.cn.com/"]
+##a[href*="/vv88.life"]
 ##a[href*="/yfj8159.com"]
 ##a[href*="/yigeyuming3880.top"]
 ##a[href*="://2"] > img[src*=".qlogo.cn"]
@@ -7206,6 +7209,7 @@ new.qq.com#@##TopAd
 newcger.com##.banner_recom
 newduba.cn###jq_youxi
 newmobilelife.com###ATS_sticky
+news.10jqka.com.cn##.advert-common-react
 news.163.com##a[href^="http://g.163.com/"]
 news.99k.tw##.entry-content > table[align="left"][style="width:360px"]
 news.99k.tw##iframe[src^="http://news.99k.tw/open/open"][src$=".php"]
