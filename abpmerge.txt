@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-22 16:49:12
-! Total count: 27865
+! Version: 2026-04-23 09:17:57
+! Total count: 27872
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13676,6 +13676,7 @@ zzzyk.com###Tinfo
 ||8xbook.org/scripts/ad/
 ||8yd2rtikkz.com^
 ||8yuwd5lpj.com^
+||8z1eg6o2j.com^
 ||8ziyuan.com/images/infolinksad.jpg
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
@@ -13946,6 +13947,7 @@ zzzyk.com###Tinfo
 ||a4bbltm3u2.com^
 ||a4sz.xyz^
 ||a4xvv2g18l.com^
+||a51wzxssu.com^
 ||a5xiazai.com/z/
 ||a65vocvbfe.com^
 ||a6cfvavw1.xyz^
@@ -19807,6 +19809,7 @@ zzzyk.com###Tinfo
 ||jbzyw.com/Application/M/adv/
 ||jc001.cn/ci/jad/fix.
 ||jc1.dayfund.com.cn^
+||jc7t7it24.com^
 ||jcbj62b2t.com^
 ||jcdard.top^
 ||jcde.site^
@@ -25583,6 +25586,7 @@ zzzyk.com###Tinfo
 ||verboten84.top^
 ||vercel.app/ads/
 ||vernaellac.com^
+||vertigo52.top^
 ||verysadfun.com/assets/publish/jquery.*.js
 ||vetxpx.icu^
 ||veuf2obzc8.com^
@@ -26370,6 +26374,7 @@ zzzyk.com###Tinfo
 ||wy12cewh4.com^
 ||wy213.com^$popup,3p
 ||wy7btl038.com^
+||wydk6zdk2.com^
 ||wyfjagda.top^
 ||wyjqa6pbuc.com^
 ||wyplmjufd.live^
@@ -26412,6 +26417,7 @@ zzzyk.com###Tinfo
 ||x8wyxfxul.com^
 ||x9flqeptn.com^
 ||xahycw.com^
+||xajlxv.icu^
 ||xapu7phoge.com^
 ||xarfxj.icu^
 ||xav*.icu/base/js/other.js
@@ -27153,6 +27159,7 @@ zzzyk.com###Tinfo
 ||youy14.com/js/zz/nr.js
 ||youy14.com/js/zz/xf.js
 ||youzhan.org/img/aliyun-
+||yozenpmo.com^
 ||yp0loy5lcl.com^
 ||yp868.com/js/54h/
 ||ypirlqn.icu^
