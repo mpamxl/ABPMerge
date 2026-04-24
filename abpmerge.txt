@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-23 17:09:47
-! Total count: 27886
+! Version: 2026-04-24 09:22:22
+! Total count: 27899
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1319,6 +1319,7 @@
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://adm.beimg.com/"]
 ##a[href^="https://l.erodalabs.com"]
+##a[href^="java"][onclick^="gogogoto"]
 ##a[href^="javascript:GoDb"]
 ##a[href^="javascript:gl012"]
 ##a[href^="javascript:gl012"] + img
@@ -2481,6 +2482,7 @@ $websocket,domain=wap.yushuwu.cloud
 /main/s?
 /maizhan/js/age.js
 /manduan-dev.oss-
+/matomo.js$third-party
 /matongwu/img/gg_
 /media/fitad/*
 /meinv/js/*_banner.js
@@ -4399,6 +4401,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
 @@||cgmodel.com/plugin/share/
 @@||chaintv.xyz/homestatic/js/adjs.js
+@@||chajianmi.com^$generichide
 @@||changyan.sohu.com/debug/cookie?
 @@||changyou.com^$generichide
 @@||cheshi-img.com/ad/csad_2019.js
@@ -4837,7 +4840,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||pagead2.googlesyndication.com/pagead/*/show_ads_impl$domain=bilinovel.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chajianmi.com|huavod.com|huaren.live|tt1069.com|akashio.com|1991421.cn|kantie.org|kejilion.pro|bilinovel.com|mcappx.com|yeeach.com|blog.6ziz.com|docsmall.com|uiadmin.net|4horlover.com|23qb.net|4spaces.org|aboluowang.com|assbbs.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rjno1.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
@@ -12974,6 +12977,7 @@ zzzyk.com###Tinfo
 ||3rre9r4t2.com^
 ||3rsppty.cn^
 ||3ryin2uj0x.com^
+||3sd6w6oga9.com^
 ||3sqvexc60y.com^
 ||3t769up6.com^
 ||3v7c7y.online^
@@ -13385,6 +13389,7 @@ zzzyk.com###Tinfo
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||6acupxubky.com^
+||6aoodbdx94.com^
 ||6avz.com^$script,3p
 ||6b8emvi3ya.com^
 ||6b9wbbjf5s.com^
@@ -15482,6 +15487,7 @@ zzzyk.com###Tinfo
 ||bridgetnbe.com^
 ||briefcase95.com^
 ||brirriek.com^
+||brnyzr.icu^
 ||brownfox.top^
 ||brownnx.top^
 ||browser.sentry-cdn.com^$third-party
@@ -16231,6 +16237,7 @@ zzzyk.com###Tinfo
 ||connectreadoasis.com^
 ||conscience34.top^
 ||considerice.com^
+||contagion77.com^
 ||contemplate23.top^
 ||contrive73.top^
 ||conyz.cn^
@@ -23416,6 +23423,7 @@ zzzyk.com###Tinfo
 ||r3sub.com/posters/00698128.jpg
 ||r3sub.com^*0.gif
 ||r40h9qvpq.com^
+||r40xff8q48.com^
 ||r4uj20yt2u.com^
 ||r4uws5iu3g.com^
 ||r528e.cn^$3p
@@ -23589,6 +23597,7 @@ zzzyk.com###Tinfo
 ||rising.cn/rxbox/
 ||rising.cn^*/pic-ad/
 ||rising.com.cn/weblog/
+||riskbird.com/riskbird-api/guest/unionGoods
 ||river49xx.org^
 ||rivullvwg.com^
 ||rixgpx.xyz^
@@ -25024,6 +25033,7 @@ zzzyk.com###Tinfo
 ||ttvosc.com^
 ||ttxjnt.icu^
 ||ttykabh.icu^
+||ttzerqriro.com^
 ||ttzhongbao.com^
 ||tu1500919341.cc^
 ||tu2.taohuaimg.com^$3p
@@ -25283,6 +25293,7 @@ zzzyk.com###Tinfo
 ||uftokromta.com^
 ||ufvauj.cn^
 ||ufxs.cn^
+||ug.baidu.com^
 ||ug.snssdk.com^
 ||ug4x1tagz.com^
 ||ug54oqjpqq.com^
@@ -25577,6 +25588,7 @@ zzzyk.com###Tinfo
 ||vcvbnmto.xyz^
 ||vcydyzd.icu^
 ||vcz9kuhac.com^
+||vdfgjn.icu^
 ||vdhatq0co.com^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
@@ -25848,6 +25860,7 @@ zzzyk.com###Tinfo
 ||vxinzheng.xyz^
 ||vxotu.com/i/*.gif
 ||vxrdwo.cn^
+||vxydbok.com^
 ||vyqn.cn^
 ||vyreat.icu^
 ||vyxw.cn^
