@@ -4282,6 +4282,7 @@ douban.com##.rec_topics_name[href^="https://erebor.douban."]
 douban.com##IFRAME[width='315']
 douban.com##div.center [style*='padding: 4px;']
 douban.com#@#.download-ad
+doubao.com###activity-entrance-popup-root
 doubibackup.com##.widgetRoller
 doubibackup.com,github.io##.guangg
 doubiuser.github.io,doubibackup.com##.custom-html-widget:has(div[style^="position"])
