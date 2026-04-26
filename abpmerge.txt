@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-25 16:31:16
-! Total count: 27916
+! Version: 2026-04-26 08:49:35
+! Total count: 27927
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11851,9 +11851,9 @@ ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC *
 xineurope.com###qmenu_menu + .wp
 xineurope.com##.adft
 xingkbjm.com##.d_textbanner
-xinhua348.com,xinhua110.com,91porny.org,jstv600.com###main > div[id^="rd"]
-xinhua348.com,xinhua110.com,91porny.org,jstv600.com##.card:has(>.card-image>a[href^="http"])
-xinhua348.com,xinhua110.com,91porny.org,jstv600.com##.footer + .block
+xinhua348.com,jstv42.site,91porny.org,jstv600.com###main > div[id^="rd"]
+xinhua348.com,jstv42.site,91porny.org,jstv600.com##.card:has(>.card-image>a[href^="http"])
+xinhua348.com,jstv42.site,91porny.org,jstv600.com##.footer + .block
 xinhuanet.com##.adv-column2
 xinhuanet.com##.adv3
 xinhuanet.com##.columBox.book
@@ -13072,6 +13072,7 @@ zzzyk.com###Tinfo
 ||4po6iqp9.cn^
 ||4rcajmf0m.com^
 ||4rfns9bmp1.com^
+||4ro76m7k2n.com^
 ||4sexmail.com^
 ||4taoxs.com/api/accept/
 ||4totls9uh.com^
@@ -16986,6 +16987,7 @@ zzzyk.com###Tinfo
 ||dqjojx.xyz^
 ||dqjrxj.icu^
 ||dqnajb.icu^
+||dqzooska.icu^
 ||dqzsteel.com/Website/Image/Index/ytgg.gif
 ||dqzuroorrt.com^
 ||dr7dsx6u9.com^
@@ -17750,6 +17752,7 @@ zzzyk.com###Tinfo
 ||fk3nf1xeh.top^
 ||fkesfg.com^
 ||fkf5.com/public/js/static.js
+||fkfovt.icu^
 ||fkhagviev.com^
 ||fktaxk.top^
 ||fkxs.net/tops/
@@ -18228,6 +18231,7 @@ zzzyk.com###Tinfo
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
 ||gl0r6d2uyy.com^
+||gla3sr9r1m.com^
 ||glacier32.com^
 ||glacier48.top^
 ||glancetree.top^
@@ -18563,6 +18567,7 @@ zzzyk.com###Tinfo
 ||gzk72wa1f.com^
 ||gzqvd.cn^
 ||gzsjym.xyz^
+||gzsy12348.com^
 ||gzzkjdam.cn^$3p
 ||gzzza.com/html/
 ||h-adashx.ut.taobao.com^
@@ -19991,6 +19996,7 @@ zzzyk.com###Tinfo
 ||jjwxc.net/jjPopup.php
 ||jjwxc.net/jjad*.html$popup
 ||jjztrz.xyz^
+||jk6wmqcut2.com^
 ||jke1.jianke.com^
 ||jklhs7u.com^
 ||jkn05300loi.com^
@@ -21840,6 +21846,7 @@ zzzyk.com###Tinfo
 ||n3567.com^
 ||n3xpjc.xyz^
 ||n4kd6phdxw.com^
+||n4qrsf6x88.com^
 ||n55ylc001.vip^
 ||n5725.com^
 ||n5a92p9zo.com^
@@ -23117,6 +23124,7 @@ zzzyk.com###Tinfo
 ||qfirgakpv.com^
 ||qfnoyix.cn^
 ||qfwhko.icu^
+||qgckb3ov46.com^
 ||qgreedreau.com^
 ||qguwoq.cn^$3p
 ||qhaarkie.com^
@@ -24542,6 +24550,7 @@ zzzyk.com###Tinfo
 ||sygmtz.com^
 ||symjgg.icu^
 ||symposium44.com^
+||symptom39.com^
 ||synacast.com^
 ||syncope12.top^
 ||syndication.exosrv.com/splash.php?$xhr,redirect=noop.txt,important,domain=hboav.com
@@ -27404,6 +27413,7 @@ zzzyk.com###Tinfo
 ||z6faiv46r.com^
 ||z6ro5.xyz^
 ||z84dbowgc.com^
+||z93grqmdaq.com^
 ||z9dy1kq9wv.com^
 ||z9sab7vr0b.com^
 ||zabdybod*.club^
@@ -27846,6 +27856,7 @@ zzzyk.com###Tinfo
 ||zwlhfjh4h.com^
 ||zwlikv.cn^
 ||zwvq.cn^
+||zwxtfp.icu^
 ||zx.docin.com^
 ||zx3o9i43h.com^
 ||zxcrr.com^
