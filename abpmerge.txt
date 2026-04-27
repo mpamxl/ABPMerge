@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-26 16:32:04
-! Total count: 27928
+! Version: 2026-04-27 10:06:08
+! Total count: 27938
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9800,6 +9800,7 @@ nfstar.net##.myui-panel-bg:has(strong:contains(广告))
 nfstar.net##a[target="_blank"] > .img-responsive
 nfuwow.com###dl-left-first
 nfuwow.com###dl-right-first
+nfuwow.com##.ad1320top
 nfuwow.com##.adtopnewnewbox
 nfuwow.com##.bannermid3box
 nfuwow.com##.crightbtad
@@ -12598,6 +12599,7 @@ zzzyk.com###Tinfo
 ||1999019.com^
 ||19dkfu1wg.com^
 ||19o8hzj117.com^
+||1adi9wenq.com^
 ||1biqug.com/js/ajax.js
 ||1buu1.penyouw.com^
 ||1dfsdfg.com^
@@ -12788,6 +12790,7 @@ zzzyk.com###Tinfo
 ||2f4a93wskk.com^
 ||2fjxw3dyip.com^
 ||2g1lbrr0qv.com^
+||2g8lomzrb.com^
 ||2g9x9uf.cn^
 ||2hiu.com^$3p
 ||2i0lliongn.com^
@@ -13034,6 +13037,7 @@ zzzyk.com###Tinfo
 ||47c7zhqak.com^
 ||484r.com/images/flash/gallery_
 ||48dswtxkw.com^
+||49dlt9myv.com^
 ||49ioqq6kt.com^
 ||49o4m4a5eo.com^
 ||4aqoxkesav.com^
@@ -13690,6 +13694,7 @@ zzzyk.com###Tinfo
 ||8x5vviy4r2.com^
 ||8xbook.org/scripts/ad/
 ||8yd2rtikkz.com^
+||8yo772d29.com^
 ||8yuwd5lpj.com^
 ||8z1eg6o2j.com^
 ||8ziyuan.com/images/infolinksad.jpg
@@ -17286,6 +17291,7 @@ zzzyk.com###Tinfo
 ||efgh.5lu.com^
 ||efmh.cn^
 ||eftd.cn^
+||efu871zc4.com^
 ||efusc.com^
 ||efvsyhbf.xyz^
 ||eghaailr.com^
@@ -17834,6 +17840,7 @@ zzzyk.com###Tinfo
 ||fqtyucit.com^
 ||fqxkj.cn^
 ||fr701hx5vi.com^
+||fracture46.com^
 ||fragment.firefoxchina.cn/html/
 ||frchavvati.com^
 ||frcykpk.cn^
@@ -23238,6 +23245,7 @@ zzzyk.com###Tinfo
 ||qjwpy.com^
 ||qjxys.cn^
 ||qk6.org/file/script/
+||qkdrsi4et.com^
 ||qkg7yplpfo.com^
 ||qkixeld.xyz^
 ||qkr4uac6tx.com^
@@ -26497,6 +26505,7 @@ zzzyk.com###Tinfo
 ||xchina.click/upload/*.webp
 ||xchina.co/scripts/push_*.js
 ||xchina.io/$media,domain=xchina001.online
+||xciryzdnl.com^
 ||xcisleoa.cn^
 ||xckj0623.com^
 ||xckyqq.com^
@@ -27359,6 +27368,7 @@ zzzyk.com###Tinfo
 ||yydsxs.com/js/cnzzpiao.
 ||yydsxs.com/js/guding.
 ||yyefao.com^
+||yyhbt.cn^
 ||yylady.cn^
 ||yynncbn.cn^
 ||yyqozaldwa.com^

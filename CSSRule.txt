@@ -7287,6 +7287,7 @@ nfstar.net##.myui-panel-bg:has(strong:contains(广告))
 nfstar.net##a[target="_blank"] > .img-responsive
 nfuwow.com###dl-left-first
 nfuwow.com###dl-right-first
+nfuwow.com##.ad1320top
 nfuwow.com##.adtopnewnewbox
 nfuwow.com##.bannermid3box
 nfuwow.com##.crightbtad
