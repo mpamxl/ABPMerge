@@ -7982,6 +7982,7 @@ rjno1.com#@#main > div[class^="qnb"]
 rkanr.com##.bill
 romzhijia.net##.ggposition
 romzj.com##.sectionThree
+roomie.tw##div[id^="outer_Post"]
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > div[id^="ts_ad_native"])
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > ins)
 rouman5.com###headlessui-portal-root

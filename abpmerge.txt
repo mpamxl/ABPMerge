@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-27 10:06:08
-! Total count: 27938
+! Version: 2026-04-27 17:14:20
+! Total count: 27943
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10495,6 +10495,7 @@ rjno1.com#@#main > div[class^="qnb"]
 rkanr.com##.bill
 romzhijia.net##.ggposition
 romzj.com##.sectionThree
+roomie.tw##div[id^="outer_Post"]
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > div[id^="ts_ad_native"])
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > ins)
 rouman5.com###headlessui-portal-root
@@ -13662,6 +13663,7 @@ zzzyk.com###Tinfo
 ||8gptk28oag.com^
 ||8h93.com^*.gif
 ||8hx7k0211.com^
+||8iav2fuiy.com^
 ||8j7tu8vtxx.com^
 ||8jkx.com^
 ||8k69vb6421.com^
@@ -20587,6 +20589,7 @@ zzzyk.com###Tinfo
 ||kuaishouba.com/themes/default/images/*.gif
 ||kuaizitech.com^$3p
 ||kuanxin.top^
+||kuazhi.com/kuazhi_click.
 ||kuazhi.com/zb_users/plugin/allshow/js/main.
 ||kuazhi.com/zb_users/plugin/allshow/js/main.js
 ||kucnwtd.top^
@@ -22534,6 +22537,7 @@ zzzyk.com###Tinfo
 ||oyz61nhz8.com^
 ||oz6q1drif.com^
 ||ozkbdxdu.icu^
+||ozrnsf3ta.com^
 ||ozsvnlo.com^
 ||oztg6i0ass.com^
 ||p.7060.la^
@@ -23764,6 +23768,7 @@ zzzyk.com###Tinfo
 ||rwtezd.icu^
 ||rwtraqur.com^
 ||rwtzv9ehv.com^
+||rx1iwebx2.com^
 ||rxaqwhu54d.com^
 ||rxdxzb.top^
 ||rxi8jcy0aq.com^
