@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-27 17:14:20
-! Total count: 27943
+! Version: 2026-04-28 10:05:58
+! Total count: 27960
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1476,6 +1476,7 @@
 ##div[onclick*="/ky"][onclick*="open"]
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
+##div[role="listitem"] .bannerliststyle
 ##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
@@ -5871,7 +5872,6 @@ bitauto.com###video_floatBox
 bitauto.com##.advertise-nav-down
 bitauto.com##div > ins[data-type="ad_play"]
 bitauto.com##ins[type="ad_play"]
-bitxzlhi*.top/$script,xhr,3p
 biz.ifeng.com##.header
 biz.ifeng.com##.riodel
 biznetvigator.com#@##container_ad
@@ -7220,6 +7220,7 @@ fastadmin.net##body > a[target="_blank"]
 faxingw.cn##.detailadv
 faxingw.cn##.detailgc
 faxingw.cn##.indadv1
+fcenxe*.top/$script,xhr,3p
 fcw45.com##.bottom-adv
 fcw45.com##div[id^="layui-layer"]
 fdc.com.cn##.yifangbanner
@@ -9824,6 +9825,7 @@ niotv.com##.epg_ad3
 niotv.com##.epg_ad_list
 niotv.com##.right_ad1
 niusnews.com##a[href^="https://www.niusnews.com/index.php/main/gotoBanner/"]
+niuyank.top##a.centtext
 niuyankan.top###content > a
 nivod2.com,nivod2.tv,nivod4.com,nivod5.com##+js(set-constant, detailParams.is_ad_play, false)
 nivod2.com,nivod2.tv,nivod4.com,nivod5.com##+js(set-constant, pageData.__banners.0.commercial.jumpUrl, '')
@@ -11180,6 +11182,7 @@ tigtag.com##.couplet_r
 tigtag.com##.custom-box02
 tigtag.com##div[id^="Home942x70_"]
 tigtag.com##div[id^="Show300x"]
+time.udn.com##.fixed-ad
 timedg.com##.crossAdvertise
 timedg.com##.crossAdvertise2
 timedg.com##.middleCrossAdvertise
@@ -11342,6 +11345,7 @@ udn.com###simplemodal-overlay
 udn.com##.ad_mask
 udn.com##.bg-banner--link
 udn.com##.ec-section
+udn.com##.fixed-ad
 udn.com##.inline-ads
 udn.com##.mag_topic > a[href][target="_blank"] > img[src^="https://p.udn.com.tw/upf/"][src*="_banners/Special/"]
 udn.com##.mag_topic > a[href^="https://goo.gl/"][target="_blank"] > img[src*="_banners/BD/"]
@@ -15730,6 +15734,7 @@ zzzyk.com###Tinfo
 ||caixin.com/s?z=
 ||cakoeg.icu^
 ||calistaadama.com^
+||callosity19.top^
 ||cameleer.top^
 ||camep.xyz^
 ||camerain.top^
@@ -15909,6 +15914,7 @@ zzzyk.com###Tinfo
 ||cfepws.com^
 ||cfoxpgfzxl.com^
 ||cfssi03yg3.com^
+||cftiqxg3mp.com^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cgcg01010ht.com^
 ||cgcg01011ht.com^
@@ -19727,6 +19733,7 @@ zzzyk.com###Tinfo
 ||itxinrou.com^
 ||itxueyuan.com/advPicture/
 ||itxueyuan.com^*.mp4
+||itxzlhijfcenxejclcaj.top^
 ||ityangstudy.cn^
 ||iucnwto.top^
 ||iufjkdjmsm.xyz^
@@ -19784,6 +19791,7 @@ zzzyk.com###Tinfo
 ||j.zlszw.com^
 ||j0saeheja5.com^
 ||j1.piaobing.com^
+||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
 ||j2jtq0hpb.com^
@@ -21125,6 +21133,7 @@ zzzyk.com###Tinfo
 ||lw881.com/public/js/gw.js
 ||lwbo.cn^
 ||lwcnmtl.top^
+||lwdla7fjns.com^
 ||lwfdlv.icu^
 ||lwide.xyz^
 ||lwksxs.com^
@@ -22072,6 +22081,7 @@ zzzyk.com###Tinfo
 ||niupic.com/images/2019/11/17/_17.
 ||niuza.com^$image,subdocument,3p
 ||niwota.com^$3p
+||njawz0tlek.com^
 ||njcengpianwang.cn^
 ||njcyt.com^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
@@ -22739,6 +22749,7 @@ zzzyk.com###Tinfo
 ||photo.*.html?tk=$script,3p
 ||photo.*/native?tk=$3p
 ||photos18.com/images/friend/
+||phow238wzh.com^
 ||phozatoi.com^
 ||php.cn/ad1.
 ||php.cn/hezuo/
@@ -22766,6 +22777,7 @@ zzzyk.com###Tinfo
 ||piaoliang.com/js/all.js
 ||piaoliang.com/js/gg.js
 ||piaotia.com/scripts/read/style
+||pibpjoo0lm.com^
 ||pic.0597kk.com^
 ||pic.959.cn/media/js/
 ||pic.baihuawen.cn^
@@ -23595,6 +23607,7 @@ zzzyk.com###Tinfo
 ||rfnenr.xyz^
 ||rfnhwaj.cn^
 ||rfto9i.icu^
+||rg338ne0rt.com^
 ||rg84983is.com^
 ||rgaagnida.com^
 ||rgcrunzozp.com^
@@ -23603,6 +23616,7 @@ zzzyk.com###Tinfo
 ||rgpxop.cn^
 ||rgtghulduk.com^
 ||rgvqddo.com^
+||rgzz3rs.icu^
 ||rhdifs.top^
 ||rhesed.site^
 ||rhinogo.cn^
@@ -24763,6 +24777,7 @@ zzzyk.com###Tinfo
 ||thefatherofsalmon.com^
 ||theporn.xyz/static/bet365.gif
 ||theporn.xyz/static/tmp/
+||theretenoned.com^
 ||thesac2.top^
 ||thesac3.top^
 ||thesac4.top^
@@ -25036,6 +25051,7 @@ zzzyk.com###Tinfo
 ||ts166.net^
 ||ts98cm48b.com^
 ||tsancii.top^
+||tsaor7o1e9.com^
 ||tsck.online^
 ||tsdm39.com/img01/MP3/GG/
 ||tsdtvcx579.com^
@@ -25295,6 +25311,7 @@ zzzyk.com###Tinfo
 ||udn.com/common/iframe/
 ||udn.com/common2/iframe/
 ||udn.com/mall/cus/cat/OutWebAd.do
+||udn.com/static/js/google-dfp-native.js
 ||udn.com/upf/2014_sales/testpage/Bannerimage/*x*_*.jpg
 ||udn.com^*/ad/
 ||udnfunlife.com/mall/cus/cat/OutWebAd.do
