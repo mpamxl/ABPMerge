@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-28 10:05:58
-! Total count: 27960
+! Version: 2026-04-28 17:29:37
+! Total count: 27967
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15216,6 +15216,7 @@ zzzyk.com###Tinfo
 ||bdunion1.suxiazai.com^
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
+||bdxbtv.icu^
 ||bdxydp.icu^
 ||bea-s.dinghuoche.com^
 ||beacon-api.aliyuncs.com^
@@ -15703,6 +15704,7 @@ zzzyk.com###Tinfo
 ||c4d.cn/template/iscwo_zcool/iscwo/ad/
 ||c4d4.cn^
 ||c4ru5li2sa.com^
+||c5mwwyqfvi.com^
 ||c6.friok.com^
 ||c64ihqx0gj.com^
 ||c6hhfkvxv.com^
@@ -16610,6 +16612,7 @@ zzzyk.com###Tinfo
 ||dbzolzzy7s.com^
 ||dceuhnpc57.shop^
 ||dciep.xyz^
+||dcpgdj.icu^
 ||dcsxv.com^
 ||dcvbnzss.xyz^
 ||dcvefz.xyz^
@@ -21473,6 +21476,7 @@ zzzyk.com###Tinfo
 ||mgir.cn^
 ||mgivkqk.cn^
 ||mgky6yjwq.com^
+||mgpl5pqg29.com^
 ||mgrwaui4.top^
 ||mgux.cn^
 ||mgzjin.cn^$3p
@@ -25916,6 +25920,7 @@ zzzyk.com###Tinfo
 ||vxotu.com/i/*.gif
 ||vxrdwo.cn^
 ||vxydbok.com^
+||vyczp.cn^
 ||vyqn.cn^
 ||vyreat.icu^
 ||vyxw.cn^
@@ -27172,6 +27177,7 @@ zzzyk.com###Tinfo
 ||yjuhqy.xyz^
 ||yjyc-ask.com/res/ads/
 ||yk-ssp.ad.youku.com^
+||yk9t90dlfx.com^
 ||ykad-data.youku.com^
 ||ykcjxvg.cn^
 ||ykfqztvfj.com^
@@ -27888,6 +27894,7 @@ zzzyk.com###Tinfo
 ||zwjaoni.cn^
 ||zwlhfjh4h.com^
 ||zwlikv.cn^
+||zwlpdo.cn^
 ||zwvq.cn^
 ||zwxtfp.icu^
 ||zx.docin.com^
