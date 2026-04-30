@@ -1472,7 +1472,6 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[role="listitem"] .bannerliststyle
-##div[role="listitem"] > div > div > .bannerliststyle
 ##div[style="margin:10px auto;width: 930px;height: 250px;"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style^="line-height"][style*="http"][style$="fixed;"]
@@ -2043,7 +2042,6 @@
 2345.com##.mzdh_bottom
 2345.com##.newsArea
 2345.com##.part-banner
-2345.com##.part-banner > .part-ppt
 2345.com##.pic:has(a[href^="http://g.wan."])
 2345.com##.s11-fixNav
 2345.com##.s11-logowall
