@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-04-30 09:57:39
-! Total count: 27981
+! Version: 2026-04-30 17:08:33
+! Total count: 27985
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9477,6 +9477,7 @@ mobile01.com###ad-control
 mobile01.com###show-play-ad
 mobile01.com##.ad-adblock
 mobile01.com##.admicrobtn
+mobile01.com##.dable-bottom_theme
 mobile01.com##.dable-side_theme
 mobile01.com##.fast-ad
 mobile01.com##.l-articlePage:has(> .l-articlePage__author .c-authorInfo__id > a[href^="/marketstore.php?"])
@@ -17428,6 +17429,7 @@ zzzyk.com###Tinfo
 ||epxlt.xyz^
 ||eqghuu.com^
 ||eqieg6yn5.com^
+||eqlhb8m42q.com^
 ||eqlidke.cn^
 ||eqqi.cn^
 ||eqqp.cn^
@@ -21283,6 +21285,7 @@ zzzyk.com###Tinfo
 ||m7g2v1b9.com^
 ||m7xssfiit.com^
 ||m81mfege2.com^
+||m8h5qjmlb3.com^
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
@@ -21676,6 +21679,7 @@ zzzyk.com###Tinfo
 ||movshow.com/*portal/
 ||mowenxi.com/1.png
 ||moxiaoqihuoguo.com^
+||mp1sy1nri8.com^
 ||mp3.haogeba.com^$image,object
 ||mp4ba.com^*/js/head.js
 ||mp4ba.net/static/js/mp4ba.js
