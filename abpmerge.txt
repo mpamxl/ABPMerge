@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-01 09:25:21
-! Total count: 27990
+! Version: 2026-05-01 16:44:05
+! Total count: 27997
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8717,6 +8717,7 @@ jijidown.com##div[style="width: 500px;"]:last-child
 jijidown.com##div[style="width: 525px;"]:last-child
 jijidy.com###box
 jiligame.com##img[onerror="zhurl($(this))"]
+jin10.com##.desktop-tip
 jin10.com##.quoted-price__pro
 jin10.com##.side-module-2
 jin10.com##.tradinghero
@@ -12827,6 +12828,7 @@ zzzyk.com###Tinfo
 ||2xx63f0bfy.com^
 ||2y2lttjs.hair^
 ||2yjw.com/statics/js/jquery.min.
+||2ytoxb1r7.com^
 ||2zjftxgl5s.com^
 ||2ztav5r7r.com^
 ||2zzt.com/file/aliyun
@@ -16492,6 +16494,7 @@ zzzyk.com###Tinfo
 ||d5zkrmttu.com^
 ||d6.mobaders.com^
 ||d67p.com/love/
+||d6er6wrvw.com^
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d7fl3a3vwh.com^
@@ -16675,6 +16678,7 @@ zzzyk.com###Tinfo
 ||destc8.icu^
 ||device.fishmobi.com^
 ||devll8j4n.com^
+||devpz.cn^
 ||dexinyi.cn^
 ||dexuanyu.top^
 ||deyangs.com/img/
@@ -18389,6 +18393,7 @@ zzzyk.com###Tinfo
 ||gpkheq.icu^
 ||gpxxbyf.cn^
 ||gpxz.com/js2/
+||gqcrgyufg.com^
 ||gqdfgyz.cn^
 ||gqwu.cn^
 ||gqxwfhe7o.com^
@@ -20099,6 +20104,7 @@ zzzyk.com###Tinfo
 ||jp1357.com/addon/
 ||jp2468.com/addon/
 ||jp2468.com/api/vip/vipshow.php
+||jp532fdo5.com^
 ||jpayu6di.icu^
 ||jpfans.com/jpfans.jpg
 ||jpg1.oss-cn-beijing.aliyuncs.com^
@@ -26512,6 +26518,7 @@ zzzyk.com###Tinfo
 ||x3zy2.icu^
 ||x42zfctilh.com^
 ||x43slxjwzx.com^
+||x4bxnav4g.com^
 ||x4hu95mh0t.com^
 ||x4jdm.tv/mdp.js
 ||x5hnj21.com^
