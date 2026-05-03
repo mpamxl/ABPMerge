@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-03 09:13:24
-! Total count: 28022
+! Version: 2026-05-03 16:37:17
+! Total count: 28029
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12321,6 +12321,7 @@ zzzyk.com###Tinfo
 ||0jghm60qg.com^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
+||0l34c7sqy.com^
 ||0m483y7.cn^
 ||0m9mjmrd.top^
 ||0nkwep2fh.com^
@@ -14632,6 +14633,7 @@ zzzyk.com###Tinfo
 ||aornkmae.com^
 ||aoshi.com/rbc.jpg
 ||aotu43.com/templates/defboot/js/duilian.js
+||aousjfw8z.com^
 ||aovk.cn^
 ||aoydwg.icu^
 ||aoyou1.top^
@@ -18273,6 +18275,7 @@ zzzyk.com###Tinfo
 ||gkuresx.com^
 ||gkvjmx3xf.com^
 ||gkvrdf.com^
+||gkykp.com^
 ||gl.ali213.net/images/jsq_gl.jpg
 ||gl.zle.com^
 ||gl0r6d2uyy.com^
@@ -19210,6 +19213,7 @@ zzzyk.com###Tinfo
 ||huyaimg.msstatic.com/cdnimage/roomad/
 ||hvdath.xyz^
 ||hvmdu6macy.com^
+||hvqyf.cn^
 ||hvrunsqqy.com^
 ||hwcnmtu.top^
 ||hwfoct.icu^
@@ -20855,6 +20859,7 @@ zzzyk.com###Tinfo
 ||lhdlbp.xyz^
 ||lhdnba.top^
 ||lhgwcvw.cn^
+||lhgzfet8n.com^
 ||lhiefl.com^
 ||lhippac.cn^
 ||lhotajl.icu^
@@ -23193,6 +23198,7 @@ zzzyk.com###Tinfo
 ||qgckb3ov46.com^
 ||qgreedreau.com^
 ||qguwoq.cn^$3p
+||qgvvtce98.com^
 ||qhaarkie.com^
 ||qhaazaduez.com^
 ||qhaelqata.com^
@@ -25985,6 +25991,7 @@ zzzyk.com###Tinfo
 ||w0079.com^
 ||w0082.com^
 ||w010w.com.cn^$subdocument
+||w0kaf7jjg.com^
 ||w0yg6igaoz.com^
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
