@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-02 16:36:25
-! Total count: 28012
+! Version: 2026-05-03 09:13:24
+! Total count: 28022
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2542,6 +2542,7 @@ $websocket,domain=wap.yushuwu.cloud
 /pcswf/pcswf.js
 /pd2.js$3p
 /pge/?s=$3p
+/phoenix-share/js/code.123.bg.
 /piaofu.js
 /pic.jsp?uid=$script,3p
 /pic/ad/*
@@ -2989,6 +2990,8 @@ $websocket,domain=wap.yushuwu.cloud
 12306.cn##.fix-yh
 12306.cn,club.pchome.net,qinbing.cn###slideBox
 12377.cn###notice
+123865.com##+js(no-window-open-if)
+123865.com##.bg_svip_block_ads
 123pan.com##.advBanner
 123pan.com##.ant-carousel
 123pan.com##.baidu-banner-container
@@ -13542,6 +13545,7 @@ zzzyk.com###Tinfo
 ||7dgk5h1lk.com^
 ||7dh26aja.com^
 ||7dqjgdk.com^
+||7g761j2nc.com^
 ||7hgw85qugx.com^
 ||7imz0d5nay.com^
 ||7j4tpio.com^
@@ -15950,7 +15954,7 @@ zzzyk.com###Tinfo
 ||cgyx.tv^
 ||ch17axocue.top^
 ||chabadokor.com^
-||chachefa.com/asdfasdfqwer/
+||chachefa.com^*.js?v=
 ||chahua.org/aimg/
 ||chairman69.top^
 ||chakd.com/images/xitie160x60.gif
@@ -17050,6 +17054,7 @@ zzzyk.com###Tinfo
 ||dt243100.com^
 ||dtauda3232.top^
 ||dtckvpc.cn^
+||dtdjhb.icu^
 ||dtfyhdghsd.online^
 ||dtindrofe.com^
 ||dtjal7b1f.com^
@@ -18223,6 +18228,7 @@ zzzyk.com###Tinfo
 ||ghost580.com/js/nei4.js
 ||ghovvadv.com^
 ||ghsnhjk.cn^
+||ght2bvin1.com^
 ||ghwmbue.icu^
 ||giaoji.com/Runtime/Js/
 ||gifcdncn.trafficmanager.net^
@@ -20954,6 +20960,7 @@ zzzyk.com###Tinfo
 ||lknnbd.xyz^
 ||lkpjbr.icu^
 ||lkpmprksau.com^
+||lkpseyc3d.com^
 ||lkthfpii.xyz^
 ||lkwj.cn^
 ||ll.gxsky.com^
@@ -24471,6 +24478,7 @@ zzzyk.com###Tinfo
 ||static.ads-twitter.com^
 ||static.cdnativepush.com^
 ||static.chinatimes.com/scripts/2019/ad2019.min.js
+||static.dhsz.cn^$image,domain=123865.com
 ||static.doyouhike.net/partner/
 ||static.gaomaer.cn^
 ||static.gridsumdissector.com^
@@ -24981,6 +24989,7 @@ zzzyk.com###Tinfo
 ||toastspinner.com^
 ||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
+||tocologist44.top^
 ||tocr.cn^
 ||todayapp.tv^$popup,3p
 ||toggle.qq.com^
@@ -25441,6 +25450,7 @@ zzzyk.com###Tinfo
 ||umdc.aliapp.org^
 ||umeng.com^
 ||umengcloud.com^
+||umini.shujupie.com^
 ||umkezbh.cn^
 ||umqigvethe.com^
 ||umrr.cn^
