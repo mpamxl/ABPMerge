@@ -8444,6 +8444,8 @@ sports.qq.com,news.qq.com,www.qq.com,v.qq.com,new.qq.com##+js(json-prune, ads)
 sports.sohu.com##.allsee-list > .bd-wrap
 sportsv.net##.adv01
 srzc.com##.topgg
+ssm.fun##.cAnnouncements
+ssm.fun##.cAnnouncementsContent
 ssnn.net###float_picr
 ssnn.net###nrk_gg
 sspai.com##.content hr:nth-last-child(-n+4) ~ p
@@ -9255,6 +9257,7 @@ www.zhihu.com##A.MBannerAd
 www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 www.zol.com.cn#@##search_ad
 wx.sina.com.cn###artibody > .article-video
+wxredian.com##+js(set-constant, checkAdScript, noopFunc)
 wxsck.com###content > div[style^="clear:"]
 wxsck.com##.fixed-btn ~ div[style^="position:fixed; bottom:"]
 wxsck.com##.footer:style(margin-top: 0px !important;)

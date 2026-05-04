@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-04 10:05:18
-! Total count: 28042
+! Version: 2026-05-04 17:21:44
+! Total count: 28049
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10958,6 +10958,8 @@ sports.qq.com,news.qq.com,www.qq.com,v.qq.com,new.qq.com##+js(json-prune, ads)
 sports.sohu.com##.allsee-list > .bd-wrap
 sportsv.net##.adv01
 srzc.com##.topgg
+ssm.fun##.cAnnouncements
+ssm.fun##.cAnnouncementsContent
 ssnn.net###float_picr
 ssnn.net###nrk_gg
 sspai.com##.content hr:nth-last-child(-n+4) ~ p
@@ -11782,6 +11784,7 @@ www.zhihu.com##A.MBannerAd
 www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 www.zol.com.cn#@##search_ad
 wx.sina.com.cn###artibody > .article-video
+wxredian.com##+js(set-constant, checkAdScript, noopFunc)
 wxsck.com###content > div[style^="clear:"]
 wxsck.com##.fixed-btn ~ div[style^="position:fixed; bottom:"]
 wxsck.com##.footer:style(margin-top: 0px !important;)
@@ -16505,6 +16508,7 @@ zzzyk.com###Tinfo
 ||d4.sina.com.cn^$object,script
 ||d48paxyhx.com^
 ||d4vd.life/love/
+||d4xmm7es84.com^
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
 ||d5.sina.com.cn^$object,script
 ||d56p.com/love/
@@ -22023,6 +22027,8 @@ zzzyk.com###Tinfo
 ||newwcrsed.com^
 ||newyx.net^*/down_yd.js
 ||nex.163.com/q?
+||nextacdn.com^
+||nextacdn.top^
 ||nezqmud.com^
 ||nf2r18mdu.com^
 ||nfksjkfs.com^
@@ -25556,6 +25562,7 @@ zzzyk.com###Tinfo
 ||uslsxe.com^
 ||usoxsak.icu^
 ||uspauline.com^
+||uspe4j25v6.com^
 ||usphfiona.com^
 ||usrzh.cn^
 ||ussxvwu.online^
