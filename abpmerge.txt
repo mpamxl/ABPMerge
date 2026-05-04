@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-03 16:37:17
-! Total count: 28029
+! Version: 2026-05-04 10:05:18
+! Total count: 28042
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10117,7 +10117,10 @@ pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 ping0.cc###adaright
+ping0.cc###adbright
 ping0.cc##.xyeles
+ping0.cc##.xzeles
+ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> .closead)
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
 pinggu.org##.indextop-r
@@ -13341,6 +13344,7 @@ zzzyk.com###Tinfo
 ||5wzew9jht.com^
 ||5x17591y3b.com^
 ||5xdmw.com/tb.jpg
+||5xdz5pz072.com^
 ||5xvtbbvb6.com^
 ||5y9nfpes.52pk.com^
 ||5yahh8v3.xyz^
@@ -13373,6 +13377,7 @@ zzzyk.com###Tinfo
 ||644446.com^
 ||64lv69ncb9.com^
 ||64ma.com/tv/images/web.png
+||64sfltdfd9.com^
 ||65432.pw^
 ||65487496.xyz^
 ||66.fmx.cn/js/
@@ -15642,6 +15647,7 @@ zzzyk.com###Tinfo
 ||bwquktubbb.com^
 ||bwvhtadad.com^
 ||bwxq93jdg.com^
+||bwzett.icu^
 ||bxackzj.icu^
 ||bxdupj.icu^
 ||bxmo.cn^
@@ -19953,6 +19959,7 @@ zzzyk.com###Tinfo
 ||jhdvcjvsjkvjkb.com^
 ||jhf4eib1zb.com^
 ||jhhpvy7cp3.com^
+||jhhv22erzs.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
 ||jhqi.cn^
@@ -20651,6 +20658,7 @@ zzzyk.com###Tinfo
 ||kv8899.com^
 ||kvbh.cn^
 ||kvdxvqw.xyz^
+||kve026cks7.com^
 ||kvhee.com^
 ||kvsqa.xyz^
 ||kvxc7buwv3.com^
@@ -22057,6 +22065,7 @@ zzzyk.com###Tinfo
 ||nh3q4ucdlb.com^
 ||nh3ymjjdkx.com^
 ||nhcdn.cn^
+||nhgbdjs.com^
 ||nhjkm.com^
 ||nhjsw.cn^
 ||nhlrzf.icu^
@@ -22427,6 +22436,7 @@ zzzyk.com###Tinfo
 ||okpl05040ai.com^
 ||okpl05041ai.com^
 ||okpoiione.com^
+||okq2b5zjft.com^
 ||okqwidvnsk.net^
 ||okszf0rvcg.com^
 ||okzsb7l5bl.com^
@@ -22738,6 +22748,7 @@ zzzyk.com###Tinfo
 ||pebrihmethwa.com^
 ||peculiar93.top^
 ||pedestrian94.top^
+||pediatrist53.com^
 ||peise.net/Skin/js/global.
 ||pejrq.xyz^
 ||pencild4.com^
@@ -24747,6 +24758,7 @@ zzzyk.com###Tinfo
 ||tchkcc.cn^
 ||tci.oss-ap-southeast-1.aliyuncs.com^
 ||tcmap.com.cn/js/b_
+||tcmxmlu.com^
 ||tcragarnh.com^
 ||tcsgcdn.top^
 ||tcuqqhj.icu^
@@ -26176,6 +26188,7 @@ zzzyk.com###Tinfo
 ||whfpbc.99.com.cn^
 ||whichav.*/qq/qq.js
 ||whistle35.com^
+||whlwcahw1x.com^
 ||whnews.cn/wh_public/xuxu/
 ||whsir.com/wp-content/themes/wh-blog/js/modal.js
 ||whwxxny.com^
