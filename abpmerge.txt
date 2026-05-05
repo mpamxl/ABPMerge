@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-04 17:21:44
-! Total count: 28049
+! Version: 2026-05-05 09:53:09
+! Total count: 28057
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16278,6 +16278,7 @@ zzzyk.com###Tinfo
 ||commonwealthproficient.com^
 ||comparisonn4.top^
 ||compose99.com^
+||compress33.top^
 ||comxei.icu^
 ||concave88.top^
 ||concussion33.top^
@@ -17255,6 +17256,7 @@ zzzyk.com###Tinfo
 ||eaygjik.icu^
 ||eaylmi.icu^
 ||ebcf.cn^
+||ebgock7kz.com^
 ||ebhaliragd.com^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
@@ -17605,6 +17607,7 @@ zzzyk.com###Tinfo
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xhr,other,redirect=noopvast-2.0
 ||facebook.com/v2.6/plugins/video.$domain=storm.mg
 ||fadjqqe.top^
+||fadrvppkhuhdhs.com^
 ||fads315.com^
 ||fagmiethe.com^
 ||fagp.cn^
@@ -21269,6 +21272,7 @@ zzzyk.com###Tinfo
 ||m.pmtong.shop^
 ||m.q1xs.com/17mb/script/wap.js
 ||m.qhxcdmfj.cn^$3p
+||m.qishuba.com/jump/
 ||m.qiushuzw.com/9CB0D8A5/2dfc69b0d8a5.js
 ||m.s.tpcdn.top^
 ||m.shushu8.com/js/tongji.js?
@@ -22741,6 +22745,7 @@ zzzyk.com###Tinfo
 ||pdhwzl.icu^
 ||pdiabbi.cn^
 ||pdjjrh.xyz^
+||pdjxoscm7.com^
 ||pdrerzug.com^
 ||pdrtcgfx.cn^
 ||pdrv.cn^
@@ -25564,6 +25569,7 @@ zzzyk.com###Tinfo
 ||uspauline.com^
 ||uspe4j25v6.com^
 ||usphfiona.com^
+||usqok.cn^
 ||usrzh.cn^
 ||ussxvwu.online^
 ||ustv123.com/images/axd.js
@@ -26945,6 +26951,7 @@ zzzyk.com###Tinfo
 ||xtnwxhjv.xyz^
 ||xtpwfb.xyz^
 ||xtxbemp.xyz^
+||xu919zz2i.com^
 ||xuanyaosp.com^
 ||xudgjz.xyz^
 ||xudr8vwe.xyz^
@@ -27868,6 +27875,7 @@ zzzyk.com###Tinfo
 ||zmk852tp7.com^
 ||zmkp6jvq4.com^
 ||zmrkxz.icu^
+||zmvwfd.icu^
 ||zn46.com/images/*0x
 ||znchw.com^
 ||znegiu.top^
