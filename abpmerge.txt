@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-05 17:13:46
-! Total count: 28060
+! Version: 2026-05-06 10:08:25
+! Total count: 28070
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -975,6 +975,7 @@
 ##DIV.row.no-gutters.m-0
 ##DIV.small-icon-container.is_mb
 ##DIV.stui-player__item.clearfix > img[url]
+##DIV.swiper-container.swiper-container-horizontal.swiper-container-ios.swiper-container-wp8-horizontal.swiper-container-initialized.swiper-container-android
 ##DIV.swiper2.swiper-initialized.swiper-horizontal
 ##DIV.theme-hope-content.ads-container
 ##DIV[allowtransparency='true'][scrolling='no']
@@ -1444,6 +1445,7 @@
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
+##div.pannel > div.grid
 ##div.play_boxbg div[class$='_acmsd']
 ##div.player-rm.rm-two.rm-list > a
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
@@ -10116,9 +10118,7 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adaright
 ping0.cc###adbright
-ping0.cc##.xyeles
 ping0.cc##.xzeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> .closead)
 pinggu.org##.hdbanner
@@ -12481,6 +12481,7 @@ zzzyk.com###Tinfo
 ||127.net/2018/08/15/71ee02b5b61c4090b3ce0116306596c2.jpeg
 ||127.net/external/js6public126_
 ||127.net/external/js6public163_
+||129esrd5q5.com^
 ||12img.com/ad/
 ||12ybs41sa.com^
 ||12ypksztq.com^
@@ -14332,6 +14333,7 @@ zzzyk.com###Tinfo
 ||ahp24.site^
 ||ahpengjie.com^
 ||ahqihkm.top^
+||ahtjhe1bka.com^
 ||ahupio.icu^
 ||ahuys.net/Runtime/js/
 ||ahuys.net/sys
@@ -14715,6 +14717,7 @@ zzzyk.com###Tinfo
 ||apptry.easylife.tw/pub/js/common/common.js
 ||apsgo.com/assets/js/union.
 ||apsgo.com/go/
+||aq0vs4ftni.com^
 ||aqc.gucheng.com^
 ||aqdy.net/js/banner.js
 ||aqdy.net/js/tj.js
@@ -15059,6 +15062,7 @@ zzzyk.com###Tinfo
 ||ballive.*/addm/
 ||balmoralmkt.com^$3p
 ||balvehgmhw.com^
+||bandages84.com^
 ||bangyuandianzi.top^
 ||banhui.xyz^
 ||banma.com/get_ad/
@@ -15961,6 +15965,7 @@ zzzyk.com###Tinfo
 ||cgcg01080ht.com^
 ||cgdyw.net/xx/
 ||cgigc.com.cn^
+||cgihh.cn^
 ||cgmalight.com^
 ||cgyx.tv^
 ||ch17axocue.top^
@@ -17879,6 +17884,7 @@ zzzyk.com###Tinfo
 ||fpdisplay.com/upload/n_ad/
 ||fpgxyjv3h.com^
 ||fpoyvjgdm.com^
+||fprrpv.icu^
 ||fptdxkm.com^
 ||fqanoreirlpa.com^
 ||fqhakaihvu.com^
@@ -19624,6 +19630,7 @@ zzzyk.com###Tinfo
 ||inowe.xyz^
 ||inpage-push.com^
 ||inping.com^$3p
+||inquiry64.top^
 ||insertup.top^
 ||insfengdata.com^
 ||insideex.top^
@@ -21848,6 +21855,7 @@ zzzyk.com###Tinfo
 ||my0538.com^*/thumb_1000_70_
 ||my0832.com/xyz/xx/
 ||my4700.com/js/*.js
+||mya2pg8cdg.com^
 ||myads.cc^
 ||mybjx.net/theme/default/js/common/bjx_service_
 ||mybjx.net/theme/default/js/common/duilianchn.js
@@ -22430,6 +22438,7 @@ zzzyk.com###Tinfo
 ||okbd2ou.icu^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
+||okeeblr.com^
 ||okforwardt.fun^
 ||okkkk.com^
 ||okmhmkjnm.com^
@@ -23143,6 +23152,7 @@ zzzyk.com###Tinfo
 ||q06g.com^
 ||q1.yyxwzx.com^
 ||q1txsah8s.com^
+||q1yv4669q6.com^
 ||q27sz.com^
 ||q29k22vpu.com^
 ||q2fwgl4q8.com^
