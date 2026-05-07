@@ -1850,6 +1850,7 @@
 1688.com.au##.ad_300_p
 16888.com##.cardataclass
 168gamer.com,168gamer.net##.b_tad
+169bbs.com##.a_f
 16fan.com##.item-newad
 16sucai.com##.pindao_ad2
 16sucai.com,bbxxbbs.net##table[width="960"]
@@ -3341,12 +3342,10 @@ bilinovel.com##+js(abort-current-script, document.createElement, pagead2.googles
 bilinovel.com##+js(set-constant, checkAndHandleAdBlock, undefined)
 bimiacg.net##.tuiguang
 bimibimi.cc##[src^='https://dd-static.jd.com']
-bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
+bing.com###b_results > li:has(.b_adProvider)
 bing.com##.OpInNwWndw
 bing.com##.b_algo:has(.ad_esltitle)
 bing.com##.b_algo:has(.b_ads1line)
-bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
-bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bing.com##li[class="b_algo"]:has(.b_attribution[data-partnertag]+p[class])
 bing.com,cn.bing.net###bnp_rich_div
@@ -3364,6 +3363,7 @@ bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad
 bing.com,cn.bing.net##li:has(a[h$=",Ads"])
+bing.com,~www.bing.com##.b_algo:has(p[style="display: none !important;"])
 bingdou.com.cn,hoteastday.com##.float_ad
 bingfeng.tw###adbt
 bingfeng.tw###ypaad:style(height: 3px!important;)
@@ -3830,7 +3830,6 @@ cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
-cn.bing.com###b_results > li:has(.b_adProvider)
 cn.bing.com##.b_bza_pole
 cna.com.tw##.ad_336_2
 cna.com.tw##.advertiseTopArticlePad

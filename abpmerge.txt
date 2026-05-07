@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-06 17:22:14
-! Total count: 28074
+! Version: 2026-05-07 10:13:28
+! Total count: 28082
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3092,6 +3092,7 @@ $websocket,domain=wap.yushuwu.cloud
 1688.com.au##.ad_300_p
 16888.com##.cardataclass
 168gamer.com,168gamer.net##.b_tad
+169bbs.com##.a_f
 16fan.com##.item-newad
 16sucai.com##.pindao_ad2
 16sucai.com,bbxxbbs.net##table[width="960"]
@@ -5835,12 +5836,10 @@ bilinovel.com##+js(abort-current-script, document.createElement, pagead2.googles
 bilinovel.com##+js(set-constant, checkAndHandleAdBlock, undefined)
 bimiacg.net##.tuiguang
 bimibimi.cc##[src^='https://dd-static.jd.com']
-bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
+bing.com###b_results > li:has(.b_adProvider)
 bing.com##.OpInNwWndw
 bing.com##.b_algo:has(.ad_esltitle)
 bing.com##.b_algo:has(.b_ads1line)
-bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
-bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com##.sb_form_placeholder:has(>.ad-ghost-slug)
 bing.com##li[class="b_algo"]:has(.b_attribution[data-partnertag]+p[class])
 bing.com,cn.bing.net###bnp_rich_div
@@ -5858,6 +5857,7 @@ bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad
 bing.com,cn.bing.net##li:has(a[h$=",Ads"])
+bing.com,~www.bing.com##.b_algo:has(p[style="display: none !important;"])
 bingdou.com.cn,hoteastday.com##.float_ad
 bingfeng.tw###adbt
 bingfeng.tw###ypaad:style(height: 3px!important;)
@@ -6328,7 +6328,6 @@ cmhello.com##.gpost-above
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
-cn.bing.com###b_results > li:has(.b_adProvider)
 cn.bing.com##.b_bza_pole
 cna.com.tw##.ad_336_2
 cna.com.tw##.advertiseTopArticlePad
@@ -13310,6 +13309,7 @@ zzzyk.com###Tinfo
 ||5imx.com/image/image/
 ||5ips.net/love/
 ||5j45n3f6r.com^
+||5k1cyldc9.com^
 ||5kmp7.top^
 ||5kmqy60r7.com^
 ||5lf5cujc5.com^
@@ -13323,7 +13323,6 @@ zzzyk.com###Tinfo
 ||5nj.com/js/cnzz33.js
 ||5odd5zsn.xyz^
 ||5p35xkp1p.com^
-||5pub.com^
 ||5qjspf2c.xyz^
 ||5s98.com/img/
 ||5sghirlr5b.com^
@@ -13885,6 +13884,7 @@ zzzyk.com###Tinfo
 ||9tata.com/js/www.js
 ||9tour.cn/x2/images/czmf.jpg
 ||9txnu9rlmd.com^
+||9v7sbm9zc.com^
 ||9vmbje748.com^
 ||9vviyje1s.top^
 ||9wcn.com/gcld/500.gif
@@ -15318,6 +15318,7 @@ zzzyk.com###Tinfo
 ||bgf05291lko.com^
 ||bgjylr.icu^
 ||bgrukidu.com^
+||bgverrhitahtfy.com^
 ||bh0874.online^
 ||bhaabom.cn^
 ||bhaldailm.com^
@@ -17051,6 +17052,7 @@ zzzyk.com###Tinfo
 ||dreamlikeverse.com^
 ||drebz4f.shop^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
+||dressing27.top^
 ||drfvtgbyk.xyz^
 ||drgakaelgp.com^
 ||drmcmm.baidu.com^
@@ -20376,6 +20378,7 @@ zzzyk.com###Tinfo
 ||k7m4co459k.com^
 ||k8dm.com/960x70.
 ||k8mb640mta.com^
+||k8velr77p.com^
 ||k90ey77nx.com^
 ||k99.cc^$3p
 ||k9egtgh8v.com^
@@ -22223,6 +22226,7 @@ zzzyk.com###Tinfo
 ||npgjij.cn^
 ||nphqw.cn^
 ||nplvdodbja.com^
+||npunr.cn^
 ||npvcfn.icu^
 ||npzc1yzag7.com^
 ||nq49x3m8g.com^
@@ -22509,6 +22513,7 @@ zzzyk.com###Tinfo
 ||oot59rxrwm.com^
 ||ootyx24.com^
 ||oovruczakz.com^
+||oozushirp.com^
 ||op1z5h5171.com^
 ||op9dbh1i0.com^
 ||open.e.kuaishou.cn^
@@ -23034,6 +23039,7 @@ zzzyk.com###Tinfo
 ||pro.cn^$3p
 ||pro.iweihai.cn^
 ||procdn.asia^
+||proceedings33.top^
 ||prodigalpromotion.com^
 ||proewildfire.cn/fd.js
 ||profitablecpmratenetwork.com^
@@ -26958,6 +26964,7 @@ zzzyk.com###Tinfo
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xsrezl.icu^
+||xssncc2tv.com^
 ||xstt5.com/skin/v3/js/dibu.js
 ||xstt5.com/template/js/fx
 ||xsvyvr.top^
@@ -27892,6 +27899,7 @@ zzzyk.com###Tinfo
 ||zmk852tp7.com^
 ||zmkp6jvq4.com^
 ||zmrkxz.icu^
+||zmrzis8ow.com^
 ||zmvwfd.icu^
 ||zn46.com/images/*0x
 ||znchw.com^
