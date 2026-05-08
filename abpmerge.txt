@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-08 09:05:17
-! Total count: 28091
+! Version: 2026-05-08 17:02:17
+! Total count: 28099
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17908,6 +17908,7 @@ zzzyk.com###Tinfo
 ||frcykpk.cn^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free3dgame.xyz^
+||freedidi.com/wp-content/plugins/abn-wall/assets/abn-wall.
 ||freedidi.com/wp-content/plugins/death-luhubaoyu/
 ||freehao123.com/wp-content/uploads/2017/05/mmkdm.png
 ||freejavbt.com/assets/images/banner
@@ -18041,6 +18042,7 @@ zzzyk.com###Tinfo
 ||g3f3.com/love/
 ||g3m92egwo.com^
 ||g4yk4cyyw.com^
+||g4z8712756.com^
 ||g64njjhyh.com^
 ||g66ryy88z.com^
 ||g6x2uvza37.com^
@@ -20688,6 +20690,7 @@ zzzyk.com###Tinfo
 ||kvsqa.xyz^
 ||kvxc7buwv3.com^
 ||kvzscvzk0t.com^
+||kw0xlh4wig.com^
 ||kw17vswzu.com^
 ||kw7addjwr.com^
 ||kwcmrfb.cn^
@@ -21632,6 +21635,7 @@ zzzyk.com###Tinfo
 ||mkd88.cc/16.32.jpg
 ||mkff.cn^
 ||mkfjbitxzlhijfcenxej.top^
+||mkguynd.com^
 ||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
@@ -22104,6 +22108,7 @@ zzzyk.com###Tinfo
 ||nhnsoh.cn^
 ||nhpwwd.cn^
 ||nhscv.cn^
+||nhuk707eex.com^
 ||nhy9i8t56f.com^
 ||nhyvhmvw.com^
 ||niaideren.icu^
@@ -23722,6 +23727,7 @@ zzzyk.com###Tinfo
 ||rhiolf.cn^
 ||rhlxm.top^
 ||rhmt1jjyo.com^
+||rhrrf.cn^
 ||rhtc.quanminyouxi.cn^
 ||riaway.com/statics/idea.jpg
 ||richh.cn^
@@ -23807,6 +23813,7 @@ zzzyk.com###Tinfo
 ||rou.video/js/exo.js
 ||rou3.xyz^
 ||rouwhapt.com^
+||rovz7ekw3r.com^
 ||rpahyhn.cn^
 ||rpdlt.cn^
 ||rpkcqtf.cn^
@@ -24607,6 +24614,7 @@ zzzyk.com###Tinfo
 ||sudupan.com^*.gif
 ||sufile.com/jsa/
 ||sugar.zhihu.com^
+||suhfnjm.com^
 ||suibi8.com/aa1.gif
 ||suibiankan.co/Runtime/Js/
 ||suibianlu.com/zb_users/ad/
