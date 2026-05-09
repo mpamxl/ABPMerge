@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-08 17:02:17
-! Total count: 28099
+! Version: 2026-05-09 09:08:16
+! Total count: 28106
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12311,6 +12311,7 @@ zzzyk.com###Tinfo
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0d1oo8jp69.com^
+||0dy3evz6x.com^
 ||0e1y8x7ft.com^
 ||0e7mnbmbb.com^
 ||0e9knynfb.com^
@@ -17532,6 +17533,7 @@ zzzyk.com###Tinfo
 ||events.redditmedia.com^
 ||events3alt.adcolony.com^
 ||everyonepiano.cn/Public/*0x
+||evidence20.com^
 ||evidhjksdtgyxrh.xyz^
 ||evkc.cn^
 ||evpxl9a8h.com^
@@ -20931,6 +20933,7 @@ zzzyk.com###Tinfo
 ||liepin.com/event/jobadver/
 ||lieqinews.com/json/zhiketj/
 ||lifyeldl.top^
+||ligature73.top^
 ||lihatt.icu^
 ||lihong.ltd^
 ||lihuasoft.net/images/ad_
@@ -23288,6 +23291,7 @@ zzzyk.com###Tinfo
 ||qidou.com^$3p
 ||qidw.cn^
 ||qienews.cn^$3p
+||qiey8zrxz.com^
 ||qifacaisklop.com^
 ||qifake.com^
 ||qifjksdqwd.xyz^
@@ -23394,6 +23398,7 @@ zzzyk.com###Tinfo
 ||qnwuamy.top^
 ||qnwucny.top^
 ||qnywjs.buzz^
+||qnywphp.forum^
 ||qnywsrc.buzz^
 ||qoilbsfwqd.net^
 ||qonkdwwf.net^
@@ -23637,6 +23642,7 @@ zzzyk.com###Tinfo
 ||rdblieez7.com^
 ||rdbousn.cn^
 ||rddsjx.xyz^
+||rdgck4jo4.com^
 ||rdlbkvo.cn^
 ||rdmpkv76tv.com^
 ||rdpcom.com^
@@ -27136,6 +27142,7 @@ zzzyk.com###Tinfo
 ||yao7392.xyz^
 ||yaodaipeishi.cn^
 ||yaojingweiba.com/inc/
+||yaokanwx.com/tongji/
 ||yaomuzhubao.com^
 ||yaoyl.com/js/ds.js
 ||yaqurc.com^
