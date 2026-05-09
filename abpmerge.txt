@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-09 09:08:16
-! Total count: 28106
+! Version: 2026-05-09 16:41:39
+! Total count: 28111
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -18671,6 +18671,7 @@ zzzyk.com###Tinfo
 ||h6cp.icu^
 ||h6fh0e4hg.com^
 ||h731.icu^
+||h7ima6w5k.com^
 ||h8cjr6nhm.com^
 ||h9806gjhz.com^
 ||hacde1.icu^
@@ -18801,6 +18802,7 @@ zzzyk.com###Tinfo
 ||hcbmg.cn^
 ||hcbmq.cn^
 ||hcdjy.xyz^
+||hcf5yqdq3.com^
 ||hciea.xyz^
 ||hcirentgh.360doc.cn^
 ||hcjwq.cn^
@@ -19848,6 +19850,7 @@ zzzyk.com###Tinfo
 ||iyxdm.*/js/gad_
 ||iyxh.cn^
 ||izgl.cn^
+||izkgl35mq.com^
 ||izopsg.icu^
 ||iztwp.com/images/
 ||izzodzmuu.com^
@@ -24299,6 +24302,7 @@ zzzyk.com###Tinfo
 ||siodgs.icu^
 ||sioq.cn^
 ||siqc.cn^
+||sirsplajp.com^
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
 ||sitv.com.cn/cookiead.php
 ||siutaodka.com^
@@ -28055,6 +28059,7 @@ zzzyk.com###Tinfo
 ||zygehty.cn^
 ||zygkzytb.cn^
 ||zygscl.cn^
+||zyifk.cn^
 ||zykwnj.cn^
 ||zymakzaeddla.com^
 ||zypzzv.xyz^
