@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-10 16:41:35
-! Total count: 28119
+! Version: 2026-05-11 10:52:33
+! Total count: 28131
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7351,7 +7351,9 @@ free.com.tw###custom_html-11
 free.com.tw###custom_html-5
 free.com.tw##.advads-entity-placement
 freecodecamp.cn,freecodecamp.one#@#.btn-social
+freedidi.com##+js(abort-on-property-read, SPM_CONFIG.adblockOnly)
 freedidi.com##.sidebar-content > div[id^="custom_html-"]
+freedidi.com##.spm-on:has(> div[class^="spm"] > .spm-body > a[target="_blank"])
 freedidi.com##a[href*="/bittly.cc"]
 freedidi.com#@#.adsBanner
 freedidi.com,ottawazine.com##div[id^="text-"]
@@ -13854,6 +13856,7 @@ zzzyk.com###Tinfo
 ||9fum.ifeng.com^
 ||9fwz.com^
 ||9gau3j8x7.com^
+||9ge9rc85r.com^
 ||9h3s1ew2qn.com^
 ||9hyf6wsiv5.com^
 ||9i5x05ovp7.com^
@@ -14428,6 +14431,7 @@ zzzyk.com###Tinfo
 ||ajtdumo.cn^
 ||ajzsa.xyz^
 ||ak530.com/js/*.js
+||ak7ko01zs.com^
 ||akabebe.com/jgg/*.gif
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
@@ -16519,6 +16523,7 @@ zzzyk.com###Tinfo
 ||d3s9in1sg.com^
 ||d4.sina.com.cn^$object,script
 ||d48paxyhx.com^
+||d4rxxm6ig.com^
 ||d4vd.life/love/
 ||d4xmm7es84.com^
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
@@ -17287,6 +17292,7 @@ zzzyk.com###Tinfo
 ||ebroktean.com^
 ||ebrun.com/jfile/position/js/*.js
 ||ebscb0l.xyz^
+||ebsqxaj8u.com^
 ||ebten.xyz^
 ||ebuqxsjq.com^
 ||ec18fgdpv3.com^
@@ -17304,6 +17310,7 @@ zzzyk.com###Tinfo
 ||ecpoc.com/style/ad
 ||ecriqadg.com^
 ||ectyet.top^
+||ecuc6mmwt.com^
 ||ecudsc.cn^
 ||ecwmvlhy.com^
 ||ed.gumoda.top^
@@ -17347,6 +17354,7 @@ zzzyk.com###Tinfo
 ||efg.zle.com^
 ||efgh.5lu.com^
 ||efmh.cn^
+||efsy7b1x6.com^
 ||eftd.cn^
 ||efu871zc4.com^
 ||efusc.com^
@@ -19502,6 +19510,7 @@ zzzyk.com###Tinfo
 ||ilyf4amifh.com^
 ||im-x.jd.com^
 ||im.1vkx.cn/uploads/images/*.gif$3p
+||im0st6rwn.com^
 ||im286.net/286/
 ||image-shop.baidu.com/n/imageproduct?
 ||image.39.net/style/
@@ -19999,6 +20008,7 @@ zzzyk.com###Tinfo
 ||jhvchv.xyz^
 ||jhzfwl.cn^
 ||jia.com/js/common/article_home_adv.js
+||jia183d6v.com^
 ||jia6983.xyz^
 ||jialingmm.net/dm/tj.js
 ||jialingmm.net/img/gdw.jpg
@@ -23075,6 +23085,7 @@ zzzyk.com###Tinfo
 ||propeller-tracking.com^
 ||property.hk/js/adside.js
 ||property58.top^
+||prosecute39.top^
 ||providentsopport.site^
 ||ps123.net/MyFile/
 ||ps557.com/link/
@@ -25153,6 +25164,7 @@ zzzyk.com###Tinfo
 ||trektinyreproduce.com^
 ||trendmicro.com.tw/wp-content/uploads/*Banner
 ||trenhdg.com^$3p
+||trepanation07.top^
 ||trerqekuw.com^
 ||trfmxf.xyz^
 ||trgp7pddid.com^

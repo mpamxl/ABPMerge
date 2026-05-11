@@ -4847,7 +4847,9 @@ free.com.tw###custom_html-11
 free.com.tw###custom_html-5
 free.com.tw##.advads-entity-placement
 freecodecamp.cn,freecodecamp.one#@#.btn-social
+freedidi.com##+js(abort-on-property-read, SPM_CONFIG.adblockOnly)
 freedidi.com##.sidebar-content > div[id^="custom_html-"]
+freedidi.com##.spm-on:has(> div[class^="spm"] > .spm-body > a[target="_blank"])
 freedidi.com##a[href*="/bittly.cc"]
 freedidi.com#@#.adsBanner
 freedidi.com,ottawazine.com##div[id^="text-"]
