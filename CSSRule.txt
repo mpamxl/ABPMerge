@@ -338,6 +338,10 @@
 ##.ad-pc
 ##.ad-right-down
 ##.ad-right-top
+##.ad-s2-card
+##.ad-s3-block
+##.ad-s4-block
+##.ad-s5-block
 ##.ad-shine-panel
 ##.ad-site
 ##.ad.mi_btcon
@@ -9361,6 +9365,8 @@ xixik.com###news_contents_left > .left_gg
 xjwiki.github.io#@##pub_head
 xkeba.com###diy90
 xkyn.com##+js(set-constant, conone_lmg, noopFunc)
+xl02.com.de##+js(abort-current-script, Function, .map(function)
+xl02.com.de##+js(set-cookie, closeAd, 1)
 xmfish.com###pw_content > .forum_panel:nth-child(4)
 xmfish.com##.advert-entry-list
 xmfish.com##.readCon_right
