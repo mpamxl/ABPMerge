@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-11 17:48:52
-! Total count: 28142
+! Version: 2026-05-12 10:23:42
+! Total count: 28150
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13851,6 +13851,7 @@ zzzyk.com###Tinfo
 ||9ck9umcyvt.com^
 ||9clasfdc3.com^
 ||9cwcu1574.com^
+||9dehzr5d2i.com^
 ||9dl3w12u5.com^
 ||9duw.com/js/sj
 ||9duw.com/pic/
@@ -16864,6 +16865,7 @@ zzzyk.com###Tinfo
 ||dissolution06.com^
 ||ditorialproce.biz^
 ||ditruntp.com^
+||divcb7ycs5.com^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
 ||divergentld.com^
@@ -18279,6 +18281,7 @@ zzzyk.com###Tinfo
 ||ght2bvin1.com^
 ||ghwmbue.icu^
 ||giaoji.com/Runtime/Js/
+||giaumusnsj.com^
 ||gifcdncn.trafficmanager.net^
 ||gigptruetlop.com^
 ||gigtoy.icu^
@@ -21075,6 +21078,7 @@ zzzyk.com###Tinfo
 ||lm865.com^
 ||lm882.com^
 ||lm995.com^
+||lmhrchi.com^
 ||lmldxd.icu^
 ||lmlmvip.com^
 ||lmnpd.xyz^
@@ -21971,6 +21975,7 @@ zzzyk.com###Tinfo
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
 ||n26iiffw9.com^
+||n2bqyqg5u3.com^
 ||n2d79v41a3.com^
 ||n2ivsbik2.com^
 ||n2xj2mxg3z.com^
@@ -22429,6 +22434,7 @@ zzzyk.com###Tinfo
 ||ofincm.icu^
 ||ofja.cn^
 ||ofkccsp35i.com^
+||ofmxtlbgqp.com^
 ||ofoltekbn.com^
 ||ofooe.cn^
 ||ofreadingand.biz^
@@ -24472,6 +24478,7 @@ zzzyk.com###Tinfo
 ||souka.me/ad/
 ||soulsoul.xyz^
 ||soulu365.com/images/zhuce.jpg
+||sounding72.com^
 ||sourdine34.com^
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
@@ -28008,6 +28015,7 @@ zzzyk.com###Tinfo
 ||zrblog.net/zanzhu/virpus.gif
 ||zrbnte.top^
 ||zrgbh6bm.icu^
+||zrjr81na94.com^
 ||zrljzgs.xyz^
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
