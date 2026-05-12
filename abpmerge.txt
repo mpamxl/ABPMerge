@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-12 10:23:42
-! Total count: 28150
+! Version: 2026-05-12 17:52:22
+! Total count: 28154
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12117,6 +12117,7 @@ zh141.com###text1
 zh141.com##a[title*="廣告"]
 zhainanba.org##.marauto > p[style="text-align: left;"]
 zhakao.cn##.main > div[id^="_"][style^="box-sizing: content-box; display: block; position: fixed; z-index:"]
+zhale.me##.sponsor-card
 zhangxinxu.com##div[class^="col-left"] > a[href^="https://item.jd.com/"][style="display:block!important;position:sticky;top:0;"]
 zhanqi.tv###js-room-flash-banner-panel
 zhaohuangpian.net##a[href="https://galaxymedia.xyz/app/"]
@@ -13474,6 +13475,7 @@ zzzyk.com###Tinfo
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
 ||6pctuhriw.com^
+||6q77vsjez1.com^
 ||6quspne.com^
 ||6s0zo8jzbb.com^
 ||6s8w2ck1g.com^
@@ -23927,6 +23929,7 @@ zzzyk.com###Tinfo
 ||rvrl1srlq.com^
 ||rvyjbwr.cn^
 ||rvzlobj.cn^
+||rw56y62bgg.com^
 ||rwbqll.top^
 ||rwtezd.icu^
 ||rwtraqur.com^
@@ -24919,6 +24922,7 @@ zzzyk.com###Tinfo
 ||tggsd07.com^
 ||tghigvud.com^
 ||tgjxzf.top^
+||tgurcoinei.com^
 ||tgxpdr.icu^
 ||tgymhwt.cn^
 ||tgyxpfjws.com^

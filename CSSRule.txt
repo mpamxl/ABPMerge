@@ -9583,6 +9583,7 @@ zh141.com###text1
 zh141.com##a[title*="廣告"]
 zhainanba.org##.marauto > p[style="text-align: left;"]
 zhakao.cn##.main > div[id^="_"][style^="box-sizing: content-box; display: block; position: fixed; z-index:"]
+zhale.me##.sponsor-card
 zhangxinxu.com##div[class^="col-left"] > a[href^="https://item.jd.com/"][style="display:block!important;position:sticky;top:0;"]
 zhanqi.tv###js-room-flash-banner-panel
 zhaohuangpian.net##a[href="https://galaxymedia.xyz/app/"]
