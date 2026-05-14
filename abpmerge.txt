@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-13 17:54:28
-! Total count: 28165
+! Version: 2026-05-14 10:05:36
+! Total count: 28170
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14630,6 +14630,7 @@ zzzyk.com###Tinfo
 ||ancheonyo.fun^
 ||android.bugly.qq.com^
 ||anemonew33.top^
+||anesthesia58.top^
 ||anews7.nvwu.com^
 ||angelweb.cn/Inc/AngelG.js
 ||anhj4arn4.com^
@@ -18660,6 +18661,7 @@ zzzyk.com###Tinfo
 ||gybyxsy1588.com^
 ||gyhgcgj.xyz^
 ||gyjinchuang.vip^
+||gyoqnunyfy.com^
 ||gypowdr.com^
 ||gyq3bew.icu^
 ||gyqifa.com^
@@ -19409,6 +19411,7 @@ zzzyk.com###Tinfo
 ||idubwz.cn^
 ||idv.st/dns/bar.htm
 ||idynbff.cn^
+||idzdsbanio.com^
 ||ieeod0.com^
 ||iefmvk.cn^
 ||ieforex.com/r/cms/www/red/red2/images/*0.
@@ -22003,6 +22006,7 @@ zzzyk.com###Tinfo
 ||n6579.com^
 ||n7181.com^
 ||n72bn5s7uu.top^
+||n8bpikx1mt.com^
 ||n906n29tm.com^
 ||naarnurm.com^
 ||naemailom.fun^
@@ -25435,6 +25439,7 @@ zzzyk.com###Tinfo
 ||u40pdqw.com^
 ||u4h8saw19.com^
 ||u4jlr6f6n2.com^
+||u4q3l5ksmw.com^
 ||u55011.com^
 ||u5eguuk2n.com^
 ||u5smvk9bg.com^
