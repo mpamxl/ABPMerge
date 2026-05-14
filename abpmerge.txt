@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-14 10:05:36
-! Total count: 28170
+! Version: 2026-05-14 17:41:20
+! Total count: 28174
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1446,6 +1446,7 @@
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div.my-ad > a
 ##div.page-d.page-turn > [style='position: relative; margin: auto; clear: both; width: 300px;']
+##div.page.list div.small-icon-container
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
@@ -13014,6 +13015,7 @@ zzzyk.com###Tinfo
 ||3pzqcv5hc5.com^
 ||3q3l.cn^
 ||3q9j4w2r9d.com^
+||3qtdjf4830.com^
 ||3qx0pnhyzi.com^
 ||3qxsa.cc/js/news2.js
 ||3rcld5y1dm.com^
@@ -19886,6 +19888,7 @@ zzzyk.com###Tinfo
 ||izgl.cn^
 ||izkgl35mq.com^
 ||izopsg.icu^
+||izrtyacymo.com^
 ||iztwp.com/images/
 ||izzodzmuu.com^
 ||j.baminw.cn^
@@ -21809,6 +21812,7 @@ zzzyk.com###Tinfo
 ||mql5.com/rq?
 ||mqndhoceat.com^
 ||mqondrun.com^
+||mqunqwsyrw.com^
 ||mqwmgs.xyz^
 ||mr6c4eqmh.com^
 ||mrgecm.xyz^
