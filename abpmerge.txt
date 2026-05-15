@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-14 17:41:20
-! Total count: 28174
+! Version: 2026-05-15 10:12:09
+! Total count: 28180
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13722,6 +13722,7 @@ zzzyk.com###Tinfo
 ||8mhcc.top^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
+||8pbiddjtp.com^
 ||8pjqjxmr.com^
 ||8proe3xx6.com^
 ||8radc6a0m2.com^
@@ -14815,6 +14816,7 @@ zzzyk.com###Tinfo
 ||atpm.cn^
 ||atsgiu.icu^
 ||att.ydss.cn/attachments/portal/
+||attainder41.com^
 ||attendant36.top^
 ||attraction85.com^
 ||aty.sohu.com/v?
@@ -16674,6 +16676,7 @@ zzzyk.com###Tinfo
 ||dbw.cn/eap/js/hl/hlj_ad
 ||dbxok6uo.icu^
 ||dbzolzzy7s.com^
+||dc5koxhfh.com^
 ||dceuhnpc57.shop^
 ||dciep.xyz^
 ||dcpgdj.icu^
@@ -18677,6 +18680,7 @@ zzzyk.com###Tinfo
 ||gzasiatech.net^
 ||gzfzcj.cn^
 ||gzk72wa1f.com^
+||gzldas.icu^
 ||gzqvd.cn^
 ||gzsjym.xyz^
 ||gzsy12348.com^
@@ -18847,6 +18851,7 @@ zzzyk.com###Tinfo
 ||hdbvfhjebfiendhr.com^
 ||hdc.maxli.cn^
 ||hdchina.*/styles/topshow/AD/
+||hdcvecyv8.com^
 ||hdfdsdaw.com^
 ||hdjthzg.cn^
 ||hdmoli.pro/a_d/
@@ -19674,6 +19679,7 @@ zzzyk.com###Tinfo
 ||inkuae.com^
 ||inlishui.com/index.php?m=poster&
 ||innveu2ji6.com^
+||ino4637d0.com^
 ||inone517.com^
 ||inoreader.com/adv/$domain=inoreader.com
 ||inowe.xyz^
