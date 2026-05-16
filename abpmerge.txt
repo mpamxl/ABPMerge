@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-15 17:21:05
-! Total count: 28184
+! Version: 2026-05-16 09:21:07
+! Total count: 28189
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2979,6 +2979,7 @@ $websocket,domain=wap.yushuwu.cloud
 115.com##.gb-advs
 115.com##li#js_common_act-enter
 115cdn.com##.feature-float
+115cdn.com##.flex-shrink-0 > .w-full:has(> div.spotlight-ad-container)
 115cdn.com##a[href="https://vip.115.com/"] > img
 118pan.com##.card.mt-2:nth-child(2)
 120ask.com##.b_right > div[style]
@@ -13644,6 +13645,7 @@ zzzyk.com###Tinfo
 ||80yc.com/js/yidong/
 ||8131.qizhihaotian.cn^
 ||8181zx.com^
+||81bkkx81zd.com^
 ||81book.com/static/scripts/1.js
 ||81book.com/static/scripts/common.
 ||81wx.info^
@@ -18105,7 +18107,6 @@ zzzyk.com###Tinfo
 ||gameone.com^$3p
 ||gamersky.com/common/tg/
 ||gamersky.com/g/gamerskyflash.js
-||gamersky.com^*/getAdPositionIncDetail?
 ||games.ifeng.com^$subdocument
 ||games.ifeng.com^*.shtml?v=
 ||games95.com^
@@ -19779,6 +19780,7 @@ zzzyk.com###Tinfo
 ||iruacwa.xyz^
 ||iry7addri8.com^
 ||irzi.cn^
+||is16yobjh7.com^
 ||isancio.top^
 ||isdfbvkvsc.xyz^
 ||ishisetianxia.com/tb.js
@@ -22814,6 +22816,7 @@ zzzyk.com###Tinfo
 ||pcauto.com.cn/zt/halfprice/
 ||pcbeta.com/data/cache/_djwbhgprrtnmby.js
 ||pcbeta.com/data/cache/common_fbdbbsyuzhttpx.js
+||pcc980pvul.com^
 ||pccoo.cn/js/dlv1.0.js
 ||pcgames.com.cn*/index.js
 ||pcgames.com.cn/g/
@@ -23102,6 +23105,7 @@ zzzyk.com###Tinfo
 ||precipice55.com^
 ||prelandappslab.com^
 ||prelude69.com^
+||prescription55.top^
 ||preserved32.top^
 ||pretension48.top^
 ||prettyvirgin.com/images/banners/
@@ -23571,6 +23575,7 @@ zzzyk.com###Tinfo
 ||qucncfo.cn^
 ||qucnmty.top^
 ||qucnwty.top^
+||qucxwvt.com^
 ||qudajie.com^
 ||quge66.com/jdjd/
 ||qujishu.com^
