@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-17 16:45:32
-! Total count: 27849
+! Version: 2026-05-18 11:37:06
+! Total count: 27855
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13001,6 +13001,7 @@ zzzyk.com###Tinfo
 ||3i2i.com^
 ||3i3w8hl6do.com^
 ||3ikcnjvsx.com^
+||3is34bpqs4.com^
 ||3j1fiw14n9.com^
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
@@ -17276,6 +17277,7 @@ zzzyk.com###Tinfo
 ||eccki.cn^
 ||eccn.com/js/gg.js
 ||eccn.com/js/popupad_
+||ecg21n9t8d.com^
 ||ecimg.tw/img/xdsys/*/layout/*/sign/channel*/ad_*.jpg
 ||eclassified.my/cp_featured
 ||ecma.bdimg.com^
@@ -19563,6 +19565,7 @@ zzzyk.com###Tinfo
 ||immaterial79.com^
 ||immediate49.com^
 ||immunity44.com^
+||immunity95.com^
 ||imnks.com/ad2023/$image
 ||imooc.com/open/courselistrandjs
 ||imp.zol.com.cn^
@@ -20086,6 +20089,7 @@ zzzyk.com###Tinfo
 ||jollyspring.com^
 ||jollytestpartying.com^
 ||jomwihn.cn^
+||josqdb7jn4.com^
 ||jotedd.icu^
 ||jothvz.xyz^
 ||jp1357.com/addon/
@@ -22269,6 +22273,7 @@ zzzyk.com###Tinfo
 ||o9qdqbu6nu.com^
 ||oa-panther.data.aliyun.com^$3p
 ||oa.hinews.cn/work/img/
+||oa83fs5udz.com^
 ||oa88s0gb8.com^
 ||oaatyq.icu^
 ||oaclrst.cn^
@@ -26756,6 +26761,7 @@ zzzyk.com###Tinfo
 ||xsyhy.cn^
 ||xt1nx0rs7n.com^
 ||xtbzff.xyz^
+||xtg5gdugqi.com^
 ||xtjpdfr.cn^
 ||xtnwxhjv.xyz^
 ||xtpwfb.xyz^
