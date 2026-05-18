@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-18 11:37:06
-! Total count: 27855
+! Version: 2026-05-18 17:51:34
+! Total count: 27859
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1364,7 +1364,7 @@
 ##body > div#inplayer[align="center"]
 ##body > div.container[style="margin-bottom: 10px;"] > script:first-child ~ div[style="height:60px;width:100%;"]
 ##body > div[style$=";background: #000;opacity:0.01;"]
-##body > div[style=" max-width:990px; margin:0 auto;"]:first-child > a[target="_blank"]
+##body > div[style=" max-width:990px; margin:0 auto;"] > a[target="_blank"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
 ##body#chapterbody.novel_chapter [style='padding-top: 150px;']
@@ -19266,6 +19266,7 @@ zzzyk.com###Tinfo
 ||i3z.cn^$3p
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i4320rdrta.com^
+||i5le8m3qxs.com^
 ||i5q1t8vj9.com^
 ||i5qquywfz.com^
 ||i5rp73ne9h.com^
@@ -27175,6 +27176,7 @@ zzzyk.com###Tinfo
 ||ytelc.com^$3p
 ||yto3kavwud.com^
 ||ytoontoteh.com^
+||ytpfbbg6hl.com^
 ||ytqeavc.icu^
 ||ytqlyw.xyz^
 ||ytralvbmto.com^
@@ -27667,6 +27669,7 @@ zzzyk.com###Tinfo
 ||zmdjbl.xyz^
 ||zmdttx.icu^
 ||zmg15qfvi.com^
+||zmhpphp.forum^
 ||zmhqhuq.cn^
 ||zmk.pw/zfb.png
 ||zmk852tp7.com^
@@ -27722,6 +27725,7 @@ zzzyk.com###Tinfo
 ||zrbnte.top^
 ||zrgbh6bm.icu^
 ||zrjr81na94.com^
+||zrkeirapi.com^
 ||zrljzgs.xyz^
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
