@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-19 10:53:16
-! Total count: 27862
+! Version: 2026-05-19 17:56:57
+! Total count: 27865
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11139,6 +11139,7 @@ theav.xyz##div[v-if="is_show()"]
 theav.xyz,69xx.one,theporn.cc###alert_windows:style(display: none !important;)
 theav.xyz,69xx.one,theporn.cc##+js(set-constant, is_show, false)
 theav.xyz,69xx.one,theporn.cc##.q-body--prevent-scroll:style(position: static !important;)
+thebaynet.com#@#.ad-above-footer
 thecatcity.com##.article-page__ad-block
 thenewslens.com##div[class^="help-tnl-"]
 thepaper.cn##[class^='index_footer_banner']
@@ -13033,6 +13034,7 @@ zzzyk.com###Tinfo
 ||3x1ry6we9.com^
 ||3x5h6x434.com^
 ||3x8zapzon.com^
+||3xeedcdci.com^
 ||3xeo00tqz.com^
 ||3yej.xyz^
 ||3yq51wjim.com^
@@ -16528,6 +16530,7 @@ zzzyk.com###Tinfo
 ||d8lzzy93g.com^
 ||d8oh0sebl8.com^
 ||d9q4aa05g4.com^
+||d9zx24n0d.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
 ||da.duowan.com/loc/
