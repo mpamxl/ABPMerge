@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-19 17:56:57
-! Total count: 27865
+! Version: 2026-05-20 10:41:23
+! Total count: 27872
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -117,6 +117,7 @@
 ###fc_foot > #f_skyf
 ###fixed-bottom-modal[style^="right:"][style$="px; display: block;"]
 ###fk_faiVisitStateAd
+###float-ad
 ###floatad-winpop
 ###fnbt
 ###foot > #btmBox
@@ -150,6 +151,7 @@
 ###hongbao20201217
 ###imgad
 ###imgs5[height="60px"]
+###index-ad-banner
 ###index_aside_ad
 ###index_banner[src*=".imgdd.com"]
 ###index_banner[src*=".meituan.net"]
@@ -15778,6 +15780,7 @@ zzzyk.com###Tinfo
 ||camep.xyz^
 ||camerain.top^
 ||camspic.com/imguang/*.gif
+||cancellation10.top^
 ||cancellation39.com^
 ||cancellation58.top^
 ||canimgs.com/images/
@@ -19273,6 +19276,7 @@ zzzyk.com###Tinfo
 ||i5le8m3qxs.com^
 ||i5q1t8vj9.com^
 ||i5qquywfz.com^
+||i5rd6bukys.com^
 ||i5rp73ne9h.com^
 ||i6nnwepgm.com^
 ||i73u6dnnh.com^
@@ -20985,6 +20989,7 @@ zzzyk.com###Tinfo
 ||lm865.com^
 ||lm882.com^
 ||lm995.com^
+||lmd6dc1aq7.com^
 ||lmhrchi.com^
 ||lmldxd.icu^
 ||lmlmvip.com^
@@ -26159,6 +26164,7 @@ zzzyk.com###Tinfo
 ||wraataikep.com^
 ||wral.cn^
 ||wravorzt.com^
+||wrdo8dl9bb.com^
 ||wres.cn^
 ||wrestle22.top^
 ||wrlhhgeyh.com^
@@ -26648,6 +26654,7 @@ zzzyk.com###Tinfo
 ||xlardaxq.com^
 ||xldyxnzo6.com^
 ||xleemek84.com^
+||xlekg58lub.com^
 ||xlhdicw.top^
 ||xlivrdr.com^
 ||xlmp4.cc/js/wcount.js

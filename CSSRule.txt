@@ -112,6 +112,7 @@
 ###fc_foot > #f_skyf
 ###fixed-bottom-modal[style^="right:"][style$="px; display: block;"]
 ###fk_faiVisitStateAd
+###float-ad
 ###floatad-winpop
 ###fnbt
 ###foot > #btmBox
@@ -145,6 +146,7 @@
 ###hongbao20201217
 ###imgad
 ###imgs5[height="60px"]
+###index-ad-banner
 ###index_aside_ad
 ###index_banner[src*=".imgdd.com"]
 ###index_banner[src*=".meituan.net"]
