@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-20 18:09:01
-! Total count: 27875
+! Version: 2026-05-21 10:57:59
+! Total count: 27886
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1233,6 +1233,7 @@
 ##a[href$=".xyz:8443"]
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
+##a[href*=".6666ai.top"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".cc:"] > img[src]
 ##a[href*=".cc:"][target="_blank"][class] > span
@@ -1947,6 +1948,7 @@ $websocket,domain=wap.yushuwu.cloud
 .yui0*shga.com/$script,xhr,3p
 .z.dkt-ib.com
 .zone/ads/
+/*.css?*r=0$third-party
 /*/*.add.*.add
 /*_*_aubi.js$third-party
 //*.emgrt.com^$3p
@@ -12825,6 +12827,7 @@ zzzyk.com###Tinfo
 ||2e629ntxk3.com^
 ||2euqnxt25.com^
 ||2f4a93wskk.com^
+||2fhn1qmca.com^
 ||2fjxw3dyip.com^
 ||2g1lbrr0qv.com^
 ||2g8lomzrb.com^
@@ -13465,6 +13468,7 @@ zzzyk.com###Tinfo
 ||6gxs.net/js/
 ||6h6pdph56.com^
 ||6hejing.cn^
+||6iejd9pk0.com^
 ||6iiz8ni96v.com^
 ||6iwoif.com^
 ||6iyq4atled.com^
@@ -14740,6 +14744,7 @@ zzzyk.com###Tinfo
 ||appsupport.qq.com^
 ||apptime.xyz^
 ||apptry.easylife.tw/pub/js/common/common.js
+||apricot48.com^
 ||apsgo.com/assets/js/union.
 ||apsgo.com/go/
 ||aq0vs4ftni.com^
@@ -19593,6 +19598,7 @@ zzzyk.com###Tinfo
 ||infucierg.com^
 ||inhe.*/Uploadfiles/adpublish
 ||inhe.net/Uploadfiles/inhegg2016/
+||ininav.com/sites/default/files/js/js
 ||inkuae.com^
 ||inlishui.com/index.php?m=poster&
 ||innveu2ji6.com^
@@ -21319,6 +21325,7 @@ zzzyk.com###Tinfo
 ||maljxp.cn^
 ||mall.xinkuaituan.com/zhuanti/
 ||mall0.qiyipic.com^
+||malluktig.in^
 ||mamecn.com/style/pcjs/bgimg.
 ||mamibuy.com.tw/Ad/Period.aspx
 ||manage.wdfans.cn^
@@ -21359,6 +21366,7 @@ zzzyk.com###Tinfo
 ||mat1.gtimg.com/cq/flash/
 ||mat1.gtimg.com/ent/flash/*300
 ||matwbp.iask.sina.com.cn^
+||mavrtracktor.com^
 ||maximpetus.com^
 ||maxthonimg.com/v6/festival/
 ||mazincike.com^
@@ -22362,6 +22370,7 @@ zzzyk.com###Tinfo
 ||oiwlnlu.com^
 ||oizs.cn^
 ||oj2c0dkk4.com^
+||oj95rctd5.com^
 ||ojbkmcsdx.xyz^
 ||ojg8sflgl.com^
 ||ojh9bc9puh.com^
@@ -23550,6 +23559,7 @@ zzzyk.com###Tinfo
 ||remehealth.net^$3p
 ||remfebd.cn^
 ||reminews.com^
+||renamereptiliantrance.com^
 ||rengbali.fun^
 ||renhadmasandbab.info^
 ||renrenkanpian.com^
@@ -25877,6 +25887,7 @@ zzzyk.com###Tinfo
 ||w18.9939.com^
 ||w1irjtvdt4.com^
 ||w2j4kdjma.com^
+||w2q5p09n8.com^
 ||w3.ting55.com^
 ||w3019cdt.top^
 ||w3cfba6ufr.com^
