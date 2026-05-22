@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-22 10:41:32
-! Total count: 27891
+! Version: 2026-05-22 17:44:24
+! Total count: 27898
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4827,6 +4827,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||muzlan.top^$generichide
 @@||mvcat.com^$generichide
 @@||myssl.com/scripts/analyze.js
+@@||mytvsuper.com^$generichide
 @@||nceea.cn/Content/images/ad/
 @@||netded.com/plus/ad_js.php?aid=3|
 @@||netflav.com^$generichide
@@ -5062,6 +5063,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||tui.click^$generichide
 @@||tv99.tv^$generichide
 @@||tvb.com/social/share_
+@@||tvb.com^$generichide
 @@||tvb.com^*/videojs.ads.
 @@||tvbanywherena.com^$generichide
 @@||txws.yyzb456.top^$domain=857zb7.tv
@@ -14031,6 +14033,7 @@ zzzyk.com###Tinfo
 ||a32a.com.cn^$3p
 ||a48505.cn^
 ||a4bbltm3u2.com^
+||a4j126meg3.com^
 ||a4sz.xyz^
 ||a4xvv2g18l.com^
 ||a51wzxssu.com^
@@ -17594,6 +17597,7 @@ zzzyk.com###Tinfo
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f7eiavl95.com^
+||f7qhnenfbo.com^
 ||f7tkpjw6v.com^
 ||f7ugx6b863.com^
 ||f8c2gftcsj.com^
@@ -17906,6 +17910,7 @@ zzzyk.com###Tinfo
 ||friendshipmale.com^
 ||frontendjs.com/api/ad
 ||fronttoad.com^
+||frp8r3le9c.com^
 ||frpns.com^
 ||frrhdl.xyz^
 ||frsejhged.xyz^
@@ -23401,6 +23406,7 @@ zzzyk.com###Tinfo
 ||qucxwvt.com^
 ||qudajie.com^
 ||quge66.com/jdjd/
+||quince22.top^
 ||qujishu.com^
 ||qunar.com/render/*Advertisement.jsp?
 ||qunar.com/vata?chan=
@@ -24630,6 +24636,7 @@ zzzyk.com###Tinfo
 ||t7x22m7c.com^
 ||t7ywa5ai3.com^
 ||t8t8jyxsr.com^
+||t9x2gu6it3.com^
 ||ta20k.xyz^
 ||ta7088hrd.com^
 ||ta7tfk0o2h.com^
