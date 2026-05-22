@@ -681,6 +681,7 @@
 ##.nQIAj1
 ##.nav-ads
 ##.nav-area + .wrapper .tuiguang
+##.newsAD
 ##.newstyle > .container > a[target="_blank"]
 ##.newstyle > a > img[src*="img.com/i/"]
 ##.no-mobile[style="position: fixed;right:0px;bottom: 0px;"]
@@ -8474,6 +8475,7 @@ starbaby.cn###yindex_ads
 start.firefoxchina.cn##.mod-delay-resource
 start.firefoxchina.cn##.wrap > div[style]:last-child
 stat-nba.com###ad_video
+staticfile.link###player_pause
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 steachs.com##.sidebar:first-child

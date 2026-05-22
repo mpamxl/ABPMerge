@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-21 17:49:41
-! Total count: 27888
+! Version: 2026-05-22 10:41:32
+! Total count: 27891
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -686,6 +686,7 @@
 ##.nQIAj1
 ##.nav-ads
 ##.nav-area + .wrapper .tuiguang
+##.newsAD
 ##.newstyle > .container > a[target="_blank"]
 ##.newstyle > a > img[src*="img.com/i/"]
 ##.no-mobile[style="position: fixed;right:0px;bottom: 0px;"]
@@ -3989,6 +3990,7 @@ $websocket,domain=wap.yushuwu.cloud
 :81/c/i.php?id=$script
 :81/s/i.php?id=$script
 :818/nowscore/
+:866/o.js$script,3p
 :8686/8888/*.gif$3p,image
 :88/999pc/
 :88/lighttpd/default/
@@ -10986,6 +10988,7 @@ starbaby.cn###yindex_ads
 start.firefoxchina.cn##.mod-delay-resource
 start.firefoxchina.cn##.wrap > div[style]:last-child
 stat-nba.com###ad_video
+staticfile.link###player_pause
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 steachs.com##.sidebar:first-child
