@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-25 11:43:00
-! Total count: 27905
+! Version: 2026-05-25 17:27:24
+! Total count: 27912
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10120,7 +10120,7 @@ pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
 ping0.cc###adbright
 ping0.cc##.xzeles
-ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> .closead)
+ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
 pinggu.org##.indextop-r
@@ -15891,7 +15891,7 @@ zzzyk.com###Tinfo
 ||cdn.holmesmind.com^$3p
 ||cdn.itphanpytor.club^
 ||cdn.jquery-cdn.cc^
-||cdn.ping0.cc/images/ax/*.gif$~3p
+||cdn.ping0.cc/images/dx/*.gif$~3p
 ||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=m.yichengwlkj.com
 ||cdn.shdsp.net/ad
 ||cdn.uameta.ai/file/bucket-media/image/advertisement/
@@ -16516,6 +16516,7 @@ zzzyk.com###Tinfo
 ||d3s9in1sg.com^
 ||d4.sina.com.cn^$object,script
 ||d48paxyhx.com^
+||d4dlgw9mi.com^
 ||d4rxxm6ig.com^
 ||d4vd.life/love/
 ||d4xmm7es84.com^
@@ -16774,6 +16775,7 @@ zzzyk.com###Tinfo
 ||dghehu.com^
 ||dghhot.com^
 ||dghkpp.xyz^
+||dgnqrl.icu^
 ||dgvkrt.xyz^
 ||dgxjxeuzm.com^
 ||dgxlm.xyz^
@@ -18932,6 +18934,7 @@ zzzyk.com###Tinfo
 ||hiaphrilloig.com^
 ||hiaxj.com/dbxf/
 ||hibiquan.com/uploads/images/
+||hibiscus76.com^
 ||hickeyhsu.top^
 ||hidzrf.icu^
 ||hifyeldu.top^
@@ -20946,6 +20949,7 @@ zzzyk.com###Tinfo
 ||lixiaodongcy.com^
 ||lizehuandian.top^
 ||lj0hx1sboy.com^
+||lj43bm3y8.com^
 ||ljarfvg.cn^
 ||ljvt4pnl9.com^
 ||lk0v8teerw.com^
@@ -22361,6 +22365,7 @@ zzzyk.com###Tinfo
 ||ohvk.cn^
 ||ohvtrokyq.com^
 ||ohwb.cn^
+||oi0wm8b09.com^
 ||oi9rp7.online^
 ||oiewpw.com^
 ||oifyeldk.top^
@@ -25679,6 +25684,7 @@ zzzyk.com###Tinfo
 ||vhsutpgui.xyz^
 ||vhulan.com^
 ||vhutitpu.icu^
+||vhwrju18p.com^
 ||vhxahf.icu^
 ||vickyellend.com^
 ||victoriaelmae.com^
@@ -27390,6 +27396,7 @@ zzzyk.com###Tinfo
 ||z84dbowgc.com^
 ||z93grqmdaq.com^
 ||z9dy1kq9wv.com^
+||z9o0rgee8.com^
 ||z9sab7vr0b.com^
 ||zabdybod*.club^
 ||zacff.com^
