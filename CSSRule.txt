@@ -415,6 +415,7 @@
 ##.appguide-wrap[onclick*="bcebos.com"]
 ##.archive > a[ontouchstart="this.click();"]
 ##.area > .tuiguang
+##.art-layer-ad
 ##.artad
 ##.article-pop-up-ad
 ##.artplayer-plugin-ads
@@ -1760,14 +1761,15 @@
 12306.cn##.fix-yh
 12306.cn,club.pchome.net,qinbing.cn###slideBox
 12377.cn###notice
+123pan.cn##.web-wrap > div:has(> img[src^="https://statics.123pan.com/"])
+123pan.cn,123865.com##+js(no-window-open-if)
+123pan.cn,123865.com##.bg_svip_block_ads
 123pan.com##.advBanner
 123pan.com##.ant-carousel
 123pan.com##.baidu-banner-container
 123pan.com##.banner-container-h5
 123pan.com##.banner-container-pc
 123pan.com##div[style="width:100%;position:absolute;bottom:0;height:96px"]
-123pan.com,123865.com##+js(no-window-open-if)
-123pan.com,123865.com##.bg_svip_block_ads
 123pan.com,meidebi.com,weicaixun.com#@#.share-list
 125.la##.forumlist_ad
 126.com,163.com##.gWel-promt
@@ -6061,8 +6063,10 @@ ithome.com##.bl > li:has(> a[href*="/lapin."])
 ithome.com##.bx-recom2
 ithome.com##.con-recom
 ithome.com##.indexV2 > div > a
+ithome.com##.j_iframe_show > iframe
 ithome.com##.lapin
 ithome.com##.placeholder:has(> a > .plc-con > .plc-footer > .tip-gray)
+ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
 ithome.com##.rds
 ithome.com##.related_buy
 ithome.com##.rm-modal-bg
@@ -8759,6 +8763,7 @@ ttsp.tv##.play_list_adbox
 tui18.com##.wp[style^="width:"]
 tuliu.com##.zx-advertising-box
 tumutanzi.com###text-3
+tupaki.com##div[id^="detail_wrap_ad"]
 tuwan.com##.Video-r-ad
 tuwan.com##div[style$="height:90px;"]
 tuwan.com##div[style="width: 360px;margin-top:10px;"]
