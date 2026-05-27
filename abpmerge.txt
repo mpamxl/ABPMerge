@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-27 11:29:00
-! Total count: 27939
+! Version: 2026-05-27 18:19:15
+! Total count: 27943
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7326,8 +7326,6 @@ fmprc.gov.cn,mfa.gov.cn#@#.adbox2
 fnc.ebc.net.tw##.dfp_ad
 followme.cn##.fm-banner-social
 followme.cn##.money-box
-foodieteller.com##+js(abort-on-property-write, __ad_unblock_id_obfuscation)
-foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
 foodmate.net##.ad5
 foodmate.net##.m[style="height:40px;"]
 foodmate.net##.zx_ad
@@ -9694,6 +9692,8 @@ mywpku.com##.sidebar-recommended
 naifei.im##.tg_w
 naifei.im##div[class^="wp-none"]
 naifei.im##div[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
+nanai.tw,foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##+js(abort-on-property-write, __ad_unblock_id_obfuscation)
+nanai.tw,foodieteller.com,candylife.tw,uptogo.com.tw,pokemonhubs.com,free.com.tw,daybuy.tw##body .code-block
 nanfengyl.com##.index-top-ad1
 nanfengyl.com##.top-ad-txt
 nani.baidu.com,ala.baidu.com##.tbui_aside_float_bar + .clearfix
@@ -18804,6 +18804,7 @@ zzzyk.com###Tinfo
 ||hcjwq.cn^
 ||hcl6pwowqv.com^
 ||hcvegu.com^
+||hczj7w56k.top^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||hdbltq.top^
@@ -23548,6 +23549,7 @@ zzzyk.com###Tinfo
 ||rbjpti.top^
 ||rbjwels.xyz^
 ||rbkidelmug.com^
+||rbmg4agmo.com^
 ||rbodwtj.icu^
 ||rbqv91egxy.com^
 ||rbrbr88p.cn^
@@ -25387,6 +25389,7 @@ zzzyk.com###Tinfo
 ||uiqouw.icu^
 ||uiqyuydt9t.com^
 ||uiteligularly.fun^
+||uj08lr3rv.com^
 ||uj2h8xm8w.com^
 ||ujfyzxfc01.com^
 ||ujgf120.com^
@@ -25971,6 +25974,7 @@ zzzyk.com###Tinfo
 ||w5bi16f3co.com^
 ||w5c6d9.cc^
 ||w5daa5.com^
+||w5eep9esa.com^
 ||w5ftl8bhu3.com^
 ||w6xbr7hc.xyz^
 ||w6xdba54n.com^
