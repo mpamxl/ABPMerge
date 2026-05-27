@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-26 18:16:28
-! Total count: 27929
+! Version: 2026-05-27 11:29:00
+! Total count: 27939
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9795,6 +9795,7 @@ newsmth.net###ban_ner
 newsmth.net##.b-content > #sogou_banner:nth-child(3)
 newsmth.net##.ns-ad
 newtalk.tw###_popIn_recommend
+newtalk.tw##.ad-half
 newtalk.tw##.dable_response
 newtalk.tw##.extend_ad
 newtalk.tw##div[id^="ATS_"]
@@ -15871,6 +15872,7 @@ zzzyk.com###Tinfo
 ||ccement.com/index/index/fetchAd
 ||ccement.com/js/ccement_new/open.js
 ||cchvc.net^
+||ccjyphp.forum^
 ||cckke.com/fanhao/v/ad
 ||ccmeng.com^$3p
 ||ccnim.xyz^
@@ -18765,6 +18767,7 @@ zzzyk.com###Tinfo
 ||hash.trafficmanager.net^
 ||hauqou.top^
 ||hawfeniku.com^
+||hawthorn33.top^
 ||hawthorng66.top^
 ||hax.co.id/dist/js/ajax.js
 ||hazardous58.top^
@@ -19846,6 +19849,7 @@ zzzyk.com###Tinfo
 ||j33xvvanl.com^
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
+||j3idyosut.com^
 ||j4mxrs21gh.com^
 ||j4s12kfavg.com^
 ||j5sgdum5n4.com^
@@ -19922,6 +19926,7 @@ zzzyk.com###Tinfo
 ||jcquhetqcp.com^
 ||jcrb.com/ZYW$subdocument
 ||jcwtml.icu^
+||jcyy3wifq.com^
 ||jd-bbs.com^*/gif/
 ||jd.com/bottom/cps
 ||jd.com/ddimg/$domain=bimiacg.net
@@ -22013,6 +22018,7 @@ zzzyk.com###Tinfo
 ||news.tagtoo.co^$3p
 ||news18a.com/image/ad_ina/
 ||newsres.cn/temp/tempad
+||newtalk.tw/js/ad/
 ||newume.com/v1/data/ume-
 ||newwcrsed.com^
 ||newyx.net^*/down_yd.js
@@ -22150,6 +22156,7 @@ zzzyk.com###Tinfo
 ||nl071vrnv.com^
 ||nl1d8gzi5.com^
 ||nl2v1uw9e.com^
+||nlbb3dvqh.com^
 ||nlkylpo.com^
 ||nlvgxr.xyz^
 ||nly9u12pi.com^
@@ -23403,6 +23410,7 @@ zzzyk.com###Tinfo
 ||qscvli.com^
 ||qselic.top^
 ||qsj8fd.com^
+||qsjdi1vyq.com^
 ||qsjfd2.com^
 ||qsjfd2.xyz^
 ||qsko05060mas.com^
@@ -23489,6 +23497,7 @@ zzzyk.com###Tinfo
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r0l7cp.com^
+||r1jprcr42.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
 ||r3sub.com/images/aaa^
@@ -24666,6 +24675,7 @@ zzzyk.com###Tinfo
 ||ta7tfk0o2h.com^
 ||tableland06.top^
 ||tad.suning.com^
+||taf9vs2wz.com^
 ||tagtd.cn^
 ||tagtoo.co^$3p
 ||tahltanboutell.com^
