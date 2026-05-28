@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-27 18:19:15
-! Total count: 27943
+! Version: 2026-05-28 11:28:42
+! Total count: 27947
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13477,6 +13477,7 @@ zzzyk.com###Tinfo
 ||6iiz8ni96v.com^
 ||6iwoif.com^
 ||6iyq4atled.com^
+||6j7ywcn8sx.com^
 ||6jei0t6xp.com^
 ||6jtqdplfz7.com^
 ||6jyi7mzae.com^
@@ -16987,6 +16988,7 @@ zzzyk.com###Tinfo
 ||dodo8.com/template/*/images/g_js/
 ||dogfight360.com/Usbeam/*_ad/
 ||dogfight360.com/Usbeam/yuelun_ad/
+||dogwood96.com^
 ||dogwoode09.top^
 ||dohihf.com^
 ||doii.cc/mmm/
@@ -19319,6 +19321,7 @@ zzzyk.com###Tinfo
 ||i96wgz4nmy.com^
 ||i97wqa881u.com^
 ||i9i3ko2o70.com^
+||ia3lxhd539.com^
 ||iabao.com/sladewap.js
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
@@ -22222,6 +22225,7 @@ zzzyk.com###Tinfo
 ||nsclick.baidu.com^
 ||nshvhfw.cn^
 ||nslfhb.icu^
+||nsthczdba1.com^
 ||nstltp.icu^
 ||nsul.cn^
 ||nsvohb.top^
