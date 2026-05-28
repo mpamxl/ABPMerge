@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-28 11:28:42
-! Total count: 27947
+! Version: 2026-05-28 18:29:46
+! Total count: 27953
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12918,6 +12918,7 @@ zzzyk.com###Tinfo
 ||354xxcdt1.com^
 ||3562wsgkbcm.xyz^
 ||35kjurwwb6.com^
+||35lnvz97cg.com^
 ||35vc.com^
 ||35wo96wkjs.com^
 ||360.cn/apis/qss/soweb/ad_proxy/internal/
@@ -13717,6 +13718,7 @@ zzzyk.com###Tinfo
 ||8cnd.com^
 ||8d7hhh8x.com^
 ||8d8d.me/images/dealer.gif
+||8eo93qj18r.com^
 ||8fdmj67f5e.com^
 ||8feichai.com^
 ||8g0j.cn^
@@ -17982,6 +17984,7 @@ zzzyk.com###Tinfo
 ||fvlqjw.top^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
+||fwjtfo8f4z.com^
 ||fwlrv.cn^
 ||fwmbjrl.cn^
 ||fwsir.com/static/cpt/
@@ -23499,6 +23502,7 @@ zzzyk.com###Tinfo
 ||r.99waiyu.com^
 ||r.bat.bing.com/?ld=$script,redirect=noop.js,domain=mcappx.com
 ||r.trwl1.com/s1/$subdocument
+||r0d2dzltw7.com^
 ||r0eybo511.com^
 ||r0hpdbkqs.com^
 ||r0l7cp.com^
@@ -26967,6 +26971,7 @@ zzzyk.com###Tinfo
 ||y40milgijh.com^
 ||y4g8fgj6ra.com^
 ||y4re1yokqv.com^
+||y55lspa2v6.com^
 ||y63eay93i.com^
 ||y66xvgo5i.chuimg.com^
 ||y673shtv.xyz^
@@ -27034,6 +27039,7 @@ zzzyk.com###Tinfo
 ||ydstatic.com/dsp_website/
 ||ydtykj.net^
 ||ydxdg.xyz^
+||ydxgph.top^
 ||yea.im/5hq.gif
 ||yea.im/5ht.gif
 ||yeandriethzm.com^
