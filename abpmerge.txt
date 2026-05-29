@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-28 18:29:46
-! Total count: 27953
+! Version: 2026-05-29 11:18:54
+! Total count: 27960
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12648,6 +12648,7 @@ zzzyk.com###Tinfo
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
 ||1gvzhr49e.com^
+||1hcgomshd.com^
 ||1hhwyb4vl.com^
 ||1hmklj60i.com^
 ||1hotu9uyll.com^
@@ -13016,6 +13017,7 @@ zzzyk.com###Tinfo
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
+||3llzzztmz.com^
 ||3lxk4afsb.com^
 ||3ml8v.cn^
 ||3nopvvhju5.com^
@@ -17165,6 +17167,7 @@ zzzyk.com###Tinfo
 ||dxix.cn^
 ||dxlxjvmo.icu^
 ||dxp.baidu.com^
+||dxq8uuq0d.com^
 ||dxqck.com^
 ||dxuxtb.com^
 ||dxwsty.cn^
@@ -18629,6 +18632,7 @@ zzzyk.com###Tinfo
 ||gxxyclub.top^
 ||gxzxiww.com^
 ||gybyxsy1588.com^
+||gycz2v4ch.com^
 ||gyhgcgj.xyz^
 ||gyjinchuang.vip^
 ||gyoqnunyfy.com^
@@ -18672,6 +18676,7 @@ zzzyk.com###Tinfo
 ||h6295.com^$popup
 ||h6cp.icu^
 ||h6fh0e4hg.com^
+||h6n6i7v98.com^
 ||h731.icu^
 ||h7ima6w5k.com^
 ||h8cjr6nhm.com^
@@ -25569,6 +25574,7 @@ zzzyk.com###Tinfo
 ||uxjw.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
+||uxnsiyuew.com^
 ||uxtlrah.com^
 ||uxtruz.xyz^
 ||uxx1sawfwm.com^
@@ -26155,6 +26161,7 @@ zzzyk.com###Tinfo
 ||wio06230j7.com^
 ||wipbbok.com^
 ||wipew.com^
+||wisteria37.top^
 ||wit.qq.com^$3p
 ||witticism19.top^
 ||wizoevljj.com^
