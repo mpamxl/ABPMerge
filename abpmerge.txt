@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-29 18:25:55
-! Total count: 27960
+! Version: 2026-05-30 09:50:45
+! Total count: 27969
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3708,12 +3708,12 @@ $websocket,domain=wap.yushuwu.cloud
 58pic.com##.xyyh
 591hx.com##.banner_w
 5dm.app##[src*="sinaimg.cn"]
+5dm.dev##div[id^="player_p"]
 5dm.link###popop
 5dm.link###rip
 5dm.link###xaify
 5dm.link##a[href^="https://aigirlfriendstudio.com/"]
 5dm.link##a[href^="https://equity.tmall.com/"]
-5dm.link##div[id^="player_p"]
 5dm.link#@#.tm-share-this
 5dy15.cc##div[id][class^="is_"][style^="margin"]
 5eplay.com##img[width="1240"]
@@ -12946,6 +12946,8 @@ zzzyk.com###Tinfo
 ||3798.com^$3p
 ||37bhof.com^
 ||37lwjdaua.com^
+||37nu0riwfd.com^
+||37shrmvlju.com^
 ||38.33.15.*.gif
 ||380.tw^$popup,3p
 ||380tv.com/upload/*-ad-
@@ -13314,7 +13316,7 @@ zzzyk.com###Tinfo
 ||5bkhq0lwmq.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
-||5dm.link/htm$image
+||5dm.*/htm$image
 ||5dm.link/htmI/*.gif
 ||5dm.tv/html/5dmm.jpg
 ||5dmail.net/image/$object
@@ -15302,6 +15304,7 @@ zzzyk.com###Tinfo
 ||bedrapiona.com^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
+||begonia20.com^
 ||behavior65.top^
 ||beijing-air.com/images/a/j
 ||beijing.buzhi5.com^
@@ -15695,6 +15698,7 @@ zzzyk.com###Tinfo
 ||bxwccii.cn^
 ||bxzm9a.icu^
 ||by.dyq.cn^
+||by2lc7429r.com^
 ||by4d.com/dh/
 ||by4d.com/love/
 ||by8428.com^
@@ -16800,6 +16804,7 @@ zzzyk.com###Tinfo
 ||dh1dh.top^
 ||dh5t3pyb6r.com^
 ||dh8ypn3lq8.com^
+||dhckj73qr3.com^
 ||dhduc.com^
 ||dheblxw.com^
 ||dheear.site^
@@ -17404,6 +17409,7 @@ zzzyk.com###Tinfo
 ||ejiwvof.icu^
 ||ejolul.xyz^
 ||ejunshi.com^
+||ek946br7uy.com^
 ||ekdky.cn^
 ||ekdtywtkc.com^
 ||eklzt1bvv.com^
@@ -18169,6 +18175,7 @@ zzzyk.com###Tinfo
 ||gepvgv.icu^
 ||geqetreadyf.com^
 ||geqzt6tkg.top^
+||geranium35.top^
 ||germinate06.top^
 ||getitfree.cn/wp-content/plugins/adunblocker/*.js
 ||getitfree.cn/wp-content/plugins/anti-
@@ -20494,6 +20501,7 @@ zzzyk.com###Tinfo
 ||kgfjrb711.com^
 ||kgihdv57il.com^
 ||kgoj4nrhe.com^
+||kheejcqnll.com^
 ||kheivutb.com^
 ||khgjfm16.com^
 ||khki.cn^
@@ -24920,6 +24928,7 @@ zzzyk.com###Tinfo
 ||tjqwb.cn^
 ||tjv250730ads.com^
 ||tjv251109ads.com^
+||tjv260529xxx.com^
 ||tjvpnh.icu^
 ||tjwzyjx.icu^
 ||tk.504pk.com^
