@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-30 16:52:09
-! Total count: 27970
+! Version: 2026-05-31 10:06:43
+! Total count: 27979
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16473,6 +16473,7 @@ zzzyk.com###Tinfo
 ||cxs.mibaoge.com^
 ||cxsh.cn.com^
 ||cxy88.friok.com^
+||cyclamen46.com^
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
 ||cyhbrjf.cn^
@@ -16508,6 +16509,7 @@ zzzyk.com###Tinfo
 ||d1.yingyongge.com/production/*/production/ihth.js
 ||d1.yingyongge.com/qmoshe.js
 ||d1.zhuangxiu6.com^
+||d1129ldr7.com^
 ||d13gni3sfor862.cloudfront.net^
 ||d13jhr4vol1304.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
@@ -16691,6 +16693,7 @@ zzzyk.com###Tinfo
 ||ddckenbga.com^
 ||ddgjjj.com^
 ||ddgjjj.com^$3p
+||ddhwxwi6h.com^
 ||ddjs5wde2.com^
 ||ddpoupmu.icu^
 ||ddrqd9eox.com^
@@ -17747,6 +17750,7 @@ zzzyk.com###Tinfo
 ||fg.daochengwowo.top^
 ||fg.yilianqing.com^
 ||fg544vwr2v.com^
+||fgbomsqo4j.com^
 ||fgetmzx.icu^
 ||fgfhgvtj.com^
 ||fghelmorotvn.com^
@@ -19366,6 +19370,7 @@ zzzyk.com###Tinfo
 ||icaile.com/z.php?id=
 ||icao4.com/uploads/pic/2.jpg
 ||ichc1.xinglinpukang.com^
+||ichfzso7f.com^
 ||iciba.com/www/img/activity/common/active-11-11.js
 ||iciclle.com^
 ||ickd.cn/mobile/js/touch
@@ -24571,6 +24576,7 @@ zzzyk.com###Tinfo
 ||sums.suning.com^$3p
 ||sun66387567606.online^
 ||sun66387567606.site^
+||sunflower27.com^
 ||sunflowers66.top^
 ||sunglasse2.top^
 ||suning.cn^$domain=qianggou5.com
@@ -26179,6 +26185,7 @@ zzzyk.com###Tinfo
 ||wj8i1rlp2b.com^
 ||wj9uod3838.com^
 ||wjxc92bc.xyz^
+||wk5fo6pyf.com^
 ||wk70ccjk1a.com^
 ||wkjwumtex3.com^
 ||wkrcbszi.xyz^
@@ -27088,6 +27095,7 @@ zzzyk.com###Tinfo
 ||yg0051thk.com^
 ||yg006.com/attachment/js/
 ||yg006.com/attachment/xjdb.jpg
+||yg4j3py9b.com^
 ||ygg1e0gmc.com^
 ||yghonola.com^
 ||ygwdai.cn^
@@ -27108,6 +27116,7 @@ zzzyk.com###Tinfo
 ||yhdm335.com/piao/
 ||yhdm44.com/123.html
 ||yhecauig.com^
+||yhgqxkjz9.com^
 ||yhhnjg.com^
 ||yhjccj.cn^
 ||yhmeinv.com/mh/
