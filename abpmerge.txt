@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-01 13:26:49
-! Total count: 27992
+! Version: 2026-06-01 20:09:59
+! Total count: 27993
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11826,6 +11826,7 @@ xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]
 xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
+xchina.co##.photo-items > div[class^="item auto-height"]
 xchina001.online###core-zone-4
 xchina001.online###z-extra-2
 xchina001.online###z-extra-3
@@ -15919,7 +15920,7 @@ zzzyk.com###Tinfo
 ||cdn.itphanpytor.club^
 ||cdn.jquery-cdn.cc^
 ||cdn.ping0.cc/images/dx/*.gif$~3p
-||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=m.yichengwlkj.com
+||cdn.rrmj.plus/ad_4k.mp4$media,redirect=noop-0.1s.mp3,domain=yichengwlkj.com
 ||cdn.shdsp.net/ad
 ||cdn.uameta.ai/file/bucket-media/image/advertisement/
 ||cdn.vidcrunch.com/integrations/*_Responsive_Floating_DFP_$domain=discuss.com.hk
@@ -21314,7 +21315,6 @@ zzzyk.com###Tinfo
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m.ygexing.com/d/js/acmsd
 ||m.yhdm.so/bar/yfgg.js
-||m.yichengwlkj.com/ssp_ad_sdk.js
 ||m.yinghuacd.com/bar
 ||m.ysxs8.com/js/content_db.js
 ||m03dv.xyz^
@@ -27145,6 +27145,7 @@ zzzyk.com###Tinfo
 ||yibian.hopto.org/apng/load.php$important
 ||yiboshangmao3.com^
 ||yichengjiajupt.com^
+||yichengwlkj.com/ssp_ad_sdk.js
 ||yidengfe.com/launches/01/yd.png
 ||yifujing.com^
 ||yige20221219.xyz^
