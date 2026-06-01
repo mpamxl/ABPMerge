@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-05-31 16:56:40
-! Total count: 27982
+! Version: 2026-06-01 13:26:49
+! Total count: 27992
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11117,6 +11117,7 @@ techbang.com##.post-side > .related-article
 techbang.com##.techbang_i_m_970x250_1
 techbang.com##div[class^="techbang_inline_"]
 technews.tw##.inside_AD
+techritual.com##.th-single-ad
 techug.com##a[href*="/222.html"]
 techug.com##a[href*="/eee.html"]
 techug.com,webhek.com##.aatb
@@ -12640,6 +12641,7 @@ zzzyk.com###Tinfo
 ||1dgfd.cc^
 ||1dm6ccvy8.com^
 ||1dor1d6vc.com^
+||1ehioxpqe.com^
 ||1f0l.top^
 ||1fp9k4zrm.com^
 ||1futnsio0.com^
@@ -13783,6 +13785,7 @@ zzzyk.com###Tinfo
 ||90oo.com/tp/msn.jpg
 ||90q0tq3bwo.com^
 ||90qxskdmn9.com^
+||90tsdpml6.com^
 ||9112rj8wo.com^
 ||9129666tp.com^$domain=9xav.cc
 ||918000.xyz^
@@ -13923,6 +13926,7 @@ zzzyk.com###Tinfo
 ||9oru1vh0w.com^
 ||9oxhstb2m2.com^
 ||9p81m19kr.com^
+||9pyn42z6d.com^
 ||9pzoz6taf.com^
 ||9r0v0go0el.com^
 ||9soefyenw.com^
@@ -17932,6 +17936,7 @@ zzzyk.com###Tinfo
 ||freedidi.com/wp-content/plugins/death-luhubaoyu/
 ||freehao123.com/wp-content/uploads/2017/05/mmkdm.png
 ||freejavbt.com/assets/images/banner
+||freesia45.top^
 ||freshet40.top^
 ||freshmarketer.com^
 ||freychang.fun^
@@ -19910,6 +19915,7 @@ zzzyk.com###Tinfo
 ||janwzsqi.icu^
 ||jaowd.xyz^
 ||jashautchord.com^
+||jasmine33.top^
 ||jasmined544.com^
 ||jauql.top^
 ||jav101.com/img5bbb0096f242f.gif
@@ -23476,6 +23482,7 @@ zzzyk.com###Tinfo
 ||qushucheng.com/public/
 ||quspga.xyz^
 ||qutyan8848.com^
+||quu175kt3.com^
 ||quudraidfg.com^
 ||quzmtpxw.xyz^
 ||qvdn.cn^
@@ -23737,6 +23744,7 @@ zzzyk.com###Tinfo
 ||rkzby.cn^
 ||rl1vypwyd2.com^
 ||rl6b3zvtsk.com^
+||rl8yj74pr.com^
 ||rlavvoeo.com^
 ||rlduhmakdm.com^
 ||rlhhlp.icu^
@@ -25682,6 +25690,7 @@ zzzyk.com###Tinfo
 ||vcvbnmto.xyz^
 ||vcydyzd.icu^
 ||vcz9kuhac.com^
+||vd09de2i0.com^
 ||vdfgjn.icu^
 ||vdhatq0co.com^
 ||vdianying.cc/img/youhuiquan250.gif
@@ -26983,6 +26992,7 @@ zzzyk.com###Tinfo
 ||xzji.com/data/block_js/softShow_
 ||xzkumjdqj.com^
 ||xzswn87hm.com^
+||xzv5vu7wl.com^
 ||xzvhyx.com^
 ||xzxhpcdz.icu^
 ||y.photoint.net^
