@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-01 20:09:59
-! Total count: 27993
+! Version: 2026-06-02 11:56:42
+! Total count: 28001
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15109,6 +15109,7 @@ zzzyk.com###Tinfo
 ||bakrathtfa.com^
 ||ballive.*/addm/
 ||balmoralmkt.com^$3p
+||balsam18.com^
 ||balvehgmhw.com^
 ||bandages84.com^
 ||bangyuandianzi.top^
@@ -15984,6 +15985,7 @@ zzzyk.com###Tinfo
 ||ceshi1.ink^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cesu.ai/uploads/AdvertImages/
+||cf7xvu3z6z.com^
 ||cfdns.vip^
 ||cfepws.com^
 ||cfoxpgfzxl.com^
@@ -16463,6 +16465,7 @@ zzzyk.com###Tinfo
 ||cuutiethm.com^
 ||cv3qb5813.com^
 ||cv5gezvaj.com^
+||cvd2jag5ru.com^
 ||cvftv2.com^
 ||cvpl9qbz6.com^
 ||cvsheil.com^
@@ -17415,6 +17418,7 @@ zzzyk.com###Tinfo
 ||eitorawrdo.com^
 ||eiv.baidu.com^
 ||eiykmtb.cn^
+||ej8f5vk381.com^
 ||ejieban.com^
 ||ejiwvof.icu^
 ||ejolul.xyz^
@@ -19309,6 +19313,7 @@ zzzyk.com###Tinfo
 ||hznzcn.com/moban/youxiajiao.js
 ||hzrghx.xyz^
 ||hzvcaadn.icu^
+||hzyolohcz6.com^
 ||i-fk.cn^
 ||i-gamer.net/promo_
 ||i-gamer.net^$domain=cartoonmad.com
@@ -21366,6 +21371,7 @@ zzzyk.com###Tinfo
 ||macx.cn/js/jquery.$domain=game.macx.cn
 ||magedu.com/wp-content/uploads/*/xwzx
 ||magnetdog.net^$popup
+||magnolia77.top^
 ||magnolian07.top^
 ||magsrv.com^
 ||mahoupao.com/api.php?mod=ad&
@@ -22997,6 +23003,7 @@ zzzyk.com###Tinfo
 ||poyc.cn^
 ||ppbtdj.icu^
 ||ppedp.cn^
+||ppkufuc5vg.com^
 ||pplnjoow.com^
 ||ppluoli.xyz^*.gif
 ||pppteennal.com^
@@ -24859,6 +24866,7 @@ zzzyk.com###Tinfo
 ||theweeklydonut.org^
 ||thewindrun.com^
 ||thezbpe5*.xyz^
+||thgh902ny.com^
 ||thinkmd.cn^
 ||thisav.com/0*.js
 ||thisav.com/index.js
