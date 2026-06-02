@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-02 11:56:42
-! Total count: 28001
+! Version: 2026-06-02 19:35:36
+! Total count: 28007
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5833,8 +5833,7 @@ bilibili.com##a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=
 bilibili.com##a[href="/video/av8587236/?tg"]
 bilibili.com##div[style*="height:"][data-loc-id]
 bilibili.com##span[style*="height:"][data-loc-id]
-bilinovel.com##+js(abort-current-script, document.createElement, pagead2.googlesyndication.com)
-bilinovel.com##+js(set-constant, checkAndHandleAdBlock, undefined)
+bilinovel.com##+js(no-setTimeout-if, offsetHeig\'+\'ht\'])
 bimiacg.net##.tuiguang
 bimibimi.cc##[src^='https://dd-static.jd.com']
 bing.com###b_results > li:has(.b_adProvider)
@@ -11105,6 +11104,8 @@ tbtdg.com###adblockWarning
 tbtdg.com##.reveal-modal-bg
 tbtdg.com##.s11text
 tbxt.com###headad2
+tcptest.cn##div.fixed.hidden
+tcptest.cn##div.min-w-0 > .relative
 teachinghand.com##.actions__wrapper
 tech.ifeng.com##body > div[style^="width:"][style*="margin: 0px auto; transition:"][style*="position: fixed; z-index:"]
 tech.qq.com##.kjad2
@@ -13317,6 +13318,7 @@ zzzyk.com###Tinfo
 ||5bayjqsrgd.com^
 ||5bess6df0.com^
 ||5bkhq0lwmq.com^
+||5cyqzktkwh.com^
 ||5d7k30pv1u.com^
 ||5dfiuae82.com^
 ||5dm.*/ggjpg/
@@ -19313,6 +19315,7 @@ zzzyk.com###Tinfo
 ||hznzcn.com/moban/youxiajiao.js
 ||hzrghx.xyz^
 ||hzvcaadn.icu^
+||hzvnt399h7.com^
 ||hzyolohcz6.com^
 ||i-fk.cn^
 ||i-gamer.net/promo_
@@ -20871,6 +20874,7 @@ zzzyk.com###Tinfo
 ||lestv7.icu^
 ||lettucex977.com^
 ||letv.com/pzt/hyhmzq/index.shtml
+||letvdbrwhbnhrs.com^
 ||leue.cn^
 ||lewenma.com/js/read.js
 ||leyf5q4rk.com^
@@ -26534,6 +26538,7 @@ zzzyk.com###Tinfo
 ||x6d93mku0.com^
 ||x6img.com^$domain=picturedata.org
 ||x6u6kw4sg.com^
+||x7weiubb2f.com^
 ||x8kwcr3l.xyz^
 ||x8wyxfxul.com^
 ||x9flqeptn.com^
@@ -27901,6 +27906,7 @@ zzzyk.com###Tinfo
 ||ztshg.cn^
 ||zttebe.top^
 ||ztyumn.ifeng.com^
+||zudns.cn/uploads/*.gif$image,domain=tcptest.cn
 ||zuiacg.com/images/client/
 ||zuixinyiqi.com^
 ||zujtlj.icu^
