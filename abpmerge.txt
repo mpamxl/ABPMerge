@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-02 19:35:36
-! Total count: 28007
+! Version: 2026-06-03 12:29:32
+! Total count: 28016
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17143,6 +17143,7 @@ zzzyk.com###Tinfo
 ||dufile.com/jsa/
 ||duier.top^
 ||duiwai.baidu.com^
+||dukwznn0x.com^
 ||dunkhj.top^
 ||duo*.top/Runtime/js/psData.js
 ||duodada.com/Tpl/default/system.js
@@ -18173,6 +18174,7 @@ zzzyk.com###Tinfo
 ||gdxxb.com^$3p
 ||gdyjs.com^
 ||gdzshoes.com^
+||ge99lo1z2.com^
 ||geecradv.com^
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
@@ -19083,6 +19085,7 @@ zzzyk.com###Tinfo
 ||hnxxt.net^
 ||hnyishidengbao.com^$3p
 ||hnzzff.club^
+||hoamt60fa.com^
 ||hodynx.top^
 ||hohmanrtit.com^
 ||hohmaryt.com^
@@ -20015,6 +20018,7 @@ zzzyk.com###Tinfo
 ||jhhv22erzs.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
+||jhpqntyyeezpds.com^
 ||jhqi.cn^
 ||jhvchv.xyz^
 ||jhzfwl.cn^
@@ -21369,6 +21373,7 @@ zzzyk.com###Tinfo
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
 ||m9sz0hh3f7.com^
+||m9ylqs5rn.com^
 ||ma1.meishij.net^
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
@@ -22006,6 +22011,7 @@ zzzyk.com###Tinfo
 ||nbsxazr.icu^
 ||nbtfbb.xyz^
 ||nbudas92.shop^
+||nbwsj9gnd.com^
 ||ncb6t8bn4.com^
 ||ncgqmzm.cn^
 ||nchanado.com^
@@ -23288,6 +23294,7 @@ zzzyk.com###Tinfo
 ||qifjksdqwd.xyz^
 ||qifyeldy.top^
 ||qigreveth.com^
+||qihang168.top^
 ||qiji1.jdwx.info^
 ||qijpaih.cn^
 ||qilanxiaozhu.*/data/attachment/portal/
@@ -24701,6 +24708,7 @@ zzzyk.com###Tinfo
 ||t0pan.top^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
+||t19olm6fd.com^
 ||t1d26dvout.com^
 ||t1tgame.com^
 ||t1thmtn5.xyz^
@@ -24759,6 +24767,7 @@ zzzyk.com###Tinfo
 ||taozi888.com/a*.js
 ||taozi888.com/sys
 ||taporn.com/d/
+||taproot44.com^
 ||tarotmood.com/img/banner$domain=ixdzs.tw
 ||tarqk5.com^
 ||tasgxk4ia6.com^
