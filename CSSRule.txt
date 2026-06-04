@@ -5544,11 +5544,11 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huavod.cc,huavod.top,huaren.live,huavod.com,huavod.net##a[href^="/go/baba/"]
+huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
+huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.com##a[href^="https://lesi198.com"]
-huavod.top,huaren.live,huavod.com,huavod.net##a[href^="/go/baba/"]
-huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
-huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
-huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
@@ -9293,6 +9293,7 @@ x3cn.com##div[style="margin:3px auto"] + table
 x6d.com##li:has(>.myad)
 x6d.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
+x6g.com##.news-article_container > ul > li[class]:has(> a[href^="/ad.php?aHR0c"])
 x99av.com##+js(set-constant, ADSOBJET, {})
 xbeibeix.com##+js(no-setTimeout-if, /\.height\(\) == 0|adsbygoogle/)
 xbeibeix.com#@#.google-ad

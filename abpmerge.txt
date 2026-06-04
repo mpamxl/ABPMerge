@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-03 19:41:03
-! Total count: 28018
+! Version: 2026-06-04 10:54:14
+! Total count: 28031
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -4724,6 +4724,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||jsjiami.com^$generichide
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||jswenhui.com^*/ad/
+@@||jsxx.gds.edu.cn^$genericblock
 @@||juduo.cc^$generichide
 @@||jwpcdn.com/player/plugins/googima/*/googima.js$domain=viu.tv
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
@@ -8039,11 +8040,11 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+huavod.cc,huavod.top,huaren.live,huavod.com,huavod.net##a[href^="/go/baba/"]
+huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
+huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.com##a[href^="https://lesi198.com"]
-huavod.top,huaren.live,huavod.com,huavod.net##a[href^="/go/baba/"]
-huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
-huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
-huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
@@ -11810,6 +11811,7 @@ x3cn.com##div[style="margin:3px auto"] + table
 x6d.com##li:has(>.myad)
 x6d.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
+x6g.com##.news-article_container > ul > li[class]:has(> a[href^="/ad.php?aHR0c"])
 x99av.com##+js(set-constant, ADSOBJET, {})
 xbeibeix.com##+js(no-setTimeout-if, /\.height\(\) == 0|adsbygoogle/)
 xbeibeix.com#@#.google-ad
@@ -13335,6 +13337,7 @@ zzzyk.com###Tinfo
 ||5dyx.com/static/jquery.js
 ||5dyx.com/static/js/deny.js
 ||5edf1d2qv.com^
+||5eyal1g5a9.com^
 ||5f1qyi04vz.com^
 ||5fyme6x6uy.com^
 ||5fz.cc/t/aimg/tao
@@ -15577,6 +15580,7 @@ zzzyk.com###Tinfo
 ||br4fr61y3p.com^
 ||braagniddp.com^
 ||braised58.top^
+||branch20.top^
 ||brand.sogou.com/micro?yyid=
 ||brb3mb25zg.com^
 ||brendanbc.com^
@@ -16700,6 +16704,7 @@ zzzyk.com###Tinfo
 ||dd6364.com/js/777/
 ||dd667788dd.com^
 ||dd778899dd.com^
+||dd81bp3qbj.com^
 ||ddbuwo.cn^
 ||ddc888.com^
 ||ddckenbga.com^
@@ -17387,6 +17392,7 @@ zzzyk.com###Tinfo
 ||effectivehealthy.cn^
 ||efg.zle.com^
 ||efgh.5lu.com^
+||efh2rahxxq.com^
 ||efmh.cn^
 ||efsy7b1x6.com^
 ||eftd.cn^
@@ -18023,6 +18029,7 @@ zzzyk.com###Tinfo
 ||fx110.*/Scripts/1.0.0/gulpmin/Ghz/
 ||fx110.*/Styles/1.0.0/dist/Ghz/MatrixAds.
 ||fx168.com/am.js
+||fx455rrt4b.com^
 ||fx8rurzhbf.com^
 ||fxab9iuprt.com^
 ||fxbcpr.xyz^
@@ -21183,7 +21190,8 @@ zzzyk.com###Tinfo
 ||lsnzxzy1.com/Runtime/js/psData.js
 ||lt3f9p5ox2.com^
 ||ltbyw.top/data/images/*.gif
-||ltd.ua/zz
+||ltd.ua/zz$badfilter
+||ltd.ua/zz$xhr,redirect=noop.json
 ||ltfcagrapl.com^
 ||ltht.tech^
 ||lthuvb.icu^
@@ -21357,6 +21365,7 @@ zzzyk.com###Tinfo
 ||m2k3j7x8.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
+||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
 ||m4fxreb5s.com^
@@ -22008,6 +22017,7 @@ zzzyk.com###Tinfo
 ||nbgsintl.com^
 ||nbhedrelpl.com^
 ||nbpczr.icu^
+||nbpicture.xyz^$domain=ltd.ua
 ||nbraenkikrn.com^
 ||nbsdk-baichuan.alicdn.com^
 ||nbsxazr.icu^
@@ -23152,6 +23162,7 @@ zzzyk.com###Tinfo
 ||px.ucweb.com^
 ||px02mouzas.com^
 ||pxdb08b82.com^
+||pxlizduukhnpps.com^
 ||pxvbnt.top^
 ||pxwu.cn^
 ||pxx.tnklrs.cn^$3p
@@ -24536,7 +24547,7 @@ zzzyk.com###Tinfo
 ||static.missav.com/js/plyr.js
 ||static.okokserver.com/js/anti/adblocker.js
 ||static.okokserver.com/uploads/lesi/$image,domain=huaren.live|huavod.com
-||static.okokserver.com/uploads/lesi/$xhr,redirect=noop.txt,domain=huaren.live|huavod.net|huavod.com|huavod.top
+||static.okokserver.com/uploads/lesi/$xhr,redirect=noop.txt,domain=huaren.live|huavod.net|huavod.com|huavod.top|huavod.cc
 ||static.okokserver.com/uploads/lesi/lesi.mp4$media
 ||static.okokserver.com^$media,domain=huaren.live
 ||static.olelive.com/upload/site/*/*.gif
@@ -25672,6 +25683,7 @@ zzzyk.com###Tinfo
 ||v8fjvv9o3.com^
 ||v8j1rkai1.com^
 ||v9gfm.xyz^
+||va3yq7si6w.com^
 ||vainews.cn^
 ||valerieavisnba.com^
 ||valeriesara.com^
@@ -26646,6 +26658,7 @@ zzzyk.com###Tinfo
 ||xggdrks.icu^
 ||xghylt.com/api.php?mod=ad&adid=
 ||xgilfhwxre.com^
+||xgsspao.com^
 ||xgsvpsz7f4.com^
 ||xgzdys.com^
 ||xgzxpdy.com^
