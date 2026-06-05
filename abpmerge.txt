@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-05 11:17:29
-! Total count: 28042
+! Version: 2026-06-05 17:46:57
+! Total count: 28047
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13019,6 +13019,7 @@ zzzyk.com###Tinfo
 ||3hads4i5hm.com^
 ||3hfmrv8d45.com^
 ||3hg6yh6h0.com^
+||3hrv7yijx.com^
 ||3hx1ui2vt.com^
 ||3i2i.com^
 ||3i3w8hl6do.com^
@@ -20623,6 +20624,7 @@ zzzyk.com###Tinfo
 ||kmyiubbv.xyz^
 ||kmzayrt.cn^
 ||knbtpty.xyz^
+||knie8wmsk.com^
 ||knjcsonpo.com^
 ||knjmhmk.com^
 ||knliylh.cn^
@@ -24100,6 +24102,7 @@ zzzyk.com###Tinfo
 ||seek68.cn/img/*.gif
 ||sefu8j.com/index.php?m=poster&
 ||segmentfault.com/sponsor/
+||seijlfsx.com^
 ||selornews.com^
 ||senior82.com^
 ||sensifyfugged.com^
@@ -24492,6 +24495,7 @@ zzzyk.com###Tinfo
 ||ssjuxsc.cn^
 ||ssjv1.com/dm/
 ||ssjy.shop^
+||sskuwzv.com^
 ||ssl.linyiccic.com^
 ||sslbahb.top^
 ||ssnn.net^*-200-250.jpg
@@ -25730,6 +25734,7 @@ zzzyk.com###Tinfo
 ||vbw3q6jxn.com^
 ||vcjzjnef.icu^
 ||vclunl.icu^
+||vcsc1fp2f.com^
 ||vcvbnmto.xyz^
 ||vcydyzd.icu^
 ||vcz9kuhac.com^
