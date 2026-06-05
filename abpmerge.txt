@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-04 18:08:08
-! Total count: 28032
+! Version: 2026-06-05 11:17:29
+! Total count: 28042
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5387,6 +5387,8 @@ applnn.cc##DIV.html-box
 apprcn.com##a[href*=".lizhi."]
 appscross.com##.master-slider-parent
 appscross.com##.w-ad
+aramgg.com##.bg-red-950
+aramgg.com##a[rel^="sponsored"]
 asken.jp#@##top_box > a[onclick^="javascript"]
 asmag.com.cn###adRightFix
 asmag.com.cn##.adAsMainLeft
@@ -10123,8 +10125,8 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adbright
-ping0.cc##.xzeles
+ping0.cc###adfright
+ping0.cc##.xaeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -13160,6 +13162,7 @@ zzzyk.com###Tinfo
 ||4wym8gups.com^
 ||4xdma060ad.com^
 ||4xicd08qs.com^
+||4xr7sy3gu.com^
 ||4y13js.work^
 ||4yduy53ik.com^
 ||4yl3e3fmv.com^
@@ -15475,6 +15478,7 @@ zzzyk.com###Tinfo
 ||bkjlf58.com^
 ||bl.emotionalworld.cn^
 ||blackhead35.com^
+||blackthorn88.com^
 ||bld.mobi^
 ||bleumzr.icu^
 ||bljlrl.xyz^
@@ -21104,6 +21108,7 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/pause.php
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
+||lodipq3zb.com^
 ||lofter.com/mailEntryMobile.do
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
@@ -21988,6 +21993,7 @@ zzzyk.com###Tinfo
 ||n906n29tm.com^
 ||naarnurm.com^
 ||naemailom.fun^
+||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||naiep.xyz^
 ||naivety48.com^
@@ -22037,6 +22043,7 @@ zzzyk.com###Tinfo
 ||ndd3wvq0cw.com^
 ||ndfsl.com^
 ||ndja.cn^
+||ndpfxnu.com^
 ||ndqcz0e.xyz^
 ||nebzrn.icu^
 ||necessitate22.com^
@@ -25172,6 +25179,7 @@ zzzyk.com###Tinfo
 ||tt1069.com/script.min.js
 ||tt1069.com/t0602.js
 ||tt123.eastday.com^
+||tt144jrfu.com^
 ||ttavav6.com/zz/
 ||tthelitnfv.com^
 ||tthrirgud.com^
@@ -26368,6 +26376,7 @@ zzzyk.com###Tinfo
 ||ww7814.win/pic
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^
+||wwavo59q3.com^
 ||wwggnaw.xyz^
 ||wwgqqq.com^
 ||wwkh9ku.xyz^
@@ -27269,6 +27278,7 @@ zzzyk.com###Tinfo
 ||ymtwmhh43.com^
 ||ymyile.xyz^
 ||yn0mbg4p1.com^
+||yn68b5vn9.com^
 ||yn9k86cpsf.com^
 ||yncjsc.cn^
 ||ynfxxbp.xyz^

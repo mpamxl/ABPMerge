@@ -2903,6 +2903,8 @@ applnn.cc##DIV.html-box
 apprcn.com##a[href*=".lizhi."]
 appscross.com##.master-slider-parent
 appscross.com##.w-ad
+aramgg.com##.bg-red-950
+aramgg.com##a[rel^="sponsored"]
 asken.jp#@##top_box > a[onclick^="javascript"]
 asmag.com.cn###adRightFix
 asmag.com.cn##.adAsMainLeft
@@ -7619,8 +7621,8 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adbright
-ping0.cc##.xzeles
+ping0.cc###adfright
+ping0.cc##.xaeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
