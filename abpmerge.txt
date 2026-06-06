@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-06 09:54:00
-! Total count: 28056
+! Version: 2026-06-06 16:59:57
+! Total count: 28060
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13037,6 +13037,7 @@ zzzyk.com###Tinfo
 ||3nopvvhju5.com^
 ||3p8801.co^
 ||3pefw1lz4.com^
+||3pf2kwmc3g.com^
 ||3pkf5m0gd.com^
 ||3prndxd.cn^
 ||3pzqcv5hc5.com^
@@ -14064,6 +14065,7 @@ zzzyk.com###Tinfo
 ||a4sz.xyz^
 ||a4xvv2g18l.com^
 ||a51wzxssu.com^
+||a5wlr2yplf.com^
 ||a5xiazai.com/z/
 ||a65vocvbfe.com^
 ||a6cfvavw1.xyz^
@@ -17561,6 +17563,7 @@ zzzyk.com###Tinfo
 ||etff5y04k.com^
 ||ethicalads.io^
 ||etienlw.top^
+||etjkljs.beauty^
 ||etlanaberez.fun^
 ||etlz1mt67.com^
 ||etqu.cn^
@@ -27700,6 +27703,7 @@ zzzyk.com###Tinfo
 ||zfc2ul88s.top^
 ||zfcdirf.icu^
 ||zfcumb.xyz^
+||zfdfs1tpyd.com^
 ||zfehvv.buzz^
 ||zfehvv.xyz^
 ||zfenuq.buzz^
