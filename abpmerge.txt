@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-08 12:21:06
-! Total count: 28088
+! Version: 2026-06-08 18:18:38
+! Total count: 28092
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9017,6 +9017,7 @@ laogu.cc##.rowIvy
 laohu8.com#@#.tweet-article
 laoliublog.cn,ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
 laosiji.com#@#.sns-wrapper
+laosu.tech##+js(addEventListener-defuser, DOMContentLoaded, detectAdBlocker)
 laowang.vip###frameYl5IOf
 laowangblog.com##img[src^="https://laowangblog.com/"][src*="-ad"]
 laozuo.org###focusslide
@@ -13614,6 +13615,7 @@ zzzyk.com###Tinfo
 ||79181531227.com^
 ||797sun.com/include/js/common_footer.
 ||79n4cubmu8.com^
+||79ssr9d244.com^
 ||79zxcv.com^
 ||7asx1bxaw.com^
 ||7awf4fi9k7.com^
@@ -23302,6 +23304,7 @@ zzzyk.com###Tinfo
 ||qezkdby1jj.com^
 ||qezpjlp.cn^
 ||qf1d.top^
+||qf51ho9qtz.com^
 ||qfcdgy.cn^
 ||qfirgakpv.com^
 ||qfnoyix.cn^
@@ -25476,6 +25479,7 @@ zzzyk.com###Tinfo
 ||uesv3jjf6.com^
 ||uetx75ibcu.com^
 ||ueuwvgco19.com^
+||uevrhqra7u.com^
 ||uewzjy.xyz^
 ||ueyuww.icu^
 ||ufa9tt1n5.com^

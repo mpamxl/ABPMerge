@@ -6519,6 +6519,7 @@ laogu.cc##.rowIvy
 laohu8.com#@#.tweet-article
 laoliublog.cn,ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_html
 laosiji.com#@#.sns-wrapper
+laosu.tech##+js(addEventListener-defuser, DOMContentLoaded, detectAdBlocker)
 laowang.vip###frameYl5IOf
 laowangblog.com##img[src^="https://laowangblog.com/"][src*="-ad"]
 laozuo.org###focusslide
