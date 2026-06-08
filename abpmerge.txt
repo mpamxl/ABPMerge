@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-07 17:05:06
-! Total count: 28068
+! Version: 2026-06-08 12:21:06
+! Total count: 28088
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9274,6 +9274,8 @@ m.qidian.com##P.text-content
 m.shuhaige.net##+js(abort-current-script, Math.random, parentNode.insertBefore)
 m.shuhaige.net##+js(abort-current-script, document.createElement, return a.split)
 m.shuhaige.net##+js(abort-current-script, navigator, location.href)
+m.shuhaige.net##+js(no-setTimeout-if, parentNode.insertBefore, 1000)
+m.shuhaige.net##+js(no-setTimeout-if, parentNode.insertBefore, 1500)
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
 m.smzdm.com##.damo-footer-open-app__fixed-logo
 m.so.com##.e_idea_list
@@ -9543,6 +9545,16 @@ mpyit.com##+js(prevent-fetch, pagead2.googlesyndication.com)
 mpyit.com##.cboxElement + a[target="_blank"]
 mpyit.com##.cboxElement + center[style=" padding-top:10px; "]
 mpyit.com##.post-999999
+mqoeomads.cc###tip_modal > .modal-dialog
+mqoeomads.cc##.ad-dialog
+mqoeomads.cc##.dx-ad-plugin
+mqoeomads.cc##.dx-modal
+mqoeomads.cc##.dx-recommend-icons
+mqoeomads.cc##.md\:bg-inherit
+mqoeomads.cc##.md\:block.hidden:has([data-ad_id])
+mqoeomads.cc##.modal-backdrop
+mqoeomads.cc##div.dx-banner-item
+mqoeomads.cc##ul.video-items > li:has(> [data-ad_id])
 mrbird.cc#@#.social-icons
 mrmad.com.tw##div[id^="mrmad-"]:has(>.adsbygoogle)
 mrmad.com.tw##div[id^="mrmadad-"][style]:has(> .adsbygoogle)
@@ -12924,6 +12936,7 @@ zzzyk.com###Tinfo
 ||33shu.net/js/game
 ||33w8tdyelw.com^
 ||3400.org^
+||34dcvgw197.com^
 ||34iq.com/index
 ||34mede82hj.com^
 ||3520.cc/js/3520/
@@ -13126,6 +13139,7 @@ zzzyk.com###Tinfo
 ||4e9ynqm47d.com^
 ||4etsr.xyz^
 ||4f3tsea1m.com^
+||4f8g9foqwy.com^
 ||4fd0jlybx.com^
 ||4fptsi5zxo.com^
 ||4fzfc1irq.com^
@@ -21401,6 +21415,7 @@ zzzyk.com###Tinfo
 ||m7xssfiit.com^
 ||m81mfege2.com^
 ||m8h5qjmlb3.com^
+||m8qk101065.com^
 ||m8ryjf38a.com^
 ||m8zgls6zt.com^
 ||m9s3h265lq.com^
@@ -22915,6 +22930,7 @@ zzzyk.com###Tinfo
 ||pic.0597kk.com^
 ||pic.959.cn/media/js/
 ||pic.baihuawen.cn^
+||pic.deueza.cn/*.gif$domain=mqoeomads.cc
 ||pic.fengniao.com^
 ||pic.gongkong.com/UploadPic/gongkong/
 ||pic.pimg.tw/cwyuni/*.gif?v=$domain=cwyuni.tw
@@ -23184,6 +23200,7 @@ zzzyk.com###Tinfo
 ||pw321.com^*.gif
 ||pwaihoe.icu^
 ||pwk73hidf2.com^
+||pwvlthpqzonnfe.com^
 ||px.ucweb.com^
 ||px02mouzas.com^
 ||pxdb08b82.com^
@@ -24033,6 +24050,7 @@ zzzyk.com###Tinfo
 ||sass.hk/images/hengfu.jpg
 ||sass.hk/js/ggcn.js
 ||sass.hk/plus/mytag_js.php?aid=
+||satinwood84.com^
 ||satroki.tech/api/JdUnion
 ||sausage34.com^
 ||saviourketonic.com^
@@ -25763,6 +25781,7 @@ zzzyk.com###Tinfo
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdnh.cn^
+||vdo3c.org^
 ||vdrfes.site^
 ||vdxu.cn^
 ||vedhalmin.com^
@@ -27967,6 +27986,7 @@ zzzyk.com###Tinfo
 ||ztshg.cn^
 ||zttebe.top^
 ||ztyumn.ifeng.com^
+||zu9srbxg0t.com^
 ||zudns.cn/uploads/*.gif$image,domain=tcptest.cn
 ||zuiacg.com/images/client/
 ||zuixinyiqi.com^
