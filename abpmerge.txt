@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-08 18:18:38
-! Total count: 28092
+! Version: 2026-06-09 10:51:28
+! Total count: 28101
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2414,6 +2414,7 @@ $websocket,domain=wap.yushuwu.cloud
 /js/ggtop.js
 /js/guanggao_gg.js
 /js/hf*.js?v=$script,domain=bqgaa.com|bi25.cc
+/js/hf.js
 /js/home/ad/ad.
 /js/htmlk*.js$~third-party
 /js/htmlka.js
@@ -15531,6 +15532,7 @@ zzzyk.com###Tinfo
 ||bmptbyb.com^
 ||bmyrihf.icu^
 ||bmzzojmzu.com^
+||bncqucpia.com^
 ||bnds3.site^
 ||bnds4.site^
 ||bnds6.site^
@@ -15896,6 +15898,7 @@ zzzyk.com###Tinfo
 ||cautious60.com^
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
+||cb07whvmx.com^
 ||cbdm.weathercn.com^
 ||cbembusgcl.com^
 ||cbff1ao9.xyz^
@@ -19404,6 +19407,7 @@ zzzyk.com###Tinfo
 ||i9i3ko2o70.com^
 ||ia3lxhd539.com^
 ||iabao.com/sladewap.js
+||iachpi.icu^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
 ||iadsvbox2.com^
@@ -21490,6 +21494,7 @@ zzzyk.com###Tinfo
 ||mat1.gtimg.com/2014/webtips/ola2014tips
 ||mat1.gtimg.com/cq/flash/
 ||mat1.gtimg.com/ent/flash/*300
+||mathematics34.com^
 ||matwbp.iask.sina.com.cn^
 ||mavrtracktor.com^
 ||maximpetus.com^
@@ -22408,6 +22413,7 @@ zzzyk.com###Tinfo
 ||nzl10011oa.com^
 ||nzl10041oa.com^
 ||nzlelmarw.com^
+||nzrdfrlsfrznrk.com^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
 ||nzydzsw.com^$3p
@@ -22572,6 +22578,7 @@ zzzyk.com###Tinfo
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||onxuegm38t.com^
+||onzj79fce.com^
 ||oodcd.cn/pan/config/ad.json
 ||oodcd.cn/pan/config/copy.
 ||oodcd.cn/pan/config/history.
@@ -24516,6 +24523,7 @@ zzzyk.com###Tinfo
 ||srbzw.cn^
 ||srfo.cn^
 ||srmdz.vip^
+||srqxnvjdd.com^
 ||srtb.msn.cn^
 ||ss.ting55.com^
 ||ss494hpnq.com^
@@ -25730,6 +25738,7 @@ zzzyk.com###Tinfo
 ||v4dwkcv.com^
 ||v4ox630nia.com^
 ||v53groc9v.com^
+||v5rv8mnfk.com^
 ||v6jt.cn^
 ||v84tz11w7.com^
 ||v88yaat.xyz^
