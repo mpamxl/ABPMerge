@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-11 12:02:19
-! Total count: 28134
+! Version: 2026-06-11 18:40:01
+! Total count: 28139
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13967,6 +13967,7 @@ zzzyk.com###Tinfo
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
 ||9ma1sr1tb1.com^
+||9mdg9cu59.com^
 ||9miwo.com^
 ||9o29nhxgp.com^
 ||9odes.ltd^
@@ -18142,6 +18143,7 @@ zzzyk.com###Tinfo
 ||g6x2uvza37.com^
 ||g7htk7ls7.com^
 ||g8hi6r3odr.com^
+||g8nwdolod.com^
 ||g8ygkqhm9p.com^
 ||g9cvic3khh.com^
 ||ga1.3dmgame.com^
@@ -21745,6 +21747,7 @@ zzzyk.com###Tinfo
 ||mkqdj.cn^
 ||mkue.cn^
 ||ml4xbwg73.top^
+||mliyokonw.com^
 ||mlog.aipai.com^
 ||mlougq.icu^
 ||mlstx.cn^
@@ -23224,6 +23227,7 @@ zzzyk.com###Tinfo
 ||pv.sohu.com^$domain=chinafund.cn
 ||pv.zhiding.cn^
 ||pv4b.com^$popup
+||pv7ezc6as.com^
 ||pv966.us/js/tw.js
 ||pvajlmhjjq.xyz^
 ||pvgcyyh.icu^
@@ -26771,6 +26775,7 @@ zzzyk.com###Tinfo
 ||xhqgymmb.com^
 ||xhr7cqlob.com^
 ||xhtkm35sw.com^
+||xhxtdjx.com^
 ||xhymsq.com/data/attachment/portal/
 ||xhzmjs.com^
 ||xiacaidd.com/xiacai/ad/
