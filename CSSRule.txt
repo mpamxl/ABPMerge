@@ -8634,6 +8634,8 @@ techbang.com##.post-side > .related-article
 techbang.com##.techbang_i_m_970x250_1
 techbang.com##div[class^="techbang_inline_"]
 technews.tw##.inside_AD
+techorange.com##a[href^="https://supr.link/"]
+techorange.com##div.elementor-widget > div.elementor-widget-container:has(> a[href*="utm_campaign"] > img)
 techritual.com##.th-single-ad
 techug.com##a[href*="/222.html"]
 techug.com##a[href*="/eee.html"]
@@ -9330,6 +9332,7 @@ xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]
 xcar.com.cn##div[class^="adset"]
 xchina.co##.block-overlay
+xchina.co##.photo-items > .auto-height
 xchina.co##.photo-items > div[class^="item auto-height"]
 xchina001.online###core-zone-4
 xchina001.online###z-extra-2
