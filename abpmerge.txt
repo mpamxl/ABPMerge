@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-12 11:35:07
-! Total count: 28152
+! Version: 2026-06-12 17:58:29
+! Total count: 28156
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12344,6 +12344,7 @@ zzzyk.com###Tinfo
 ||086123.xyz^
 ||087tqb.cn^
 ||08pkgxft0u.com^
+||08su45co5x.com^
 ||093yuht.com^
 ||0941.org^
 ||094kk.com^
@@ -13967,6 +13968,7 @@ zzzyk.com###Tinfo
 ||9kh5b.cn^$3p
 ||9kld.com/ad*.html
 ||9kp.cc/js/bbk/
+||9kqh3r24zv.com^
 ||9ku.com/aaa/
 ||9l4i9edu.top^
 ||9l9ck7mdd2.com^
@@ -14112,6 +14114,7 @@ zzzyk.com###Tinfo
 ||a8age.com^
 ||a8h4zhbmxi.com^
 ||a8qwjt7dwi.com^
+||a8wqu3fbmk.com^
 ||a962m.xyz^
 ||a9able.com^
 ||aa.gushiwen.org^
@@ -24392,6 +24395,7 @@ zzzyk.com###Tinfo
 ||siz3wxt8p.shop^
 ||sjarvis.taobao.com^
 ||sjbaiduadv1.redou.com^
+||sjbbsja.forum^
 ||sjbgyak.cn^
 ||sjdfuvz.cn^
 ||sjhgfrvbxrbbr.com^
