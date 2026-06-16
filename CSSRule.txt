@@ -9369,6 +9369,7 @@ xiadele.com##.details-small-carousel
 xiadele.com##.yun-advertisement
 xianzhenyuan.cn##.sd_ad:not(#xztba)
 xianzhenyuan.cn##a[href*=".tmall.com"]:not(#xztba)
+xiaoaimh.com##.flex-cols.tops
 xiaolz.cn###masonry2
 xiaolz.cn###zzbuluoled_sx
 xiaoma.net##.col-list-ad
