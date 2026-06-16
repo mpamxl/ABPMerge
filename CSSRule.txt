@@ -2173,6 +2173,8 @@
 360kuai.com##.marketing-box
 360kuai.com##.mid-right__operate-adv__container
 360kuai.com,hao.360.com###cangbao_redbags
+360lele.cc##.container > div[id]:has(> div[style*="width: 100vw; position: relative;"] > span + img)
+360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 360zbz.com#@#.rightad
 368015.xyz##div[style="height:60px;width:100%;"]
 36dm.club,36dm.com,acgsou.com##.clear.text_center
@@ -5564,7 +5566,6 @@ huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
 hung-ya.com##.AdBottom
-huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 hupu.com###HCFull
 hupu.com###shihuo1111
 hupu.com###threadLeftAd
@@ -8545,6 +8546,7 @@ suizhoushi.com##div[id^="sznew_ad"]
 suning.com##.c2c-recommend
 sunnylife.tw##.Zi_ad_a_H
 sunnylife.tw##.post-entry > div[style="min-width: 300px; min-height:300px;"]
+sunnylife.tw##div[style="min-width: 300px; min-height:400px;"]
 sunofbeach.net##div[id$="-ad"]
 suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
@@ -9101,6 +9103,7 @@ webkaka.com##.pTopTextAd
 webkaka.com##a[href*=".simcentric."]
 webkaka.com##a[href*="/click/a_d_"]
 webkaka.com##td[id$="_SPONSOR"]
+webtech360.com##.service-box
 webtor.io##DIV.ad
 webtor.io##IFRAME[scrolling='no']
 webtor.io##[data-element='empty']

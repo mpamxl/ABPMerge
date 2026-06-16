@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-15 19:37:22
-! Total count: 28197
+! Version: 2026-06-16 12:44:51
+! Total count: 28211
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1606,6 +1606,7 @@ $websocket,domain=wap.yushuwu.cloud
 *$script,3p,xhr,domain=m.biquge700.com|biquge001.com
 *$script,xhr,3p,domain=m.1024txt.com
 *$script,xhr,3p,domain=m.niupizhi.net
+*$script,xhr,image,3p,domain=360lele.cc
 *$xhr,denyallow=ddxsmf.com|apps.bdimg.com|cdnsrc.asp.net,domain=ddxsmf.com
 *.lijie.*/*_*?$third-party
 */blsx_*_*_*?*$third-party
@@ -3406,6 +3407,8 @@ $websocket,domain=wap.yushuwu.cloud
 360kuai.com##.marketing-box
 360kuai.com##.mid-right__operate-adv__container
 360kuai.com,hao.360.com###cangbao_redbags
+360lele.cc##.container > div[id]:has(> div[style*="width: 100vw; position: relative;"] > span + img)
+360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 360zbz.com#@#.rightad
 368015.xyz##div[style="height:60px;width:100%;"]
 36dm.club,36dm.com,acgsou.com##.clear.text_center
@@ -8062,7 +8065,6 @@ huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
 hung-ya.com##.AdBottom
-huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 hupu.com###HCFull
 hupu.com###shihuo1111
 hupu.com###threadLeftAd
@@ -11051,6 +11053,7 @@ suizhoushi.com##div[id^="sznew_ad"]
 suning.com##.c2c-recommend
 sunnylife.tw##.Zi_ad_a_H
 sunnylife.tw##.post-entry > div[style="min-width: 300px; min-height:300px;"]
+sunnylife.tw##div[style="min-width: 300px; min-height:400px;"]
 sunofbeach.net##div[id$="-ad"]
 suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
@@ -11611,6 +11614,7 @@ webkaka.com##.pTopTextAd
 webkaka.com##a[href*=".simcentric."]
 webkaka.com##a[href*="/click/a_d_"]
 webkaka.com##td[id$="_SPONSOR"]
+webtech360.com##.service-box
 webtor.io##DIV.ad
 webtor.io##IFRAME[scrolling='no']
 webtor.io##[data-element='empty']
@@ -13432,6 +13436,7 @@ zzzyk.com###Tinfo
 ||5u8mjz9tx0.com^
 ||5uazcu2o1.com^
 ||5uxmusq.cn^
+||5v19ql3xi1.com^
 ||5vdd.com/360
 ||5vdd.com/ktt.png
 ||5vdd.com/mobile.jpg
@@ -13662,6 +13667,7 @@ zzzyk.com###Tinfo
 ||7dqjgdk.com^
 ||7g761j2nc.com^
 ||7hgw85qugx.com^
+||7ho8oc3svg.com^
 ||7imz0d5nay.com^
 ||7iwxojx1s.com^
 ||7j4tpio.com^
@@ -16617,6 +16623,7 @@ zzzyk.com###Tinfo
 ||d24fx92qb.com^
 ||d2c1htpgj.com^
 ||d2kadvyeq051an.cloudfront.net^$3p
+||d2pfd8w05h.com^
 ||d2un76zvb5mgzx.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d3.sina.com.cn^$object,script
@@ -17065,6 +17072,7 @@ zzzyk.com###Tinfo
 ||dn6ik9809m.com^
 ||dnceqzz.icu^
 ||dncvj.cn^
+||dneimig.com^
 ||dngz.net/x/
 ||dnightwish.xyz^
 ||dnminullwq.com^
@@ -17492,6 +17500,7 @@ zzzyk.com###Tinfo
 ||ehk.trenhdg.com^
 ||ehox67pahs.com^
 ||ehvkaakviw.com^
+||ei6udchhys.com^
 ||ei7buknu82.com^
 ||eiadf.xyz^
 ||eifyeldw.top^
@@ -18637,6 +18646,7 @@ zzzyk.com###Tinfo
 ||gtaqnnk.com^
 ||gtcqbnu.cn^
 ||gter.net/index.html?c=foot_js&type=footer.js
+||gtethuui.com^
 ||gtfccewpo.com^
 ||gtimg.cn/mediastyle/event/20160306_music_live/img/skd.jpg
 ||gtimg.cn/music/photo_new/T053XD001001BZyX50UcRRk.
@@ -21955,6 +21965,7 @@ zzzyk.com###Tinfo
 ||mujkdna.xyz^
 ||mukkoiigam.com^
 ||multiple46.top^
+||multiplication29.top^
 ||multiply5.top^
 ||mumu*.com/js/cdn.js$~3p
 ||mumu*.com/js/html*.js$script,~3p
@@ -22996,6 +23007,7 @@ zzzyk.com###Tinfo
 ||phuolhogmxin.com^
 ||phwv.cn^
 ||phx9cqla2.com^
+||phzlhhfidmntxc.com^
 ||pianba.tv/api/web_htmls.js
 ||pianbar.net/JS/bootfloat.js
 ||pianbar.net/JS/hottj.js
@@ -23529,6 +23541,7 @@ zzzyk.com###Tinfo
 ||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
+||qnpy8bumnc.com^
 ||qnsb.com/news/index.php?m=poster&
 ||qnvod.net/qna/
 ||qnywjs.buzz^
@@ -27087,6 +27100,7 @@ zzzyk.com###Tinfo
 ||xsxmvb.xyz^
 ||xsyhy.cn^
 ||xt1nx0rs7n.com^
+||xt8esrr.com^
 ||xtbzff.xyz^
 ||xtg5gdugqi.com^
 ||xtjpdfr.cn^
