@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-17 12:09:13
-! Total count: 28219
+! Version: 2026-06-17 18:08:29
+! Total count: 28222
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8059,6 +8059,7 @@ huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(abort-on-stack-trace
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(no-setTimeout-if, /bait\.offsetHeight===0|isAdblocked|requestAnimationFrame\(/)
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(abort-on-stack-trace, Element.prototype.attachShadow, Object.Score)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.com##a[href^="https://lesi198.com"]
 huawei.com#@#.ad-section
@@ -18469,6 +18470,7 @@ zzzyk.com###Tinfo
 ||gmicu.cn^
 ||gmxvmvptfm.com^
 ||gn01.top^
+||gn4yz5v9z.com^
 ||gn6u494hn.com^
 ||gndmnrh.cn^
 ||gndrzx.cn^
@@ -19088,6 +19090,7 @@ zzzyk.com###Tinfo
 ||hhttm.top^
 ||hi.xiunm.cn^
 ||hi.xiunm.com^
+||hi2gmx3e1.com^
 ||hi2pv3e9pr.com^
 ||hi407ezyz.com^
 ||hi4c61mi8d.com^
