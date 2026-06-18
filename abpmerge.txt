@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-17 18:08:29
-! Total count: 28222
+! Version: 2026-06-18 11:44:11
+! Total count: 28232
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12485,6 +12485,7 @@ zzzyk.com###Tinfo
 ||107.167.16.*.gif
 ||107.167.22.*.gif
 ||109218er.xyz^
+||10eni3ogoo.com^
 ||10fang.com/static/skin/tfy/layer/layer.js
 ||11.96131.com.cn^
 ||11.golang8.com^
@@ -15479,6 +15480,7 @@ zzzyk.com###Tinfo
 ||bigcood.xyz^
 ||bigear.cn/cache/htmlcache/
 ||bihaipack.com^
+||bikemanw.com^
 ||biketo.com/d/file/p/
 ||bilibilijj.com/image/right_bottom.gif
 ||bilkreta.com^
@@ -15533,6 +15535,7 @@ zzzyk.com###Tinfo
 ||bjmama.net/a/spc_
 ||bjnyfav.xyz^
 ||bjs.faxingzhan.com^
+||bjsr03odzu.com^
 ||bjxty88.com/js/foot.js
 ||bk2l4eidc.com^
 ||bkad13gfu.com^
@@ -15866,6 +15869,7 @@ zzzyk.com###Tinfo
 ||c6.friok.com^
 ||c64ihqx0gj.com^
 ||c6hhfkvxv.com^
+||c6nxtri65t.com^
 ||c7bijgz6zr.com^
 ||c7o9xp4e4.com^
 ||c81.ipanocloud.com^
@@ -18436,6 +18440,7 @@ zzzyk.com###Tinfo
 ||gkgktibd.com^
 ||gkhergik.com^
 ||gkjmev3.com^
+||gklsfigkom.com^
 ||gknybkl.cn^
 ||gkryjuqq3.com^
 ||gkuresx.com^
@@ -18721,6 +18726,7 @@ zzzyk.com###Tinfo
 ||guli21.com/js/ggdm
 ||gumgo.cn^$3p
 ||gummy-debt.com^
+||gun2v2neoo.com^
 ||gunmi.cn^$3p
 ||guoguoks.com/1.
 ||guohexinxiang.com^
@@ -22400,6 +22406,7 @@ zzzyk.com###Tinfo
 ||nphqw.cn^
 ||nplvdodbja.com^
 ||npunr.cn^
+||npuwalz.com^
 ||npvcfn.icu^
 ||npzc1yzag7.com^
 ||nq49x3m8g.com^
@@ -23212,6 +23219,7 @@ zzzyk.com###Tinfo
 ||procdn.asia^
 ||proceedings33.top^
 ||prodigalpromotion.com^
+||product28.top^
 ||proewildfire.cn/fd.js
 ||profitablecpmratenetwork.com^
 ||proginn.com/cms/10000/
@@ -23872,6 +23880,7 @@ zzzyk.com###Tinfo
 ||rgpxop.cn^
 ||rgvqddo.com^
 ||rgzz3rs.icu^
+||rhaol5omof.com^
 ||rhesed.site^
 ||rhinogo.cn^
 ||rhiolf.cn^
@@ -24942,6 +24951,7 @@ zzzyk.com###Tinfo
 ||taozi888.com/sys
 ||taporn.com/d/
 ||taproot44.com^
+||tarbfjimpnnbvi.com^
 ||tarotmood.com/img/banner$domain=ixdzs.tw
 ||tarqk5.com^
 ||tasgxk4ia6.com^
