@@ -5560,6 +5560,7 @@ huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(abort-on-stack-trace
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(addEventListener-defuser, DOMContentLoaded, showModal)
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##+js(no-setTimeout-if, /bait\.offsetHeight===0|isAdblocked|requestAnimationFrame\(/)
 huavod.cc,huavod.top,huavod.net,huaren.live,huavod.com##div[id^="anti-adblock-"]
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live###hr-notice-box
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(abort-on-stack-trace, Element.prototype.attachShadow, Object.Score)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(set-constant, ConFig.ad_duration_ms, 0)
 huavod.com##a[href^="https://lesi198.com"]
@@ -6384,6 +6385,7 @@ jstv.com###vplayad
 jstv.com##.TuiGuang
 jstv.com##.jadv
 jthysh.com##.box980
+jucha.com##.money_item
 juejin.im##.banner-section
 juejin.im##.feedAdsense
 juksy.com###cover.modal__mask
@@ -6979,6 +6981,8 @@ mitbbs.ca,mitbbs.com##.newskuang2
 mitbbs.ca,mitbbs.com##table[width="336"][height="280"]
 mitbbs.ca,mitbbs.com##table[width="915"] > tbody > tr:first-child > td[width]
 miushuo.com###leftDiv1
+mixytalk.com###ad-interstitial
+mixytalk.com##.result-inline-ad
 mjzj.com##div[id^="sidebar-top-carouse"]
 mm-cg.com###ArticlesEx_box
 mm-cg.com###ioshowAD
@@ -7017,9 +7021,11 @@ moe.best##.alert
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 moe.gov.cn,qspfw.com#@#.ad_title
 moeci.com##+js(no-setTimeout-if, _0x)
+moegirl.org.cn##+js(addEventListener-defuser, DOMContentLoaded, sponsored)
 moegirl.org.cn##.capsule-card:has(.n-tag)
 moegirl.org.cn##.moe-card[data-region="oversea"]
 moegirl.org.cn##.moe-card[region="oversea"]
+moegirl.org.cn##.moeautotrans-side-ad
 moegirl.org.cn##[class^='stevrhgmNo']
 moegirl.org.cn##[style*='box-shadow: rgb(136, 136, 136) 0px 0px']
 moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
