@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-21 17:18:52
-! Total count: 28288
+! Version: 2026-06-22 13:25:41
+! Total count: 28292
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13868,6 +13868,7 @@ zzzyk.com###Tinfo
 ||8zqpw2lj8n.com^
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
 ||900.la/imgs/d829d551-1d6e-4018-b3fe-78991bbbe2d6/2016-06-27/yiwmbica.gif
+||903jbw7lr6.com^
 ||90mh.com/mip/qdbao
 ||90mh.com/mip/qdbao77.js
 ||90oo.com/tp/188jj.gif
@@ -16684,6 +16685,7 @@ zzzyk.com###Tinfo
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
 ||d7fl3a3vwh.com^
+||d7rn5gu7i2.com^
 ||d7w6tvhhww.com^
 ||d7ynwsj5l.com^
 ||d7ytrv7yxa.com^
@@ -17720,6 +17722,7 @@ zzzyk.com###Tinfo
 ||existences2.top^
 ||exmoo.com/js/ad-position/
 ||expediency36.com^
+||exponent69.com^
 ||expreview.com/baba/
 ||ext.baidu.com^
 ||extmaps-api.yandex.net^
@@ -25532,6 +25535,7 @@ zzzyk.com###Tinfo
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
 ||tzfdc.com/fdcSell/
+||tzlbzndiezpzro.com^
 ||tzlit.cn^
 ||u.ctrip.com/showcaseadvertisementsit/
 ||u.guannin.com^
