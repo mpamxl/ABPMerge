@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-24 10:40:40
-! Total count: 28317
+! Version: 2026-06-24 17:46:46
+! Total count: 28323
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13562,6 +13562,7 @@ zzzyk.com###Tinfo
 ||6fm4dcpj31.com^
 ||6functf.com^
 ||6ggstcmglf.com^
+||6grxxoqmpc.com^
 ||6gukaitu.xyz^
 ||6gvg5saail.com^
 ||6gxs.net/js/
@@ -13601,6 +13602,7 @@ zzzyk.com###Tinfo
 ||6t51r3ge18.com^
 ||6tdz25urqj.com^
 ||6tofsu.com^
+||6uliq2uive.com^
 ||6uzxtlv.cn^
 ||6v2wkfw6pc.com^
 ||6v4.cn^$3p
@@ -15805,6 +15807,7 @@ zzzyk.com###Tinfo
 ||buyihao.com^
 ||buzien.top^
 ||buzzhand.com/images/$subdocument
+||bvhd1uhl5z.com^
 ||bvlang.com/ad/
 ||bvpqrydt.xyz^
 ||bvraciedl.com^
@@ -17287,6 +17290,7 @@ zzzyk.com###Tinfo
 ||duoyi.com/welcome/$popup
 ||dup.baidustatic.com^
 ||dushiyanqing.net/mobile/lib/ccppcc.js
+||duvm2tveip.com^
 ||duxingangtiaoban.com^
 ||duyewnf.icu^
 ||duyixpy.top^
@@ -20687,6 +20691,7 @@ zzzyk.com###Tinfo
 ||kelehut.cc/js/m.
 ||ken.kenxq.com^
 ||kengi.top^
+||kettledroopingcontinuation.com^
 ||kewaishu.org/m-
 ||key8.com/cache/www/banner_
 ||keyboard88.top^
@@ -24686,6 +24691,7 @@ zzzyk.com###Tinfo
 ||speedtest.cn/api/v2/show
 ||speedtest.cn/assets/images/ce_
 ||spellbind33.com^
+||spendsdetachment.com^
 ||sphdigital.com.sg/_plat/$domain=zaobao.com.sg
 ||spl.ztvx8.com^$3p
 ||spnuninugr.com^
