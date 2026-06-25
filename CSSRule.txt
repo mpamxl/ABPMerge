@@ -2174,7 +2174,6 @@
 360kuai.com##.mid-right__operate-adv__container
 360kuai.com,hao.360.com###cangbao_redbags
 360lele.cc##.container > div[id]:has(> div[style*="width: 100vw; position: relative;"] > span + img)
-360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 360zbz.com#@#.rightad
 368015.xyz##div[style="height:60px;width:100%;"]
 36dm.club,36dm.com,acgsou.com##.clear.text_center
@@ -2919,8 +2918,6 @@ asmag.com.cn##.adAsMainLeft
 asp300.com,asp300.net##.tit01 > a
 asp300.com,asp300.net##.tit02 > a
 assbbs.com##div[id^="ass_adv"]
-assume.gguaklar.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
-assume.gguaklar.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 asus.com##.bg_block
 atoolbox.net###ad-coupon-search
 atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
@@ -4938,6 +4935,8 @@ fx678.com##div[id^="dl_"]
 fx678.com##div[id^="hta_"]
 fx678.com#@##ad_8
 fxedu.com.cn#@#.ad_r
+fxshu.top##.com_t > div[id]:has(> div[style*="width: 100vw; position: relative;"] > span + img)
+fxshu.top,360lele.cc,huoqwk.com,wap.biqugewx.info##+js(no-setTimeout-if, addEventListener("touchstart")
 fxykx.com##a[href*="zyttx.com/"]
 fxykx.com,pantsu.cat#@##banner_ad
 fznews.com.cn##.kuang100_right
@@ -5481,6 +5480,8 @@ hmitalk.com##div[class*="-pubadban "]
 hmitalk.com##div[data-adid]
 hmoe.one##.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-panel__header__title:contains(赞助商))
 hmoe.one,hmoe.moe##a[href^="https://item.taobao.com"]
+hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com###adFloat
+hokztalt.cc,51cg1.com,51baoliao01.com,91cg1.com##.recommend-layer
 home.firefoxchina.cn##.border-gray-200.tuijian
 home.firefoxchina.cn##a[title][track_key="sites_saoma"]
 home.firefoxchina.cn##a[track_key="sites_mingzhan"] + a[title="VIP"]
