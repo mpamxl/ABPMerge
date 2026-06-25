@@ -9477,6 +9477,7 @@ yahoo.com##.ad-tl2b
 yahoo.com##.bg-card-bg-1[class*="300px"]
 yahoo.com##.js-stream-content:has(a[href*=".promotions."])
 yahoo.com##.js-stream-content:has(div:contains(雅虎搜尋))
+yahoo.com##.pointer-events-auto.h-\[91px\]
 yahoo.com##.pointer-events-none > .sticky:has(> div[id^="sda-"][id$="-iframe"]:only-child)
 yahoo.com##.stream-item:has(>div>div>div>span:contains(即日熱搜))
 yahoo.com##.stream-responsive-ad-item

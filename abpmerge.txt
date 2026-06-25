@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-25 10:33:50
-! Total count: 28328
+! Version: 2026-06-25 18:02:24
+! Total count: 28333
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12001,6 +12001,7 @@ yahoo.com##.ad-tl2b
 yahoo.com##.bg-card-bg-1[class*="300px"]
 yahoo.com##.js-stream-content:has(a[href*=".promotions."])
 yahoo.com##.js-stream-content:has(div:contains(雅虎搜尋))
+yahoo.com##.pointer-events-auto.h-\[91px\]
 yahoo.com##.pointer-events-none > .sticky:has(> div[id^="sda-"][id$="-iframe"]:only-child)
 yahoo.com##.stream-item:has(>div>div>div>span:contains(即日熱搜))
 yahoo.com##.stream-responsive-ad-item
@@ -12426,6 +12427,7 @@ zzzyk.com###Tinfo
 ||0yq00i.cn^
 ||0yu3bxtqv.com^
 ||0z3zbnbkv.com^
+||0zo9nqijr.com^
 ||1.07swz.com^
 ||1.1010pic.com^
 ||1.11130.com.cn^
@@ -13093,6 +13095,7 @@ zzzyk.com###Tinfo
 ||3ikcnjvsx.com^
 ||3is34bpqs4.com^
 ||3j1fiw14n9.com^
+||3j4vjpx7k.com^
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kfvgobkw.com^
@@ -20746,6 +20749,7 @@ zzzyk.com###Tinfo
 ||kjuwxmi.xyz^
 ||kjvaqbyebqarl.top^
 ||kk3fefl2b3.com^
+||kk51qd5l4.com^
 ||kkh3e6ylwt.com^
 ||kkisoo.com^
 ||kkjshsj.com^
@@ -25971,6 +25975,7 @@ zzzyk.com###Tinfo
 ||vaudeville44.top^
 ||vauu8z77p.com^
 ||vaxgyly.cn^
+||vb5gi1zp5.com^
 ||vbc08091op.com^
 ||vbc08100op.com^
 ||vbc08101op.com^
