@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-06-27 16:57:35
-! Total count: 28091
+! Version: 2026-06-28 10:20:08
+! Total count: 28099
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8576,6 +8576,7 @@ ithome.com##.con-recom
 ithome.com##.indexV2 > div > a
 ithome.com##.j_iframe_show > iframe
 ithome.com##.lapin
+ithome.com##.op
 ithome.com##.placeholder:has(> a > .plc-con > .plc-footer > .tip-gray)
 ithome.com##.placeholder:has([data-original*='newsuploadfiles'])
 ithome.com##.rds
@@ -8586,6 +8587,7 @@ ithome.com##.rm-modal1-bg
 ithome.com##.rm-modal1-body
 ithome.com##.sb_list > .bx
 ithome.com##.t-b.sel > ul.nl > li:has(> a[href*="/lapin."]):style(visibility: hidden !important;)
+ithome.com##.visited-link-color-fixed:has(.tip-gray)
 ithome.com##a[href*="/lapin."]
 ithome.com##a[href*="/lapin."] + .ad
 ithome.com##a[href="/html/363216.htm"]
@@ -15232,6 +15234,7 @@ zzzyk.com###Tinfo
 ||bbhktv.xyz^
 ||bborxjkan.com^
 ||bbphonix.xyz^
+||bbqy4ihvz9.com^
 ||bbrav96ax.com^
 ||bbs.a9vg.com/showit/img_show.php
 ||bbs.gmbbk.com^*.js
@@ -15793,6 +15796,7 @@ zzzyk.com###Tinfo
 ||bytravel.cn/js/b_
 ||bytravel.cn/js/s_
 ||bytytxkz.icu^
+||byuh78fy2m.com^
 ||byvlph.xyz^
 ||bz*.com/js/cdn.
 ||bz*.com/js/cdn.js
@@ -21426,6 +21430,7 @@ zzzyk.com###Tinfo
 ||m1vvvv1k2.com^
 ||m2.lelemh.com^
 ||m2k3j7x8.com^
+||m2wrsmrsbj.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
 ||m3v8x28jut.com^
@@ -22606,6 +22611,7 @@ zzzyk.com###Tinfo
 ||openrcv.baidu.com^
 ||operation67.com^
 ||operetta17.com^
+||opev2lhm7h.com^
 ||ophwrh.cn^
 ||opjnbmk.com^
 ||opkkjh.xyz^
@@ -23704,6 +23710,7 @@ zzzyk.com###Tinfo
 ||receiptgg.top^
 ||recognize04.top^
 ||recount57.com^
+||rectangular18.com^
 ||redbaby.hk^
 ||redmx.cn^$3p
 ||redshu.com/js/pcAdv.js
@@ -26961,6 +26968,7 @@ zzzyk.com###Tinfo
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
 ||xrkbhl2cp.com^
+||xrnrplqcfmpxfg.com^
 ||xrus.cn^
 ||xryrylt.cn^
 ||xs.dmzj.com^
