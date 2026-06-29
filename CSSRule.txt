@@ -1538,7 +1538,6 @@
 ##script + .header_rmb
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
-##script + div[id^="a-loading-"]
 ##script[src$="/base.js"] + #couplet
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##secion#ly LI[role='group'],secion#ly > H2
@@ -1562,7 +1561,6 @@
 #@#.has-ad
 #@#.uk-container.uk-container-expand
 012.tw#@#.ad728
-020job.com##A[href^="/Click.aspx?AdPageID="]
 0594.com##div[id^="PCMSAD_"]
 0594.com,164580.com,2234.cn,appinn.com,appledaily.com.tw,china.com,chinamedevice.cn,cnodejs.org,danyang.com,doyouhike.net,e3zy.com,haokan5.com,hc360.com,helloavgirls.com,hkjunkcall.com,meiyouad.com,moe48.com,qq.com,sina.com,sogou.com,tongren.gov.cn,uc123.com,up01.cc,wokao.co,yeeyi.com##.ads
 0597kk.com###cool_fixed
@@ -1573,9 +1571,7 @@
 0597kk.com##.lyhux_mu
 0597kk.com##div[style="width:960px; overflow:hidden; margin:2px auto; "]
 0597kk.com##img[width^="37"][height="30"]
-0597ok.com,nongjitong.com,typecho.wiki##.div_ad
 0598yu.com##.v1100_ad
-060s.com###header4
 07073.com###Vsss00
 07073.com###rightDiv > div[style="height:250px"]
 07073.com###tanchuang
@@ -2093,8 +2089,8 @@
 28hse.com###floating_left_div
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
 2chcn.com##img[width="300"]
+2cycomic.com##body > a
 2cycomic.com##body > div > center
-2cycomic.com,whnyd.com##body > a
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
@@ -2553,9 +2549,6 @@
 77bike.com,actoys.net,gpsuu.com,homefei.me,ksbbs.com,mgbbs.cn,oigps.com,opticsky.cn##.tac.mb5
 77kpp.com##div[style="z-index:1000000;position: fixed;top:0;left:0;"]
 77mh.nl###bdcotopnew
-789ys.com##h1[style]
-789ys.com,fffdm.com##ul[style]
-789ys.com,ruanyifeng.com##div[style*="important"]
 78dm.net###qpgg
 78dm.net##.ad_logor
 78dm.net##.add-980
@@ -3530,8 +3523,6 @@ brushes8.com##.baidugg580
 brushes8.com##.zjianad
 bt.cn##.left_wrap:nth-child(3)
 bt.cn,lotour.com##.btad
-bt1207ma.xyz##a[href*="/uuribao.com/"]
-bt1207ma.xyz##a[href*="/uuribao.com/"] + .caption
 btbtt.me###wrapper2 > .width
 btime.com###ad_full_button_placehoder
 btmovi.in##body > span[style]
@@ -4760,6 +4751,7 @@ feng.com##div[class^="ad_90"]
 fenghuo.in##.mimi
 fengniao.com,zhiding.cn##div[id^="AD"]
 fffdm.com##[style^="width"][style*="height"]
+fffdm.com##ul[style]
 ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fhm.com.tw###add-box
 fhxy-a.top##.sd_recpic
@@ -7407,6 +7399,7 @@ nodeloc.com##.AfruxWidgets-sideNavAlt
 nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
 nodeseek.com##.promotation-item
 nongjitong.com##.ad_sms
+nongjitong.com,typecho.wiki##.div_ad
 noslocker.com##+js(remove-node-text, script, /navigator\.platform|new Function/)
 novel543.com,thisiscm.com##.gadBlock
 novipnoad.com##.ad_single_title
@@ -8067,6 +8060,7 @@ ruanyifeng.com##a[href*=".apeclass.com"]
 ruanyifeng.com##a[href*=".kaikeba.com"]
 ruanyifeng.com##a[href*=".ke.qq.com"]
 ruanyifeng.com##a[href^="https://ke.qq.com/"]
+ruanyifeng.com##div[style*="important"]
 ruanyifeng.com##p[style="text-align:center;font-size: 16px;"]
 ruanyifeng.com#@#.asset-content > p:contains(/二维|助教|0 元|报名费|原价/) + p + p > img
 ruanyifeng.com#@#.asset-content > p:contains(/二维|助教|0 元|报名费|原价/) + p > img
@@ -8692,7 +8686,6 @@ theporn.cc##.toolbar-gg
 theworld.cn##.download-now
 thinbug.com###inktokad
 thinkphp.cn##.a6
-tianhaohz.com##span[style="display: block; clear: both; overflow: hidden;"]
 tianshif.com###comment-ad
 tianshui.com.cn##td[height="420"]
 tiantianzhibo.com###sliderb_container
@@ -9203,7 +9196,6 @@ wezhicms.com##.activity
 wezhicms.com##.card-main:has(.waimai-item-img)
 whnews.cn###gd_l
 whnews.cn###gd_r
-whnyd.com##div[style*="height: 115px"]
 wiki.mbalib.com###ad-fold
 wiki.mbalib.com###p-ad-bd
 wiki.mbalib.com##.ad-br
