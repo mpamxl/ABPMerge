@@ -4972,6 +4972,7 @@ gamer.com.tw##.b-list_ad
 gamer.com.tw##.iframe:last-child
 gamer.com.tw##img[onload="AntiAd.check(this)"]:style(position: absolute!important; left: -3000px!important;)
 gamersglobal.de#@#.gg-box
+gamersky.com##+js(abort-current-script, localStorage, showAd)
 gamersky.com##.ad_cmt_cont
 gamersky.com##.downLoadGame-2
 gamersky.com##.downLoadGame-2 + .dl_url
@@ -6352,6 +6353,9 @@ jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 joyacg.top##a[href^="http"] > .img-fluid
 jpfans.com,jpseek.com##table[cellspacing="1"][cellpadding="6"]
 jpsub.com##.floatbar_div
+jptt.tv###vast_video_loading_f-player:style(display: none !important;)
+jptt.tv##+js(set-constant, player.adList, {})
+jptt.tv##.fluid_nonLinear_ad
 jq-school.com##.setfarme:nth-child(7)
 jq-school.com##div[style="width:1060px; height:auto; margin:0 auto;overflow:hidden;"]
 jq.131458.com##.soso_02
