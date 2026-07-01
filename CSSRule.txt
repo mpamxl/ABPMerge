@@ -3671,6 +3671,7 @@ chexun.com##.ad1100
 chexun.com##.ad794
 chexun.com##.attr-outside-ad
 chexun.com##a[attr-outside-ad]
+chicagoreader.com#@#.ad-above-footer
 chigua69.com##.video-list > div.video-item:has(> a[adv_id])
 china.cn###pic_banner
 china.cn##.bottom_recommend_box
