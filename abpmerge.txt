@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-01 11:16:27
-! Total count: 28112
+! Version: 2026-07-01 17:45:51
+! Total count: 28118
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7666,6 +7666,9 @@ hanime1.me##.video-show-width > .single-show-list > .hidden-xs[style*="text-alig
 hanime1.me##div[style*="text-align:"]:has(>div[style*="color: white"])
 hanime1.me##div[style*="width: 310px; height: 282px;"]
 hanime1.me#@#[class*="juicyads"]
+hanjuk.com##+js(abort-current-script, document.createElement, new Function)
+hanjuk.com##[style^="display: block; z-index: 2147483646; position: fixed; user-select: none;"]
+hanjuk.com##body > [style^="display: block; width: 100%; height: 131px;"]
 hanjutv2020.com##a[href*=".hujiang.com"]
 hanjutv2020.com##a[style="width: 1120px;height: 70px;overflow: hidden;display: block;"]
 hanman/static/dist/ppm/js/main.js
@@ -17339,6 +17342,7 @@ zzzyk.com###Tinfo
 ||e5nnk.com^
 ||e5yx.com^$popup
 ||e75liqii98.com^
+||e81j0an3d.com^
 ||e90m7tos2.com^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||ea5s00h6oo.com^
@@ -23279,6 +23283,7 @@ zzzyk.com###Tinfo
 ||qayqa.com:6868/jquery/
 ||qbcyr5tfd.com^
 ||qbhmz3.com^
+||qbhsocu.com^
 ||qbibsy.icu^
 ||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
@@ -25501,6 +25506,7 @@ zzzyk.com###Tinfo
 ||ueuwvgco19.com^
 ||uevrhqra7u.com^
 ||uewzjy.xyz^
+||ueya0wo6m.com^
 ||ueyuww.icu^
 ||ufa9tt1n5.com^
 ||ufeuca.icu^
