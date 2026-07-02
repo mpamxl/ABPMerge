@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-01 17:45:51
-! Total count: 28118
+! Version: 2026-07-02 10:28:23
+! Total count: 28125
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -6315,6 +6315,7 @@ cm.k366.com##.rightpart td[height="260"]
 cm.k366.com##.rightpart td[width="300"][height="270"]
 cmbc.com.cn#@#.adBox
 cmhello.com##.gpost-above
+cmoney.tw##.stockGrid__topbar
 cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
@@ -10862,6 +10863,8 @@ soft.3dmgame.com##.btnbox > a.btnsecurity
 soft.macx.cn#@##googlead
 soft4fun.net###xad_mu
 soft5566.com###sharebtn
+soft8ware.com##+js(no-setTimeout-if, triggerAdBlockModal)
+soft8ware.com##ins.adsbygoogle
 softblog.tw#@#.dshare
 sogi.com.tw###main > div.container:has(> div#ad)
 sogi.com.tw##.editable > div.text-center:has(> div.d-inline-block > div[id^="div-gpt-ad"])
@@ -16563,6 +16566,7 @@ zzzyk.com###Tinfo
 ||cypcb.net^
 ||cyq3noz.icu^
 ||cyq8vqq9s.com^
+||cyu6bl939o.com^
 ||cz16vlh0la.com^
 ||czghjt.com^
 ||czsp12.com/api/*=advert&
@@ -23794,6 +23798,7 @@ zzzyk.com###Tinfo
 ||rhlxm.top^
 ||rhmt1jjyo.com^
 ||rhododendron15.top^
+||rhombus74.com^
 ||rhrrf.cn^
 ||rhtc.quanminyouxi.cn^
 ||riaway.com/statics/idea.jpg
@@ -23898,6 +23903,7 @@ zzzyk.com###Tinfo
 ||rrxddl.xyz^
 ||rryy99.com/statics/js/stat.js
 ||rsanciz.top^
+||rsfzjtdmbmxdfq.com^
 ||rsinnxoe.com^
 ||rssxsjh.icu^
 ||rstdfyerm.icu^
@@ -27149,6 +27155,7 @@ zzzyk.com###Tinfo
 ||yahekby.cn^
 ||yahoo.com/embed/tv?site=buzzhand&
 ||yahoo.com/gdsale/gdsale.asp$domain=beephone.com.tw
+||yahzsa6o2o.com^
 ||yakhaknog.com^
 ||yalingba.com/ggtxjs/
 ||yan007.com/js/sss/ad.js
