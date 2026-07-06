@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-05 16:55:43
-! Total count: 28155
+! Version: 2026-07-06 11:55:08
+! Total count: 28161
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12751,6 +12751,7 @@ zzzyk.com###Tinfo
 ||1w73a5d.cn^
 ||1weorpu.com^
 ||1wkg.cn^
+||1wo2fytcws.com^
 ||1x6666.com/img/
 ||1y55vfy87.com^
 ||1ykbpp1jx.com^
@@ -14174,6 +14175,7 @@ zzzyk.com###Tinfo
 ||aariedbtr.com^
 ||aassy4.com/dm/
 ||aatv.app/sport/sport.js
+||aaxggkj.com^
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
 ||ab3de9.gamersky.com^
@@ -16918,6 +16920,7 @@ zzzyk.com###Tinfo
 ||di2y21.top^
 ||diagnosis.ad.xiaomi.com^
 ||dialogue32.com^
+||diameter94.com^
 ||diamiu.com/wp-content/uploads/1200-200.
 ||dian500.com^$3p
 ||dianhanjiw.com^
@@ -22497,6 +22500,7 @@ zzzyk.com###Tinfo
 ||odxupm909y.com^
 ||odz12g5ag.com^
 ||oe8mnxdtoi.com^
+||oe9s24wy9.com^
 ||oehhq.xyz^
 ||oekkuthy.com^
 ||oesnwi.icu^
@@ -24059,6 +24063,7 @@ zzzyk.com###Tinfo
 ||s4y6lhotaw.com^
 ||s4zqj3m.cn^
 ||s65m.win^
+||s6ctxsmoaj.com^
 ||s6in.cc^
 ||s72h7io4o.com^
 ||s7fpxh6fz.com^
@@ -27787,6 +27792,7 @@ zzzyk.com###Tinfo
 ||zents10.top^
 ||zents7.top^
 ||zeookuv.xyz^
+||zepcdxyiqtxtbc.com^
 ||zero.wewakir.top^
 ||zerolcp.cn^
 ||zevbzn.xyz^
