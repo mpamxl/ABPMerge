@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-07 10:45:16
-! Total count: 28170
+! Version: 2026-07-07 17:51:33
+! Total count: 28176
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12362,6 +12362,7 @@ zzzyk.com###Tinfo
 ||096iokj.com^
 ||09jsufg.com^
 ||0a66kw9r8.com^
+||0aokpbwui.com^
 ||0b4qu3nxa.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
@@ -18812,6 +18813,7 @@ zzzyk.com###Tinfo
 ||h702886htm.com^
 ||h731.icu^
 ||h7ima6w5k.com^
+||h89o58087.com^
 ||h8cjr6nhm.com^
 ||h9806gjhz.com^
 ||hacde1.icu^
@@ -23321,6 +23323,7 @@ zzzyk.com###Tinfo
 ||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qbtd.xyz^
+||qbxxi23a2.com^
 ||qbyngdjq8g.com^
 ||qc1.cheshipin.com^
 ||qcb2xeg.icu^
@@ -26096,6 +26099,7 @@ zzzyk.com###Tinfo
 ||vvfht.fun^
 ||vvllrb.top^
 ||vvqc95xhtx.com^
+||vvtpftuiqrbdha.com^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vvwuqxp.icu^
@@ -26195,6 +26199,7 @@ zzzyk.com###Tinfo
 ||wacowla.com/wp-content/plugins/popover/js/
 ||wagzqhq.cn^
 ||wai69.com/js/baidu/
+||waioidmwg.com^
 ||waipian*.com/statics/recommend/
 ||waizongguan.net^
 ||wake-up-neo.com/bnet/
@@ -27981,6 +27986,7 @@ zzzyk.com###Tinfo
 ||zmg15qfvi.com^
 ||zmhpphp.forum^
 ||zmhqhuq.cn^
+||zmjt3xi8k.com^
 ||zmk.pw/zfb.png
 ||zmk852tp7.com^
 ||zmkp6jvq4.com^
