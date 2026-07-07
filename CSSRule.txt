@@ -5566,6 +5566,7 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(addEventListener-def
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(no-setTimeout-if, /bait\.offsetHeight===0|isAdblocked|requestAnimationFrame\(|AdBlock|AdGuard/)
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
+huavod.com###player-vip
 huavod.com##a[href^="https://lesi198.com"]
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
