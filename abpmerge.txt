@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-08 10:07:06
-! Total count: 28185
+! Version: 2026-07-08 17:19:15
+! Total count: 28188
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3863,15 +3863,15 @@ $websocket,domain=wap.yushuwu.cloud
 91porna.com,evgpopxb.cc##.dx-banner-item
 91porna.com,evgpopxb.cc##.modal-backdrop
 91porny.com###playerJsvLayer.jsv-layer
+91porny.com##.alert
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 91porny.com##div[data-nosnippet]:has(div.row a[href][rel^="noopener"])
-91porny.com,91porn.fans,91porny.org###main > div[class][id] > .mb-0
-91porny.com,91porn.fans,91porny.org###main > div[class][id]:has(>style)
-91porny.com,91porn.fans,91porny.org##.colVideoList:has(>.video-elem>.d-block[href^="http"])
-91porny.com,91porn.fans,91porny.org##.videoPlayContainer > style + div[data-nosnippet]
+91porny.com,91porn.fans,91porny.org###main > div[class][id]:has(.video-elem>a[rel="noopener nofollow"])
+91porny.com,91porn.fans,91porny.org###main > div[class][id]:has(>div>style)
+91porny.com,91porn.fans,91porny.org##.colVideoList:has(>.video-elem>.display[href^="http"])
 91porny.com/api/getPos?jspath=/
 91rb99.com##.top
 91xx133.cc##div[id].is-multiline > .is-one-quarter-tablet:has(> .is-shadowless a[target="_blank"])
@@ -17631,6 +17631,7 @@ zzzyk.com###Tinfo
 ||ertgbme.com^
 ||erty0yx.com^
 ||es3984.review/02_cn_ad/
+||esa2j46dwf.com^
 ||esanciw.top^
 ||esgher.fun^
 ||esgher.site^
@@ -20865,6 +20866,7 @@ zzzyk.com###Tinfo
 ||l0vij7q78.com^
 ||l1bj5pxqzk.com^
 ||l1owmrzjdw.com^
+||l1y267efmn.com^
 ||l235cj20z.com^
 ||l23jhjfasd.xyz^
 ||l2qdfaq62o.com^
@@ -21776,6 +21778,7 @@ zzzyk.com###Tinfo
 ||mkjnbg.com^
 ||mkjnha.com^
 ||mkqdj.cn^
+||mks8vq5qfu.com^
 ||mkue.cn^
 ||mliyokonw.com^
 ||mlog.aipai.com^
@@ -23430,7 +23433,6 @@ zzzyk.com###Tinfo
 ||qingkong.net/skin/htcs/images/980.jpg
 ||qingsedhh.com/images/gg.gif
 ||qingxinwx.*/static/xbiquge/js/wap.
-||qiqiuges.com/mk.
 ||qirloith.com^
 ||qirqritp.com^
 ||qishula.com/css/ding.js
@@ -24964,6 +24966,7 @@ zzzyk.com###Tinfo
 ||tepusi888.cn^
 ||termvb.xyz^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
+||testingcf.jsdelivr.net/gh/softwaredefinevehicle/static/lozad.min.js
 ||tetiaetwg.com^
 ||tetiao9.com^
 ||teusyxz.icu^
