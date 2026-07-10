@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-10 10:43:50
-! Total count: 28200
+! Version: 2026-07-10 17:40:18
+! Total count: 28204
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12749,6 +12749,7 @@ zzzyk.com###Tinfo
 ||1u5gy.xyz^
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
+||1udy3nzsqx.com^
 ||1ujz59h62z.com^
 ||1uo9djbnsr.com^
 ||1urjtp1t6.com^
@@ -16906,6 +16907,7 @@ zzzyk.com###Tinfo
 ||dghhot.com^
 ||dghkpp.xyz^
 ||dgnqrl.icu^
+||dgrpeldt54.com^
 ||dgvkrt.xyz^
 ||dgxjxeuzm.com^
 ||dgxlm.xyz^
@@ -20213,6 +20215,7 @@ zzzyk.com###Tinfo
 ||jjjxsw.com/js/common.*
 ||jjkiahh.icu^
 ||jjklrcw.com^
+||jjl4eob8mm.com^
 ||jjnyzeck.icu^
 ||jjpe6btbb.com^
 ||jjpyaj214.com^
@@ -20511,6 +20514,7 @@ zzzyk.com###Tinfo
 ||k31bpzf.xyz^
 ||k366.com/images/smxs^
 ||k42kw.top^
+||k5705bn39u.com^
 ||k5ggua.xyz^
 ||k5w06v2yzh.com^
 ||k69wes8q8.com^
