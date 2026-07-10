@@ -1531,7 +1531,6 @@
 ##img[src*=".sinaimg."][style="width:150px;height:300px"]
 ##main.quote-main > .section_btn.clearfix.mt20
 ##oxk
-##p > a[href^="/AllRes/Vlog"]
 ##script + #coupletBox
 ##script + #rbbox
 ##script + .dbfh
@@ -8539,6 +8538,7 @@ steelcn.cn##.new_fixed
 stheadline.com###jetso-wrapper
 stheadline.com##.section-popular
 sto520.com##.content > div.book > div[style^="text-align"]:has(> ins.adsbygoogle)
+stock-calculator.net##.grid > div > div.overflow-hidden:has(> div.inset-0 > ins.adsbygoogle)
 stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/image/"]
 stock87.com##div[id^="Javascript"]
 stock87.com##div[style^="position:relative;width:1000px;height:90px;"]
