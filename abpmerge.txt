@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-10 17:40:18
-! Total count: 28204
+! Version: 2026-07-11 09:17:05
+! Total count: 28211
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14965,6 +14965,7 @@ zzzyk.com###Tinfo
 ||auy07210km.com^
 ||auy07211km.com^
 ||auy07240km.com^
+||auynumt.com^
 ||av-yoyo.com/images/*.gif
 ||av01.tv/av01/floating_video_ads
 ||av01.tv/images/partners/
@@ -16499,6 +16500,7 @@ zzzyk.com###Tinfo
 ||crirzaitai.com^
 ||criteo.net^
 ||crjitvekbx.com^
+||cro541bud.com^
 ||crobotb.com^
 ||cruhliip.com^
 ||cruietoge.com^
@@ -16544,6 +16546,7 @@ zzzyk.com###Tinfo
 ||ctrip.com/amd/*960x90.
 ||ctsau.xyz^
 ||ctsp4jao1.com^
+||cu9epqwr6.com^
 ||cubaobei.com^
 ||cuioxbqi.com^
 ||cukeonelo.com^
@@ -17176,6 +17179,7 @@ zzzyk.com###Tinfo
 ||dpw202504.com^
 ||dpxadf.icu^
 ||dq06u9lt5akr2.cloudfront.net^
+||dq827txpz.com^
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
 ||dqjojx.xyz^
@@ -18580,6 +18584,7 @@ zzzyk.com###Tinfo
 ||gpxz.com/js2/
 ||gqcrgyufg.com^
 ||gqdfgyz.cn^
+||gqot4qlr9.com^
 ||gqwu.cn^
 ||gqxwfhe7o.com^
 ||graduate59.com^
@@ -18861,6 +18866,7 @@ zzzyk.com###Tinfo
 ||halihali2.com/js/wap2-jm-100ftop.js
 ||handerfix.com^
 ||handjob.tw/ad/
+||handsaw46.com^
 ||hanime1-me.*/herebyad
 ||hanime1-me.top/view_booster.js
 ||hanjutv2020.com/index.php?c=dudu_
@@ -27091,6 +27097,7 @@ zzzyk.com###Tinfo
 ||xt1nx0rs7n.com^
 ||xt8esrr.com^
 ||xtbzff.xyz^
+||xtfxjlpglilrdo.com^
 ||xtg5gdugqi.com^
 ||xtjpdfr.cn^
 ||xtnwxhjv.xyz^
