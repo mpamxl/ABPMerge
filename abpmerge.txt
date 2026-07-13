@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-12 16:46:28
-! Total count: 28226
+! Version: 2026-07-13 10:49:34
+! Total count: 28237
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5726,6 +5726,7 @@ bbs.wps.cn##.topic-recommend-top
 bbs.xmfish.com##.adv-760
 bbs.xmfish.com##.cmp_v
 bbt.tv,btbt.tv,fiime.cn,kims3.xyz,mmiyue.com,qcheng.cc,yii666.com#@#.google-ad
+bbys.app##.global-desktop-ad
 bcbay.com##.ad_txt_box
 bcbay.com##.discuss + table
 bcbay.com##table[id] + table[style="margin:3px auto;"]
@@ -13207,6 +13208,7 @@ zzzyk.com###Tinfo
 ||4paradigm.com^$domain=sina.com.cn
 ||4pcp5e2w7i.com^
 ||4po6iqp9.cn^
+||4pyszxxaw.com^
 ||4rcajmf0m.com^
 ||4rfns9bmp1.com^
 ||4ro76m7k2n.com^
@@ -15263,6 +15265,7 @@ zzzyk.com###Tinfo
 ||bbs.voc.com.cn/s.js
 ||bbsbaba.com/js/1.js
 ||bbsbaba.com/js/2.js
+||bbys.app/api.php/web/feature
 ||bc.qunar.com^
 ||bcb5.com/gg/
 ||bcbo.cc^
@@ -15834,6 +15837,7 @@ zzzyk.com###Tinfo
 ||bzmbrsm.com^
 ||bzp2fqad7o.com^
 ||bzqqftz.icu^
+||bzxkfnsexolzbu.com^
 ||bzxvtj.xyz^
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
 ||c-ctrip.com/images/0101r120009e1kn7oCDCA.gif
@@ -16653,6 +16657,7 @@ zzzyk.com###Tinfo
 ||d3s9in1sg.com^
 ||d4.sina.com.cn^$object,script
 ||d48paxyhx.com^
+||d4cxdtup9.com^
 ||d4dlgw9mi.com^
 ||d4ehbdtlw.com^
 ||d4rxxm6ig.com^
@@ -18820,6 +18825,7 @@ zzzyk.com###Tinfo
 ||h27aq0mc6.com^
 ||h2ji5.xyz^
 ||h2tcbox.baidu.com^
+||h40q9nv18.com^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
 ||h4htfgrei0.com^
@@ -22053,6 +22059,7 @@ zzzyk.com###Tinfo
 ||myhaitang.cc/assets/public/*.js
 ||myhaitang.xyz/assets/public/
 ||myieldell.com^
+||myiqvn5w3.com^
 ||mykch.top^
 ||mylmad.com^
 ||myqcloud.com/ad/
@@ -26137,6 +26144,7 @@ zzzyk.com###Tinfo
 ||vvdzucs.cn^
 ||vvfht.fun^
 ||vvllrb.top^
+||vvogrqq6r.com^
 ||vvqc95xhtx.com^
 ||vvtpftuiqrbdha.com^
 ||vvv.ieduw.com^
@@ -26372,6 +26380,7 @@ zzzyk.com###Tinfo
 ||whazrm9wa.com^
 ||whdx.cc/js/
 ||whe0nqk.icu^
+||wheelbarrow64.com^
 ||whfpbc.99.com.cn^
 ||whichav.*/qq/qq.js
 ||whistle35.com^
@@ -26742,6 +26751,7 @@ zzzyk.com###Tinfo
 ||x7weiubb2f.com^
 ||x8kwcr3l.xyz^
 ||x8wyxfxul.com^
+||x94pjnejo.com^
 ||x9flqeptn.com^
 ||xahycw.com^
 ||xajlxv.icu^
@@ -27166,6 +27176,7 @@ zzzyk.com###Tinfo
 ||xxmh645.com^
 ||xxniln.xyz^
 ||xxooos.com/mm/
+||xxp4802or.com^
 ||xxsmad4.com^
 ||xxsmad7.com^
 ||xxsmcps.com^
