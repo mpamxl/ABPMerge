@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-14 09:46:29
-! Total count: 28249
+! Version: 2026-07-14 17:03:01
+! Total count: 28253
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13550,6 +13550,7 @@ zzzyk.com###Tinfo
 ||6avz.com^$script,3p
 ||6b8emvi3ya.com^
 ||6b9wbbjf5s.com^
+||6bgubwkwoh.com^
 ||6c34boi06m.com^
 ||6cjdya3djn.com^
 ||6cmxoje5k.com^
@@ -21616,6 +21617,7 @@ zzzyk.com###Tinfo
 ||mc.muhtbnd.cn^
 ||mc.weather.com.cn^
 ||mc.yandex.ru^
+||mc0pagg4ao.com^
 ||mcahinohez.com^
 ||mcdwfed.cn^
 ||mcge.cn^
@@ -22809,6 +22811,7 @@ zzzyk.com###Tinfo
 ||p.wktfkj.com^$3p
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
+||p0pn18sxvh.com^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p0yixb3wfv.com^
@@ -23302,6 +23305,7 @@ zzzyk.com###Tinfo
 ||pvajlmhjjq.xyz^
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
+||pvino9yhp3.com^
 ||pvkc.cn^
 ||pvtd.cn^
 ||pvtest.zol.com.cn^
