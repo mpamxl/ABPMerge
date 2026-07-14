@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-13 17:47:43
-! Total count: 28240
+! Version: 2026-07-14 09:46:29
+! Total count: 28249
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9899,8 +9899,8 @@ nodejs.cn##+js(set-constant, adsbygoogle, {})
 nodejs.cn##+js(set-constant, adsbygoogle.loaded, true)
 nodejs.cn##.mymn-banner
 nodejs.cn##a[href*="crmeb.net"]
-nodeloc.com###wghtml
 nodeloc.com##.AfruxWidgets-sideNavAlt
+nodeloc.com##.sidebar-ads-wrapper
 nodeseek.com###nsk-right-panel-container > div.category-list + div:not([class])
 nodeseek.com##.promotation-item
 nongjitong.com##.ad_sms
@@ -12353,6 +12353,7 @@ zzzyk.com###Tinfo
 ||073img.com/*/|
 ||074adzx.com^
 ||0755rc.com^$3p
+||078pwrxpbg.com^
 ||07pv7k61z.com^
 ||080999.cn^
 ||085cczz.com^
@@ -12670,6 +12671,7 @@ zzzyk.com###Tinfo
 ||18comic.*/templates/frontend/airav/js/92_81c7.js
 ||18comic.*/templates/frontend/airav/js/jquery.*_*.js
 ||18dui.com^
+||18ioh53d3f.com^
 ||18mo21a2ji.com^
 ||1905.com/data/js/*.json
 ||1905.com/data/js/*.json?pwd=*.shtml&rand=$xhr
@@ -13181,6 +13183,7 @@ zzzyk.com###Tinfo
 ||4d45i6p0g.com^
 ||4d9f09z8c.com^
 ||4dyt.cn^
+||4e0jpheoi1.com^
 ||4e9ynqm47d.com^
 ||4etsr.xyz^
 ||4f3tsea1m.com^
@@ -23327,6 +23330,7 @@ zzzyk.com###Tinfo
 ||pyrfpb.icu^
 ||pz0d6zc6n.com^
 ||pzjizsyf.icu^
+||pzkkot4kn.com^
 ||pzkrgcp.cn^
 ||pzpcbt.icu^
 ||pzq7ilwvv.com^
@@ -23956,6 +23960,7 @@ zzzyk.com###Tinfo
 ||roj7ah16d.com^
 ||romiyee.icu^
 ||ronbbf.xyz^
+||ronfjvonmo.com^
 ||rongedui.com^
 ||ror12.cc^
 ||rorwdbuazjbxta.com^
@@ -24106,6 +24111,7 @@ zzzyk.com###Tinfo
 ||s2dln6sdu.com^
 ||s2plb194m.com^
 ||s2tu.com/images/*.gif
+||s2ze6h0miy.com^
 ||s3-nl-01.mangabuddy.in^
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
 ||s3bltexcm.com^
@@ -24191,6 +24197,7 @@ zzzyk.com###Tinfo
 ||sciencenet.cn/html/js/n
 ||sciillr.cn^
 ||scint-x.com/js/
+||scissors73.top^
 ||scjpqut.cn^
 ||sckfcn.cn^
 ||sconline.com.tw/top/coolpc_
@@ -25481,6 +25488,7 @@ zzzyk.com###Tinfo
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
 ||tzfdc.com/fdcSell/
+||tzifhmvuju.com^
 ||tzlbzndiezpzro.com^
 ||tzlit.cn^
 ||tzp61mplc.com^
@@ -28090,6 +28098,7 @@ zzzyk.com###Tinfo
 ||zpotkvpy.icu^
 ||zppfjh.xyz^
 ||zpsovpgyk.xyz^
+||zptfrxoaumxhnu.com^
 ||zpxvpvee.icu^
 ||zpxw.vip^
 ||zpzatutb.com^
