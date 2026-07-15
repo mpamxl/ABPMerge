@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-15 09:50:35
-! Total count: 28265
+! Version: 2026-07-15 17:05:24
+! Total count: 28270
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16005,6 +16005,7 @@ zzzyk.com###Tinfo
 ||cckke.com/fanhao/v/ad
 ||ccmeng.com^$3p
 ||ccnim.xyz^
+||ccpvq7fgy.com^
 ||cctime.com/UpLoadFile/201*.gif
 ||cctv.com/Library/a2.js
 ||cctv5.name/data/js/
@@ -25876,6 +25877,7 @@ zzzyk.com###Tinfo
 ||v6jt.cn^
 ||v700rtlhd.com^
 ||v84tz11w7.com^
+||v85ps46o4.com^
 ||v88yaat.xyz^
 ||v8fjvv9o3.com^
 ||v8j1rkai1.com^
@@ -26202,6 +26204,7 @@ zzzyk.com###Tinfo
 ||vyxw.cn^
 ||vyye.cn^
 ||vz95953ow5.com^
+||vzayis1qa.com^
 ||vzeuvcdi.icu^
 ||vzia.cn^
 ||vzmz.com/template/paody/aaaa/*0
@@ -27083,6 +27086,7 @@ zzzyk.com###Tinfo
 ||xnrinp.icu^
 ||xnzetb.xyz^
 ||xnzxeu.com^
+||xo2ra1fu7.com^
 ||xo60kab7yv.com^
 ||xoimg.com^$domain=18board.com|18p2p.com
 ||xoiz.cn^
@@ -28050,6 +28054,7 @@ zzzyk.com###Tinfo
 ||zkcizao.com^
 ||zkhjsta.beauty^
 ||zkmnpnt4xg.com^
+||zkn5zg8on.com^
 ||zknqll.icu^
 ||zkraktak.com^
 ||zkvqdf.icu^
