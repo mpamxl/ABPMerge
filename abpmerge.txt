@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-15 17:05:24
-! Total count: 28270
+! Version: 2026-07-16 09:57:18
+! Total count: 28280
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13471,6 +13471,7 @@ zzzyk.com###Tinfo
 ||5vuk.xyz^
 ||5w31xv1a2.com^
 ||5wl8x.xyz^
+||5wt390pvwz.com^
 ||5wv0y42ub.com^
 ||5wzew9jht.com^
 ||5x17591y3b.com^
@@ -13867,6 +13868,7 @@ zzzyk.com###Tinfo
 ||8x3wolchw.com^
 ||8x5vviy4r2.com^
 ||8xbook.org/scripts/ad/
+||8ya9li3d2g.com^
 ||8yd2rtikkz.com^
 ||8yo772d29.com^
 ||8yuwd5lpj.com^
@@ -15984,6 +15986,7 @@ zzzyk.com###Tinfo
 ||cbjs.baidu.com^
 ||cbo9vo98i.com^
 ||cboufsrelp.com^
+||cbqh4uqmzm.com^
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||cc-316.cc^
 ||cc.8181zx.com^
@@ -16977,6 +16980,7 @@ zzzyk.com###Tinfo
 ||digitaloceanspaces.com^*-Banner
 ||dikematou.com^
 ||dikmnhyxz.xyz^
+||dilsnzgygszpla.com^
 ||dimtown.com/adimg/
 ||dinatoikw.com^
 ||ding.cxzudwk.com^
@@ -20005,6 +20009,7 @@ zzzyk.com###Tinfo
 ||ixog.cn^
 ||ixug0amgtn.com^
 ||iy.com.cn^$3p
+||iy0keh7qj7.com^
 ||iyes.youku.com^
 ||iyf.tv/a/$xhr
 ||iyf.tv/play/$xhr
@@ -20726,6 +20731,7 @@ zzzyk.com###Tinfo
 ||kljslku.com^
 ||klljo2cp63.com^
 ||kls24qtvc.com^
+||klt2ojvew1.com^
 ||kltjbnfjmnh.com^
 ||klufjdo.com^
 ||kmbopoie.com^
@@ -21511,6 +21517,7 @@ zzzyk.com###Tinfo
 ||m2wrsmrsbj.com^
 ||m3cqjc3og6.com^
 ||m3ks1o8jz.com^
+||m3rsa3rnbm.com^
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
 ||m485oq2gym.top^
@@ -23680,6 +23687,7 @@ zzzyk.com###Tinfo
 ||quudraidfg.com^
 ||quzmtpxw.xyz^
 ||qvdn.cn^
+||qvfvah7jyb.com^
 ||qvxvvjom.com^
 ||qw2v.taoxiehui.cn^
 ||qw7fi6e194.com^
@@ -24624,6 +24632,7 @@ zzzyk.com###Tinfo
 ||sp1.baidu.com^
 ||sp5vip.com/h.js
 ||spanking.wiki/morning-bread-
+||spatula91.com^
 ||spcode.baidu.com^
 ||specialty75.com^
 ||speedtest.cn/api/v2/show
@@ -24851,6 +24860,7 @@ zzzyk.com###Tinfo
 ||swqmuo.icu^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sx.fakjkwp.cn^
+||sx2sg2t5sd.com^
 ||sxeimg.com/u/20191108/13082210.gif
 ||sxguowei.com^
 ||sxk9m8x.cn^
