@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-17 09:46:57
-! Total count: 28294
+! Version: 2026-07-17 16:59:59
+! Total count: 28298
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12810,6 +12810,7 @@ zzzyk.com###Tinfo
 ||22588888.com^$popup
 ||22eo9qlbpt.com^
 ||22pixx.xyz/l/
+||22qcvn8hq.com^
 ||22svkcdbyp.com^
 ||22vie9ula.com^
 ||23.224.89.2^$3p
@@ -14164,6 +14165,7 @@ zzzyk.com###Tinfo
 ||a4sz.xyz^
 ||a4xvv2g18l.com^
 ||a51wzxssu.com^
+||a588g3q4t.com^
 ||a5wlr2yplf.com^
 ||a5xiazai.com/z/
 ||a65vocvbfe.com^
@@ -20809,6 +20811,7 @@ zzzyk.com###Tinfo
 ||krbulhb.com^
 ||kreirkaer.com^
 ||krevn0cq4.com^
+||krhi1dc7m.com^
 ||krmxearc1.com^
 ||krr894.top^
 ||krw.yrehdfer.com^
@@ -23273,6 +23276,7 @@ zzzyk.com###Tinfo
 ||pstgaac.com^
 ||pstvvb.xyz^
 ||pswzggx.icu^
+||psxc6fapn.com^
 ||psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||ptauxofi.net^
 ||ptbus.com/s.js
