@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-16 17:03:00
-! Total count: 28285
+! Version: 2026-07-17 09:46:57
+! Total count: 28294
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12708,6 +12708,7 @@ zzzyk.com###Tinfo
 ||1gp3p6fkio.com^
 ||1gqd0o687z.com^
 ||1gvzhr49e.com^
+||1h90ydceq.com^
 ||1hcgomshd.com^
 ||1hhwyb4vl.com^
 ||1hmklj60i.com^
@@ -13850,6 +13851,7 @@ zzzyk.com###Tinfo
 ||8mg050.n3cdn1.secureserver.net^*.gif
 ||8mg050.n3cdn1.secureserver.net^*/960
 ||8mhcc.top^
+||8o5v23yip.com^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
 ||8pbiddjtp.com^
@@ -14784,6 +14786,7 @@ zzzyk.com###Tinfo
 ||anode67.top^
 ||anoneko.com^*.*?$image
 ||anqu.com/b.js
+||anqv97upx.com^
 ||antdv.com/kaikeb
 ||antdv.com/yideng
 ||antheaceliacd.com^
@@ -15579,6 +15582,7 @@ zzzyk.com###Tinfo
 ||blackthorn88.com^
 ||ble7orbnz.com^
 ||bleumzr.icu^
+||blhkzjnamvlxxg.com^
 ||bljlrl.xyz^
 ||blog.xuite.net/_public/js/ysmad.js
 ||blogspot.com^*/s1600/drug.gif
@@ -18996,6 +19000,7 @@ zzzyk.com###Tinfo
 ||hcl6pwowqv.com^
 ||hcp5dq18h.com^
 ||hcvegu.com^
+||hcyo99iyr.com^
 ||hczj7w56k.top^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
@@ -20271,6 +20276,7 @@ zzzyk.com###Tinfo
 ||jljftl.xyz^
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
+||jm3uvitq0.com^
 ||jmbbs.cn/sjgg/
 ||jmbluyxkl.xyz^
 ||jmcomic.asia/iframe_*&idzone=
@@ -20862,6 +20868,7 @@ zzzyk.com###Tinfo
 ||kvbh.cn^
 ||kvdxvqw.xyz^
 ||kve026cks7.com^
+||kvg2q75ps.com^
 ||kvhee.com^
 ||kvno4qgv8n.com^
 ||kvsqa.xyz^
@@ -25348,6 +25355,7 @@ zzzyk.com###Tinfo
 ||trognoi.com^
 ||trombone48.com^
 ||trouupjeu.com^
+||trowel03.com^
 ||trp69.top^
 ||trqhf.xyz^
 ||trslw.cn^
@@ -26892,6 +26900,7 @@ zzzyk.com###Tinfo
 ||xgzxpdy.com^
 ||xh04i9ine.com^
 ||xh33g.net^
+||xhckbgvd0.com^
 ||xhe87zexdk.com^
 ||xheqbc.cn^
 ||xhgwho0fx.com^
