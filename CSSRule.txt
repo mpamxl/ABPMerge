@@ -1242,7 +1242,6 @@
 ##a[href*=".com?intr="]
 ##a[href*=".com?s="]
 ##a[href*=".erodatalabs.com/"]
-##a[href*=".fdgsnnvfsdv2df1bf3fdb1.cc"]
 ##a[href*=".gaimin.gg/cn"]
 ##a[href*=".hongguotuiguang."]
 ##a[href*=".jmtybc.com"]
