@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-19 16:44:30
-! Total count: 27900
+! Version: 2026-07-20 10:41:06
+! Total count: 27908
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11338,6 +11338,7 @@ tw.news.yahoo.com###sda-MON
 tw.news.yahoo.com###sda-WPS-iframe
 tw.news.yahoo.com##.YDC-Lead
 tw.news.yahoo.com##.caas-body > .caas-iframe-wrapper > .flourish
+tw.news.yahoo.com##blockquote.mb-module-gap
 tw.news.yahoo.com##div[data-google-query-id]
 tw.news.yahoo.com##div[id^="defaultLDRB"]
 tw.news.yahoo.com##li[id^="ad-"]
@@ -11510,6 +11511,7 @@ vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##.player-info div[class]:
 vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##div[class][style*="position:"] > img[onclick^="window.open"]
 vidhub3.top,vidhub4.cc##div[style^="position:"]:has(> img[onclick^="window.open"])
 vikacg.com##+js(no-window-open-if, !/external)
+vikacg.com##a[href^="https://acg01.com/]"]
 vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > .grid > a[href^="http"]:not([href*="vikacg."])
 vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 vip.diaoyu18.com##.container > a[target="_blank"]
@@ -12756,6 +12758,7 @@ zzzyk.com###Tinfo
 ||1x6666.com/img/
 ||1y55vfy87.com^
 ||1zdywcgmlt.com^
+||1zw5kzrzjm.com^
 ||2.haoxue360.com^
 ||2.yunsxk.xyz^
 ||200218.com^$3p
@@ -15747,6 +15750,7 @@ zzzyk.com###Tinfo
 ||buzzhand.com/images/$subdocument
 ||bvhd1uhl5z.com^
 ||bvlang.com/ad/
+||bvnnxhmypzrpbe.com^
 ||bvpqrydt.xyz^
 ||bvraciedl.com^
 ||bvrukrud.com^
@@ -16468,6 +16472,7 @@ zzzyk.com###Tinfo
 ||crobotb.com^
 ||cruhliip.com^
 ||cruietoge.com^
+||crusher38.top^
 ||cruzietv.com^
 ||crxs.me/service/assets/core-state.
 ||cryy.vip^
@@ -16883,6 +16888,7 @@ zzzyk.com###Tinfo
 ||dheblxw.com^
 ||dheear.site^
 ||dherea.site^
+||dhfshdmuvezfhm.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dhkqqe.top^
@@ -18690,6 +18696,7 @@ zzzyk.com###Tinfo
 ||gz93n2pkh.com^
 ||gzasiatech.net^
 ||gzfzcj.cn^
+||gzhkarwp9n.com^
 ||gzk72wa1f.com^
 ||gzldas.icu^
 ||gzqvd.cn^
@@ -22811,6 +22818,7 @@ zzzyk.com###Tinfo
 ||picb.cc/uploads/2018/06/26/2zxrsi.jpg
 ||picgd.com/images/*.gif
 ||picgd.com/images/2018/12/01/h1pi5.png
+||picjs.xyz/image/*.gif$domain=vikacg.com
 ||piclect.com^*.gif$3p
 ||picnewsss.com^
 ||picpar.com^$domain=18board.com|18p2p.com

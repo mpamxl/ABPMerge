@@ -8847,6 +8847,7 @@ tw.news.yahoo.com###sda-MON
 tw.news.yahoo.com###sda-WPS-iframe
 tw.news.yahoo.com##.YDC-Lead
 tw.news.yahoo.com##.caas-body > .caas-iframe-wrapper > .flourish
+tw.news.yahoo.com##blockquote.mb-module-gap
 tw.news.yahoo.com##div[data-google-query-id]
 tw.news.yahoo.com##div[id^="defaultLDRB"]
 tw.news.yahoo.com##li[id^="ad-"]
@@ -9016,6 +9017,7 @@ vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##.player-info div[class]:
 vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##div[class][style*="position:"] > img[onclick^="window.open"]
 vidhub3.top,vidhub4.cc##div[style^="position:"]:has(> img[onclick^="window.open"])
 vikacg.com##+js(no-window-open-if, !/external)
+vikacg.com##a[href^="https://acg01.com/]"]
 vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > .grid > a[href^="http"]:not([href*="vikacg."])
 vikacg.com,vikacg.icu,vikacg.xyz##div[class^="my-"] > a[href^="http"]:not([href*="vikacg."])
 vip.diaoyu18.com##.container > a[target="_blank"]
