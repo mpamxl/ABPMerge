@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-20 17:22:33
-! Total count: 27914
+! Version: 2026-07-21 10:15:11
+! Total count: 27922
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13334,6 +13334,7 @@ zzzyk.com###Tinfo
 ||56img.com^*/baidu-promotion.js
 ||56img.com^*/search-engine-promotion.js
 ||56rmm.com:8888/js
+||56wj96l0x.com^
 ||56xiaoshuo.net/mm.
 ||56yk.com^
 ||57573zubo36833.com^
@@ -15520,6 +15521,7 @@ zzzyk.com###Tinfo
 ||bk2l4eidc.com^
 ||bkad13gfu.com^
 ||bkam33lsr.com^
+||bkbntniwbhlntm.com^
 ||bkhblj.xyz^
 ||bkhpdrblv.com^
 ||bkhxut1rz.com^
@@ -18515,6 +18517,7 @@ zzzyk.com###Tinfo
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
 ||greikvuth.com^
+||grinder47.com^
 ||grjasq.com^
 ||gromore.pangolin-sdk-toutiao.com^
 ||growthol22.com^
@@ -18877,6 +18880,7 @@ zzzyk.com###Tinfo
 ||hcvegu.com^
 ||hcyo99iyr.com^
 ||hczj7w56k.top^
+||hd2o34yu8.com^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||hdbvfhjebfiendhr.com^
@@ -21017,6 +21021,7 @@ zzzyk.com###Tinfo
 ||ll.ibiqiuge.com/m.js
 ||llaxl.com^
 ||llbquucai.com^
+||lle6t62id.com^
 ||llj22.com/1.gif
 ||llksja.com^
 ||lllencim.com^
@@ -23458,6 +23463,7 @@ zzzyk.com###Tinfo
 ||qykezpy.xyz^
 ||qyplvnzcm1.com^
 ||qyun.vip/pic/*.gif
+||qyyvoquib.com^
 ||qyzyd.top^
 ||qzda.cc^
 ||qzgn652dp.com^
@@ -25350,6 +25356,7 @@ zzzyk.com###Tinfo
 ||ugox.cn^
 ||ugugct.xyz^
 ||uhek.cn^
+||uhiwh2tsu.com^
 ||uhnd2ru20.com^
 ||uhwnrfu.cn^
 ||uhyhdrh.cn^
@@ -27864,6 +27871,7 @@ zzzyk.com###Tinfo
 ||zygkzytb.cn^
 ||zygscl.cn^
 ||zyifk.cn^
+||zyjfjziavcdpnk.com^
 ||zykwnj.cn^
 ||zypzzv.xyz^
 ||zyrwfd.xyz^
