@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-21 10:15:11
-! Total count: 27922
+! Version: 2026-07-21 17:06:09
+! Total count: 27926
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -15286,6 +15286,7 @@ zzzyk.com###Tinfo
 ||bd1.szhk.com^
 ||bd1.xiby.cn^
 ||bd1.yidu.cc^
+||bd1.zuimeitianqi.com^
 ||bd100.010lm.com^
 ||bd11.nipic.com^
 ||bd3.chuiyue.com^
@@ -21958,6 +21959,7 @@ zzzyk.com###Tinfo
 ||namnothp.com^
 ||naned.xyz^
 ||nanfengyl.com/static/js/zdad.js
+||nannvshuo.com^
 ||nanrenfuli.*/zb_users/upload/
 ||nanrenvip2021.com/old.html
 ||naqiwjj.icu^
@@ -24770,6 +24772,7 @@ zzzyk.com###Tinfo
 ||tfyam4np2y.com^
 ||tfzozf.xyz^
 ||tg.loclog.cn^
+||tg0val4vb.com^
 ||tgb.cn/res/js/tgbgg/
 ||tgbevv.xyz^
 ||tgcfmh.com^
@@ -27203,6 +27206,7 @@ zzzyk.com###Tinfo
 ||yptqys.tianqistatic.com^
 ||ypyr.cn^
 ||ypzps.com^
+||yqfax76xs.com^
 ||yqg.jobui.com^
 ||yqgtuqf.icu^
 ||yqgzaewe.cn^
