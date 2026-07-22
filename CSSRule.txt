@@ -7645,8 +7645,6 @@ pharmnet.com.cn##.ad9502
 phone-book.tw##+js(remove-node-text, script, yumayishop)
 photonmedia.net#@#.ads-banner
 photopea.com##.flexrow > div[style^="padding-top:"]
-php.cn##.zwwad
-php.cn##a[href*="/go."]:not([href*="Fwww.php"])
 phpvar.com##.aliPic
 phpvar.com##.post_content_linkad
 phpvar.com##.qrcode-swiper-container
@@ -8026,7 +8024,7 @@ rfidworld.com.cn##.indexBanner
 rfidworld.com.cn##.rfidADClass
 rfidworld.com.cn##div[style="width: 100%;position: fixed;top: 0;margin:0;"]
 riaway.com##.info_message_container
-right.com.cn###hd > div.wp > div.hdc > h2
+right.com.cn###hd > div.wp > div.hdc > h2 img.boardlogo
 right.com.cn##.wp > .a_t:has(> table > tbody > tr > td > .adsbygoogle)
 right.com.cn##a[href^="https://jd.dangbei.com/"]
 right.com.cn#@##sitefocus.focus

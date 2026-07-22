@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-22 10:14:35
-! Total count: 27932
+! Version: 2026-07-22 17:06:50
+! Total count: 27933
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10135,8 +10135,6 @@ pharmnet.com.cn##.ad9502
 phone-book.tw##+js(remove-node-text, script, yumayishop)
 photonmedia.net#@#.ads-banner
 photopea.com##.flexrow > div[style^="padding-top:"]
-php.cn##.zwwad
-php.cn##a[href*="/go."]:not([href*="Fwww.php"])
 phpvar.com##.aliPic
 phpvar.com##.post_content_linkad
 phpvar.com##.qrcode-swiper-container
@@ -10516,7 +10514,7 @@ rfidworld.com.cn##.indexBanner
 rfidworld.com.cn##.rfidADClass
 rfidworld.com.cn##div[style="width: 100%;position: fixed;top: 0;margin:0;"]
 riaway.com##.info_message_container
-right.com.cn###hd > div.wp > div.hdc > h2
+right.com.cn###hd > div.wp > div.hdc > h2 img.boardlogo
 right.com.cn##.wp > .a_t:has(> table > tbody > tr > td > .adsbygoogle)
 right.com.cn##a[href^="https://jd.dangbei.com/"]
 right.com.cn#@##sitefocus.focus
@@ -13744,6 +13742,7 @@ zzzyk.com###Tinfo
 ||82e9ac3c1.com^
 ||83133.com/api/
 ||84dwl4bbq.com^
+||84v3xysu80.com^
 ||84zm8.xyz^
 ||85270jylmzsym.top^
 ||85566.net/js/loadjs/jquery
@@ -22793,8 +22792,6 @@ zzzyk.com###Tinfo
 ||photos18.com/images/friend/
 ||phow238wzh.com^
 ||phozatoi.com^
-||php.cn/ad1.
-||php.cn/hezuo/
 ||php1.cn/uploads/huayun.jpg
 ||phpad.cqnews.net^
 ||phpernote.com/ali
@@ -23653,6 +23650,7 @@ zzzyk.com###Tinfo
 ||richshredinger.com^
 ||rifyeldz.top^
 ||rigengjihua.cn/banner/
+||right.com.cn/forum/data/attachment/common/template/boardimg_20260602yahb3wsd.
 ||right.com.cn/forum/static/image/common/logo
 ||right.com.cn/forum/static/image/common/logo*.gif
 ||right.com.cn/forum/static/image/common/logo1.
@@ -24731,6 +24729,7 @@ zzzyk.com###Tinfo
 ||tdigcw.com^
 ||tdlop7tsme.com^
 ||tdxs5.cc/m
+||teacher.php.cn/php/
 ||tebv.cn^
 ||tech.jiukang.org^
 ||techain.baidu.com^
@@ -26548,6 +26547,7 @@ zzzyk.com###Tinfo
 ||xfdlfj.icu^
 ||xfgctg.com^
 ||xfidfuxidr.in^
+||xfjy2fh28b.com^
 ||xflsj.com^
 ||xfvod.pro/images/ad/
 ||xfxtqjg.com^
@@ -27431,6 +27431,7 @@ zzzyk.com###Tinfo
 ||zaupjw.xyz^
 ||zawqwpajq.club^
 ||zawra9izy3.com^
+||zaxffxesykzvfs.com^
 ||zay7gs1xkl.com^
 ||zazgbqg*.xyz^
 ||zazgiyoh*.world^
