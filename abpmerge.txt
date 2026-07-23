@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-22 17:06:50
-! Total count: 27933
+! Version: 2026-07-23 10:11:03
+! Total count: 27941
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14567,6 +14567,7 @@ zzzyk.com###Tinfo
 ||akmh074.vip^
 ||akmh080.vip^
 ||akqipai.com/m/Tpl/v3/js/indexbottom.js
+||akuohvb4u.com^
 ||akuziti.com/tu/*.js
 ||al.newxue.com^
 ||al1n6v56m.com^
@@ -15544,6 +15545,7 @@ zzzyk.com###Tinfo
 ||blog.xuite.net/_public/js/ysmad.js
 ||blogspot.com^*/s1600/drug.gif
 ||bloom331.top^
+||blowlamp65.com^
 ||blsenpg.cn^
 ||blueidea.com/js/ajs.js
 ||blvhq.com^
@@ -17786,6 +17788,7 @@ zzzyk.com###Tinfo
 ||fdi1rg6ihs.com^
 ||fdk6z2l7jt.com^
 ||fds-1230.cc^
+||fdtarpaueilvrs.com^
 ||fe4c0422j.com^
 ||fedoq.com^
 ||feeceeyf.com^
@@ -18496,6 +18499,7 @@ zzzyk.com###Tinfo
 ||govlaibing.cn^
 ||govliuzhou.cn^
 ||govxinjiang.cn^
+||gownbea.icu^
 ||goxob6wo.icu^
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
@@ -19764,6 +19768,7 @@ zzzyk.com###Tinfo
 ||ir3f1x3aet.com^
 ||iremnazae.com^
 ||irp37bmmt.com^
+||irq0ql8or.com^
 ||irr7idq6i.com^
 ||irs03.com^
 ||irtefs.xyz^
@@ -20399,6 +20404,7 @@ zzzyk.com###Tinfo
 ||k16e9b.com^
 ||k1s3u1dtpc.com^
 ||k2.dancihu.com^
+||k2bividyt.com^
 ||k2n0f.cn^$3p
 ||k31bpzf.xyz^
 ||k366.com/images/smxs^
@@ -27425,6 +27431,7 @@ zzzyk.com###Tinfo
 ||zantj.com/diao
 ||zaqlovh*.xyz^
 ||zaqptv2bo.xyz^
+||zas4hfcxr.com^
 ||zasjf.xyz^
 ||zasjfget.xyz^
 ||zathrilgiw.com^
@@ -27801,6 +27808,7 @@ zzzyk.com###Tinfo
 ||zrosq6dsha.com^
 ||zrz0c0sh7e.com^
 ||zrzgsdocqm.com^
+||zsi24utdu.com^
 ||zsjjob.com/user/member/google.htm
 ||zsjxwj.com^
 ||zsnfdphz.com^
