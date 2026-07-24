@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-23 17:09:27
-! Total count: 27945
+! Version: 2026-07-24 10:07:24
+! Total count: 27952
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13522,6 +13522,7 @@ zzzyk.com###Tinfo
 ||69e7.fun^
 ||69mok.com^
 ||69shuba.cx^*/shu.js
+||69shuba.tw/js/gg.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||6acupxubky.com^
@@ -13823,6 +13824,7 @@ zzzyk.com###Tinfo
 ||8o5v23yip.com^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
+||8p814q01np.com^
 ||8pbiddjtp.com^
 ||8pjqjxmr.com^
 ||8proe3xx6.com^
@@ -15552,6 +15554,7 @@ zzzyk.com###Tinfo
 ||blz105.com/player/ad.html
 ||blzgeuuz.icu^
 ||bm.h576.com^
+||bm1wk259np.com^
 ||bm3xyw6am.com^
 ||bm6c3pthv.com^
 ||bmg8t99nhf.com^
@@ -16641,6 +16644,7 @@ zzzyk.com###Tinfo
 ||d6er6wrvw.com^
 ||d6gsujd8v.com^
 ||d6hvvn5jvc.com^
+||d6odox96rf.com^
 ||d6y6etzkk.com^
 ||d7fl3a3vwh.com^
 ||d7rn5gu7i2.com^
@@ -16884,6 +16888,7 @@ zzzyk.com###Tinfo
 ||dghhot.com^
 ||dghkpp.xyz^
 ||dgnqrl.icu^
+||dgpvbzhqklzddy.com^
 ||dgrpeldt54.com^
 ||dgvkrt.xyz^
 ||dgxlm.xyz^
@@ -25043,6 +25048,7 @@ zzzyk.com###Tinfo
 ||trafficmanager.net/o.js
 ||trafficstars.com$third-party
 ||traiqnien.com^
+||trammel74.top^
 ||trapezium69.top^
 ||travel44.top^
 ||trc.taboola.com^
@@ -25287,6 +25293,7 @@ zzzyk.com###Tinfo
 ||u55011.com^
 ||u62x055tr.com^
 ||u6421d8aqt.com^
+||u67qpnaexu.com^
 ||u6uy9lzdcj.com^
 ||u6yzoru6u.com^
 ||u7em6.xyz^
