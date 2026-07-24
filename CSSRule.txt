@@ -2337,7 +2337,6 @@
 5184.com##.fixed_bgg
 5184.com##.fixed_bgg2
 5184.com##.gg600
-51cg1.com##+js(set-constant, DPLAYER_PREROLL_AD.attachPreRollAd, noopFunc)
 51cg1.com##.dplayer-pre-bg
 51cg1.com##.dplayer-pre-countdown
 51cg1.com##.dplayer-pre-img
@@ -7084,6 +7083,7 @@ mqoeomads.cc##.modal-backdrop
 mqoeomads.cc##div.dx-banner-item
 mqoeomads.cc##ul.video-items > li:has(> [data-ad_id])
 mrbird.cc#@#.social-icons
+mrds66.com,51cg1.com##+js(set-constant, DPLAYER_PREROLL_AD.attachPreRollAd, noopFunc)
 mrmad.com.tw##div[id^="mrmad-"]:has(>.adsbygoogle)
 mrmad.com.tw##div[id^="mrmadad-"][style]:has(> .adsbygoogle)
 mscbsc.com##.bao1

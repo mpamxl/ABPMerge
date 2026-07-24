@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-24 10:07:24
-! Total count: 27952
+! Version: 2026-07-24 17:20:03
+! Total count: 27957
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3560,7 +3560,6 @@ $websocket,domain=wap.yushuwu.cloud
 5184.com##.fixed_bgg
 5184.com##.fixed_bgg2
 5184.com##.gg600
-51cg1.com##+js(set-constant, DPLAYER_PREROLL_AD.attachPreRollAd, noopFunc)
 51cg1.com##.dplayer-pre-bg
 51cg1.com##.dplayer-pre-countdown
 51cg1.com##.dplayer-pre-img
@@ -9573,6 +9572,7 @@ mqoeomads.cc##.modal-backdrop
 mqoeomads.cc##div.dx-banner-item
 mqoeomads.cc##ul.video-items > li:has(> [data-ad_id])
 mrbird.cc#@#.social-icons
+mrds66.com,51cg1.com##+js(set-constant, DPLAYER_PREROLL_AD.attachPreRollAd, noopFunc)
 mrmad.com.tw##div[id^="mrmad-"]:has(>.adsbygoogle)
 mrmad.com.tw##div[id^="mrmadad-"][style]:has(> .adsbygoogle)
 mscbsc.com##.bao1
@@ -12916,6 +12916,7 @@ zzzyk.com###Tinfo
 ||2r1jqii2c.com^
 ||2r2zhs64a7.com^
 ||2rwonuh.com^
+||2s5rm8cz8p.com^
 ||2top98spp.shop^
 ||2u2wyftqmr.com^
 ||2u3v4w5x6y.com^
@@ -12968,6 +12969,7 @@ zzzyk.com###Tinfo
 ||33dav.com/static/js/bottom.js
 ||33img.com^$domain=18board.com|18p2p.com
 ||33kw1wc58.top^
+||33mp2fbrns.com^
 ||33shu.net/js/game
 ||3400.org^
 ||34dcvgw197.com^
@@ -16989,6 +16991,7 @@ zzzyk.com###Tinfo
 ||djbgfit.com^
 ||djdedu.net/static/*.gif
 ||djicdn.com/uploads/ad_image_file/
+||djname.info^
 ||djs.baomihua.com^
 ||djv99sxoqpv11.cloudfront.net^
 ||djx3um1my.com^
@@ -20841,6 +20844,7 @@ zzzyk.com###Tinfo
 ||lcd.aivote.com^
 ||lcgcrldp6m.com^
 ||lcqbi7nsv.com^
+||lctpvmaxz.icu^
 ||lcugzodfdo.com^
 ||lcxw.cn/d/js/thea
 ||lcxw.cn/i/*dl.js
@@ -21958,6 +21962,7 @@ zzzyk.com###Tinfo
 ||n5ta9.site^
 ||n6579.com^
 ||n6al211kbp.com^
+||n6pepvekwa.com^
 ||n7181.com^
 ||n7fyrdeen.com^
 ||n8bpikx1mt.com^
