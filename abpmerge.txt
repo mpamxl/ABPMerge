@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-27 11:09:54
-! Total count: 27987
+! Version: 2026-07-27 17:29:34
+! Total count: 27996
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7985,6 +7985,11 @@ house.qq.com##.bm
 house.yahoo.com.tw##.content_r > .rbox:first-child
 house365.com##a[style*="1200px;"]
 house365.com##div[id^="AD-bottom"]
+housefeel.com.tw##.articleArea > .absolute[class*="right-"]
+housefeel.com.tw##.retentionModal .aspect-square
+housefeel.com.tw##.retentionModal:style(display: none !important;)
+housefeel.com.tw##a.cursor-pointer:has(img[src^="https://console.images.stockfeelgroup.com/ads/"])
+housefeel.com.tw##body:style(overflow: auto !important;)
 howbuy.com##.topBigAd
 howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 howbuy.com#@#.ad_wrapper
@@ -16421,6 +16426,7 @@ zzzyk.com###Tinfo
 ||connectreadoasis.com^
 ||conscience34.top^
 ||considerice.com^
+||console.images.stockfeelgroup.com/ads/
 ||contagion77.com^
 ||contemplate23.top^
 ||contrive73.top^
@@ -17619,6 +17625,7 @@ zzzyk.com###Tinfo
 ||esgher.site^
 ||eshm72fwql.com^
 ||eslbahw.top^
+||esozdcn.icu^
 ||estcruden.biz^
 ||estuary98.top^
 ||et3lc8yoe.com^
@@ -18780,6 +18787,7 @@ zzzyk.com###Tinfo
 ||h7ima6w5k.com^
 ||h89o58087.com^
 ||h8cjr6nhm.com^
+||h8h1ls3hg.com^
 ||h9806gjhz.com^
 ||hacde1.icu^
 ||hacde10.icu^
@@ -19199,6 +19207,7 @@ zzzyk.com###Tinfo
 ||hqgearb.icu^
 ||hqluu46i3a.com^
 ||hqnpwzu.cn^
+||hqo0k12qs.com^
 ||hqol.cn/up/ad/
 ||hqvkbn.icu^
 ||hqvrvageaf.com^

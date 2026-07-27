@@ -5503,6 +5503,11 @@ house.qq.com##.bm
 house.yahoo.com.tw##.content_r > .rbox:first-child
 house365.com##a[style*="1200px;"]
 house365.com##div[id^="AD-bottom"]
+housefeel.com.tw##.articleArea > .absolute[class*="right-"]
+housefeel.com.tw##.retentionModal .aspect-square
+housefeel.com.tw##.retentionModal:style(display: none !important;)
+housefeel.com.tw##a.cursor-pointer:has(img[src^="https://console.images.stockfeelgroup.com/ads/"])
+housefeel.com.tw##body:style(overflow: auto !important;)
 howbuy.com##.topBigAd
 howbuy.com##a[href^="https://www.howbuy.com/advertisement/"]
 howbuy.com#@#.ad_wrapper
