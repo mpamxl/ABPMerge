@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-29 17:04:06
-! Total count: 28025
+! Version: 2026-07-30 10:12:18
+! Total count: 28034
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -5016,6 +5016,7 @@ $websocket,domain=wap.yushuwu.cloud
 @@||tenpay.com^*?ADTAG=
 @@||tgfcer.com/advert.js
 @@||th-sjy.com^$generichide
+@@||themoviedb.org/assets/
 @@||thisav.com^$generichide
 @@||threatbook.cn/public/asset/js/zhugeIo.
 @@||tianxun.com/min/f=
@@ -12953,6 +12954,7 @@ zzzyk.com###Tinfo
 ||301848.com^
 ||30qk5pvdh.com^
 ||315che.com/tree/ad.js
+||31ezrbosr6.com^
 ||31io8wshq.com^
 ||31pjnw0wff.com^
 ||31vcd.com^*.js
@@ -13820,6 +13822,7 @@ zzzyk.com###Tinfo
 ||8clkggoo62.com^
 ||8cnd.com^
 ||8csgiuclxz.com^
+||8d3jrboxxy.com^
 ||8d7hhh8x.com^
 ||8d8d.me/images/dealer.gif
 ||8eo93qj18r.com^
@@ -15671,6 +15674,7 @@ zzzyk.com###Tinfo
 ||bqge9.com/static/ad01.js
 ||bqiapp.com/api/config/ad?
 ||bqloqigu.com^
+||bqplydkjst.com^
 ||br.bendan.shop^
 ||br0vjqh7pe.com^
 ||br4fr61y3p.com^
@@ -19117,6 +19121,7 @@ zzzyk.com###Tinfo
 ||hladalliance.com^
 ||hlalliances.com^
 ||hlbbn6ii.icu^
+||hlbitfukldzbrk.com^
 ||hlegsdh.icu^
 ||hlj10010ip.com^
 ||hlj10011ip.com^
@@ -20263,6 +20268,7 @@ zzzyk.com###Tinfo
 ||jqtkzuco.xyz^
 ||jquery.envi-met.com.cn^
 ||jqz8z7gqxw.com^
+||jr9v5lx1ro.com^
 ||jrds.net.cn^
 ||jrge.cn^
 ||jrj.com.cn/h5Ad?
@@ -22650,6 +22656,7 @@ zzzyk.com###Tinfo
 ||oxj8hcfg.xyz^
 ||oxkrcrlw.com^
 ||oxozgy.icu^
+||oyb2ev9lqn.com^
 ||oyfnkle.cn^
 ||oyhurln.cn^
 ||oyksoft.com/assets/images/*.gif
@@ -22815,6 +22822,7 @@ zzzyk.com###Tinfo
 ||pengtu.cc^*.png
 ||pengwei168.com/addons/321.gif
 ||pengwei168.com/template/stui_tpl/html/vod/f.js
+||penknife87.com^
 ||penxiangge.com^
 ||people.com.cn/adv/
 ||people.com.cn/img/gjt/
@@ -27306,6 +27314,7 @@ zzzyk.com###Tinfo
 ||yqlm5il7p.com^
 ||yqsu.cn^
 ||yquqoj.com^
+||yqwueei.icu^
 ||yr-names.click^
 ||yr2spd4ucy.com^
 ||yrgsqi0zc.com^
