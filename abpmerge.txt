@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-07-31 17:19:12
-! Total count: 28047
+! Version: 2026-08-01 09:48:59
+! Total count: 28055
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -14152,6 +14152,7 @@ zzzyk.com###Tinfo
 ||a1.zhanzhang.net^
 ||a168888.top^
 ||a1714.com^$popup
+||a1ajfrk4i.com^
 ||a1bw2cup.top^
 ||a2.xinhuanet.com^
 ||a2424xe80.com^
@@ -14181,6 +14182,7 @@ zzzyk.com###Tinfo
 ||aa.xiangxiangmf.com^
 ||aa2hzrmu9.com^
 ||aa3zx8wko.top^
+||aa4jq9non.com^
 ||aa52jm08ly.com^
 ||aa67678156.com^$3p
 ||aa7hzjsow.com^
@@ -19235,6 +19237,7 @@ zzzyk.com###Tinfo
 ||hqo0k12qs.com^
 ||hqol.cn/up/ad/
 ||hqvkbn.icu^
+||hqvldtiayuvrho.com^
 ||hqvrvageaf.com^
 ||hqzcths.cn^
 ||hriy.cn^
@@ -20837,6 +20840,7 @@ zzzyk.com###Tinfo
 ||l3r6p0d5.com^
 ||l4efwdtg.icu^
 ||l4otxc.com^
+||l5pv793tm.com^
 ||l6906qxga.com^
 ||l6h17ybxe.com^
 ||l80ays.com^
@@ -21218,6 +21222,7 @@ zzzyk.com###Tinfo
 ||lpalartra.com^
 ||lparnaro.com^
 ||lpasdfgwer.com^
+||lpdm1k14h.com^
 ||lpeolfa.top^
 ||lpjxzs.com^
 ||lpl.qq.com/*/data/LOL_MATCH2_NEWS_RECOMMEND_*_INFO.js
@@ -23003,6 +23008,7 @@ zzzyk.com###Tinfo
 ||pnhp3x1.com^
 ||pniao99.com/statics/js/stat.js
 ||pnlhnx.xyz^
+||pnpq9y4te.com^
 ||pnzhpb.xyz^
 ||po18ad.com^
 ||po3x411qe3.com^
@@ -24630,6 +24636,7 @@ zzzyk.com###Tinfo
 ||sums.suning.com^$3p
 ||sun66387567606.online^
 ||sun66387567606.site^
+||sunblock65.com^
 ||sunflower27.com^
 ||sunglasse2.top^
 ||suning.cn^$domain=qianggou5.com
@@ -27459,6 +27466,7 @@ zzzyk.com###Tinfo
 ||yymowvdy0.com^
 ||yynncbn.cn^
 ||yyqozaldwa.com^
+||yyrodzxm5.com^
 ||yyselrqpyu.com^
 ||yystzl.cn^
 ||yyuivw6.com^
