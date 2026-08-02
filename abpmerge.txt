@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-01 16:49:03
-! Total count: 28058
+! Version: 2026-08-02 09:48:10
+! Total count: 28066
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -11896,6 +11896,7 @@ xgan.cn##.bottom_fixed
 xgan.cn##.container center > a[target="_blank"] > img
 xgan.cn##a[href^="https://www.jspp9.xyz"]
 xgan.cn##body > center > a[target="_blank"][rel="nofollow"]
+xgcartoon.com##+js(abort-on-stack-trace, document.createElement, mount_adsqrt_ad)
 xgeshu.com,boqushu.com##div[style="display:block;width:100%;height:100px;overflow:hidden;"]
 xgrb.cn##.d_2016_ggw
 xgw4.com###app-card-list
@@ -13039,6 +13040,7 @@ zzzyk.com###Tinfo
 ||39.net/js/google/
 ||39.net/test/k.js
 ||391k.com/pc/gg/
+||3927fqw3xd.com^
 ||3987.com/all_site/
 ||3987.com/images/
 ||3987.com/skins/*201
@@ -18082,6 +18084,7 @@ zzzyk.com###Tinfo
 ||ftiodfqk.com^
 ||ftqn9wedv.com^
 ||ftrfnx.icu^
+||ftrgpdecexhzto.com^
 ||fuentekj.com^
 ||fuimg.com/1/66795b80a792fb96.png
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
@@ -20170,6 +20173,7 @@ zzzyk.com###Tinfo
 ||jiuyuntian3.cn^
 ||jixmlx.xyz^
 ||jiyingdm.com/js/loadingshow.html
+||jj5zwmzcze.com^
 ||jjade.xyz^
 ||jjdk33.com^
 ||jjj*.com/static/js/common.js
@@ -23226,6 +23230,7 @@ zzzyk.com###Tinfo
 ||q4173l5op.com^
 ||q58nf16jd3.com^
 ||q5viqnac3i.com^
+||q643s5wiiz.com^
 ||q6iw41lkk.com^
 ||q6zikgclq9.com^
 ||q7qhlnyfx.com^
@@ -23426,6 +23431,7 @@ zzzyk.com###Tinfo
 ||qnywjs.buzz^
 ||qnywphp.forum^
 ||qnywsrc.buzz^
+||qoa0vy22fy.com^
 ||qoilbsfwqd.net^
 ||qonkdwwf.net^
 ||qowfknlds.net^
@@ -24152,6 +24158,7 @@ zzzyk.com###Tinfo
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
 ||sh996.dftoutiao.com^
+||shampoo54.top^
 ||shandian.biz/wp-content/themes/inove/js/comment.js
 ||shang.hlgnet.com/code/
 ||shangqun.com/webforms/embed/
@@ -26919,6 +26926,7 @@ zzzyk.com###Tinfo
 ||xqtcpf.icu^
 ||xr40kfkxeo.com^
 ||xrb0owc.icu^
+||xrb5zmxe2j.com^
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
 ||xrkbhl2cp.com^
