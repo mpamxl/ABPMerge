@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-02 16:47:46
-! Total count: 28069
+! Version: 2026-08-03 11:12:15
+! Total count: 28076
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -16306,6 +16306,7 @@ zzzyk.com###Tinfo
 ||ck180.net/mitao
 ||ck33.top^
 ||ck4g3p2x92.com^
+||ck7uo6g36.com^
 ||ckerw.xyz^
 ||ckg.vipyl.com^
 ||ckxxbao.com/templets/default/js/wx.js
@@ -17217,6 +17218,7 @@ zzzyk.com###Tinfo
 ||dressing27.top^
 ||drfvtgbyk.xyz^
 ||drgakaelgp.com^
+||drlagqnl.com^
 ||drmcmm.baidu.com^
 ||drudgery89.com^
 ||drvsky.com/js/jolimark.gif
@@ -17844,6 +17846,7 @@ zzzyk.com###Tinfo
 ||fdhvczd.cn^
 ||fdi1rg6ihs.com^
 ||fdk6z2l7jt.com^
+||fdluoxnn.com^
 ||fds-1230.cc^
 ||fdtarpaueilvrs.com^
 ||fe4c0422j.com^
@@ -20142,6 +20145,7 @@ zzzyk.com###Tinfo
 ||jijidown.com/static/img/right_bottom.
 ||jijidy.com/640x200down.
 ||jijistatic.duapp.com/Squall/1.jpg
+||jinanrqz.com^
 ||jinbao888.com^
 ||jingdianlaoge.com/static/js/360-displaywindow-advert.js
 ||jingdianlaoge.com/static/js/q.js
@@ -21588,6 +21592,7 @@ zzzyk.com###Tinfo
 ||meijutt.tv/js/layer/mobile/layer.
 ||meijutt.tv/js/pcjs/alltop_960_1.js
 ||meijuxz.com/template/ZQ/
+||meijxqop.com^
 ||meimpheaea.com^
 ||meipian.me^*/api_ad/
 ||meishiba.com.cn^$3p
@@ -26147,6 +26152,7 @@ zzzyk.com###Tinfo
 ||wdswgjn.cn^
 ||wdtuc.cn^
 ||wdtw.cn^
+||wdziitkl.com^
 ||wdzwd.xyz^
 ||we560.com/js/*.js
 ||weather-analytics-events.apple.com^
@@ -26565,6 +26571,7 @@ zzzyk.com###Tinfo
 ||x0lkimaixh.com^
 ||x1.52aoteman.com^
 ||x1abo.com^
+||x1cz6f8gb.com^
 ||x21.cn/service/feeds.
 ||x23qb.com/skin/themex.js
 ||x35ehot6mu.com^
