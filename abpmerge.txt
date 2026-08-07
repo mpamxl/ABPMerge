@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-07 08:45:51
-! Total count: 28089
+! Version: 2026-08-07 16:41:16
+! Total count: 28096
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -8878,6 +8878,7 @@ jsbooks.com.cn#@#.left-ads
 jsjiami.com##.asd > li > a.shaky
 jsjiami.com##.banner-container li._logo ~ li > a[target="_blank"]
 json.cn###shuangshi1Modal1
+json.cn##.show-hide-adv
 json.cn##.tip[target="_blank"]
 json.cn,pianyuan.org,qixingquan.com##.modal-backdrop
 jsphp.net##.adleft-wrap
@@ -13203,6 +13204,7 @@ zzzyk.com###Tinfo
 ||4hw.com.cn/js/common.js
 ||4i2q0y9wv.com^
 ||4ifhpfi1.xyz^
+||4j7mf4mmx.com^
 ||4jh1le34m.com^
 ||4kfv18.cn^
 ||4kwu.cc/static/js/tj.js
@@ -15252,6 +15254,7 @@ zzzyk.com###Tinfo
 ||baomihua.com/yy/
 ||baomitu.duapp.com/js/layer.js
 ||baqwo74y8.com^
+||barqmajk.com^
 ||barrister85.top^
 ||barscreative1.com^
 ||bas.boshi.tv^
@@ -17025,6 +17028,7 @@ zzzyk.com###Tinfo
 ||divergentld.com^
 ||dividend56.top^
 ||division43.top^
+||dixbvzvuzhvxbg.com^
 ||diyibanzhu*.com/js/cdn.
 ||diyibanzhu*.com/js/html
 ||diyibanzhu*/js/cdn.js$~third-party
@@ -22856,6 +22860,7 @@ zzzyk.com###Tinfo
 ||pengtu.cc^*.png
 ||pengwei168.com/addons/321.gif
 ||pengwei168.com/template/stui_tpl/html/vod/f.js
+||penknife47.com^
 ||penknife87.com^
 ||penxiangge.com^
 ||people.com.cn/adv/
@@ -23589,6 +23594,7 @@ zzzyk.com###Tinfo
 ||qypaizhuo.com^
 ||qyplvnzcm1.com^
 ||qyun.vip/pic/*.gif
+||qyxrwl.com^
 ||qyyvoquib.com^
 ||qyzyd.top^
 ||qzda.cc^
@@ -26578,6 +26584,7 @@ zzzyk.com###Tinfo
 ||x-resource05.com/media_orange/server-img/*_1200_120.
 ||x.yaohuo.me^
 ||x0.ifengimg.com/feprod/c/web/d/pc_bottom.js
+||x01omk083.com^
 ||x0b5edl6u.com^
 ||x0lkimaixh.com^
 ||x1.52aoteman.com^
