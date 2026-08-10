@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-09 16:22:06
-! Total count: 28099
+! Version: 2026-08-10 09:07:00
+! Total count: 28106
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17737,6 +17737,7 @@ zzzyk.com###Tinfo
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuyao.com/yyad/
 ||eyzerannl.com^
+||ezcl19vy10.com^
 ||ezd6n7n4m7.com^
 ||ezlgszdb.icu^
 ||ezprice.com.tw/ezysm/
@@ -17876,6 +17877,7 @@ zzzyk.com###Tinfo
 ||fenxiangdashi.com/img/banner/
 ||feq853.com^
 ||fet20kdo93.com^
+||fevgdluuiqjflm.com^
 ||ff.meikanguo.com^
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
@@ -23452,6 +23454,7 @@ zzzyk.com###Tinfo
 ||qnpy8bumnc.com^
 ||qnsb.com/news/index.php?m=poster&
 ||qnvod.net/qna/
+||qnw0cru1i5.com^
 ||qnywjs.buzz^
 ||qnywphp.forum^
 ||qnywsrc.buzz^
@@ -23597,6 +23600,7 @@ zzzyk.com###Tinfo
 ||qypaizhuo.com^
 ||qyplvnzcm1.com^
 ||qyun.vip/pic/*.gif
+||qyxiangr.com^
 ||qyxrwl.com^
 ||qyyvoquib.com^
 ||qyzyd.top^
@@ -25268,6 +25272,7 @@ zzzyk.com###Tinfo
 ||tuobeng.net^
 ||tupian888.*.bcebos.com^
 ||tuplzt.xyz^
+||tupmsen.com^
 ||turcailnt.com^
 ||tushwjp.icu^
 ||tutudao.net/js/gg*.js
@@ -26061,6 +26066,7 @@ zzzyk.com###Tinfo
 ||w1irjtvdt4.com^
 ||w2j4kdjma.com^
 ||w2q5p09n8.com^
+||w2qyyljk71.com^
 ||w3.ting55.com^
 ||w3019cdt.top^
 ||w3cfba6ufr.com^
@@ -26634,6 +26640,7 @@ zzzyk.com###Tinfo
 ||xbyoujv.icu^
 ||xc.macd.cn^
 ||xc.mydrivers.com^
+||xc5r5huxrr.com^
 ||xcar.com.cn/dsp/ad
 ||xccadc.com^
 ||xcf-bd-js.chuimg.com^
