@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-11 16:46:43
-! Total count: 28126
+! Version: 2026-08-12 09:01:26
+! Total count: 28133
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1441,6 +1441,7 @@
 ##div.container > div.row div.yalayi_box
 ##div.container.ff-bg > div.row.ff-row.slide
 ##div.flex-1.order-first > DIV.under_player
+##div.footer-area.mobile DIV#banner_container
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
 ##div.layout-box a > IMG[src*='.gif']
@@ -5363,6 +5364,7 @@ apple.com.cn##.ac-gn-blur:style(top: 0 !important;)
 apple.com.cn##.adv-wrapper
 apple.com.cn##html #globalnav:style(top: 0 !important;)
 apple.com.cn##html:style(margin-top: 0 !important;)
+applealmond.com##.gam-frame
 applealmond.com##div[id^="applealmond_inread_"]
 applealmond.com##div[style*="height: 260px;"][style*="text-align: center;"]
 appledaily.com.tw##.THISISANADHERE
@@ -12853,6 +12855,7 @@ zzzyk.com###Tinfo
 ||2481e.com^$popup
 ||249999.xyz^*.gif
 ||24cmm.com:8888/js
+||24jp8wjmho.com^
 ||24klm.cn^
 ||24klm.net^
 ||24nf8sxd9p.com^
@@ -16103,7 +16106,6 @@ zzzyk.com###Tinfo
 ||cdrhjt.com^
 ||cdvsd9.com^
 ||cdxyb.cn^$3p
-||cdxyspa.com/js/e
 ||cdyee.com/external/5070.files/ad/
 ||ce.wlaoc.cn^$3p
 ||ce9qb0h4v.com^
@@ -18338,6 +18340,7 @@ zzzyk.com###Tinfo
 ||gf6axe5bdb.com^
 ||gfan.com/press/
 ||gfbdb1.com^
+||gfblaghzk2.com^
 ||gfh9j4wyub.com^
 ||gfnulonelb.com^
 ||gfrzzzx.cn^
@@ -20474,6 +20477,7 @@ zzzyk.com###Tinfo
 ||jxnews.com.cn/assets/js/dspshow.js
 ||jxnews.com.cn/first/js/home/index_ad
 ||jxnews.com.cn^*_ad_
+||jxnwbnxslrjvds.com^
 ||jxtejf.xyz^
 ||jxtest.bolecdn.com/player/*.gif
 ||jxudh7t5cg.com^
@@ -22398,6 +22402,7 @@ zzzyk.com###Tinfo
 ||nuucmzuc.com^
 ||nuwurorwbr.com^
 ||nv0cl4nnq.com^
+||nvb0nqwjif.com^
 ||nvbrfj.icu^
 ||nvgst8gvjy.com^
 ||nvielkaa.com^
@@ -23879,6 +23884,7 @@ zzzyk.com###Tinfo
 ||rouwhapt.com^
 ||rovz7ekw3r.com^
 ||roywc0iql.com^
+||rp9zb27jn1.com^
 ||rpahyhn.cn^
 ||rphwjxzekcbzxu.com^
 ||rpkcqtf.cn^
@@ -24361,6 +24367,7 @@ zzzyk.com###Tinfo
 ||siwei.pub^
 ||sixiuwl.cn^
 ||siz3wxt8p.shop^
+||sj2xvswu3r.com^
 ||sjarvis.taobao.com^
 ||sjbaiduadv1.redou.com^
 ||sjbbsja.forum^
@@ -26153,7 +26160,6 @@ zzzyk.com###Tinfo
 ||wangyq.ltd^
 ||wangzhanmeng.com/link/link.html
 ||wanmei.la/a*.js
-||wanmeisxs.cc/js/m.
 ||wantgoo.com/wantgoofiles/banner/
 ||wanwan.sina.com.cn/third_party/
 ||waozmoee0c.com^
@@ -27462,6 +27468,7 @@ zzzyk.com###Tinfo
 ||yunliunet.com^
 ||yunqishi8.com^
 ||yunsennet.com^$popup
+||yuntu68.com/imgcimo/
 ||yuntue.com/zb_users/plugin/MoreLinks*.php
 ||yunupload.net/jsa/
 ||yunzuowen.com^$3p

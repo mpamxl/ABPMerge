@@ -1436,6 +1436,7 @@
 ##div.container > div.row div.yalayi_box
 ##div.container.ff-bg > div.row.ff-row.slide
 ##div.flex-1.order-first > DIV.under_player
+##div.footer-area.mobile DIV#banner_container
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
 ##div.layout-box a > IMG[src*='.gif']
@@ -2889,6 +2890,7 @@ apple.com.cn##.ac-gn-blur:style(top: 0 !important;)
 apple.com.cn##.adv-wrapper
 apple.com.cn##html #globalnav:style(top: 0 !important;)
 apple.com.cn##html:style(margin-top: 0 !important;)
+applealmond.com##.gam-frame
 applealmond.com##div[id^="applealmond_inread_"]
 applealmond.com##div[style*="height: 260px;"][style*="text-align: center;"]
 appledaily.com.tw##.THISISANADHERE
