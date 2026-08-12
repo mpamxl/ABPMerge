@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-12 09:01:26
-! Total count: 28133
+! Version: 2026-08-12 16:45:57
+! Total count: 28138
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12921,6 +12921,7 @@ zzzyk.com###Tinfo
 ||2hiu.com^$3p
 ||2hlcovn7n.com^
 ||2i0lliongn.com^
+||2j9banjbst.com^
 ||2jse6.icu^
 ||2juyabihe.com^
 ||2kandy.com/js/123/
@@ -15105,6 +15106,7 @@ zzzyk.com###Tinfo
 ||b2xy4m.xyz^
 ||b4641y3dw.com^
 ||b477.life^$popup,3p
+||b47e82rmue.com^
 ||b4afsapz0.com^
 ||b4dg.life/love/
 ||b4g7k9d2.com^
@@ -15511,6 +15513,7 @@ zzzyk.com###Tinfo
 ||bianzhirensheng.com/img/banner.jpg
 ||bianzhirensheng.com/img/bianzhiji.jpg
 ||biaoge.tv/fa
+||bickiron84.com^
 ||bickiron92.com^
 ||biconcave43.com^
 ||biddingx.com^$3p
@@ -16327,6 +16330,7 @@ zzzyk.com###Tinfo
 ||ckerw.xyz^
 ||ckg.vipyl.com^
 ||ckxxbao.com/templets/default/js/wx.js
+||cl1npfik45.com^
 ||clammy88.com^
 ||clarity.ms^
 ||clarityid.top^
@@ -16409,6 +16413,7 @@ zzzyk.com###Tinfo
 ||cnr.cn/cnrxwph/iframe/tpdy/
 ||cnr.cn/s?z=
 ||cns.wxdal.cn^
+||cnsy8lwlyv.com^
 ||cntronics.com/adsupload/
 ||cntv.cn/hezuo/
 ||cntvboxnow.com//ads_
