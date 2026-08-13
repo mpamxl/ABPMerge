@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-12 16:45:57
-! Total count: 28138
+! Version: 2026-08-13 09:02:35
+! Total count: 28143
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12918,6 +12918,7 @@ zzzyk.com###Tinfo
 ||2g1lbrr0qv.com^
 ||2g8lomzrb.com^
 ||2g9x9uf.cn^
+||2gvnr9sx9.com^
 ||2hiu.com^$3p
 ||2hlcovn7n.com^
 ||2i0lliongn.com^
@@ -18024,6 +18025,7 @@ zzzyk.com###Tinfo
 ||fnfhjka.xyz^
 ||fngcgbl.icu^
 ||fnoc.cn^
+||fnsdycspg.com^
 ||fnya.cn^
 ||fo.tiqu.io^
 ||fo.zhangbaochang.top^
@@ -18885,6 +18887,7 @@ zzzyk.com###Tinfo
 ||haiyuer.com/didi
 ||haiyuer.com/nb.js
 ||haiyuer.com/uc
+||hajolxtoruvvps.com^
 ||halihali*.com/js/wap2-jm-ms.js
 ||halihali2.com/js/wap2-jm-100ftop.js
 ||handerfix.com^
@@ -25208,6 +25211,7 @@ zzzyk.com###Tinfo
 ||trafficmanager.net/o.js
 ||trafficstars.com$third-party
 ||traiqnien.com^
+||trammel46.top^
 ||trammel74.top^
 ||trapezium69.top^
 ||travel44.top^
@@ -27991,6 +27995,7 @@ zzzyk.com###Tinfo
 ||zpzatutb.com^
 ||zq.lansedir.com^
 ||zq3ke8yxu.com^
+||zq7fe47jh.com^
 ||zqmhl8lgj.com^
 ||zqqwr9snx1.com^
 ||zqy0jcfipu.com^
