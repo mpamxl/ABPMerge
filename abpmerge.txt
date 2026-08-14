@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-13 16:44:20
-! Total count: 28150
+! Version: 2026-08-14 08:58:06
+! Total count: 28156
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12936,6 +12936,7 @@ zzzyk.com###Tinfo
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2orln75bry.com^
+||2ormhhabgb.com^
 ||2osq127yy.com^
 ||2p3ebtxsp.com^
 ||2pogg4c.cn^
@@ -15607,6 +15608,7 @@ zzzyk.com###Tinfo
 ||blog.xuite.net/_public/js/ysmad.js
 ||blogspot.com^*/s1600/drug.gif
 ||bloom331.top^
+||blowlamp38.top^
 ||blowlamp65.com^
 ||blsenpg.cn^
 ||blueidea.com/js/ajs.js
@@ -16499,6 +16501,7 @@ zzzyk.com###Tinfo
 ||couplestupidity.com^
 ||courtoyz.com^
 ||couvxlif.top^
+||coywadlw9r.com^
 ||cp.7y7.com^
 ||cp.eoncreativity.com^
 ||cp.jfcdns.com^
@@ -16764,6 +16767,7 @@ zzzyk.com###Tinfo
 ||dagou2018.com/js/item
 ||dagumanhua.com/style/mdagu.js
 ||dagwi.cn^
+||dahaolong.top^
 ||dahounian.top^
 ||dahrexmj.icu^
 ||dai.siyuetian.net^
@@ -17879,6 +17883,7 @@ zzzyk.com###Tinfo
 ||fdetolgput.com^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
+||fdfjxhpqxxjdby.com^
 ||fdgem.com^
 ||fdhvczd.cn^
 ||fdi1rg6ihs.com^
@@ -18461,6 +18466,7 @@ zzzyk.com###Tinfo
 ||githubusercontent.com/vip888vip/ug/main/*.gif
 ||githuhey.com^
 ||giwl0p3gx7.com^
+||gj8ph3gw8z.com^
 ||gjbk0mis4q.com^
 ||gjh9v.tianshilv.cn^
 ||gjipd.xyz^
