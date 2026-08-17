@@ -610,6 +610,7 @@
 ##.indexnews-ad
 ##.infomation + #notice_container > .event-notice
 ##.inner-advertise
+##.ippure-ads.right-one
 ##.it618_firstad_flex
 ##.itopbar + .container
 ##.jav-nav + .bcpic
@@ -4214,6 +4215,7 @@ digitimes.com.tw##.ad-banner:style(visibility: hidden !important;)
 digitimes.com.tw##.dt-ad-block
 digitimes.com.tw##.edm-frame:has(> .adtext)
 digitimes.com.tw##a[href*="/webad/"]
+digvps.com##aside[data-slot="right"][aria-label] > div > a[target="_blank"]
 dilidili.wang##body > article[class][style*="position: fixed;top: 0;z-index: 9999;display:block !important;"]:style(position: absolute!important; left: -3000px!important;)
 dilidili3.com##.body > div.body-wrap:has(> div.mod-box > div.mod-title > h3:contains(友情链接))
 dimtown.com##.aggd
