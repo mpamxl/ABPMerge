@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-19 08:24:18
-! Total count: 28233
+! Version: 2026-08-19 16:24:11
+! Total count: 28245
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7323,6 +7323,8 @@ flighty.cn###searchBox + #sidebarBox
 flyblog.cc###links > div[id] > div.hslice:not(#search):not(#counter):not(#category):not(#calendar):not([id*="-article"]):not(#latest-comment)
 flyblog.cc##.pixnavbar__top-bar__main-sites
 flyblog.cc,maxfoodfun.com##.article-body > div[style]:has(> div[style] > div[id] > ins.adsbyfalcon)
+flyert.com.cn##div[style^="width:300px;height:90px;"]
+flyert.com.cn##div[style^="width:950px;height:90px;"]
 flyzy2005.com##.baidu_ad
 flyzy2005.com##.widget_kratos_ad
 fmprc.gov.cn,mfa.gov.cn#@#.adbox2
@@ -12439,6 +12441,7 @@ zzzyk.com###Tinfo
 ||0wpfe0duo.com^
 ||0xr7ii3df.com^
 ||0xzxwnkqdu.com^
+||0yfqg4qm0.com^
 ||0yjeii25x4.com^
 ||0yq00i.cn^
 ||0yu3bxtqv.com^
@@ -12899,6 +12902,7 @@ zzzyk.com###Tinfo
 ||28kys.com/cpstupian/
 ||28lu.net^*/0
 ||28lu.net^*/1
+||29ruu0q5p.com^
 ||29spp.com/js/tj.js
 ||29zle9rx4.com^
 ||2agmk5mh07.com^
@@ -15956,6 +15960,7 @@ zzzyk.com###Tinfo
 ||c7bijgz6zr.com^
 ||c81.ipanocloud.com^
 ||c8q27tqnaw.com^
+||c918sslye.com^
 ||c9pgryrmt4.com^
 ||c9r05q.com^
 ||ca.yangshengtv.com^
@@ -16389,6 +16394,7 @@ zzzyk.com###Tinfo
 ||clugqa.com^
 ||clw99.mobi^
 ||cm.baidu.com^
+||cm30oc1du.com^
 ||cmbkgmx.cn^
 ||cmesgpqq8z.com^
 ||cmgjqqu.cn^
@@ -20187,6 +20193,7 @@ zzzyk.com###Tinfo
 ||jg0y00ciyr.com^
 ||jg1668.com^$3p
 ||jg8zueqa4e.com^
+||jgdzthrmmhnddc.com^
 ||jghklz.xyz^
 ||jgid.cn^
 ||jgo1pcbx9.com^
@@ -20587,6 +20594,7 @@ zzzyk.com###Tinfo
 ||k2n0f.cn^$3p
 ||k31bpzf.xyz^
 ||k366.com/images/smxs^
+||k3vgy6hf7.com^
 ||k42kw.top^
 ||k5705bn39u.com^
 ||k5ggua.xyz^
@@ -23249,6 +23257,7 @@ zzzyk.com###Tinfo
 ||psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||ptauxofi.net^
 ||ptbus.com/s.js
+||ptfg.flyertrip.com/static/img/campain/
 ||ptfish.com/*/ad$image,object
 ||ptfxh.com^
 ||ptga.cn^
@@ -25660,6 +25669,7 @@ zzzyk.com###Tinfo
 ||ukjwyv.icu^
 ||ukpsal.icu^
 ||uks8suop4b.com^
+||ukwtsegym.com^
 ||ukx6umuvu.com^
 ||ulgroiklf.com^
 ||ulk8je1fv9.com^
@@ -27437,6 +27447,7 @@ zzzyk.com###Tinfo
 ||ykyfhxr.xyz^
 ||yl04z4v.cn^
 ||ylghac.icu^
+||ylkvxrimr.com^
 ||ylr1xn2b4i.com^
 ||ylznwl.cn^
 ||ym3jmnu05.com^
@@ -28141,6 +28152,7 @@ zzzyk.com###Tinfo
 ||zumnervl.com^
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuowen.hydcd.com^
+||zuqqgwi.icu^
 ||zvasuzb.icu^
 ||zvciaoan1k.com^
 ||zvdc9y.icu^
