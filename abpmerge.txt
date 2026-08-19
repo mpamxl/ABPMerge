@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-18 16:19:17
-! Total count: 28225
+! Version: 2026-08-19 08:24:18
+! Total count: 28233
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -3860,11 +3860,15 @@ $websocket,domain=wap.yushuwu.cloud
 91porna.com,evgpopxb.cc##.dx-banner-item
 91porna.com,evgpopxb.cc##.modal-backdrop
 91porny.com###playerJsvLayer.jsv-layer
+91porny.com###video-play + div[data-nosnippet]
+91porny.com###warningModal:style(display: none !important;)
 91porny.com##.alert
 91porny.com##.container-fluid.p-0[class*="mb-"]
 91porny.com##.jsv-g1
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
+91porny.com##.modal-backdrop:style(display: none !important;)
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
+91porny.com##body.modal-open:style(overflow: auto !important;)
 91porny.com##div[data-nosnippet]:has(div.row a[href][rel^="noopener"])
 91porny.com,91porn.fans,91porny.org###main > div[class][id]:has(.video-elem>a[rel="noopener nofollow"])
 91porny.com,91porn.fans,91porny.org###main > div[class][id]:has(>div>style)
@@ -15119,6 +15123,7 @@ zzzyk.com###Tinfo
 ||b1.engdvd.com^
 ||b1.xiao84.com^
 ||b10.justacdn.net^
+||b11yn56zn.com^
 ||b168.net^*.*?$image
 ||b1o8h004u5.com^
 ||b1zftjhtwb.com^
@@ -23912,6 +23917,7 @@ zzzyk.com###Tinfo
 ||rk2kpo4ef.com^
 ||rkanr.com/data/cpcache/cp*.js
 ||rkcfmfm97.com^
+||rkdyj4usf.com^
 ||rkgwzfwjgk.com^
 ||rkjmhv2lvh.com^
 ||rkoi.cn^
@@ -24730,6 +24736,7 @@ zzzyk.com###Tinfo
 ||steamers77.com^
 ||steelcn.cn/img/bj_*_146_315.jpg
 ||stepladder10.top^
+||stepladder46.top^
 ||stescud.com^
 ||stgowan.com^
 ||stgowan.com^$3p
@@ -25003,6 +25010,7 @@ zzzyk.com###Tinfo
 ||tepusi888.cn^
 ||termvb.xyz^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
+||testingcf.jsdelivr.net/gh/softwaredefinevehicle/*/wp-slimstat.js
 ||testingcf.jsdelivr.net/gh/softwaredefinevehicle/static/lozad.min.js
 ||tetiaetwg.com^
 ||tetiao9.com^
