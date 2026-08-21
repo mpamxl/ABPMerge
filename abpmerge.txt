@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-20 16:22:02
-! Total count: 28253
+! Version: 2026-08-21 08:27:17
+! Total count: 28258
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17016,6 +17016,7 @@ zzzyk.com###Tinfo
 ||dheear.site^
 ||dherea.site^
 ||dhfshdmuvezfhm.com^
+||dhgyq2twp.com^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
 ||dhkqqe.top^
@@ -19352,6 +19353,7 @@ zzzyk.com###Tinfo
 ||hriy.cn^
 ||hrjg.com.cn^$3p
 ||hrngmf.com^
+||hrro55g56.com^
 ||hrxphjcj.icu^
 ||hrxwfp.icu^
 ||hs.178yc.com^
@@ -22544,6 +22546,7 @@ zzzyk.com###Tinfo
 ||nzrdfrlsfrznrk.com^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
+||nzvmpjjkpinlbi.com^
 ||nzydzsw.com^$3p
 ||nzymeedg.icu^
 ||o.027eat.com^
@@ -24921,6 +24924,7 @@ zzzyk.com###Tinfo
 ||t33ng.com^
 ||t4s8t6p39.com^
 ||t57u6anx2.com^
+||t5a64j1v4.com^
 ||t5gp7rzz4.com^
 ||t6ec3seyq.com^
 ||t7cp4fldl.com^
@@ -25334,6 +25338,7 @@ zzzyk.com###Tinfo
 ||trombone48.com^
 ||trouupjeu.com^
 ||trowel03.com^
+||trowel67.com^
 ||trp69.top^
 ||trqhf.xyz^
 ||trslw.cn^
