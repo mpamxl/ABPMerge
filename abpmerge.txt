@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-21 08:27:17
-! Total count: 28258
+! Version: 2026-08-21 16:20:15
+! Total count: 28263
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -7374,6 +7374,7 @@ ftchinese.com##+js(no-setTimeout-if, .offsetHeight)
 ftvnews.com.tw##div[id^="div_gpt_"]
 fububu.com###wendibu
 fujieace.com##.single-goods
+fuliba.net##.article-topbanner
 fuliba.net,fuliba2023.net,uliba.net###focusslide
 fuliba2021.net,ypojie.com##.orbui-post-footer
 fuliba2022.net###focusslide
@@ -13501,6 +13502,7 @@ zzzyk.com###Tinfo
 ||5u6ku3n9k.com^
 ||5u8mjz9tx0.com^
 ||5uxmusq.cn^
+||5uzpwjwkb.com^
 ||5v19ql3xi1.com^
 ||5vdd.com/360
 ||5vdd.com/ktt.png
@@ -22151,6 +22153,7 @@ zzzyk.com###Tinfo
 ||n2bqyqg5u3.com^
 ||n2d79v41a3.com^
 ||n2ivsbik2.com^
+||n2m8u4ae9.com^
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n3xpjc.xyz^
@@ -25203,6 +25206,7 @@ zzzyk.com###Tinfo
 ||tknkfd.xyz^
 ||tkpenntaispfdm.com^
 ||tkqwurl.icu^
+||tkvfayv59.com^
 ||tl86tv.com/52
 ||tl9q49ffi.com^
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
@@ -26744,6 +26748,7 @@ zzzyk.com###Tinfo
 ||x1cz6f8gb.com^
 ||x21.cn/service/feeds.
 ||x23qb.com/skin/themex.js
+||x2nq9qb4p.com^
 ||x35ehot6mu.com^
 ||x360xs.com/tops/
 ||x3jhw0klp.com^
