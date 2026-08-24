@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-23 16:13:34
-! Total count: 27986
+! Version: 2026-08-24 08:35:53
+! Total count: 27993
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1250,6 +1250,7 @@
 ##a[href*=".com?s="]
 ##a[href*=".erodatalabs.com/"]
 ##a[href*=".gaimin.gg/cn"]
+##a[href*=".holesg.xyz"]
 ##a[href*=".hongguotuiguang."]
 ##a[href*=".jmtybc.com"]
 ##a[href*=".labsda.com"] > img[src^="/game/20"]
@@ -7368,7 +7369,6 @@ ftchinese.com##+js(no-setTimeout-if, .offsetHeight)
 ftvnews.com.tw##div[id^="div_gpt_"]
 fububu.com###wendibu
 fujieace.com##.single-goods
-fuliba.net##.article-topbanner
 fuliba.net,fuliba2023.net###focusslide
 fuliba2021.net,ypojie.com##.orbui-post-footer
 fuliba2022.net###focusslide
@@ -13461,6 +13461,7 @@ zzzyk.com###Tinfo
 ||5kjpa028wo.com^
 ||5kmp7.top^
 ||5kmqy60r7.com^
+||5knltyfcfy.com^
 ||5lf5cujc5.com^
 ||5lfgdju.com^
 ||5lu8.com^$popup,3p
@@ -13619,6 +13620,7 @@ zzzyk.com###Tinfo
 ||6park.com^$subdocument,badfilter
 ||6pctuhriw.com^
 ||6q77vsjez1.com^
+||6ql83wy90f.com^
 ||6quspne.com^
 ||6s0zo8jzbb.com^
 ||6s78n1rj4r.com^
@@ -17083,6 +17085,7 @@ zzzyk.com###Tinfo
 ||dm1.ddwk8.cn^
 ||dm1.zjydt.com^
 ||dm5900.com/piao/
+||dmdcstsyv3.com^
 ||dmeia.xyz^
 ||dmfjeu.xyz^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
@@ -23006,6 +23009,7 @@ zzzyk.com###Tinfo
 ||pqhtjn.icu^
 ||pqjprom.cn^
 ||pqomnfbg.com^
+||pqpauhtkbh.icu^
 ||pqruoaz4co.com^
 ||pqurxlh7xk.com^
 ||pr-bh.ybp.yahoo.com^
@@ -23127,6 +23131,7 @@ zzzyk.com###Tinfo
 ||pvgcyyh.icu^
 ||pvhbhnqip.com^
 ||pvino9yhp3.com^
+||pvjuzdikhrbblo.com^
 ||pvtd.cn^
 ||pvtest.zol.com.cn^
 ||pvymlsvo.xyz^
@@ -23206,6 +23211,7 @@ zzzyk.com###Tinfo
 ||qcuncolm.com^
 ||qcvf.ifeng.com^
 ||qczcxe.cn^
+||qczg1nsnvo.com^
 ||qd.x4399.com^
 ||qd38xgoin9.com^
 ||qdaily.com/mount_details/pc/
@@ -25469,6 +25475,7 @@ zzzyk.com###Tinfo
 ||umini.shujupie.com^
 ||umkezbh.cn^
 ||umqigvethe.com^
+||umrd62a7zy.com^
 ||umyrn.xyz^
 ||un-acs.youku.com^
 ||un.ubaike.cn^
