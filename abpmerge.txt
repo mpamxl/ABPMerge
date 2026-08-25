@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-25 08:30:15
-! Total count: 28011
+! Version: 2026-08-25 16:24:26
+! Total count: 28013
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10171,9 +10171,7 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adgright
 ping0.cc###adhright
-ping0.cc##.xbeles
 ping0.cc##.xceles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.hdbanner
@@ -13565,6 +13563,7 @@ zzzyk.com###Tinfo
 ||68287zubo85737.com^
 ||68710266.com^
 ||68b1hx8ej.com^
+||68pzwbugo.com^
 ||68td4yete.com^
 ||68tkaiaji.com^
 ||693836.com^$popup
@@ -17679,6 +17678,7 @@ zzzyk.com###Tinfo
 ||euitx.cn^
 ||eujxqgh.cn^
 ||eulaliadoradl.com^
+||eutrnfnm.com^
 ||euuh.cn^
 ||evb0gxo.icu^
 ||evbb.xyz^
@@ -18960,6 +18960,7 @@ zzzyk.com###Tinfo
 ||hdypw.com^
 ||hdzb6.cc^
 ||he3tf77ow.com^
+||he4j6lz6d.com^
 ||head4.net/ad_
 ||heartstring66.com^
 ||hebaidu.cc^
@@ -20894,6 +20895,7 @@ zzzyk.com###Tinfo
 ||ldjhlqr.cn^
 ||ldmnq.com^$3p,badfilter
 ||ldxinb.xyz^
+||ldyqwzfmd.com^
 ||le4le.com^
 ||leabd.douguo.com^
 ||leadc4.icu^
