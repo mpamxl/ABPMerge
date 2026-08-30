@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-29 19:00:21
-! Total count: 28058
+! Version: 2026-08-30 13:24:56
+! Total count: 28068
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13036,6 +13036,7 @@ zzzyk.com###Tinfo
 ||360doc.com^*.html?t=$badfilter
 ||360kan.com/special/
 ||360kan.com/v1/block?blockid=544&
+||36frocopxp.com^
 ||36htg.fun^
 ||36img.com/ad/
 ||36kr.com/pp/api/ap/plan?
@@ -13379,6 +13380,7 @@ zzzyk.com###Tinfo
 ||56gwxudcy1.com^
 ||56img.com^*/baidu-promotion.js
 ||56img.com^*/search-engine-promotion.js
+||56l9o1j3lk.com^
 ||56rmm.com:8888/js
 ||56wj96l0x.com^
 ||56xiaoshuo.net/mm.
@@ -13898,6 +13900,7 @@ zzzyk.com###Tinfo
 ||8tbllquzr6.com^
 ||8uuxq3tvn.com^
 ||8w6hovz0d2.com^
+||8w76hjp1vd.com^
 ||8wvb8xoqgq.com^
 ||8x14khzwmi.com^
 ||8x5vviy4r2.com^
@@ -15275,6 +15278,7 @@ zzzyk.com###Tinfo
 ||bavde3.icu^
 ||bavei.com/img/*.png
 ||bb1nn.com/js/i.js
+||bb2k0pq1vf.com^
 ||bb999.net/pic/n/agents/C-79.gif
 ||bbbazlp.cn^
 ||bbepv.com^
@@ -16464,6 +16468,7 @@ zzzyk.com###Tinfo
 ||contagion77.com^
 ||contemplate23.top^
 ||contrive73.top^
+||convergent16.top^
 ||conyz.cn^
 ||coolaler.com/index_ads/
 ||coolpc.com.tw/home/img/right2.html
@@ -17751,6 +17756,7 @@ zzzyk.com###Tinfo
 ||ezu6rd5.houge.in^
 ||ezze0ct.com^
 ||f*.baidu.com/it/u=*,*&fm=$3p,domain=~hao123.com|~haokan.com|~yoojia.com
+||f0cmqjk.com^
 ||f0zvx9koy3.com^
 ||f1.06ps.com^
 ||f1.ichong123.com^
@@ -17916,6 +17922,7 @@ zzzyk.com###Tinfo
 ||fhrl2018.com^
 ||fhsmtrnsfnt.com^
 ||fhvbhx.xyz^
+||fi0e0xtinp.com^
 ||fidruqwny.com^
 ||fifzsym.top^
 ||fih3r.com^
@@ -19461,6 +19468,7 @@ zzzyk.com###Tinfo
 ||iask.cn^*commercial.
 ||iask.cn^*model.
 ||iauw.cn^
+||ib5s02kbxy.com^
 ||ibaotu.com/revision/js/ad/
 ||ibf.tw/js/jquery.blockUI.js
 ||ibjsaz5v4.com^
@@ -21339,6 +21347,7 @@ zzzyk.com###Tinfo
 ||lygjgzc.com^
 ||lyjq9gwob.com^
 ||lyk35otqfm.com^
+||lymxj.com^
 ||lyo1dkdbp.com^
 ||lysq.com/data/attachment/portal/
 ||lyszsz.cn^
@@ -25476,6 +25485,7 @@ zzzyk.com###Tinfo
 ||ug.snssdk.com^
 ||ug4x1tagz.com^
 ||ug54oqjpqq.com^
+||ug6zg26aq8.com^
 ||ugbjqwe.com^
 ||ugheqrikui.com^
 ||ugox.cn^
