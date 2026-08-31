@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-08-30 18:55:45
-! Total count: 28071
+! Version: 2026-08-31 15:40:27
+! Total count: 28081
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13196,6 +13196,7 @@ zzzyk.com###Tinfo
 ||470kk.com/js/indextop.js
 ||477zw.com/js/nzm
 ||47c7zhqak.com^
+||480ipil.com^
 ||484r.com/images/flash/gallery_
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
@@ -16543,6 +16544,7 @@ zzzyk.com###Tinfo
 ||crjitvekbx.com^
 ||cro541bud.com^
 ||crobotb.com^
+||crossbar13.com^
 ||cruhliip.com^
 ||cruietoge.com^
 ||crusher28.com^
@@ -18132,6 +18134,7 @@ zzzyk.com###Tinfo
 ||fwbdfg5n6.com^
 ||fwepd.xyz^
 ||fwjtfo8f4z.com^
+||fwlkokvvkx.icu^
 ||fwlrv.cn^
 ||fwmbjrl.cn^
 ||fwsir.com/static/cpt/
@@ -20764,6 +20767,7 @@ zzzyk.com###Tinfo
 ||ktienld.top^
 ||ktlztpx8f.com^
 ||ktzhk.com/file/adv/
+||ku8d1fla8.com^
 ||kuaicad.com/rest/common/getConfigureByName?
 ||kuaidi100.com/assets/ext?method=mainprofile
 ||kuaidi100.com/images/kuaidi/201612081*4
@@ -21367,6 +21371,7 @@ zzzyk.com###Tinfo
 ||lzljhs.com^
 ||lzmvcrp.icu^
 ||lzu1ocasf.com^
+||lzwdh6iwo.com^
 ||lzyysw.com/upload/
 ||lzzzjx.xyz^
 ||m.2kxs.org/img/hia1.js
@@ -23603,6 +23608,7 @@ zzzyk.com###Tinfo
 ||r0hpdbkqs.com^
 ||r0l7cp.com^
 ||r1jprcr42.com^
+||r27y52dd7.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
 ||r3sub.com/images/aaa^
@@ -23688,6 +23694,7 @@ zzzyk.com###Tinfo
 ||redshu.com/js/www/jquerygg.js
 ||redtvxjmgjbtlw.com^
 ||reflection67.top^
+||refraction55.com^
 ||register04.top^
 ||registration09.top^
 ||rehearsal55.top^
@@ -24479,6 +24486,7 @@ zzzyk.com###Tinfo
 ||sp1.baidu.com^
 ||sp5vip.com/h.js
 ||spanking.wiki/morning-bread-
+||spanner44.com^
 ||spatula91.com^
 ||spatula93.top^
 ||spcode.baidu.com^
@@ -24697,6 +24705,7 @@ zzzyk.com###Tinfo
 ||sw76r85eda3k.com/need/h5.
 ||sw9t.ml^
 ||swaw.cn^
+||swkqmcv.com^
 ||swoole.com/_images/kundian
 ||swoole.com/_images/w7.jpg
 ||swovtny444.com^
@@ -26880,6 +26889,7 @@ zzzyk.com###Tinfo
 ||xn--521-x72fh66s.cn^
 ||xn--9krv3x413bbyb.com^
 ||xn--bqro42frpg5up.cn^
+||xn--czru2dx3eszw3lat53b.com^
 ||xn--gov-x68dy61b.shop^
 ||xn--jor0b302fdhgwnccw8g.com^
 ||xn--jvrp4x1zyfta.net^
