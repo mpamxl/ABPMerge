@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-01 12:52:48
-! Total count: 28093
+! Version: 2026-09-01 19:00:06
+! Total count: 28099
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21,6 +21,7 @@
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
 ###__long_gg_container
+###__nuxt > div > .footer
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -630,6 +631,8 @@
 ##.jtAms_container > .count_a
 ##.ka-flo
 ##.kjk-flo
+##.kkb-href
+##.kkm-href
 ##.ksads
 ##.kuandu > .bottommob
 ##.leftadv
@@ -13612,6 +13615,7 @@ zzzyk.com###Tinfo
 ||6k2fehacp.com^
 ||6knlhnjfv.com^
 ||6kpudsordv.com^
+||6lcb0f6wt.com^
 ||6lpm5zq6t3.com^
 ||6mdf9teiz.com^
 ||6mdgv1kmj.com^
@@ -13758,6 +13762,7 @@ zzzyk.com###Tinfo
 ||7na721c64.com^
 ||7nb71ub2xi.com^
 ||7p5ruxflv0.com^
+||7pe17z68y.com^
 ||7q2701vx8e.com^
 ||7qkm33t55.com^
 ||7qo2met.com^
@@ -20485,6 +20490,7 @@ zzzyk.com###Tinfo
 ||jzjxmj.com^
 ||jzxpxj.xyz^
 ||k06kldksi3.com^
+||k0b9nwt6d.com^
 ||k0jw6qzyh.com^
 ||k0tdrkbhx.com^
 ||k0winsnua2.com^
@@ -22321,7 +22327,6 @@ zzzyk.com###Tinfo
 ||nohcff.xyz^
 ||nongjitong.com/adm/
 ||norma-external-collect.meizu.com^
-||norse.mingxiaow.com^
 ||northcookie.xyz^
 ||notes-analytics-events.apple.com^
 ||notify.bugsnag.com^
@@ -26636,6 +26641,7 @@ zzzyk.com###Tinfo
 ||xc5r5huxrr.com^
 ||xcar.com.cn/dsp/ad
 ||xccadc.com^
+||xcdacc.com^
 ||xcf-bd-js.chuimg.com^
 ||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
