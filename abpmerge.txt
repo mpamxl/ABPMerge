@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-01 19:00:06
-! Total count: 28099
+! Version: 2026-09-02 12:23:27
+! Total count: 28114
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -21,7 +21,7 @@
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
 ###__long_gg_container
-###__nuxt > div > .footer
+###__nuxt > div > .footer > .floatWindow + div:not([class]):not([id])
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -829,6 +829,7 @@
 ##.video-info-aux + div[style^="border-radius: 5px;"]
 ##.video-item-ads
 ##.video-player > .gg-bg-cover
+##.videoPlayContainer > div#video-play + div[data-nosnippet]
 ##.video_details > .banner
 ##.vodads
 ##.vp-project-home > .ads-container
@@ -1508,6 +1509,7 @@
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
 ##html.wap [style='left: 40%;']
+##html[lang="zh-cn"] > body  > header.Mobile-Header + main > div[id][class]
 ##iframe.ad-frame
 ##iframe[src*=".xxmh"][src*="?u="]
 ##img#GGADIMG
@@ -3864,7 +3866,6 @@ $websocket,domain=wap.yushuwu.cloud
 91porna.com,evgpopxb.cc##.dx-banner-item
 91porna.com,evgpopxb.cc##.modal-backdrop
 91porny.com###playerJsvLayer.jsv-layer
-91porny.com###video-play + div[data-nosnippet]
 91porny.com###warningModal:style(display: none !important;)
 91porny.com##.alert
 91porny.com##.container-fluid.p-0[class*="mb-"]
@@ -8938,6 +8939,8 @@ kaitao.cn##a[href*="/a.php?id="]
 kaka12345.cc###main
 kalvin.cn##.fell_advertisement_box
 kanav.ad##div[class^="img-ad"]
+kanju.ai##.movie-player-info-ad-grid
+kanju.ai##.movie-player-info-ad-heading
 kankan.com##div[id^="cm"].banner
 kanqiuba.net##a[href*="bet"]
 kaoyan1v1.com###showAD
@@ -10139,6 +10142,7 @@ pcstore.com.tw##.priority_ad
 pcstore.com.tw##div[class^="ad388zone"]
 pcworks.cn##.md-show
 pcworks.cn##.xintheme-ad
+peachring.com##+js(remove-class, hv-pending, html)
 peizimenhu.com##a[href^="http"]:not([href*=".peizimenhu."]) > img[src^="data/attachment/portal/"]
 pengbocloud.com#@#.ad-bg
 people.com.cn##.ad_left
@@ -12543,6 +12547,7 @@ zzzyk.com###Tinfo
 ||116xs.com/js/backbone.js
 ||1188.com^$3p
 ||119xiazai.com^$subdocument
+||11fkkw8h3i.com^
 ||11img.com/ad/
 ||11jianzhan.com^
 ||11kkzz.com/se/wf/
@@ -13148,6 +13153,7 @@ zzzyk.com###Tinfo
 ||3t769up6.com^
 ||3v7c7y.online^
 ||3vnofjidlv.com^
+||3vvuu0z8ui.com^
 ||3wk.cc/images/*.gif
 ||3wzq2yxde.com^
 ||3x1ry6we9.com^
@@ -13895,6 +13901,7 @@ zzzyk.com###Tinfo
 ||8p814q01np.com^
 ||8pbiddjtp.com^
 ||8pjqjxmr.com^
+||8poz7uwoho.com^
 ||8proe3xx6.com^
 ||8qfqhat9d.com^
 ||8rht5welv5.com^
@@ -17364,6 +17371,7 @@ zzzyk.com###Tinfo
 ||dykeep.com^
 ||dykshao.cn/image/$3p
 ||dymmt.com/skin/mzitu/js/foot.
+||dynamo57.com^
 ||dytt.com/oj.js
 ||dytt.com/pc.js
 ||dytt.com^*yb.js
@@ -17756,6 +17764,7 @@ zzzyk.com###Tinfo
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuyao.com/yyad/
 ||eyzerannl.com^
+||ez2q38b1ik.com^
 ||ezcl19vy10.com^
 ||ezd6n7n4m7.com^
 ||ezlgszdb.icu^
@@ -21017,6 +21026,7 @@ zzzyk.com###Tinfo
 ||lgygy.cn^
 ||lh168.net^*/attachment/portal/
 ||lh1dki82.com^
+||lhdkvvfmydrvhs.com^
 ||lhdlbp.xyz^
 ||lhgwcvw.cn^
 ||lhgzfet8n.com^
@@ -21197,6 +21207,7 @@ zzzyk.com###Tinfo
 ||localau.vip/plugin/pause.php
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
+||locknut29.com^
 ||lodipq3zb.com^
 ||lofter.com/mailEntryMobile.do
 ||log-api.pangolin-sdk-toutiao-b.com^
@@ -21700,6 +21711,7 @@ zzzyk.com###Tinfo
 ||mhukzoikt.com^
 ||mhysbwo.xyz^
 ||mi.gdt.qq.com^
+||mi1pbnrk8d.com^
 ||mianbao99.com/a/mianbao
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||miaoshu6.com/static/js/read.
@@ -22068,6 +22080,7 @@ zzzyk.com###Tinfo
 ||n6pwo7whs2.com^
 ||n7181.com^
 ||n7fyrdeen.com^
+||n7hnij4fah.com^
 ||n8bpikx1mt.com^
 ||n8g1kvtmrf.com^
 ||n906n29tm.com^
@@ -22848,6 +22861,7 @@ zzzyk.com###Tinfo
 ||pdxdxl.xyz^
 ||pdxubxc.cn^
 ||pdzzjz.icu^
+||peachring.com/new-page/js/human-verify.js$script
 ||pealefe.com^
 ||pebfvv.icu^
 ||peculiar93.top^
@@ -23587,6 +23601,7 @@ zzzyk.com###Tinfo
 ||qwnzzp50x.com^
 ||qwrnkpow.com^
 ||qwsbegovo.top^
+||qwt9oyg741.com^
 ||qwuylnl.com^
 ||qxakzox.cn^
 ||qxaz2xcw.com^
