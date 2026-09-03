@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-02 19:05:49
+! Version: 2026-09-03 12:21:05
 ! Total count: 28114
 ###ADtip
 ###Ad_windows
@@ -21,7 +21,6 @@
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
 ###__long_gg_container
-###__nuxt > div > .footer > .floatWindow + div:not([class]):not([id])
 ###aafoot.top_box
 ###aafoot[class^="top_box"]
 ###aaheadtop
@@ -140,7 +139,6 @@
 ###guanggao2[style^="position"]
 ###gudingweiDiv
 ###haoxinqing_me_img
-###header + #topBox
 ###header-top + .advertisement
 ###header_global_ad
 ###hellobox > .mylist
@@ -476,9 +474,7 @@
 ##.chat-sysbroadcast-ad
 ##.chat-top-ad
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
-##.clearfix.col5.row > #listBox
 ##.col-md-10 > .banner-table-block
-##.col5 > dl#randomBox
 ##.col6 > a[onclick*="横幅"]
 ##.comiis_ad
 ##.comiis_adbox
@@ -775,7 +771,6 @@
 ##.samBannerUnit
 ##.scaled-juicyads
 ##.scupioadslot
-##.search + #midBox
 ##.self-gg
 ##.single-ad-banner
 ##.slider-ad[adid]
@@ -808,10 +803,6 @@
 ##.top-read-ad
 ##.topSponsor
 ##.top_ad_ban
-##.top_box > #foot
-##.top_box > #indextop
-##.top_box > #news
-##.top_box > li > a[href^="/js/app.htm?"]
 ##.top_func_ad
 ##.topbanner + .nav + .banner
 ##.toy52_outer
@@ -854,8 +845,6 @@
 ##.wp.a_h
 ##.wp_headline + .ad1
 ##.wpcom_ad_wrap
-##.wrap + #btmBox
-##.wrap + #midBox
 ##.wrap > #btmBox
 ##.wrap.mt10.clearfix > .box.top_box
 ##.wrapper > #asxv
@@ -1324,6 +1313,7 @@
 ##a[href][target="_blank"][rel="external nofollow"] > img[src]
 ##a[href^="/ad.html?url="]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
+##a[href^="/api/jump/"] > img[src*=".xyz/m/"]
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ##a[href^="/dasp.php?a="]
 ##a[href^="/hy-"][ontouchstart]
@@ -1357,6 +1347,7 @@
 ##a[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
+##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -1407,9 +1398,6 @@
 ##body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div.m0auto > div > div.grid + div > div:empty
 ##body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div:has(> img[src$=".gif"])
 ##body[onresize="stopDebugger()"][onbeforecopy="return!1"] > div#root div[id^="notice_modal"]
-##body[ontouchstart] > #topBox
-##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
-##body[ontouchstart] > div[id^="content_"][style="display: block;"]
 ##button[onclick*=".xacg.info/"]
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
@@ -1504,7 +1492,6 @@
 ##div[style^="line-height"][style*="http"][style$="fixed;"]
 ##div[style^="position"][onclick^="window.open"]
 ##div[style^="position:fixed; bottom:"][style$="vw;background: #000;opacity:0.01;"]
-##dl#listwoBox
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
@@ -1550,7 +1537,6 @@
 ##script + .header_rmb
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
-##script[src$="/base.js"] + #couplet
 ##script[src="/js/sy2.js"] + div[align="center"]
 ##secion#ly LI[role='group'],secion#ly > H2
 ##section > SPAN[style='display: block; clear: both; overflow: hidden;']
@@ -2050,6 +2036,7 @@ $websocket,domain=wap.yushuwu.cloud
 /^https?:\/\/kan\.znds\.com\/public\/home\/images\/[0-9]+-[0-9]+\.gif\?v=/$domain=kan.znds.com
 /^vidhub\d+\.(cc\|top)$/##.player-info div[class]:has(> div[class][style] > img[onclick^="window.open"]:first-child + span[style]:last-child)
 /^vidhub\d+\.(cc\|top)$/##div[class][style*="position:"] > img[onclick^="window.open"]
+/_next/static/chunks/00zo5_naxp4vi.
 /_xa/ads
 /_xa/ads?
 /_xa/ads_
@@ -10178,8 +10165,8 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adhright
-ping0.cc##.xceles
+ping0.cc###adiright
+ping0.cc##.xdeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
@@ -10561,6 +10548,7 @@ rjno1.com#@#ins.adsbygoogle[data-ad-client]
 rjno1.com#@#ins.adsbygoogle[data-ad-slot]
 rjno1.com#@#main > div[class^="qnb"]
 rkanr.com##.bill
+rlyj.net.cn,taotu.org,catchv.fooish.com###ad
 romzhijia.net##.ggposition
 romzj.com##.sectionThree
 roomie.tw##div[id^="outer_Post"]
@@ -11163,7 +11151,6 @@ taobao.com##.mask.animated.swing
 taobao.com##.recomand-item
 taohuayun.cn##img[width="150"][height="60"]
 taotu.org##a[href="/jbb"]
-taotu.org,catchv.fooish.com###ad
 taoziba.cc##.vddb2 + a
 tbtdg.com###adblockWarning
 tbtdg.com##.reveal-modal-bg
@@ -12364,7 +12351,6 @@ zzzyk.com###Tinfo
 ||0592.mobi^
 ||0598yu.com/api.php?mod=ad&
 ||05pg9z.com^
-||0606kk.com/js/index/index.js
 ||063rpyn37z.com^
 ||063tutu.com^
 ||064ioio.com^
@@ -12423,6 +12409,7 @@ zzzyk.com###Tinfo
 ||0lai5bvkg.com^
 ||0m483y7.cn^
 ||0m9mjmrd.top^
+||0mkeb9vth.com^
 ||0ns32h.com^
 ||0nyzdw2maq.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
@@ -13529,6 +13516,7 @@ zzzyk.com###Tinfo
 ||60.190.139.164^
 ||600g3yf2p.com^
 ||600km.com/template/*/ad/
+||605abezk8.com^
 ||6080aa.com/template/*/images/g_js/
 ||6080w.com/template/ttk/img/
 ||609999.xyz^
@@ -15925,6 +15913,7 @@ zzzyk.com###Tinfo
 ||c1km4.com/mobile/app.js
 ||c1qm3mg41.com^
 ||c2000.cn/c2000/
+||c2vodqlmy.com^
 ||c2y82fkyv.com^
 ||c3mldou51.com^
 ||c3q6l5oeq.com^
@@ -16593,6 +16582,7 @@ zzzyk.com###Tinfo
 ||cssstyle.motorcycles^
 ||csygxdym.com^
 ||csyys0731.com^
+||cszpra.com^*.gif
 ||ctags.cn/9/j2.js
 ||ctanet.cn/aqq/JS/
 ||ctc.weather.com.cn^
@@ -17640,6 +17630,7 @@ zzzyk.com###Tinfo
 ||entry.baidu.com/rp/home?
 ||entsnotesq.fun^
 ||envision75.com^
+||enwwlcrxi.com^
 ||enzf.cn^
 ||eo.chaungpin.top^
 ||eo.dongdm.cn^
@@ -18109,6 +18100,7 @@ zzzyk.com###Tinfo
 ||fstats.xyz^
 ||fsu1cg19c.com^
 ||fsuooh.cc^
+||fsxqfjkg.com^
 ||fszpzd.xyz^
 ||ft.com/a.html
 ||ft8e.top^
@@ -20619,6 +20611,7 @@ zzzyk.com###Tinfo
 ||kekop.cn^
 ||kelatv.com/ad/
 ||kelehut.cc/js/m.
+||kelv47.xyz^*.gif
 ||ken.kenxq.com^
 ||kengi.top^
 ||kettledroopingcontinuation.com^
@@ -22980,6 +22973,7 @@ zzzyk.com###Tinfo
 ||pin6d37stu.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$3p
+||pincers55.com^
 ||pinglun11223.xyz^
 ||pingma.qq.com^
 ||pingmeibang.com/zt/zx.jpg
@@ -23723,6 +23717,7 @@ zzzyk.com###Tinfo
 ||redshu.com/js/www/jquerygg.js
 ||redtvxjmgjbtlw.com^
 ||reflection67.top^
+||reflector19.com^
 ||refraction55.com^
 ||register04.top^
 ||registration09.top^
@@ -23967,6 +23962,7 @@ zzzyk.com###Tinfo
 ||rxyggrq.cn^
 ||rxys.cn^
 ||rxzefz.icu^
+||rxzfhfmoegfvts.com^
 ||ry7icaih0p.com^
 ||ryd626moj.com^
 ||rypebb.icu^
@@ -25168,6 +25164,7 @@ zzzyk.com###Tinfo
 ||toutiaoyule.com/n/dspshow.
 ||tovbus.cn^
 ||tovppl.cn^
+||towm85.xyz^*.gif
 ||tp.sgcn.com^
 ||tp.suppercacheimages.top^
 ||tp4d21qek.com^
@@ -25547,6 +25544,7 @@ zzzyk.com###Tinfo
 ||uiteligularly.fun^
 ||uj08lr3rv.com^
 ||uj2h8xm8w.com^
+||uj6i2bo3o.com^
 ||ujfyzxfc01.com^
 ||ujgf120.com^
 ||ujhu.cn^
@@ -26219,6 +26217,7 @@ zzzyk.com###Tinfo
 ||wei2008.com/js/*0.
 ||wei2008.com/js/t_
 ||wei2008.com/skin/js/top.js
+||weiakbtck.com^
 ||weibo.cn/status/banner?
 ||weibo.com/ajax/feed/getTipsAd?
 ||weidianyuedu.com^$3p
@@ -27818,6 +27817,7 @@ zzzyk.com###Tinfo
 ||zhibok8.com/js/di
 ||zhibok8.com/js/scroll.js
 ||zhifuok.com/19xa.jpg
+||zhifupaypay.com^
 ||zhihu-web-analytics.zhihu.com^
 ||zhihu.com/api/*banners/
 ||zhihu.com/api/v4/brand/question/*/card
