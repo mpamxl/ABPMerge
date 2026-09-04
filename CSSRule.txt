@@ -570,7 +570,6 @@
 ##.gpt_ads_box
 ##.gpt_ads_title
 ##.gr_slide_car_inner
-##.grid > .m0auto > div > .grid + div:not([class]):not([id])
 ##.guanggaoBox
 ##.guding312
 ##.guruin-ads
@@ -634,7 +633,6 @@
 ##.lol_ad
 ##.look_more_a[onclick^="open_app"]
 ##.lyzm-prevent
-##.m0auto > div:not([class]):not([id]) > div > .swiper-initialized
 ##.m1938-container
 ##.m_hot_rec_box_base[id^="right"]
 ##.m_kxbtm_ad
@@ -1337,6 +1335,7 @@
 ##a[target="_blank"][onclick*="广告点击"]
 ##body .has-ad
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
+##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -1358,6 +1357,9 @@
 ##body > div[style=" max-width:990px; margin:0 auto;"] > a[target="_blank"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
+##body > noscript + #root > div > div > .grid + div[role] + div
+##body > noscript + #root > div > div > .grid + div[role] + div + div
+##body > noscript + #root > div > div > .grid > .m0auto > div > div:last-child
 ##body#chapterbody.novel_chapter [style='padding-top: 150px;']
 ##body#nr_body #appss
 ##body#nr_body [onclick='goAppHtml();']
@@ -4838,6 +4840,7 @@ fortunechina.com##.pinglunwindow
 forum.gamer.com.tw##.a-mercy-d
 forum.hkgolden.com##body > div[class^="jss"]:has(> div[class][style^="transform"]:only-child > div[class] > div[data-role="ad"])
 forum.hkgolden.com##div[id^="Super Banner"]
+forums.digitalspy.com#@#body .has-ad
 forusex.com##a[href^="http://redheartnext.com"] > img
 fox-saying.com###sidebar__inner > #links-row-1 > .box.folder:has(> h4:contains(AD))
 fpdisplay.com##.class_adv1
