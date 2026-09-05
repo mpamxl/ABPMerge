@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-04 18:42:14
-! Total count: 28110
+! Version: 2026-09-05 11:29:00
+! Total count: 28117
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10156,9 +10156,8 @@ pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
 pindao.hao123.com##.cmsad_wrapper
 ping.chinaz.com##.sth > .col-red
-ping0.cc###adiright
-ping0.cc##.xdeles
 ping0.cc##a[rel="noopener nofollow"][target="_blank"]:has(> [class^="close"])
+ping0.cc##div:has(>a>.tipbd)
 pinggu.org##.hdbanner
 pinggu.org##.index-somelinks
 pinggu.org##.indextop-r
@@ -14236,6 +14235,7 @@ zzzyk.com###Tinfo
 ||aaxggkj.com^
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
+||ab1bhie0c.com^
 ||ab3de9.gamersky.com^
 ||ab41q03rvf.com^
 ||abalado.com^
@@ -17417,6 +17417,7 @@ zzzyk.com###Tinfo
 ||e81j0an3d.com^
 ||e90m7tos2.com^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
+||e9zrvermi.com^
 ||ea5s00h6oo.com^
 ||eabids.com^
 ||eagb.cn^
@@ -20188,6 +20189,7 @@ zzzyk.com###Tinfo
 ||jiuyuntian3.cn^
 ||jixmlx.xyz^
 ||jiyingdm.com/js/loadingshow.html
+||jiz4pa4hu.com^
 ||jj5zwmzcze.com^
 ||jjade.xyz^
 ||jjdk33.com^
@@ -20448,6 +20450,7 @@ zzzyk.com###Tinfo
 ||jxcn.cn/assets/images/downWeatherApp.png
 ||jxcn.cn/js/hotpic_
 ||jxcrnwc.xyz^
+||jxdbvmmau.com^
 ||jxdown.com/statics/js/all.js
 ||jxdown.com^$3p
 ||jxgd1688.com^
@@ -22351,6 +22354,7 @@ zzzyk.com###Tinfo
 ||nqbcf.cn/html/top
 ||nqdufv.xyz^
 ||nqoxurf.icu^
+||nqrsdhemqmfdry.com^
 ||nqwgvk.cn^
 ||nrfvq6g98.com^
 ||nrjzkj.cn^
@@ -22971,6 +22975,7 @@ zzzyk.com###Tinfo
 ||pincai.com/js/pubuliu.
 ||pincai.com^$3p
 ||pincers55.com^
+||ping0.cc/images/fx/*.gif
 ||pinglun11223.xyz^
 ||pingma.qq.com^
 ||pingmeibang.com/zt/zx.jpg
@@ -24986,6 +24991,7 @@ zzzyk.com###Tinfo
 ||thralgrean.com^
 ||thricroiw.com^
 ||throlnod.com^
+||thuk8hg48.com^
 ||thumbb86.com^
 ||thvptb.icu^
 ||thvx9i.icu^
@@ -26376,6 +26382,7 @@ zzzyk.com###Tinfo
 ||wrdo8dl9bb.com^
 ||wres.cn^
 ||wrestle22.top^
+||wrksb2gt0.com^
 ||wrlhhgeyh.com^
 ||wrpsouf.cn^
 ||wrth.cn^
