@@ -475,6 +475,7 @@
 ##.comiis_guanggao_tit
 ##.common-topad
 ##.common_ad
+##.component-advertises
 ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
 ##.con_section > .da
 ##.conch-ads-box
@@ -2715,6 +2716,7 @@ acwifi.net##.article-content > div[style="float: none; margin:10px 0 10px 0; tex
 acwifi.net##.widget_ssr
 acwifi.net,zhain8.com##.ssr
 adbug.cn#@#.google_ads
+adersaytech.com##.adersay-ad
 adguard.info,adguard.com,adguard.app##.hello_from_adguard_chinese
 admaimai.com##.in16_w01 > div[class*="_ad0"]
 admin5.com##.float_both_index
