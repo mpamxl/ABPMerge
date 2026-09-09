@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-09 12:34:35
-! Total count: 28165
+! Version: 2026-09-09 18:56:08
+! Total count: 28169
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10274,6 +10274,7 @@ price.com.hk###ad5
 price.com.hk,uwants.com##.MFV
 proewildfire.cn##.comiis_nav ~ a
 proginn.com##div[style*="width:1000px;height: 250px;"]
+programme.tvb.com##.tvb-ads--empty
 programmer-club.com.tw##A[href*="/ADRedirect."]
 prts.wiki##.nomobile[style*="810px;height:240"]
 psahz.com#@#.ad_960
@@ -21422,6 +21423,7 @@ zzzyk.com###Tinfo
 ||lzwdh6iwo.com^
 ||lzyysw.com/upload/
 ||lzzzjx.xyz^
+||m.1024txt.com/js/gd.js?v=$script
 ||m.2kxs.org/img/hia1.js
 ||m.91heima.cn^$3p
 ||m.9wx.org/statics/js/new.js
@@ -25139,6 +25141,7 @@ zzzyk.com###Tinfo
 ||tljsxt.icu^
 ||tlprlf.xyz^
 ||tlq8ufqddj.com^
+||tlre4aso7.com^
 ||tlsgq.cn^
 ||tltyygb.cn^
 ||tlula507.com/Public/js/dui
@@ -26945,6 +26948,7 @@ zzzyk.com###Tinfo
 ||xlpu.cc/adv/
 ||xlviirdr.com^
 ||xlvqhx.xyz^
+||xlx2ddw4f.com^
 ||xman.asia^
 ||xmangoculture.com^
 ||xmawwbz.icu^
