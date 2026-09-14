@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-13 18:25:12
-! Total count: 28206
+! Version: 2026-09-14 14:33:54
+! Total count: 28212
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13476,6 +13476,7 @@ zzzyk.com###Tinfo
 ||5kmp7.top^
 ||5kmqy60r7.com^
 ||5knltyfcfy.com^
+||5krki6n2rh.com^
 ||5lf5cujc5.com^
 ||5lfgdju.com^
 ||5lu8.com^$popup,3p
@@ -14012,6 +14013,7 @@ zzzyk.com###Tinfo
 ||96zddjwn2.com^
 ||973.com/static/js/pccom.js
 ||97kpz.com/js/bbk/g.js
+||97uvo47k3y.com^
 ||97vk351gi.com^
 ||98.126.219.*/ads/
 ||98158.com^
@@ -18632,6 +18634,7 @@ zzzyk.com###Tinfo
 ||grduswfx.com^
 ||greatnumeric.com^
 ||greenet.cn^*_popu_$popup
+||greentrafsa.com^
 ||greenxcx.com^
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
@@ -22532,6 +22535,7 @@ zzzyk.com###Tinfo
 ||oagirlodug.com^
 ||oaihiiacb.com^
 ||oajfpqojev.net^
+||oarlock47.top^
 ||obaivrek.com^
 ||obertsiamw.fun^
 ||obgbok.com^
@@ -24988,6 +24992,7 @@ zzzyk.com###Tinfo
 ||tenmax.io^$3p
 ||tepusi888.cn^
 ||termvb.xyz^
+||terndzbaritzpw.com^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||testingcf.jsdelivr.net/gh/softwaredefinevehicle/*/wp-slimstat.js
 ||testingcf.jsdelivr.net/gh/softwaredefinevehicle/static/lozad.min.js
@@ -25526,6 +25531,7 @@ zzzyk.com###Tinfo
 ||u6421d8aqt.com^
 ||u67qpnaexu.com^
 ||u6uy9lzdcj.com^
+||u6xpn4qn5b.com^
 ||u6yzoru6u.com^
 ||u7em6.xyz^
 ||u7em9v4hp.com^
