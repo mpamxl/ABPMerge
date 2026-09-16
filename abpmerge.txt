@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-16 12:56:24
-! Total count: 27744
+! Version: 2026-09-16 19:12:31
+! Total count: 27751
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -485,6 +485,7 @@
 ##.content > .myads
 ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
 ##.content > a > .topline
+##.content-ad-stack
 ##.content-video > .ads
 ##.content-video > .ads-player
 ##.content_ad_300
@@ -1195,6 +1196,7 @@
 ##a.checkNum[target="_blank"] > img[data-src]
 ##a.gggg[href^="https"]
 ##a.hengfu > img.hengfu
+##a[class="home-ad-banner"]
 ##a[clickmode="ad"]
 ##a[clickmode="cpt"]
 ##a[data-ad_type="1"]
@@ -2579,7 +2581,9 @@ $websocket,domain=wap.yushuwu.cloud
 /static/js/gold_daddy.js
 /static/js/headad.js
 /static/js/miniyyrtv-config.js
+/static/js/pages/dialogAd.js
 /static/js/pop_promotion.js?v=
+/static/js/squarePromo.
 /static/lbsite/*/*.js?v=$third-party
 /static/tb/kyqp.gif
 /statics/govv.js$~third-party
@@ -7970,6 +7974,7 @@ huamu.cn##.banner_Ad
 huamu.cn##.midle-ad-list
 huanggua22.com##[href^="https://oxs31.pdom3k.icu/"]
 huanggua22.com##[src^="https://tutu.facaiimage.com/"]
+huangguoai.com##.hg-ssp-slot
 huanqiu.com###winNext
 huanqiu.com##+js(set-constant, AD_SURVEY_Add_AdPos, noopFunc)
 huanqiu.com##+js(set-constant, AD_SURVEY_Add_AdPos_Simple, noopFunc)
@@ -8231,6 +8236,7 @@ iis7.com###QTGG
 ijiandao.cn,ijiandao.com,jojf.cn##.index-ad
 ik123.com###aa960a
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+ikanbot.com##+js(no-window-open-if, _blank)
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
 ikandy1.com##a[href*="/ky-a.html"]
 ikjzd.com##.article-banner-wrap
@@ -19435,6 +19441,7 @@ zzzyk.com###Tinfo
 ||ikafan.com/js/novel.js
 ||ikafan.com/upload/image/iqiyi_
 ||ikaka.com/globalad/
+||ikanbot.com/resources/common.js?v=$script
 ||ikjwmfeds.xyz^
 ||ikkdm.com/mg/show2.js
 ||iklda.cn^

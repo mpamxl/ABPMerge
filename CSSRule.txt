@@ -480,6 +480,7 @@
 ##.content > .myads
 ##.content > .small-icon-container > a.small-icon-div[target="_blank"]
 ##.content > a > .topline
+##.content-ad-stack
 ##.content-video > .ads
 ##.content-video > .ads-player
 ##.content_ad_300
@@ -1190,6 +1191,7 @@
 ##a.checkNum[target="_blank"] > img[data-src]
 ##a.gggg[href^="https"]
 ##a.hengfu > img.hengfu
+##a[class="home-ad-banner"]
 ##a[clickmode="ad"]
 ##a[clickmode="cpt"]
 ##a[data-ad_type="1"]
@@ -5506,6 +5508,7 @@ huamu.cn##.banner_Ad
 huamu.cn##.midle-ad-list
 huanggua22.com##[href^="https://oxs31.pdom3k.icu/"]
 huanggua22.com##[src^="https://tutu.facaiimage.com/"]
+huangguoai.com##.hg-ssp-slot
 huanqiu.com###winNext
 huanqiu.com##+js(set-constant, AD_SURVEY_Add_AdPos, noopFunc)
 huanqiu.com##+js(set-constant, AD_SURVEY_Add_AdPos_Simple, noopFunc)
@@ -5766,6 +5769,7 @@ iis7.com###QTGG
 ijiandao.cn,ijiandao.com,jojf.cn##.index-ad
 ik123.com###aa960a
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+ikanbot.com##+js(no-window-open-if, _blank)
 ikandy.fun##.stui-banner__pic[href="/statics/js/ky-a.html"]
 ikandy1.com##a[href*="/ky-a.html"]
 ikjzd.com##.article-banner-wrap
