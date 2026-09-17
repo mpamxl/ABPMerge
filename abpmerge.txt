@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-16 19:12:31
-! Total count: 27751
+! Version: 2026-09-17 12:53:04
+! Total count: 27761
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -10821,8 +10821,8 @@ soft8ware.com##+js(no-setTimeout-if, triggerAdBlockModal)
 soft8ware.com##ins.adsbygoogle
 softblog.tw#@#.dshare
 sogi.com.tw###main > div.container:has(> div#ad)
+sogi.com.tw##.ad-slot-970
 sogi.com.tw##.editable > div.text-center:has(> div.d-inline-block > div[id^="div-gpt-ad"])
-sogi.com.tw##div[class="row my-2 ad-slot-970"]
 sogou.com###PZL
 sogou.com###PZR
 sogou.com###appNewsBtn
@@ -12869,6 +12869,7 @@ zzzyk.com###Tinfo
 ||2hlcovn7n.com^
 ||2i0lliongn.com^
 ||2j9banjbst.com^
+||2jdr5wuyzf.com^
 ||2jse6.icu^
 ||2juyabihe.com^
 ||2kandy.com/js/123/
@@ -12904,6 +12905,7 @@ zzzyk.com###Tinfo
 ||2xx63f0bfy.com^
 ||2y2lttjs.hair^
 ||2yjw.com/statics/js/jquery.min.
+||2ypqjxnzo.com^
 ||2ytoxb1r7.com^
 ||2zjftxgl5s.com^
 ||2ztav5r7r.com^
@@ -14027,6 +14029,7 @@ zzzyk.com###Tinfo
 ||9tlfy3rrh.com^
 ||9tour.cn/x2/images/czmf.jpg
 ||9txnu9rlmd.com^
+||9uza7fi60e.com^
 ||9v7sbm9zc.com^
 ||9vmbje748.com^
 ||9wcn.com/gcld/500.gif
@@ -15618,6 +15621,7 @@ zzzyk.com###Tinfo
 ||brendanbc.com^
 ||brfgbn.xyz^
 ||brfvyrrp.com^
+||bridge32.top^
 ||bridgetnbe.com^
 ||briefcase95.com^
 ||brirriek.com^
@@ -17752,6 +17756,7 @@ zzzyk.com###Tinfo
 ||fdluoxnn.com^
 ||fds-1230.cc^
 ||fdtarpaueilvrs.com^
+||fe7xxmtg3.com^
 ||fedoq.com^
 ||feeceeyf.com^
 ||feed.baidu.com^
@@ -19808,6 +19813,7 @@ zzzyk.com###Tinfo
 ||j0saeheja5.com^
 ||j1.piaobing.com^
 ||j12eaw9xs.com^
+||j17xor750.com^
 ||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
@@ -25140,6 +25146,7 @@ zzzyk.com###Tinfo
 ||u6421d8aqt.com^
 ||u67qpnaexu.com^
 ||u6uy9lzdcj.com^
+||u6vlqrwcv.com^
 ||u6xpn4qn5b.com^
 ||u6yzoru6u.com^
 ||u7em6.xyz^
@@ -25463,6 +25470,7 @@ zzzyk.com###Tinfo
 ||vansky.com/agdg/vans/adv
 ||vansky.com/agdg/vans/tabbao
 ||vansky.com/index_files/*.gif
+||vapvllaajrhhzc.com^
 ||variflight.com/carnoc/ad/
 ||vast.doublemax.net/adserver/vast.xml$script,xhr,other,redirect=noopvast-2.0
 ||vaudeville44.top^
@@ -26983,6 +26991,7 @@ zzzyk.com###Tinfo
 ||ykxwn.com^
 ||ykyfhxr.xyz^
 ||yl04z4v.cn^
+||yl9c8v1le.com^
 ||ylkvxrimr.com^
 ||ylr1xn2b4i.com^
 ||ylznwl.cn^
@@ -27375,6 +27384,7 @@ zzzyk.com###Tinfo
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^
 ||zdqx.com/statics/v1/images/gif/
+||zdr6wn2f5.com^
 ||zdvfpa.xyz^
 ||zdwykjd.icu^
 ||zdx25.site^
