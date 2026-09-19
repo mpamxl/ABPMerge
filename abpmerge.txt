@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-18 18:44:20
-! Total count: 27775
+! Version: 2026-09-19 12:09:14
+! Total count: 27783
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -17861,6 +17861,7 @@ zzzyk.com###Tinfo
 ||fjtroip.cn^
 ||fjuga.top
 ||fjzimaoqu.cn^$3p
+||fk0hwmdoh.com^
 ||fk8k4t55e.com^
 ||fkesfg.com^
 ||fkf5.com/public/js/static.js
@@ -18184,6 +18185,7 @@ zzzyk.com###Tinfo
 ||geecradv.com^
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
+||gef153x1u.com^
 ||gege51.com^$domain=boqushu.com
 ||gegeyingshi.com/template/*/images/g_js/
 ||geilicdn.com/img*_960_60.
@@ -18784,6 +18786,7 @@ zzzyk.com###Tinfo
 ||hasdser.com^
 ||hasgde.site^
 ||hash.trafficmanager.net^
+||hatchway14.com^
 ||hauqou.top^
 ||hawfeniku.com^
 ||hawsehole52.top^
@@ -23650,6 +23653,7 @@ zzzyk.com###Tinfo
 ||rtborp.xyz^
 ||rtdjpmi.com^
 ||rte.fuoo1.top^
+||rthijnsymshxxi.com^
 ||rtip4abjv3.com^
 ||rtjmln.xyz^
 ||rtmark.net^
@@ -24107,6 +24111,7 @@ zzzyk.com###Tinfo
 ||sjhgfrvbxrbbr.com^
 ||sjks88.com/templets/default/js/mydata4.js
 ||sjoy7rq.cn^
+||sjujmxg6d.com^
 ||sjyhead.icu^
 ||skads.gxsky.com^$script
 ||skeimg.com/i/*.gif
@@ -25453,6 +25458,7 @@ zzzyk.com###Tinfo
 ||v2.dakang-energy.com^
 ||v2.gdt.qq.com^
 ||v2.uyan.cc^
+||v2bo21e4k.com^
 ||v2ex.com/pro/emitter
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3pnvck24.com^
@@ -25952,6 +25958,7 @@ zzzyk.com###Tinfo
 ||wftihvn.xyz^
 ||wfvs.cn^
 ||wfwadedzk.com^
+||wgkga5oh0.com^
 ||wgoeisdnlk.com^
 ||wgwt5p8.com^
 ||wh2mu9uj5f.com^
@@ -26262,6 +26269,7 @@ zzzyk.com###Tinfo
 ||wwwbaiducom.xyz/4/js4/
 ||wwwcdn.kimiss.net/btn/
 ||wwxufo.com^
+||wwyoqaf3g.com^
 ||wwzw.cc/img/
 ||wx.sina.com.cn/iframe/pdps/
 ||wx.uc.downcdn.top^
