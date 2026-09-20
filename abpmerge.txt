@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-19 18:17:09
-! Total count: 27783
+! Version: 2026-09-20 12:45:04
+! Total count: 27790
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13968,6 +13968,7 @@ zzzyk.com###Tinfo
 ||999meiju.com/js/tj
 ||999pro.top^
 ||999xx333kk.com^
+||99d8z9oqnu.com^
 ||99danji.com/kchtml/
 ||99lb.net/index_files/*/970
 ||99mst.com/upfiles/adv/main02.jpg
@@ -18028,6 +18029,7 @@ zzzyk.com###Tinfo
 ||fwvzx907rr.com^
 ||fwwang.cn/templets/fw/js/art
 ||fwzvlp.xyz^
+||fx0blb9zp4.com^
 ||fx110.*/Pub/Ghz/GetModel
 ||fx110.*/Scripts/1.0.0/gulpmin/Ghz/
 ||fx110.*/Styles/1.0.0/dist/Ghz/MatrixAds.
@@ -18083,6 +18085,7 @@ zzzyk.com###Tinfo
 ||g2wg5308q.com^
 ||g3f3.com/love/
 ||g3m92egwo.com^
+||g4d2cox74f.com^
 ||g4yk4cyyw.com^
 ||g4z8712756.com^
 ||g5xu1dslr6.com^
@@ -18588,6 +18591,7 @@ zzzyk.com###Tinfo
 ||gummy-debt.com^
 ||gun2v2neoo.com^
 ||gunmi.cn^$3p
+||gunwale68.top^
 ||guoguoks.com/1.
 ||guohexinxiang.com^
 ||guojitv.com/m/ad/
@@ -21757,6 +21761,7 @@ zzzyk.com###Tinfo
 ||muyxmmz.cn^
 ||muyys.com/img/
 ||muzisoft.com/static/*_f.js
+||mv3yrsh593.com^
 ||mvamnng.cn^
 ||mvcat.com/ad/
 ||mvcat.com/api/wx/follow.js
@@ -22789,6 +22794,7 @@ zzzyk.com###Tinfo
 ||pmensrl.cn^
 ||pmpantdgzvttbk.com^
 ||pmqhelkean.com^
+||pmt0g2rugw.com^
 ||pmvlwjy.cn^
 ||pmxalz.xyz^
 ||pn9f3utrxu.com^
@@ -26734,6 +26740,7 @@ zzzyk.com###Tinfo
 ||xwafyzovqu.icu^
 ||xwbspx.xyz^
 ||xwcm.net/caches/ahm.
+||xwddvfoasvtxjo.com^
 ||xwdsp.com^
 ||xwlyfl.xyz^
 ||xwqtatnw.icu^
