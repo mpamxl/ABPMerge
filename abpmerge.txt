@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-22 19:23:26
-! Total count: 27812
+! Version: 2026-09-23 13:07:25
+! Total count: 27817
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13409,6 +13409,7 @@ zzzyk.com###Tinfo
 ||5ipifco2tf.com^
 ||5ips.net/love/
 ||5j45n3f6r.com^
+||5jj6zcxpo.com^
 ||5k1cyldc9.com^
 ||5kjpa028wo.com^
 ||5kmp7.top^
@@ -16691,6 +16692,7 @@ zzzyk.com###Tinfo
 ||dalipan.com/api/taobao
 ||dalld.xyz^
 ||dalmfn.xyz^
+||dan4irc1i.com^
 ||dangbei.net/2022/dbhezi.
 ||dangbei.net/jing/dbai/$domain=kan.znds.com
 ||dangdang.com/adall.
@@ -21548,6 +21550,7 @@ zzzyk.com###Tinfo
 ||microcontrol.cn/HomeImages/AD/
 ||micropage.cn/images/ad_
 ||microscope9.com^
+||microwave97.com^
 ||midifan.com/aaa/
 ||midship24.com^
 ||mifengtd.cn/ad-
@@ -23665,6 +23668,7 @@ zzzyk.com###Tinfo
 ||rsanciz.top^
 ||rsfzjtdmbmxdfq.com^
 ||rsinnxoe.com^
+||rsrldrnubehntu.com^
 ||rssxsjh.icu^
 ||rstdfyerm.icu^
 ||rstqbtoqrxbvpk.com^
@@ -27679,6 +27683,7 @@ zzzyk.com###Tinfo
 ||zrblog.net/zanzhu/virpus.gif
 ||zrgbh6bm.icu^
 ||zrgnoey.icu^
+||zri2wv8u1.com^
 ||zrjr81na94.com^
 ||zrkeirapi.com^
 ||zrljzgs.xyz^
