@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-24 19:36:32
-! Total count: 27834
+! Version: 2026-09-25 13:06:20
+! Total count: 27841
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1549,7 +1549,7 @@ $script,3p,denyallow=unpkg.zhihu.com,domain=52niuyan.cc
 $script,3p,domain=cilimao.co|cilimao.one
 $script,3p,domain=colamanga.com
 $script,3p,domain=torkitty.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
-$script,3p,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|movieffm.net|xiaoheimi.cc
+$script,3p,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movieba.com|audio699.com|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc
 $script,3p,websocket,domain=52codes.net
 $script,subdocument,3p,domain=dlkoo.com
 $script,subdocument,3p,websocket,xhr,domain=bhshu.net|louzhong8.com|miwens.com
@@ -4330,14 +4330,14 @@ $websocket,domain=wap.yushuwu.cloud
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
 @@||cdn.bootcss.com^$script,domain=biqutime.com|59xs.com|biqudd.com|u33.me|xbiqugela.com|ysxs8.vip
 @@||cdn.cloudflare.net^$stylesheet,script,xhr,domain=cocomanga.com|cocomanga.com
-@@||cdn.jsdelivr.net^$script,domain=movieffm.net
+@@||cdn.jsdelivr.net^$script,domain=mvffm.net
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.rawgit.com/*/lazyload.js$domain=javmost.com
 @@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com
 @@||cdn.sssam.com/static/js/*.js
 @@||cdn.staticfile.org^$domain=aoi.hugemaker.com.cn
 @@||cdn.staticfile.org^$domain=lakyworld.com|biquge77.net|yzbg.net|alexij.net|hshfm.com|biqiuge5.org|49gtk.cc|20me.net|fbqg.cc|xianguke.net|tellgillian.com|m-ia.net|cleavagecoverup.com|memduh.net|56xiaoshuo.net|yourbiquge.com|00ksw.com|147xiaoshuo.com|bxwx.live|lzbao.net
-@@||cdn.staticfile.org^$script,domain=movieffm.net
+@@||cdn.staticfile.org^$script,domain=mvffm.net
 @@||cdn.theguardian.tv/ad/*.m3u8$domain=theguardian.com
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$domain=papalah.com
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/*/videojs.ads.min.js$domain=linetv.tw
@@ -16374,6 +16374,7 @@ zzzyk.com###Tinfo
 ||commondata.oss-cn-hangzhou.aliyuncs.com^
 ||commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||commonwealthproficient.com^
+||compass12.top^
 ||compose99.com^
 ||compress33.top^
 ||concave88.top^
@@ -17679,6 +17680,7 @@ zzzyk.com###Tinfo
 ||f17hdccbws.com^
 ||f1jonnzc8.com^
 ||f1tfmxzg.icu^
+||f1x12og38.com^
 ||f20hgvkx7r.com^
 ||f20r1b13iw.com^
 ||f23jjd8.xyz^
@@ -18170,6 +18172,7 @@ zzzyk.com###Tinfo
 ||gchk5bcnaz.com^
 ||gcjg3ry7m.com^
 ||gcqciiqk.com^
+||gcvns12jp.com^
 ||gcw*.2liang.cn^
 ||gd-singapore.com/data/1724/aimg/rloadbnus-ibc26.
 ||gd.189.cn*/push/$popup
@@ -19314,7 +19317,6 @@ zzzyk.com###Tinfo
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
-||i1fqn4bnkh37ywbx.cfd^
 ||i2fxsez4f0.com^
 ||i2t1zp6t2v.com^
 ||i2ye9dnle.com^
@@ -19456,6 +19458,7 @@ zzzyk.com###Tinfo
 ||ignulsniy.com^
 ||igscn.com^
 ||ih336.com^*a.js
+||ihbkqdj55.com^
 ||ihclam.cn^
 ||ihhmh.com/mg/show
 ||ihhuyvugv.com^
@@ -23580,6 +23583,7 @@ zzzyk.com###Tinfo
 ||rhrrf.cn^
 ||rhtc.quanminyouxi.cn^
 ||riaway.com/statics/idea.jpg
+||rib0nsgx6.com^
 ||richh.cn^
 ||richshredinger.com^
 ||ridfvncgizfjlq.com^
@@ -25215,6 +25219,7 @@ zzzyk.com###Tinfo
 ||u7s546.com^
 ||u7u9.com^$3p
 ||u7ugo0jr3.com^
+||u8jlui323.com^
 ||u8rnuky6e.com^
 ||u90p9zk9r7.com^
 ||uaa.com/js/dxj.
@@ -25483,6 +25488,7 @@ zzzyk.com###Tinfo
 ||uyq3ruf.icu^
 ||uyt79.top^
 ||uz7w7bm4ns.com^
+||uzhrtuyij.com^
 ||uzrtgekpw.com^
 ||uzt7ud70j1.com^
 ||uzurliev.com^
@@ -25682,6 +25688,7 @@ zzzyk.com###Tinfo
 ||vle6r0hma.com^
 ||vlgkotr.cn^
 ||vlion.cn^$3p
+||vljyztqsnkhvra.com^
 ||vlpq.cn^
 ||vlrvrntcxjljnu.com^
 ||vlujojf.icu^
