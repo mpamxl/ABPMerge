@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-25 19:42:34
-! Total count: 27844
+! Version: 2026-09-26 12:33:45
+! Total count: 27853
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -13093,6 +13093,7 @@ zzzyk.com###Tinfo
 ||3t4j5adg9x.com^
 ||3t769up6.com^
 ||3v7c7y.online^
+||3vkgutjorg.com^
 ||3vvuu0z8ui.com^
 ||3wk.cc/images/*.gif
 ||3wzq2yxde.com^
@@ -13791,6 +13792,7 @@ zzzyk.com###Tinfo
 ||888bb666cc.com^
 ||888lianmeng.com^
 ||888xx222kk.com^
+||8896bhfg6l.com^
 ||88eg.cn^
 ||88la.la^
 ||88lajs1.com^
@@ -13836,6 +13838,7 @@ zzzyk.com###Tinfo
 ||8lmggang9.com^
 ||8maple.ru/dzcm$redirect=1x1.gif,domain=8maple.ru,image
 ||8mhcc.top^
+||8n2iu6djx6.com^
 ||8o5v23yip.com^
 ||8oghu1wcau.com^
 ||8p14q886v2.com^
@@ -19320,6 +19323,7 @@ zzzyk.com###Tinfo
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
+||i27jhc4ut0.com^
 ||i2fxsez4f0.com^
 ||i2t1zp6t2v.com^
 ||i2ye9dnle.com^
@@ -23670,6 +23674,7 @@ zzzyk.com###Tinfo
 ||roywc0iql.com^
 ||rp9zb27jn1.com^
 ||rpahyhn.cn^
+||rpgi979tlb.com^
 ||rphwjxzekcbzxu.com^
 ||rpjjpm.site^
 ||rpkcqtf.cn^
@@ -24375,6 +24380,7 @@ zzzyk.com###Tinfo
 ||star-media.cn^$3p
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||staramuse.com/bmip/showg
+||starboard65.com^
 ||starnnews.com/banner/
 ||starttui.xyz^
 ||stat.cnmo.com^
@@ -24907,6 +24913,7 @@ zzzyk.com###Tinfo
 ||toblog.ctobsnssdk.com^
 ||tocologist44.top^
 ||todayapp.tv^$popup,3p
+||tofqldmutnvdda.com^
 ||toggle.qq.com^
 ||toijr.xyz^
 ||tokendomain.xyz^
@@ -25652,6 +25659,7 @@ zzzyk.com###Tinfo
 ||vieldeold.xyz^
 ||viewyentreat.guru^
 ||vigyn4gpx.com^
+||vihiei5ek3.com^
 ||vihppjk.cn^
 ||vijnhyru.xyz^
 ||vinanb.icu^
@@ -27758,6 +27766,7 @@ zzzyk.com###Tinfo
 ||zumnervl.com^
 ||zuowen.hydcd.com^
 ||zuqqgwi.icu^
+||zv5h2l1qdi.com^
 ||zvasuzb.icu^
 ||zvciaoan1k.com^
 ||zvdc9y.icu^
