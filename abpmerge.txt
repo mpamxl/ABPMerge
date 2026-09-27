@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-26 18:51:25
-! Total count: 27854
+! Version: 2026-09-27 13:24:25
+! Total count: 27868
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1663,6 +1663,10 @@ $websocket,domain=wap.yushuwu.cloud
 .com/gg/*?x=$script,3p
 .com/hm/*?*=*$third-party
 .com/images/102.js
+.com/img/bnnr1_
+.com/img/bnr1_*.gif
+.com/img/bnr2_*.gif
+.com/img/bnr3_*.gif
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
@@ -1672,8 +1676,6 @@ $websocket,domain=wap.yushuwu.cloud
 .com/js/ad_
 .com/js/alls_foot.js
 .com/js/alls_top.js
-.com/js/bnnr_
-.com/js/bnr_
 .com/js/ddd.js
 .com/js/discor_list.js
 .com/js/g.js
@@ -2367,7 +2369,6 @@ $websocket,domain=wap.yushuwu.cloud
 /js/htmlka.js
 /js/htmlkb.js
 /js/htmlkc.js
-/js/huath_2.js
 /js/index_adfloat.js
 /js/j*s*r*u*n*n*e*r.js$~third-party
 /js/js4.js
@@ -2376,7 +2377,6 @@ $websocket,domain=wap.yushuwu.cloud
 /js/layer1.js$domain=99re.com
 /js/lmdas.js
 /js/mangoIndexBanner.js
-/js/mmdaohang_2.js
 /js/mob/cpc_bottom.js
 /js/mts.js
 /js/mts66.js
@@ -2395,7 +2395,6 @@ $websocket,domain=wap.yushuwu.cloud
 /js/wahha/*
 /js/wlfloat.js
 /js/xiaxuanfu.js
-/js/yueyupp_3.js
 /js/yzgg.js
 /js_php/ajsf.php?id=$3p
 /jsadv/*
@@ -12795,6 +12794,7 @@ zzzyk.com###Tinfo
 ||23bei.com/static/plugins/layer/layer.
 ||23cox7hu4.com^
 ||23dhj4q.com^
+||23dx6xe42.com^
 ||23img.com^*/qomnyi.
 ||23jgiy.com^
 ||23qb.com/ak
@@ -13583,6 +13583,7 @@ zzzyk.com###Tinfo
 ||6park.com^$subdocument,badfilter
 ||6pctuhriw.com^
 ||6q77vsjez1.com^
+||6qcvth5fb.com^
 ||6ql83wy90f.com^
 ||6quspne.com^
 ||6s0zo8jzbb.com^
@@ -15728,6 +15729,7 @@ zzzyk.com###Tinfo
 ||bugs01231ko.com^
 ||bujiangjiu123.com^
 ||bulisite.top^
+||bulwark37.top^
 ||bumimi.com/money/
 ||bun1.dayi.org.cn^
 ||bupidt.xyz^
@@ -18043,6 +18045,7 @@ zzzyk.com###Tinfo
 ||fwbdfg5n6.com^
 ||fwepd.xyz^
 ||fwjtfo8f4z.com^
+||fwlkegiqfn.icu^
 ||fwlkokvvkx.icu^
 ||fwlrv.cn^
 ||fwmbjrl.cn^
@@ -19913,6 +19916,8 @@ zzzyk.com###Tinfo
 ||javhd.com/sb/
 ||javhoo.net/pop/pop.jpg
 ||javhub.net/img/r18_banner1.jpg
+||javlibrary.com/img/bnr*.gif
+||javlibrary.com/js/b3nr*.js
 ||javporn.best/asset/default/player/plugins/vast-*.js
 ||jayhou.top^
 ||jb.dianshu119.com^
@@ -20333,6 +20338,7 @@ zzzyk.com###Tinfo
 ||jxtejf.xyz^
 ||jxtest.bolecdn.com/player/*.gif
 ||jxudh7t5cg.com^
+||jxvylwrra.com^
 ||jy.zhongxues.com^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$3p
@@ -21903,6 +21909,7 @@ zzzyk.com###Tinfo
 ||n2d79v41a3.com^
 ||n2ivsbik2.com^
 ||n2m8u4ae9.com^
+||n2nqp4osu.com^
 ||n2xj2mxg3z.com^
 ||n3567.com^
 ||n3xpjc.xyz^
@@ -22360,6 +22367,7 @@ zzzyk.com###Tinfo
 ||ojg8sflgl.com^
 ||ojh9bc9puh.com^
 ||ojn1zxz0ni.com^
+||ojobjjol7.com^
 ||ojrgbc6kfz.com^
 ||ok-11-cai.cc^
 ||ok3o5s3xi.com^
@@ -22493,6 +22501,7 @@ zzzyk.com###Tinfo
 ||overcoat55.top^
 ||overflow33.com^
 ||overture34.top^
+||ovgadhtcyvak.in^
 ||ovnrmvg.cn^
 ||oweeiyw.icu^
 ||owiurjngsd.com^
@@ -23064,6 +23073,7 @@ zzzyk.com###Tinfo
 ||q1yv4669q6.com^
 ||q27sz.com^
 ||q29k22vpu.com^
+||q2f3fw9st.com^
 ||q2fwgl4q8.com^
 ||q2tqrsh02.com^
 ||q4173l5op.com^
@@ -23642,6 +23652,7 @@ zzzyk.com###Tinfo
 ||rlkx.cn^
 ||rlogs.youdao.com^
 ||rlqoyht.icu^
+||rlr1ubj9u.com^
 ||rltwz2cmo.com^
 ||rlvyrr.icu^
 ||rmhfrtnd.com^$3p
@@ -25519,6 +25530,7 @@ zzzyk.com###Tinfo
 ||v2.gdt.qq.com^
 ||v2.uyan.cc^
 ||v2bo21e4k.com^
+||v2e5kim4o.com^
 ||v2ex.com/pro/emitter
 ||v2rayssr.com/wp-content/plugins/eazy-
 ||v3pnvck24.com^
@@ -26797,6 +26809,7 @@ zzzyk.com###Tinfo
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
 ||xvndpbjwhhvnfu.com^
+||xwafoccqlr.icu^
 ||xwafyzovqu.icu^
 ||xwbspx.xyz^
 ||xwcm.net/caches/ahm.
@@ -27487,6 +27500,7 @@ zzzyk.com###Tinfo
 ||zeigraim.com^
 ||zektch.buzz^
 ||zektch.xyz^
+||zellxviqqlhdpg.com^
 ||zelpbp.buzz^
 ||zen0935.com^
 ||zents10.top^
