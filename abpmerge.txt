@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-27 19:24:23
-! Total count: 27869
+! Version: 2026-09-28 16:15:24
+! Total count: 27879
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -2926,8 +2926,8 @@ $websocket,domain=wap.yushuwu.cloud
 12306.cn,club.pchome.net,qinbing.cn###slideBox
 12377.cn###notice
 123pan.cn##.web-wrap > div:has(> img[src^="https://statics.123pan.com/"])
-123pan.cn,123865.com##+js(no-window-open-if)
 123pan.cn,123865.com##.bg_svip_block_ads
+123pan.cn,123865.com,huaren.live,umbooks.com##+js(no-window-open-if)
 123pan.com##.advBanner
 123pan.com##.ant-carousel
 123pan.com##.baidu-banner-container
@@ -7990,7 +7990,6 @@ huanqiu.com##.r-hqNext-ad
 huaren.live##.action-ad
 huaren.live##.pause-love
 huaren.live,huavod.com#@#.ad_unit
-huaren.live,umbooks.com##+js(no-window-open-if)
 huaren.tv##.live-client_left
 huaren.tv##.live-client_right
 huaren.tv##a[style*="height:"]
@@ -8009,6 +8008,7 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##+js(no-setTimeout-if, /b
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##.slide-nav-list a[target="_blank"]:not(a[href^="/"])
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##.swiper-wrapper > div.swiper-slide:has(a[target="_blank"]:not(a[href^="/"]))
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##.weixin
+huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##a[href="/advertiser"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
 huavod.com###player-vip
@@ -13391,6 +13391,7 @@ zzzyk.com###Tinfo
 ||5dyx.com/static/js/deny.js
 ||5e2hf0q3a.com^
 ||5e770lhs7b.com^
+||5e9rwtjh1s.com^
 ||5edf1d2qv.com^
 ||5edrgrnqg.com^
 ||5enhjla7z.com^
@@ -13555,6 +13556,7 @@ zzzyk.com###Tinfo
 ||6h6pdph56.com^
 ||6hejing.cn^
 ||6iejd9pk0.com^
+||6ign0q6xb1.com^
 ||6iiz8ni96v.com^
 ||6iwoif.com^
 ||6iyq4atled.com^
@@ -14744,6 +14746,7 @@ zzzyk.com###Tinfo
 ||amradmin.5173.com^
 ||ams.fx678.com^
 ||amung.us^
+||amusingarmorycomment.com^
 ||amvecurt.cn^
 ||amwm.cn^
 ||amxwqv.com^
@@ -14887,6 +14890,7 @@ zzzyk.com###Tinfo
 ||aqvwn18102h.com^
 ||aqxh9x1o7m.com^
 ||aqy103.com/js/aqy/
+||arbattadr.in^
 ||archetype32.top^
 ||areyoutherenow.com^
 ||arithmetic48.top^
@@ -15067,6 +15071,7 @@ zzzyk.com###Tinfo
 ||b4afsapz0.com^
 ||b4dg.life/love/
 ||b4g7k9d2.com^
+||b56iy3m1jg.com^
 ||b59.xyz^
 ||b5v0m3q8.com^
 ||b7ijghyla1.com^
@@ -15794,7 +15799,6 @@ zzzyk.com###Tinfo
 ||bz*.net/js/cdn.js
 ||bz*.net/js/html*.js$~3p,script
 ||bz13t74nt.com^
-||bz88888.net/js/cdn.js
 ||bzabwir.icu^
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
 ||bzhanyy.com^*.gif
@@ -20613,6 +20617,7 @@ zzzyk.com###Tinfo
 ||kppt.cc/zhifu.jpg
 ||kpsabnm.xyz^
 ||kpshx.douguo.com^
+||kpymx56ch3.com^
 ||kqg8jh8rk.com^
 ||kqgx3eyz7.com^
 ||kqmz0ym0fo.com^
@@ -21354,6 +21359,7 @@ zzzyk.com###Tinfo
 ||m8h5qjmlb3.com^
 ||m8qk101065.com^
 ||m8ysv4ckls.com^
+||m96v7deg59.com^
 ||m9sm6th48c.com^
 ||m9sz0hh3f7.com^
 ||m9ylqs5rn.com^
@@ -23062,6 +23068,7 @@ zzzyk.com###Tinfo
 ||pzjizsyf.icu^
 ||pzkkot4kn.com^
 ||pzkrgcp.cn^
+||pzmu7go7i2.com^
 ||pzpcbt.icu^
 ||pzq7ilwvv.com^
 ||pzqqstb.icu^
@@ -23349,6 +23356,7 @@ zzzyk.com###Tinfo
 ||qrumphathu.com^
 ||qrxmgfz.cn^
 ||qrzwjfq.xyz^
+||qs2zdat2pi.com^
 ||qsanciy.top^
 ||qscvli.com^
 ||qselic.top^
@@ -24411,6 +24419,7 @@ zzzyk.com###Tinfo
 ||stat.v.17173.com^
 ||stat.xgo.com.cn^
 ||statcounter.com^
+||stateroom28.com^
 ||static*.365inews.com^
 ||static-cn.plista.com^
 ||static-ssp.yidianzixun.com^
@@ -26515,6 +26524,7 @@ zzzyk.com###Tinfo
 ||xhe87zexdk.com^
 ||xheqbc.cn^
 ||xhgwho0fx.com^
+||xhhgjfpswovlvg.com^
 ||xhiit0n.xyz^
 ||xhkvff.cn^
 ||xhluphuewwlbnc.com^
