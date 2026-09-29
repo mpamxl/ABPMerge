@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-29 14:27:20
+! Version: 2026-09-29 20:19:48
 ! Total count: 27890
 ###ADtip
 ###Ad_windows
@@ -11732,8 +11732,6 @@ woshipm.com##.article-topAd
 wpjam.com###wpjam_blog_300x250_1
 ws://*/api/wss/GetNotReadCount$3p
 wss://*.*.top/$3p
-wss://*.com:29*/$3p
-wss://*.com:800*/$3p,domain=~survev.io
 wss://*.top/|
 wss://*.xyz:*?e=$3p
 wss://*.xyz:*?x=$3p
@@ -20236,6 +20234,7 @@ zzzyk.com###Tinfo
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
 ||js154azzn.com^
+||js1lw9n6w.com^
 ||js22f.net^
 ||js6.efyt6.com^
 ||jsb.qianzhan.com^
@@ -23505,6 +23504,7 @@ zzzyk.com###Tinfo
 ||rbmg4agmo.com^
 ||rbodwtj.icu^
 ||rbrbr88p.cn^
+||rbru3ubey.com^
 ||rbsodzgoy.xyz^
 ||rc.ie13.com^
 ||rc7e.top^
