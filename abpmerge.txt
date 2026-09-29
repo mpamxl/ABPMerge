@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-09-28 16:15:24
-! Total count: 27879
+! Version: 2026-09-29 14:27:20
+! Total count: 27890
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1663,10 +1663,6 @@ $websocket,domain=wap.yushuwu.cloud
 .com/gg/*?x=$script,3p
 .com/hm/*?*=*$third-party
 .com/images/102.js
-.com/img/bnnr1_
-.com/img/bnr1_*.gif
-.com/img/bnr2_*.gif
-.com/img/bnr3_*.gif
 .com/java/shang1.js
 .com/java/xia1.js
 .com/java/youxia.js
@@ -1676,6 +1672,7 @@ $websocket,domain=wap.yushuwu.cloud
 .com/js/ad_
 .com/js/alls_foot.js
 .com/js/alls_top.js
+.com/js/b3nr_
 .com/js/ddd.js
 .com/js/discor_list.js
 .com/js/g.js
@@ -12871,6 +12868,7 @@ zzzyk.com###Tinfo
 ||2gvnr9sx9.com^
 ||2hiu.com^$3p
 ||2hlcovn7n.com^
+||2hqxy07fw.com^
 ||2i0lliongn.com^
 ||2i93en16s9.com^
 ||2j9banjbst.com^
@@ -13429,6 +13427,7 @@ zzzyk.com###Tinfo
 ||5mgrgsc.cn^
 ||5mm.zxfw5.cn^
 ||5mn041cdz.com^
+||5n131lck8.com^
 ||5nj.com/js/cnzz22.js
 ||5nj.com/js/cnzz33.js
 ||5ntq14y5y.com^
@@ -14039,6 +14038,7 @@ zzzyk.com###Tinfo
 ||9pbeoey9j.com^
 ||9pyn42z6d.com^
 ||9pzoz6taf.com^
+||9qvpcta0t.com^
 ||9r0v0go0el.com^
 ||9rkh7nbaj.com^
 ||9s3g5vd8or.com^
@@ -15199,6 +15199,7 @@ zzzyk.com###Tinfo
 ||baj.fanwenzhan.com^
 ||bajielm.com^
 ||bakrathtfa.com^
+||ballast85.top^
 ||ballive.*/addm/
 ||balmoralmkt.com^$3p
 ||balsam18.com^
@@ -15692,6 +15693,7 @@ zzzyk.com###Tinfo
 ||btpian.com/static/wenquan.js
 ||btreelmulq.com^
 ||btschool.net/images/*/HDYGR
+||btsel5g.com^
 ||btsvad8.com^
 ||bttazsyk.icu^
 ||btwuji.com/jsj1/
@@ -18687,6 +18689,7 @@ zzzyk.com###Tinfo
 ||gzqvd.cn^
 ||gzsjym.xyz^
 ||gzsy12348.com^
+||gzx2d0jvwm.com^
 ||gzzkjdam.cn^$3p
 ||gzzza.com/html/
 ||h-adashx.ut.taobao.com^
@@ -19268,6 +19271,7 @@ zzzyk.com###Tinfo
 ||hv7w3au49.com^
 ||hvdath.xyz^
 ||hvqyf.cn^
+||hweianpqxl.icu^
 ||hweiopvvxd.icu^
 ||hwfoct.icu^
 ||hwgzp5.com^
@@ -20174,6 +20178,7 @@ zzzyk.com###Tinfo
 ||jqfuser.icu^
 ||jqkcett.icu^
 ||jqmr7zssmd.com^
+||jqopurafw.com^
 ||jqsex.com^
 ||jqszhz7wo.com^
 ||jqtkzuco.xyz^
@@ -20997,6 +21002,7 @@ zzzyk.com###Tinfo
 ||ljarfvg.cn^
 ||ljvt4pnl9.com^
 ||lk0v8teerw.com^
+||lk54dfg87.com^
 ||lkancklanklcav.com^
 ||lkhmlx.icu^
 ||lkmhn.com^
@@ -21169,6 +21175,7 @@ zzzyk.com###Tinfo
 ||lt3f9p5ox2.com^
 ||ltbbjzwmdavdny.com^
 ||ltbyw.top/data/images/*.gif
+||ltdzz.com^
 ||ltht.tech^
 ||ltiekurv.com^
 ||ltienll.top^
@@ -23422,6 +23429,7 @@ zzzyk.com###Tinfo
 ||qwuylnl.com^
 ||qxakzox.cn^
 ||qxaz2xcw.com^
+||qxbpi331k.com^
 ||qxrvmu.com^
 ||qxwoiv.com^
 ||qy0.ru/data/game/
@@ -23849,10 +23857,12 @@ zzzyk.com###Tinfo
 ||s4te24u.com^
 ||s4zqj3m.cn^
 ||s65m.win^
+||s6cfki4v4.com^
 ||s6ctxsmoaj.com^
 ||s6in.cc^
 ||s6ujh3ynv.com^
 ||s72h7io4o.com^
+||s7jkxkm72.com^
 ||s7tu.com/images/*.gif
 ||s7xrlzfa.top^
 ||s8.pw^$3p
@@ -25712,6 +25722,7 @@ zzzyk.com###Tinfo
 ||vk923.com/img/
 ||vkandian.cn/footjs/
 ||vkandian.cn/peitu/
+||vkdytplocrhlhm.com^
 ||vkeqoidm.com^
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
