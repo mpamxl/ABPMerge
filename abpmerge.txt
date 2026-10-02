@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-01 20:41:07
-! Total count: 27888
+! Version: 2026-10-02 14:19:15
+! Total count: 27902
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -9164,6 +9164,7 @@ luogu.com.cn##.side > div:not(.l-card):has(> span > svg.fa-rectangle-ad)
 luogu.me##.propaganda
 luoqiuzw.com##DIV[id^="a-loading-"]
 lupanda.tw##.blogimove-inline-css-0
+lupanda.tw##div[style="min-width: 300px; min-height:400px;"]
 lusongsong.com###main > center
 luyixian.cn##.side
 lwgod.me###wp > a:first-child
@@ -11817,6 +11818,7 @@ xchina001.online##.z1-strip
 xchina001.online##.z2-slot
 xchina001.online##.z3-root
 xclient.info###pop_business
+xfastest.com###xfastestWide385
 xfastest.com##.vw-header-ads-wrapper
 xfastest.com##iframe[src*="//ads.xfastest.com/"]
 xgan.cn##.bottom_fixed
@@ -13174,6 +13176,7 @@ zzzyk.com###Tinfo
 ||4paradigm.com^$domain=sina.com.cn
 ||4pcp5e2w7i.com^
 ||4po6iqp9.cn^
+||4ppj7n846t.com^
 ||4pyszxxaw.com^
 ||4q7unmlg5.com^
 ||4ro76m7k2n.com^
@@ -13290,6 +13293,7 @@ zzzyk.com###Tinfo
 ||53shop.com/img/*.js
 ||53shop.com/js/dun.js
 ||5442tu.com/style/ads5442.js
+||54ad.net^
 ||54admin.net/images/ad_
 ||54ads.com^
 ||54askjdklm.xyz^
@@ -13443,6 +13447,7 @@ zzzyk.com###Tinfo
 ||5wzew9jht.com^
 ||5xdmw.com/tb.jpg
 ||5xdz5pz072.com^
+||5xg31saxfv.com^
 ||5xvtbbvb6.com^
 ||5y9nfpes.52pk.com^
 ||5yahh8v3.xyz^
@@ -15041,6 +15046,7 @@ zzzyk.com###Tinfo
 ||b1.engdvd.com^
 ||b1.xiao84.com^
 ||b10.justacdn.net^
+||b11tuokk6g.com^
 ||b11yn56zn.com^
 ||b168.net^*.*?$image
 ||b1zftjhtwb.com^
@@ -17612,6 +17618,7 @@ zzzyk.com###Tinfo
 ||eulaliadoradl.com^
 ||eutrnfnm.com^
 ||euuh.cn^
+||eux6eonqhd.com^
 ||evb0gxo.icu^
 ||evbb.xyz^
 ||events.hotjar.io^
@@ -17625,6 +17632,7 @@ zzzyk.com###Tinfo
 ||evrmwlh0dl.com^
 ||evtubescms.phncdn.com^
 ||evycvuy.icu^
+||ew0ctzt3vd.com^
 ||ewbaenkiu.com^
 ||ewekeoqn.com^
 ||ewfsef.com^
@@ -22523,6 +22531,7 @@ zzzyk.com###Tinfo
 ||oyhurln.cn^
 ||oyksoft.com/assets/images/*.gif
 ||oyksoft.com/show/b.
+||oysdzwzivk.com^
 ||oyxp.xyz^
 ||oyysbc.xyz^
 ||oyz61nhz8.com^
@@ -23453,6 +23462,7 @@ zzzyk.com###Tinfo
 ||r0l7cp.com^
 ||r1jprcr42.com^
 ||r27y52dd7.com^
+||r30vhf31sv.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
 ||r3sub.com/images/aaa^
@@ -23555,6 +23565,7 @@ zzzyk.com###Tinfo
 ||rentiyishu.org/*.js
 ||renwai.ren/cdn/pic/ad
 ||renzhen8.cn^
+||reo682syw4.com^
 ||reorganizes64.com^
 ||repian.com/a/
 ||replays.net/j/dazui
@@ -25592,6 +25603,7 @@ zzzyk.com###Tinfo
 ||vbnmjjda.xyz^
 ||vbunpfvdn.com^
 ||vbw3q6jxn.com^
+||vchhgjkbod.icu^
 ||vcjzjnef.icu^
 ||vclunl.icu^
 ||vcsc1fp2f.com^
@@ -26082,6 +26094,7 @@ zzzyk.com###Tinfo
 ||windows.net/732d.js
 ||windowszj.net/d/js/list/click
 ||winniephc.com^
+||winnower18.top^
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
 ||wipbbok.com^
@@ -27648,6 +27661,7 @@ zzzyk.com###Tinfo
 ||zigq.cn^
 ||zihuiguochao.top^
 ||zinoe.cn^
+||zipobfrcbodrvq.com^
 ||ziravd.xyz^
 ||zisnuthz.com^
 ||zisu.cn.com^

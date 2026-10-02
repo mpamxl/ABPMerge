@@ -6703,6 +6703,7 @@ luogu.com.cn##.side > div:not(.l-card):has(> span > svg.fa-rectangle-ad)
 luogu.me##.propaganda
 luoqiuzw.com##DIV[id^="a-loading-"]
 lupanda.tw##.blogimove-inline-css-0
+lupanda.tw##div[style="min-width: 300px; min-height:400px;"]
 lusongsong.com###main > center
 luyixian.cn##.side
 lwgod.me###wp > a:first-child
@@ -9338,6 +9339,7 @@ xchina001.online##.z1-strip
 xchina001.online##.z2-slot
 xchina001.online##.z3-root
 xclient.info###pop_business
+xfastest.com###xfastestWide385
 xfastest.com##.vw-header-ads-wrapper
 xfastest.com##iframe[src*="//ads.xfastest.com/"]
 xgan.cn##.bottom_fixed
