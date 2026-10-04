@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-03 18:53:27
-! Total count: 27915
+! Version: 2026-10-04 13:35:03
+! Total count: 27925
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -12317,6 +12317,7 @@ zzzyk.com###Tinfo
 ||0elq99i0w.com^
 ||0er7pc8.xyz^
 ||0etmx4b4o.com^
+||0fs3mb0hh7.com^
 ||0fs6pe6w0j.com^
 ||0h9yewgei.com^
 ||0hagal2csg.com^
@@ -12859,6 +12860,7 @@ zzzyk.com###Tinfo
 ||2j9banjbst.com^
 ||2jdr5wuyzf.com^
 ||2jse6.icu^
+||2ju7b73ton.com^
 ||2juyabihe.com^
 ||2ka41vagh.com^
 ||2kandy.com/js/123/
@@ -13352,6 +13354,7 @@ zzzyk.com###Tinfo
 ||595image.com^
 ||598n8mpd6.com^
 ||59gt.cn^
+||59ufs4hof5.com^
 ||59zzkdt8pj.com^
 ||5axxw.com/extends/ad/
 ||5b025cnm.top^
@@ -14324,6 +14327,7 @@ zzzyk.com###Tinfo
 ||adayvquq.cn^
 ||adbd.liuxue86.com^
 ||adbeuch.cn^
+||adbfkaoxvm.in^
 ||adblock.sina.cn^
 ||adbot.tw^
 ||adbottw.net^$3p
@@ -15742,6 +15746,7 @@ zzzyk.com###Tinfo
 ||buttocks33.com^
 ||buy.sina.com.tw/js/sina_popup.php
 ||buyihao.com^
+||buyrbto5z2.com^
 ||buzien.top^
 ||buzzhand.com/images/$subdocument
 ||bvfqhnyofanbfk.com^
@@ -17590,6 +17595,7 @@ zzzyk.com###Tinfo
 ||es3984.review/02_cn_ad/
 ||esa2j46dwf.com^
 ||esanciw.top^
+||esaqwot.com^
 ||esgher.fun^
 ||esgher.site^
 ||eshm72fwql.com^
@@ -21203,6 +21209,7 @@ zzzyk.com###Tinfo
 ||luolikong.net^$3p
 ||luolitang.com^$3p
 ||luoyangjinmeii.com^
+||lurhtbf.com^
 ||lutouwang.net/static/images/boss_gao_hb.jpeg
 ||lutouwang.net/static/js/mv_ad
 ||luujhia.com^
@@ -23725,6 +23732,7 @@ zzzyk.com###Tinfo
 ||rpvkpz.icu^
 ||rpyor0k.xyz^
 ||rqilioakof.icu^
+||rqr.cc/mm.
 ||rqxtbr.xyz^
 ||rr.tracker.mobiletracking.ru^
 ||rrgapzw.cn^
@@ -24371,6 +24379,7 @@ zzzyk.com###Tinfo
 ||sportsdream.top^
 ||spplamt.xyz^
 ||spqi.xyz/static/tmp/
+||sprinkler69.com^
 ||spst2.com^
 ||sq59.cn^
 ||sq5f10q3d.com^
@@ -25609,6 +25618,7 @@ zzzyk.com###Tinfo
 ||vbdbmqzu.com^
 ||vbfsljw.com^
 ||vbgyniffuy.com^
+||vbhbzhjaeudztw.com^
 ||vbiakpu.icu^
 ||vbjmrh.cn^
 ||vbnmjjda.xyz^
