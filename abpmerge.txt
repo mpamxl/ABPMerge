@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-04 18:53:16
-! Total count: 27925
+! Version: 2026-10-05 16:36:33
+! Total count: 27940
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -1311,9 +1311,9 @@
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##body .has-ad
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
-##body > #__nuxt:first-child > div > .container > div[data-topmenu] + div + div[data-pg-wrap]
+##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
-##body > #__nuxt:first-child ~ div[data-tag] > div > div > button[aria-label] + div[class]
+##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -3349,7 +3349,6 @@ $websocket,domain=wap.yushuwu.cloud
 3dmgame.com###yxj_fmt_gg
 3dmgame.com##+js(abort-on-property-write, adStart)
 3dmgame.com##.Gmaeinfobtn_tab > .patchshow
-3dmgame.com##.Gmaeinfobtn_tab > a.patchshow[style]:has(> span:contains(/^广告$/))
 3dmgame.com##.Indexadd-100
 3dmgame.com##.R_qingtianzhu
 3dmgame.com##.Tonglan
@@ -7476,6 +7475,11 @@ github.com##a[href^="https://cloud.tencent.com/redirect."] > img
 github.com##a[href^="https://openwrite.cn/"]
 gkstk.com##.layui-layer-shade
 gkstk.com,ufanw.com##.layui-layer
+global.hk01.com##.cmp-article-detail > .flex:has(> .lazyload-wrapper > div:is(.js-ad-slot, [data-id="lazyload-placeholder"]))
+global.hk01.com##.fixed[aria-labelledby="hot-news-dialog-title"] .items-stretch > .shrink-0:has(> .sticky > .flex > .lazyload-wrapper > .js-ad-slot)
+global.hk01.com##.hidden[class*="col-span-4"] > div[class^="min-h-250px w-full"]:has(> .flex > .lazyload-wrapper > .js-ad-slot)
+global.hk01.com##div[class*="_.js-ad-slot]"]
+global.hk01.com##div[class^="placeholder-ad-"]:style(min-height: 0 !important;)
 gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
 gmgard.com,hggard.com##A[onclick*="Advertisement"]
 gmtv1.xyz##.pc_rb_float
@@ -11450,7 +11454,10 @@ vidhub.me,vidhub.tv##.promonk
 vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##.player-info div[class]:has(> div[class][style] > img[onclick^="window.open"]:first-child + span[style]:last-child)
 vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##div[class][style*="position:"] > img[onclick^="window.open"]
 vidhub3.top,vidhub4.cc##div[style^="position:"]:has(> img[onclick^="window.open"])
+vikacg.com##+js(json-prune, data.item data.ads)
 vikacg.com##+js(no-window-open-if, !/external)
+vikacg.com##.arco-carousel
+vikacg.com##.contents:has(> a[class="w-full"][href^="http"][target="_blank"] > img[src*="/assets/moonlight/"])
 vikacg.com##a[href^="https://acg01.com/]"]
 vikacg.com,vikacg.cc##a.w-full[data-ad-index]
 vip.diaoyu18.com##.container > a[target="_blank"]
@@ -12886,6 +12893,7 @@ zzzyk.com###Tinfo
 ||2u3v4w5x6y.com^
 ||2vcb9onxjm.com^
 ||2vqgtxw.cn^
+||2wg8pp90e.com^
 ||2wgolxk.com^
 ||2wqs6d2gp.com^
 ||2xi988xu22.com^
@@ -13819,6 +13827,7 @@ zzzyk.com###Tinfo
 ||8h6oiw0uo.com^
 ||8h6whvlpnz.com^
 ||8h7j79qxm.com^
+||8hvq8jskh.com^
 ||8hx7k0211.com^
 ||8iav2fuiy.com^
 ||8j7tu8vtxx.com^
@@ -15386,6 +15395,7 @@ zzzyk.com###Tinfo
 ||becode.xiao84.com^
 ||become.songche.net^
 ||bedrapiona.com^
+||bedwlzqwkxpzfc.com^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||begonia20.com^
@@ -16957,6 +16967,7 @@ zzzyk.com###Tinfo
 ||discuss.com.hk^*_prod.html
 ||discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 ||disentangle56.top^
+||dishwasher46.com^
 ||dismantlepenantiterrorist.com^
 ||display.itmemo.cn^
 ||displink.com^$3p
@@ -22566,6 +22577,7 @@ zzzyk.com###Tinfo
 ||p.wktfkj.com^$3p
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
+||p0h1nfzc2.com^
 ||p0pn18sxvh.com^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
@@ -23147,6 +23159,7 @@ zzzyk.com###Tinfo
 ||qczcxe.cn^
 ||qczg1nsnvo.com^
 ||qd.x4399.com^
+||qd32n9lpq.com^
 ||qd38xgoin9.com^
 ||qdaily.com/mount_details/pc/
 ||qdczx66.com^
@@ -23215,6 +23228,7 @@ zzzyk.com###Tinfo
 ||qiji1.jdwx.info^
 ||qijpaih.cn^
 ||qilanxiaozhu.*/data/attachment/portal/
+||qim0lvk6m.com^
 ||qimiaomh.com/muban/m/static/js/common.js
 ||qimiaomh.com/muban/m/static/js/hhh.js
 ||qiming360.com/mingJs/xmKu_
@@ -24739,6 +24753,7 @@ zzzyk.com###Tinfo
 ||techspecndt.com^
 ||techug.com/aatb/
 ||teddync.net^
+||tek3shnfk.com^
 ||telecome.cn^
 ||telphiruq.com^
 ||tempest22.top^

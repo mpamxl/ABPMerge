@@ -1306,9 +1306,9 @@
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##body .has-ad
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
-##body > #__nuxt:first-child > div > .container > div[data-topmenu] + div + div[data-pg-wrap]
+##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
-##body > #__nuxt:first-child ~ div[data-tag] > div > div > button[aria-label] + div[class]
+##body > #__nuxt:first-child ~ div[class] > div > div > button[aria-label] + div[class]
 ##body > .app + #htmlContenthtml
 ##body > .dbfh
 ##body > .zdhf
@@ -2149,7 +2149,6 @@
 3dmgame.com###yxj_fmt_gg
 3dmgame.com##+js(abort-on-property-write, adStart)
 3dmgame.com##.Gmaeinfobtn_tab > .patchshow
-3dmgame.com##.Gmaeinfobtn_tab > a.patchshow[style]:has(> span:contains(/^广告$/))
 3dmgame.com##.Indexadd-100
 3dmgame.com##.R_qingtianzhu
 3dmgame.com##.Tonglan
@@ -5019,6 +5018,11 @@ github.com##a[href^="https://cloud.tencent.com/redirect."] > img
 github.com##a[href^="https://openwrite.cn/"]
 gkstk.com##.layui-layer-shade
 gkstk.com,ufanw.com##.layui-layer
+global.hk01.com##.cmp-article-detail > .flex:has(> .lazyload-wrapper > div:is(.js-ad-slot, [data-id="lazyload-placeholder"]))
+global.hk01.com##.fixed[aria-labelledby="hot-news-dialog-title"] .items-stretch > .shrink-0:has(> .sticky > .flex > .lazyload-wrapper > .js-ad-slot)
+global.hk01.com##.hidden[class*="col-span-4"] > div[class^="min-h-250px w-full"]:has(> .flex > .lazyload-wrapper > .js-ad-slot)
+global.hk01.com##div[class*="_.js-ad-slot]"]
+global.hk01.com##div[class^="placeholder-ad-"]:style(min-height: 0 !important;)
 gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
 gmgard.com,hggard.com##A[onclick*="Advertisement"]
 gmtv1.xyz##.pc_rb_float
@@ -8979,7 +8983,10 @@ vidhub.me,vidhub.tv##.promonk
 vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##.player-info div[class]:has(> div[class][style] > img[onclick^="window.open"]:first-child + span[style]:last-child)
 vidhub2.top,vidhub3.top,vidhub4.cc,vidhub.me,vidhub.tv##div[class][style*="position:"] > img[onclick^="window.open"]
 vidhub3.top,vidhub4.cc##div[style^="position:"]:has(> img[onclick^="window.open"])
+vikacg.com##+js(json-prune, data.item data.ads)
 vikacg.com##+js(no-window-open-if, !/external)
+vikacg.com##.arco-carousel
+vikacg.com##.contents:has(> a[class="w-full"][href^="http"][target="_blank"] > img[src*="/assets/moonlight/"])
 vikacg.com##a[href^="https://acg01.com/]"]
 vikacg.com,vikacg.cc##a.w-full[data-ad-index]
 vip.diaoyu18.com##.container > a[target="_blank"]
