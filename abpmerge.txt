@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-09 14:47:22
-! Total count: 27421
+! Version: 2026-10-09 20:24:03
+! Total count: 27394
 ###ADtip
 ###Ad_windows
 ###ChapterView > .slide-baidu
@@ -64,7 +64,6 @@
 ###asdw
 ###asdw2
 ###asdw2 + img
-###aside_cat_ad_bottom
 ###asx_text
 ###banner_links.banner-container
 ###bc_dp_m
@@ -75,7 +74,6 @@
 ###bfad4
 ###bfad5
 ###bfad6
-###bl_mobile_float
 ###bl_mobile_float[style='height: 152px;']
 ###body > #left-promotion
 ###body > #right-promotion
@@ -87,10 +85,7 @@
 ###bottommob.bottommob
 ###breadCrumb + .c + .t[style="margin-top:8px"]
 ###breadCrumb + .t[style="margin-top:8px"]
-###cat_intro_first_ad
-###cat_intro_second_ad
 ###chs_bannerArea
-###comic_reader + #adDisabledBtn
 ###comiis_xizi_gg02
 ###container > #main.site-main > div > div > a[href^="/"][href$="/"] > img
 ###container > .sectionBanner
@@ -404,7 +399,6 @@
 ##.apd-home
 ##.apd-right
 ##.app > .app_tj
-##.appdownload_ad + .hider
 ##.appguide-wrap[onclick*="bcebos.com"]
 ##.archive > a[ontouchstart="this.click();"]
 ##.area > .tuiguang
@@ -717,7 +711,6 @@
 ##.prom-olnk
 ##.promlnk[style="position:relative;width:100%;height:100%;"]
 ##.propa_bottom
-##.pure-g[onclick*="float"]
 ##.push-bottom-container[clickmode="cpt"]
 ##.push-slider[clickmode="cpt"]
 ##.push-top[clickmode="cpt"]
@@ -1264,7 +1257,6 @@
 ##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ##a[href^="/dasp.php?a="]
 ##a[href^="/hy-"][ontouchstart]
-##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
 ##a[href^="http"][onclick^="setCookie"][style^="width:100%;height:100"]
 ##a[href^="http://ad.moemoe."]
 ##a[href^="http://yunbofangbt."]
@@ -1287,7 +1279,6 @@
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
 ##a[target="_bank"] > img[src*=".360buyimg.com"][style="width:100%;height:auto;"]
 ##a[target="_blank"] > img.king
-##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
 ##body .has-ad
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
@@ -1316,7 +1307,7 @@
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
 ##body > noscript + #root > div > div > .grid + div[role] + div
-##body > noscript + #root > div > div > .grid + div[role] + div + div
+##body > noscript + #root > div > div > .grid + div[role] + div + div[class]
 ##body > noscript + #root > div > div > .grid > .m0auto > div > div:last-child
 ##body#chapterbody.novel_chapter [style='padding-top: 150px;']
 ##body#nr_body #appss
@@ -1637,7 +1628,6 @@ $websocket,domain=wap.yushuwu.cloud
 .com/js/indextop.js
 .com/js/youlian.js
 .com/jsbjl/zhanqun
-.com/json/cctv.json?v=
 .com/logo/ad.js
 .com/logo/logo.js
 .com/logo/logoxia.js
@@ -2149,7 +2139,6 @@ $websocket,domain=wap.yushuwu.cloud
 /floatad2.
 /floatcaopron.js
 /floatingcontent/*$3p
-/fourapi/api/data/money?date=$xhr
 /frm_adv.aspx
 /front/adv/getpmadvlist
 /frontend-jiucao/img/banner.jpg
@@ -2487,7 +2476,6 @@ $websocket,domain=wap.yushuwu.cloud
 /sinaads/release/sinaads.js
 /site/mov*$third-party
 /skin/default/js/qbtr.js
-/skin/ecms082/images/kf-
 /skin/footer.$domain=iimanhua.cc|iimh.net
 /skin/header.$domain=iimanhua.cc|iimh.net
 /skin/iymbl-$domain=iimanhua.cc|iimh.net
@@ -3370,7 +3358,7 @@ $websocket,domain=wap.yushuwu.cloud
 52fzwg.com,79tao.com,hqol.cn,k7d.com,kxdao.net,sunwy.org,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zn524.cc##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
-52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hggard.com,hmoe11.net,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com##a[href*=".taobao.com"]
+52movieba.com,acglala.cc,awaker.cn,bimiacg4.net,bimiacg5.net,cgown.com,cn163.net,comicat.org,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hggard.com,ifenpaidy.com,jitapu.com,jitashe.org,kelatv.com,kisssub.org,languang.co,mtrend.cn,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com##a[href*=".taobao.com"]
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 52niuyan.cc##.top_fixed
 52niuyan.cc##a[onclick][rel][style*="toutiaoimg.com"]
@@ -3639,7 +3627,6 @@ $websocket,domain=wap.yushuwu.cloud
 ://*.tv/ad/$domain=~moviedj.tv
 ://*.yinghua*.*/bar$~third-party
 ://*.z*.xyz/$object,3p
-://*:*/oklist/vars.js
 ://*banzhu*/js/cdn.js$~third-party
 ://*btbtt.*/imgs.js
 ://*btbtt.*/view/image/QT_
@@ -3831,7 +3818,6 @@ $websocket,domain=wap.yushuwu.cloud
 @@/show_ads_$domain=ygo-sem.cn
 @@/site/ad/*$domain=islide.cc
 @@/social-share.$domain=patentguru.com
-@@/static/ad/main.$domain=bbmei.top|bbmen.top
 @@/store_ad/*$domain=pcstore.com.tw
 @@/unadblock/adjs_$domain=hepan.com
 @@/urchin.js$domain=on.cc
@@ -4852,7 +4838,6 @@ _billboard_320x100.iframe.
 _btbttme/fox/img/QT_
 _click*(com?
 _dasiqq315.
-_fioiwhfo_
 _float_fuo.js
 _naimabdd_
 _popAds.
@@ -9617,7 +9602,6 @@ ofweek.com###\5f ad-2100
 ofweek.com###fixedADWrap
 oh100.com##.mySwiperBox
 ohmanhua.com##+js(abort-on-property-write, __DOMAIN)
-oibdgtxw.com##.xqbj-list-rows:has(img[z-image-loader-url*=".gif"])
 oilchem.net##.LzAdv
 olehdtv.com##.container > div[class^="B1"]
 olevod.com##.A4R
@@ -12883,7 +12867,6 @@ zzzyk.com###Tinfo
 ||5184.com/container/html/news_view_gg
 ||51bczx.com/images1/
 ||51bczx.com/js/float.js
-||51cdn.club:453/hf85/960x
 ||51credit.com/51api/creditcard.php?mod=
 ||51credit.com/js/app/end-layer.js
 ||51dxs.com^
@@ -18408,7 +18391,6 @@ zzzyk.com###Tinfo
 ||hawthorn33.top^
 ||hax.co.id/dist/js/ajax.js
 ||hazardous58.top^
-||hb8g86k.mom/mz.js
 ||hbandier.com^
 ||hbcjdwm.com^
 ||hbfpml.cn^
@@ -18654,7 +18636,6 @@ zzzyk.com###Tinfo
 ||hmjhnkas.com^
 ||hmjs.cnmo-img.com.cn^
 ||hmma.baidu.com^
-||hmoe12.com/wp-content/uploads/202*.gif
 ||hmtoday.com^$3p
 ||hmtqtokulp.com^
 ||hmwang.icu/skin/images/*.gif
@@ -19818,7 +19799,6 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/gh/pizcat/static@master/goods_ad.js
 ||jsdelivr.net/gh/sex169hub/
 ||jsdelivr.net/gh/supfree/supfree/top.gif
-||jsdelivr.net/gh/te89899/
 ||jsdelivr.net/gh/vip888vip/*960x80
 ||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
@@ -20138,7 +20118,6 @@ zzzyk.com###Tinfo
 ||kmihknj.cn^
 ||kminker.xyz^
 ||kmjndas.com^
-||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmn1sk.com^
 ||kmnhbr.xyz^
 ||kmnhgna.com^
@@ -20234,7 +20213,6 @@ zzzyk.com###Tinfo
 ||kuaihou.com/c/shuoming.js
 ||kuaihou.com/c/you1.js
 ||kuaihou.com/js/new/xiazai
-||kuaileco.com/weishou/
 ||kuaishouba.com/themes/default/images/*.gif
 ||kuaizitech.com^$3p
 ||kuanxin.top^
@@ -21200,7 +21178,6 @@ zzzyk.com###Tinfo
 ||mjursnb.com^
 ||mjvb60t4g.com^
 ||mk0d5qbdj.com^
-||mkd88.cc/16.32.jpg
 ||mkff.cn^
 ||mkfjbitxzlhijfcenxej.top^
 ||mkguynd.com^
@@ -23172,7 +23149,6 @@ zzzyk.com###Tinfo
 ||richshredinger.com^
 ||ridfvncgizfjlq.com^
 ||rifyeldz.top^
-||rigengjihua.cn/banner/
 ||right.com.cn/forum/data/attachment/common/template/boardimg_20260602yahb3wsd.
 ||right.com.cn/forum/static/image/common/logo
 ||right.com.cn/forum/static/image/common/logo*.gif
@@ -24043,7 +24019,6 @@ zzzyk.com###Tinfo
 ||sub.powerapple.com^
 ||subhd.com/images/ap/
 ||subtraction59.com^
-||sucloud.xyz/js/tou.js
 ||sudugu.com/config/tj.js
 ||sudugu.com/config/v7.js
 ||sudupan.com^*.gif
@@ -24621,7 +24596,6 @@ zzzyk.com###Tinfo
 ||ttkxny.com^
 ||ttly888.com^
 ||ttnjhlhys.icu^
-||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||ttvosc.com^
 ||ttykabh.icu^
 ||ttzerqriro.com^
@@ -26626,7 +26600,6 @@ zzzyk.com###Tinfo
 ||yiren34.com/js/
 ||yirendajiankang.com^
 ||yitongfang.com^$3p
-||yitongkan.com/splash.xml$redirect=noop.js,domain=yitongkan.com,script
 ||yitongwl.cn^
 ||yiunpfniv.com^
 ||yiw2iei.icu^
