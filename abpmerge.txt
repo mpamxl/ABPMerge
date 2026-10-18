@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-17 18:02:16
-! Total count: 26457
+! Version: 2026-10-18 12:16:59
+! Total count: 26464
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1342,7 +1342,7 @@ $popup,3p,domain=76fengyun.com|avsdown.com|downdv.com|downdvs.com|downhhh.com|im
 $script,3p,denyallow=bsgslb.com|bytecdntp.com,domain=m.shuhaige.net
 $script,3p,denyallow=cdn.yinghuazy.xyz|rsc.cdn77.org|linkvertise.com|fastly.net|statically.io|sharecast.ws|b-cdn.net|bunnycdn.ru|bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|cdn.staticfile.org|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fastlylb.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yastatic.net|ytimg.com|zencdn.net|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com|fastcomments.com|plyr.io|cloudflare.net|rabbitstream.net|x.com,_,domain=mxdm.xyz
 $script,3p,denyallow=unpkg.zhihu.com,domain=52niuyan.cc
-$script,3p,domain=52movieba.com|audio699.com|duboku.info|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc|xiaoyakankan.com|xunleisou.info|xunleisou.life
+$script,3p,domain=52movieba.com|audio699.com|duboku.info|kan-tv.com|m.supfree.net|mvffm.net|xiaoheimi.cc|xiaoyakankan.com|xunleisou.forum|xunleisou.info|xunleisou.life
 $script,3p,domain=cilimao.co|cilimao.one
 $script,3p,domain=colamanga.com
 $script,3p,domain=torkitty.com|torkitty.net|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.one|torrentkitty.tv|torrkitty.com
@@ -11540,6 +11540,7 @@ zzzyk.com###Tinfo
 ||09jsufg.com^
 ||0a66kw9r8.com^
 ||0aokpbwui.com^
+||0av9w1ubbh.com^
 ||0b6rvr210q.com^
 ||0bb8jytek.com^
 ||0bhl1k9hi.com^
@@ -12381,6 +12382,7 @@ zzzyk.com###Tinfo
 ||4kngwxegq5.com^
 ||4kwu.cc/static/js/tj.js
 ||4l5bbkug99.com^
+||4lqs5j3ckn.com^
 ||4mvkxs0o0.com^
 ||4mwe9ki9r.com^
 ||4nc4qc1fo.com^
@@ -13705,6 +13707,7 @@ zzzyk.com###Tinfo
 ||aiqu321.com/da/*.js
 ||airline49.top^
 ||airport89.com^
+||airsick32.com^
 ||aisnj.cn^
 ||aispyd.icu^
 ||aitaotu.com/style/js/aitaotu
@@ -15786,6 +15789,7 @@ zzzyk.com###Tinfo
 ||dbzolzzy7s.com^
 ||dc5koxhfh.com^
 ||dceuhnpc57.shop^
+||dcfxk68sp2.com^
 ||dciep.xyz^
 ||dcpgdj.icu^
 ||dcqe7gez5.com^
@@ -16961,6 +16965,7 @@ zzzyk.com###Tinfo
 ||frustum77.top^
 ||frzlftr9y.com^
 ||fsclzs.com/Ad_User/
+||fsfptzxqdvvnze.com^
 ||fsgsfaf6.com^
 ||fsjjrbz.cn^
 ||fsmhub.icu^
@@ -18997,6 +19002,7 @@ zzzyk.com###Tinfo
 ||jljftl.xyz^
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
+||jlulrz094u.com^
 ||jm3uvitq0.com^
 ||jmbbs.cn/sjgg/
 ||jmbluyxkl.xyz^
@@ -26109,6 +26115,7 @@ zzzyk.com###Tinfo
 ||zewfbw.buzz^
 ||zewfbw.xyz^
 ||zexfzson.icu^
+||zexudnxmjadlzg.com^
 ||zf56jef1dd.com^
 ||zfc2ul88s.top^
 ||zfcdirf.icu^
