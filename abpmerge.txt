@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-19 15:07:21
-! Total count: 26488
+! Version: 2026-10-19 20:47:29
+! Total count: 26463
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -400,7 +400,6 @@
 ##.content-video > .ads-player
 ##.content_ad_300
 ##.corner-gg
-##.couplet_9cb0d
 ##.coupletad
 ##.cpcad
 ##.ctm_ad
@@ -590,8 +589,6 @@
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
 ##.popup-banner-ad
-##.postmessage > #googleFirst
-##.postmessage > #googleSecond
 ##.privilege-promote
 ##.pro-molnk
 ##.pro1-molnk
@@ -1711,7 +1708,6 @@ $websocket,domain=wap.yushuwu.cloud
 /Runtime/Js/m_tuijian_
 /Runtime/Js/m_v_tuijian_
 /Runtime/Js/pc_top.js
-/Runtime/js/banner_
 /Runtime/js/fumeiti.
 /Runtime/js/mad.js
 /Runtime/js/play960.js
@@ -2326,7 +2322,6 @@ $websocket,domain=wap.yushuwu.cloud
 /vh2/*$third-party
 /vhyoydie_*_*.js$third-party
 /view/image/ngps1.gif
-/vipgg/*
 /vj1/*$third-party
 /vj2/*$third-party
 /vj3/*$third-party
@@ -3390,7 +3385,6 @@ $websocket,domain=wap.yushuwu.cloud
 :81/s/i.php?id=$script
 :818/nowscore/
 :8686/8888/*.gif$3p,image
-:88/999pc/
 :88/lighttpd/default/
 :8891/v*$third-party
 :8898/ads_
@@ -5752,8 +5746,8 @@ cocomanga.com##+js(no-setTimeout-if, loadErrorTip)
 cocomanga.com,ohmanhua.com,onemanhua.com##+js(no-setTimeout-if, checkSiteNormalLoad)
 cocomanga.com,ohmanhua.com,onemanhua.com##+js(set-constant, NativeAd, noopFunc)
 cocomanga.com,ohmanhua.com,onemanhua.com##+js(set-constant, __jsadsuccess, true)
+codeceo.com##.widget_text:first-child
 codeceo.com##div[style="width:970px;margin:0 auto"]
-codeceo.com,fuli8.net##.widget_text:first-child
 codeforge.cn##.webnotice-right
 codejie.net##.gg_banner
 codejie.net##.h--banner
@@ -6811,8 +6805,6 @@ ganji.com###recommend_storeg_div
 ganji.com##.house-ads-img
 ganji.com##div[class*="-recommend"]
 ganji.com##div[id^="GcnADId"]
-ganpapa.com###wrapper + div
-ganpapa.com##div[class*="_9cb0d"]
 gansudaily.com.cn##.itemFloat
 gaokao.com###J_fixed_popbox
 gaokao.com###ad_top_gkw
@@ -11511,7 +11503,6 @@ zzzyk.com###Tinfo
 ||042.cn/adver/
 ||0439.com/javascript.php?part=advertisement&
 ||049bv1hdzn.com^
-||04cmm.com:8888/js
 ||04stream.tv/sda/
 ||0512s.com^$3p
 ||051ss3usg.com^
@@ -12021,7 +12012,6 @@ zzzyk.com###Tinfo
 ||23qb.com/skin/xiu.js
 ||23sc.cn/andy/
 ||2431.vainews.cn^
-||24cmm.com:8888/js
 ||24jp8wjmho.com^
 ||24klm.cn^
 ||24klm.net^
@@ -12540,7 +12530,6 @@ zzzyk.com###Tinfo
 ||56img.com^*/search-engine-promotion.js
 ||56l9o1j3lk.com^
 ||56pxywt379.com^
-||56rmm.com:8888/js
 ||56wj96l0x.com^
 ||56xiaoshuo.net/mm.
 ||56yk.com^
@@ -12841,7 +12830,6 @@ zzzyk.com###Tinfo
 ||76fengyun.com/jsa/
 ||76fengyun.com/vip.php$popup
 ||76qrln0bb.com^
-||76wmm.com:8888/js
 ||7701zxcv.com^
 ||776.jstatic.xyz^
 ||777aa999aa.com^
@@ -13755,7 +13743,6 @@ zzzyk.com###Tinfo
 ||ajvznxaox.com^
 ||ajzsa.xyz^
 ||ak7ko01zs.com^
-||akabebe.com/jgg/*.gif
 ||akcnkancklankl.com^
 ||akcuqkr.com^
 ||akdie.xyz^
@@ -13963,7 +13950,6 @@ zzzyk.com###Tinfo
 ||api.xyhx.cc^
 ||api.xyhx.org^
 ||apic.91bixin.net/api/thirdadv/
-||apic.in/mmd.gif
 ||apiimg.com/haishui/
 ||apiimg.com/huaer/xiahe.
 ||apis.pchome.com.tw/js/idlead.js
@@ -14975,8 +14961,6 @@ zzzyk.com###Tinfo
 ||canser9.top^
 ||canton8.com/adphoto/
 ||cao-gao.xyz^
-||cao0001.com/vip/js/
-||cao0002.com/vip/js/
 ||caoads.com/images/
 ||caoav.net/img/*.js
 ||caoimgs.com/images/*.gif
@@ -15031,7 +15015,6 @@ zzzyk.com###Tinfo
 ||ccement.com/js/ccement_new/open.js
 ||cchvc.net^
 ||ccjyphp.forum^
-||cckke.com/fanhao/v/ad
 ||ccmeng.com^$3p
 ||ccnim.xyz^
 ||ccpvq7fgy.com^
@@ -15337,7 +15320,6 @@ zzzyk.com###Tinfo
 ||clouddn.com/960x60.gif
 ||cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
 ||cloudflare.st^
-||cloudfront-666.kxcdn.com/v4.js
 ||cloudfront.net/yongli04/
 ||clugqa.com^
 ||clw99.mobi^
@@ -16602,7 +16584,6 @@ zzzyk.com###Tinfo
 ||estuary98.top^
 ||esudrp.cn^
 ||et3lc8yoe.com^
-||etadult.com*/images/20
 ||etahub.com^
 ||etest8.com/js/158/infojs/
 ||etf88.com/jjb/*_ad$script
@@ -17157,8 +17138,6 @@ zzzyk.com###Tinfo
 ||gaoyuhu.top^
 ||gardenia25.com^
 ||gasaq.com/public/flash/
-||gavbus*.com/assets/common/js/ad.js
-||gavbus*.com/assets/common/js/admenu.js
 ||gb0143odqh.com^
 ||gb3scpejq.com^
 ||gb742ld0c.com^
@@ -19372,9 +19351,7 @@ zzzyk.com###Tinfo
 ||kdqnaec.cn^
 ||kduwvaq3dt.com^
 ||kdvmnn.com^
-||kdw*.com/layer/layer.js
 ||kebi1.top^
-||kedou*.com/layer/layer.js
 ||kefeng56.com^$3p
 ||kegll5mwl2.com^
 ||kehbcv.top^
@@ -21182,6 +21159,7 @@ zzzyk.com###Tinfo
 ||oinlkwr.xyz^
 ||oiqbdwjkl.com^
 ||oiqwnfk.com^
+||oit9wnhrp.com^
 ||oiu132jhz.com^
 ||oiunga.com^
 ||oiuqwppcsdf.com^
@@ -23780,7 +23758,6 @@ zzzyk.com###Tinfo
 ||tt1069.com/t0602.js
 ||tt123.eastday.com^
 ||tt144jrfu.com^
-||ttavav6.com/zz/
 ||tthelitnfv.com^
 ||ttienli.top^
 ||ttimhethzm.com^
@@ -25201,7 +25178,6 @@ zzzyk.com###Tinfo
 ||xianzhice.com^
 ||xiaobaipan.com/tb.html
 ||xiaobao8888.com^
-||xiaobi*.com/layer/layer.js
 ||xiaodongrui.com^
 ||xiaodutv.com/xda?
 ||xiaofangtongzhi.xyz^
@@ -25312,7 +25288,6 @@ zzzyk.com###Tinfo
 ||xkbinj.xyz^
 ||xkblzuz.com^
 ||xkcxh.com^
-||xkd*.com/layer/layer.js
 ||xkmwxwy.cn^
 ||xkqit.com^
 ||xktoy8fub.com^
