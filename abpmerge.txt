@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-20 19:44:31
-! Total count: 26475
+! Version: 2026-10-21 13:18:49
+! Total count: 26481
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -12162,6 +12162,7 @@ zzzyk.com###Tinfo
 ||33o5sjd1ao.com^
 ||33shu.net/js/game
 ||3400.org^
+||34148m9pq.com^
 ||34dcvgw197.com^
 ||34iq.com/index
 ||34twscl0hl.com^
@@ -12573,6 +12574,7 @@ zzzyk.com###Tinfo
 ||5bkhq0lwmq.com^
 ||5bpajgg436.com^
 ||5bybyqjzl.com^
+||5cmog8sd8.com^
 ||5cyi6tp6h.com^
 ||5cyqzktkwh.com^
 ||5dfiuae82.com^
@@ -14283,6 +14285,7 @@ zzzyk.com###Tinfo
 ||baj.fanwenzhan.com^
 ||bajielm.com^
 ||bakrathtfa.com^
+||balcnzwmsjrbjs.com^
 ||ballast85.top^
 ||ballive.*/addm/
 ||balmoralmkt.com^$3p
@@ -16450,6 +16453,7 @@ zzzyk.com###Tinfo
 ||eglnktnqnz.com^
 ||egrent.cn^
 ||egsxdp.cn^
+||eguswp0mj.com^
 ||egvhd2ggc1.com^
 ||egvnfpnb31.com^
 ||ehcecws.com^
@@ -18764,6 +18768,7 @@ zzzyk.com###Tinfo
 ||iytrn.xyz^
 ||iyuedu.cn.com^
 ||iyxdm.*/js/gad_
+||iyyfj0g7m.com^
 ||izkgl35mq.com^
 ||izrtyacymo.com^
 ||iztwp.com/images/
@@ -23217,6 +23222,7 @@ zzzyk.com###Tinfo
 ||sub.powerapple.com^
 ||subhd.com/images/ap/
 ||subtraction59.com^
+||subtrahend70.com^
 ||sudugu.com/config/tj.js
 ||sudugu.com/config/v7.js
 ||sudupan.com^*.gif
