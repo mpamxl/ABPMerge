@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-23 12:57:18
-! Total count: 26508
+! Version: 2026-10-23 19:38:10
+! Total count: 26512
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -2771,6 +2771,8 @@ $websocket,domain=wap.yushuwu.cloud
 2chcn.com##img[width="300"]
 2cycomic.com##body > a
 2cycomic.com##body > div > center
+2dfan.com##.nexus-ad-corner
+2dfan.com##.sidebar-section--ad
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
@@ -11870,6 +11872,7 @@ zzzyk.com###Tinfo
 ||1990tu.com^$3p
 ||1999019.com^
 ||19dkfu1wg.com^
+||1a7pxa2r7.com^
 ||1aa0yygqst.com^
 ||1adi9wenq.com^
 ||1biqug.com/js/ajax.js
@@ -21850,6 +21853,7 @@ zzzyk.com###Tinfo
 ||pvtd.cn^
 ||pvtest.zol.com.cn^
 ||pvymlsvo.xyz^
+||pwdh28pof.com^
 ||pwk73hidf2.com^
 ||pwvlthpqzonnfe.com^
 ||pwzrfznosfblpi.com^

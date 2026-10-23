@@ -1715,6 +1715,8 @@
 2chcn.com##img[width="300"]
 2cycomic.com##body > a
 2cycomic.com##body > div > center
+2dfan.com##.nexus-ad-corner
+2dfan.com##.sidebar-section--ad
 2dfan.com,galge.fun###popadv-container
 2dfan.com,galge.fun##.collapse > a[href*=".taobao.com"]
 2dfan.com,galge.fun##.leftside-bg
