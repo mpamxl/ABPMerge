@@ -2633,6 +2633,7 @@ baidu.com##.content-adv
 baidu.com##.corneradv
 baidu.com##.cos-rich-video-player-video
 baidu.com##.cpc-adv-container
+baidu.com##.detail-banner-new
 baidu.com##.drag-wrap
 baidu.com##.ec-ad
 baidu.com##.ec-ads-container
