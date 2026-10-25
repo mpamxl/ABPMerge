@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-24 18:26:52
-! Total count: 26525
+! Version: 2026-10-25 12:51:01
+! Total count: 26534
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -12663,6 +12663,7 @@ zzzyk.com###Tinfo
 ||5vszw5ab2.com^
 ||5vuk.xyz^
 ||5w31xv1a2.com^
+||5wczjm7h4.com^
 ||5wkni37mso.com^
 ||5wl8x.xyz^
 ||5wt390pvwz.com^
@@ -16254,6 +16255,7 @@ zzzyk.com###Tinfo
 ||dv.amtwcvh.cn^
 ||dv.taolingjing.com^
 ||dv4ku.icu^
+||dv4o54c8p.com^
 ||dvbnmikxh.xyz^
 ||dvenkbn.icu^
 ||dvjxk947e.com^
@@ -17076,6 +17078,7 @@ zzzyk.com###Tinfo
 ||fz55vq.site^
 ||fz94px.site^
 ||fzavvanz.com^
+||fzbaqs9f1.com^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzczw7.site^
 ||fzd3.com/gg/
@@ -17673,6 +17676,7 @@ zzzyk.com###Tinfo
 ||gzfzcj.cn^
 ||gzhkarwp9n.com^
 ||gzldas.icu^
+||gzq7cji8e.com^
 ||gzqvd.cn^
 ||gzsjym.xyz^
 ||gzsy12348.com^
@@ -18974,6 +18978,7 @@ zzzyk.com###Tinfo
 ||jieshengit.com/1*.js
 ||jieshengit.com/js/*_
 ||jieshengit.com/js/jhhe.
+||jieshengsz.com^
 ||jieshimaya.xyz^
 ||jiezoiq.cn^
 ||jifyelda.top^
@@ -19290,6 +19295,7 @@ zzzyk.com###Tinfo
 ||jzdwl4.cn^
 ||jzixypd.icu^
 ||jzjxmj.com^
+||jzvchdrihqrrfy.com^
 ||jzxpxj.xyz^
 ||k06kldksi3.com^
 ||k08tn5uk9.com^
@@ -23815,6 +23821,7 @@ zzzyk.com###Tinfo
 ||tt1069.com/t0602.js
 ||tt123.eastday.com^
 ||tt144jrfu.com^
+||tt5omubqh.com^
 ||tthelitnfv.com^
 ||ttienli.top^
 ||ttimhethzm.com^
@@ -24549,6 +24556,7 @@ zzzyk.com###Tinfo
 ||vxotu.com/i/*.gif
 ||vxydbok.com^
 ||vyczp.cn^
+||vyq5segjv.com^
 ||vyreat.icu^
 ||vysr4o0eg.com^
 ||vytf0mqa0.com^
@@ -24753,6 +24761,7 @@ zzzyk.com###Tinfo
 ||wheelbarrow64.com^
 ||whfpbc.99.com.cn^
 ||whichav.*/qq/qq.js
+||whistle88.com^
 ||whitening76.top^
 ||whkhct2lnf.com^
 ||whlwcahw1x.com^
