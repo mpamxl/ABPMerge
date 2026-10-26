@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-25 18:37:11
-! Total count: 26538
+! Version: 2026-10-26 14:40:28
+! Total count: 26546
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -12279,6 +12279,7 @@ zzzyk.com###Tinfo
 ||3is34bpqs4.com^
 ||3iulae112b.com^
 ||3j4vjpx7k.com^
+||3jkb97w0tp.com^
 ||3k2frl8r79.com^
 ||3k8.com/d/js/m/thea
 ||3kans.*/biquge_m/js/tools.js
@@ -18112,6 +18113,7 @@ zzzyk.com###Tinfo
 ||household35.top^
 ||houstonbbs.com/data/ad/
 ||houyi.baofeng.net^*.html
+||hpbxrvnentfrre.com^
 ||hpcwwd.com^
 ||hpd.baidu.com^
 ||hpflxxdwnbvpda.com^
@@ -19739,6 +19741,7 @@ zzzyk.com###Tinfo
 ||lcxw.cn/i/*dl.js
 ||lczk.cn^$3p
 ||ld0766.com/*20*a/
+||ld1qwww3kj.com^
 ||ldb.cc/js/top.js
 ||lddvxfmswnnxny.com^
 ||ldjhlqr.cn^
@@ -21146,6 +21149,7 @@ zzzyk.com###Tinfo
 ||o2o.api.xiaomi.com^
 ||o2x4h2txrc.com^
 ||o40d17vln.com^
+||o522zsxbgf.com^
 ||o5y2zd1lq8.com^
 ||o6oxvugdl.com^
 ||o8agbq0qwm.com^
@@ -22781,6 +22785,7 @@ zzzyk.com###Tinfo
 ||sealine.youku.com^
 ||seaquake54.com^
 ||secondly74.com^
+||secretaire97.com^
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,domain=line.me
 ||securitymobile.club^
 ||seductive37.top^
@@ -23156,6 +23161,7 @@ zzzyk.com###Tinfo
 ||ssdtour.com^
 ||ssgg.chazidian.com^
 ||ssh.q4hwkg.cn^
+||ssi1gqcx0m.com^
 ||ssjiancai.com^
 ||ssjuxsc.cn^
 ||ssjy.shop^
@@ -24152,6 +24158,7 @@ zzzyk.com###Tinfo
 ||unpkg.com/sejie
 ||unpkg.com^$badfilter
 ||unpleasantconcrete.com^
+||unqm8c9dfk.com^
 ||unqvaof.xyz^
 ||untitled.dwstatic.com^
 ||unypud.cn^
@@ -24494,6 +24501,7 @@ zzzyk.com###Tinfo
 ||vpxyw6rbv3.com^
 ||vpy105341.com^
 ||vqbmxyzda.icu^
+||vqnvib2h7e.com^
 ||vreephay.com^
 ||vrlvnz.xyz^
 ||vrovadwd.com^
