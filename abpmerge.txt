@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-26 20:48:03
-! Total count: 26549
+! Version: 2026-10-27 13:45:48
+! Total count: 26566
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -2183,6 +2183,8 @@ $websocket,domain=wap.yushuwu.cloud
 /pjk/xjk/*.php
 /plugin.php?id=popad_7ree&
 /portalwlanad/pages/*$popup
+/poster/zj-gd.js
+/poster/zj-mhz-ding.js
 /promo/right_float_poster/image^$domain=litv.tv
 /proxy.htm?id=
 /proxy.html?id=
@@ -9368,7 +9370,9 @@ pconline.com.cn##.pop-huodong
 pconline.com.cn##.rela-best
 pconline.com.cn##.website_recommend_banner
 pconline.com.cn##a[href^="http://ivy.pconline."]
+pcsoft.com.cn###qrcode-mask-popup
 pcsoft.com.cn##.gsxzdl
+pcsoft.com.cn##.m-gg4
 pcsoft.com.cn##.shang11-top
 pcsoft.com.cn##.shuang11
 pcsoft.com.cn##.xzdz_huodong
@@ -9458,6 +9462,7 @@ pjtime.com###Couplet_r_big
 pjtime.com###Couplet_r_small
 pjtime.com###pjtime_full
 pjtime.com##.top_R
+play.google.com#@#a[href^="intent://"]
 playallvideos.com,pron.co##.rmedia
 playav.cc###overlay
 playav.cc##+js(abort-current-script, document.getElementById, adBlockDetected)
@@ -12303,6 +12308,7 @@ zzzyk.com###Tinfo
 ||3rs337ci4.com^
 ||3rsppty.cn^
 ||3s7m2ss7g.com^
+||3sbbnyzps.com^
 ||3sd6w6oga9.com^
 ||3sqvexc60y.com^
 ||3t4j5adg9x.com^
@@ -16885,6 +16891,7 @@ zzzyk.com###Tinfo
 ||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||fish882.xyz^
 ||fitchpmsa.com^
+||fitment47.com^
 ||fittomniku.com^
 ||fiwyjar.cn^
 ||fizmvbysarrvva.com^
@@ -17008,6 +17015,7 @@ zzzyk.com###Tinfo
 ||fsnpbh.xyz^
 ||fstats.xyz^
 ||fsuooh.cc^
+||fsxpdfugtwrzde.com^
 ||fsxqfjkg.com^
 ||fszpzd.xyz^
 ||ft.com/a.html
@@ -18304,6 +18312,7 @@ zzzyk.com###Tinfo
 ||i.flive.ifeng.com/baidu_*.html?parentId=frondAd_
 ||i.imgur.com^$domain=av.movie
 ||i06s7yrhn1.com^
+||i0gh0cpwb.com^
 ||i100.cao-gao.xyz/aimgs/
 ||i12het785.com^
 ||i14laze0.xyz^
@@ -19801,6 +19810,7 @@ zzzyk.com###Tinfo
 ||lgaekait.com^
 ||lganilgll.cyou^
 ||lgecqrb.com^
+||lgfktruknrjbxc.com^
 ||lgjygg.com^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -21150,6 +21160,7 @@ zzzyk.com###Tinfo
 ||o28wg9kq8i.com^
 ||o2o.api.xiaomi.com^
 ||o2x4h2txrc.com^
+||o35jufwu6.com^
 ||o40d17vln.com^
 ||o522zsxbgf.com^
 ||o5y2zd1lq8.com^
@@ -21421,6 +21432,7 @@ zzzyk.com###Tinfo
 ||p52q.cn^
 ||p5doaulee2.com^
 ||p5jrngqnp.com^
+||p5regbg09.com^
 ||p5si0mu8u7.com^
 ||p66jed4iv.com^
 ||p6q6qpze3f.com^
@@ -22599,6 +22611,7 @@ zzzyk.com###Tinfo
 ||rwtraqur.com^
 ||rwtzv9ehv.com^
 ||rx1iwebx2.com^
+||rx7pi9v1x.com^
 ||rxglmys.icu^
 ||rxi8jcy0aq.com^
 ||rxlidz.ink^
@@ -22765,6 +22778,7 @@ zzzyk.com###Tinfo
 ||sdfyiu.com^
 ||sdhjueue.com^
 ||sdhuawen.cn^
+||sdk.51.la^
 ||sdk.beizi.biz^
 ||sdk.e.qq.com^
 ||sdk.sipujia.cn^
@@ -23415,6 +23429,7 @@ zzzyk.com###Tinfo
 ||t7x22m7c.com^
 ||t7ywa5ai3.com^
 ||t8yctltd8s.com^
+||t9j3lrvrv.com^
 ||t9x2gu6it3.com^
 ||ta20k.xyz^
 ||ta7088hrd.com^
@@ -23871,6 +23886,7 @@ zzzyk.com###Tinfo
 ||tuwan.com/events/courseiframe?
 ||tuwan.com/myad/
 ||tuwaqtjcood.com^
+||tuxcpf6pq.com^
 ||tuyyex.icu^
 ||tv2box.com/img_1g/
 ||tv699.com/AllTemplet/js/
@@ -24463,6 +24479,7 @@ zzzyk.com###Tinfo
 ||vlrvrntcxjljnu.com^
 ||vlujojf.icu^
 ||vlxmfvvknsxldw.com^
+||vm1mmq2h1.com^
 ||vm5xs8nvqh.com^
 ||vmbzhfh.cn^
 ||vmdlxj.xyz^
