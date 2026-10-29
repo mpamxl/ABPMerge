@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-28 20:40:45
-! Total count: 26586
+! Version: 2026-10-29 14:46:33
+! Total count: 26593
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1139,9 +1139,6 @@
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 ##a[target="_blank"] > img.king
 ##a[target="_blank"] > img[src*=".ikstatic.cn"][style="width:100%;height:100%"]
-##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
-##body > #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
-##body > #__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
 ##body > #__nuxt:first-child > div > .container > .top-menu + div[class]
 ##body > #__nuxt:first-child > div > .container > div[class^="pg-"] > div[style*="important"]
 ##body > #__nuxt:first-child > div > .footer > .floatWindow + div[data-tag]
@@ -1167,6 +1164,9 @@
 ##body > div[style=" max-width:990px; margin:0 auto;"] > a[target="_blank"]
 ##body > div[style="display:none;"] + div[style="display:none;"] + div[id][class][style^="background-color:"]
 ##body > embed[id][src*="://"][src$="="]
+##body > meta[name="robots"] + script + #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class]
+##body > meta[name="robots"] + script + #__nuxt + #teleports ~ div[class] > span[aria-hidden="true"] + div[class] + div[class]
+##body > meta[name="robots"] + script + #__nuxt > div > .container > div[class^="menu-"] + div + div[class^="pg-v-sec-"][style*="important"]
 ##body > noscript + #root > div > div > .grid + div[role] + div
 ##body > noscript + #root > div > div > .grid + div[role] + div + div[class]
 ##body > noscript + #root > div > div > .grid > .m0auto > div > div:last-child
@@ -2977,7 +2977,6 @@ $websocket,domain=wap.yushuwu.cloud
 4gamers.com.tw##video[src^="https://img.4gamers.com.tw/ads-media/"]
 4gtv.tv##+js(prevent-fetch, pagead2.googlesyndication.com)
 4hu.tv##.couplet-left
-4hu.tv##.kkm-content
 4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
 4spaces.org,fuliba.net,fuliba2023.net,fuliba2025.net,laozuo.org,ypojie.com##.widget_ui_orbui
 500.com###live_top_ad
@@ -11895,6 +11894,7 @@ zzzyk.com###Tinfo
 ||1biqug.com/js/ajax.js
 ||1bsb5sic0.com^
 ||1buu1.penyouw.com^
+||1chtx8re2.com^
 ||1cimslrk3.com^
 ||1dfsdfg.com^
 ||1dgfd.cc^
@@ -12416,6 +12416,7 @@ zzzyk.com###Tinfo
 ||4kfv18.cn^
 ||4kngwxegq5.com^
 ||4kwu.cc/static/js/tj.js
+||4l0h5xxoc.com^
 ||4l5bbkug99.com^
 ||4lqs5j3ckn.com^
 ||4mvkxs0o0.com^
@@ -12705,6 +12706,7 @@ zzzyk.com###Tinfo
 ||605abezk8.com^
 ||6080aa.com/template/*/images/g_js/
 ||609999.xyz^
+||60cxjeiyq.com^
 ||61.10.2.86/dev/xopen.php
 ||61fjluqray.com^
 ||61hhdp.com^
@@ -12759,6 +12761,7 @@ zzzyk.com###Tinfo
 ||69shuba.cx^*/shu.js
 ||69shuba.tw/js/gg.js
 ||69shux.com/js/otherad.
+||6a4oabslx.com^
 ||6acupxubky.com^
 ||6aontlsdf.com^
 ||6aoodbdx94.com^
@@ -14707,6 +14710,7 @@ zzzyk.com###Tinfo
 ||books-analytics-events.apple.com^
 ||books.com.tw/exep/ap/$3p
 ||books.com.tw/web/apActivityStick?
+||bookshelf07.com^
 ||booktxt.net/js/easyAD
 ||booktxt.net/js/mangoIndexBanner.js
 ||bootcdn.net/ajax/libs/jquery-cookie/*/jquery.cookie.$domain=zaixianjisuan.com
@@ -18782,6 +18786,7 @@ zzzyk.com###Tinfo
 ||itiexue.net/domain-policy/
 ||itiexue.net/wap/tiexue/js/chuping/nativeshare
 ||itjsb.com/itjsbwx.jpg
+||itkdb58mo.com^
 ||itm1yqknq.com^
 ||itmsc.cn^*ad0
 ||itongcheng.cc/amm/
@@ -19081,6 +19086,7 @@ zzzyk.com###Tinfo
 ||jljftl.xyz^
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
+||jlpfbhmefcthbk.com^
 ||jlulrz094u.com^
 ||jm3uvitq0.com^
 ||jmbbs.cn/sjgg/
@@ -20902,6 +20908,7 @@ zzzyk.com###Tinfo
 ||ndbgngx6m.com^
 ||ndd3wvq0cw.com^
 ||ndfsl.com^
+||ndhfz9zw2.com^
 ||ndpfxnu.com^
 ||ndqcz0e.xyz^
 ||necessitate22.com^
