@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-29 14:46:33
-! Total count: 26593
+! Version: 2026-10-29 20:44:20
+! Total count: 26595
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1349,6 +1349,7 @@ $script,3p,domain=torkitty.com|torkitty.net|torrentkitty.app|torrentkitty.asia|t
 $script,3p,websocket,domain=52codes.net
 $script,subdocument,3p,domain=dlkoo.com
 $script,subdocument,3p,websocket,xhr,domain=bhshu.net|louzhong8.com|miwens.com
+$script,xhr,3p,domain=freeokk.pro
 $websocket,domain=wap.yushuwu.cloud
 &xhtml?$script,3p
 *$3p,domain=440012.xyz
@@ -25934,6 +25935,7 @@ zzzyk.com###Tinfo
 ||ysxs8.vip/js/play_db.js
 ||ysxs8.vip/ysgg/
 ||yszpegh.xyz^
+||yszzq.com/Style/js/date.
 ||yt-adp.nosdn.127.net^
 ||yt-adp.ws.126.net^
 ||yt800h.com^
