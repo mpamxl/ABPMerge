@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-29 20:44:20
-! Total count: 26595
+! Version: 2026-10-30 14:41:24
+! Total count: 26603
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -11609,6 +11609,7 @@ zzzyk.com###Tinfo
 ||0p7w.cn^
 ||0qry58i9es.com^
 ||0qxfxqif0.com^
+||0r5e0xvwes.com^
 ||0s1wclct6.com^
 ||0s5qb3rfz.com^
 ||0sxs.com/js/all.
@@ -11936,6 +11937,7 @@ zzzyk.com###Tinfo
 ||1nevsf92q.com^
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
+||1nvxl968le.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
@@ -12789,6 +12791,7 @@ zzzyk.com###Tinfo
 ||6ign0q6xb1.com^
 ||6iiz8ni96v.com^
 ||6iwoif.com^
+||6iwulft12t.com^
 ||6iyq4atled.com^
 ||6j7ywcn8sx.com^
 ||6jei0t6xp.com^
@@ -14355,6 +14358,7 @@ zzzyk.com###Tinfo
 ||barqmajk.com^
 ||barrister85.top^
 ||barscreative1.com^
+||barstool59.com^
 ||bas.boshi.tv^
 ||basically97.top^
 ||bauddoih.com^
@@ -18117,6 +18121,7 @@ zzzyk.com###Tinfo
 ||holor0701.cn^
 ||holor0804.cn^
 ||holor857.cn^
+||holxlriacffphq.com^
 ||hongfachn.com^
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongmao39.top^
@@ -19375,6 +19380,7 @@ zzzyk.com###Tinfo
 ||k9w4m.xyz^
 ||k9x1d1uuj0.com^
 ||k9zxbudgix.com^
+||ka9gcc8ifd.com^
 ||kab201k0xs.com^
 ||kaboodle49.com^
 ||kacq.cn^
@@ -22243,6 +22249,7 @@ zzzyk.com###Tinfo
 ||qtozietgp.com^
 ||qtqv3cy43w.com^
 ||qttroiey.com^
+||qty00vcqh8.com^
 ||quanxiaozi.com^
 ||quarterdeck96.top^
 ||qubdjkqwl.com^
@@ -25934,6 +25941,7 @@ zzzyk.com###Tinfo
 ||ysxs8.vip/js/bd_top.js
 ||ysxs8.vip/js/play_db.js
 ||ysxs8.vip/ysgg/
+||ysy5uobifs.com^
 ||yszpegh.xyz^
 ||yszzq.com/Style/js/date.
 ||yt-adp.nosdn.127.net^
