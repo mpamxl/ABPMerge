@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-10-30 20:15:39
-! Total count: 26609
+! Version: 2026-10-31 14:02:10
+! Total count: 26631
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1790,6 +1790,7 @@ $websocket,domain=wap.yushuwu.cloud
 /api/ad/*
 /api/autosda.php
 /api/getPos?jspath=/videos/view//*
+/api/v1/ad/*$xhr,domain=31w3.cn
 /app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 /app/get*?t=*http$third-party
 /app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
@@ -2785,6 +2786,17 @@ $websocket,domain=wap.yushuwu.cloud
 2urs.com##+js(abort-on-property-read, ads)
 2yjw.com##.widget-tops
 2yjw.com,fuliba2021.net,itdog.cn,zhujiceping.com##.orbui
+31w3.cn##.ad-cover
+31w3.cn##.adBeforeVideo
+31w3.cn##.adSwipebox
+31w3.cn##.adSwipebox2
+31w3.cn##.gridContent
+31w3.cn##.install-home-dialog
+31w3.cn##.pauseAd
+31w3.cn##.sticky-banner-wrap
+31w3.cn##.van-overlay
+31w3.cn##.van-popup
+31w3.cn##.van-tag
 324324.cn###gg_468_60
 324324.cn###gg_728_90
 324324.cn##.gg_sidebar
@@ -12427,6 +12439,7 @@ zzzyk.com###Tinfo
 ||4l0h5xxoc.com^
 ||4l5bbkug99.com^
 ||4lqs5j3ckn.com^
+||4m0tg6axs.com^
 ||4mvkxs0o0.com^
 ||4mwe9ki9r.com^
 ||4nc4qc1fo.com^
@@ -12671,6 +12684,7 @@ zzzyk.com###Tinfo
 ||5nj.com/js/cnzz33.js
 ||5ntq14y5y.com^
 ||5p35xkp1p.com^
+||5qnyx6k5w.com^
 ||5s98.com/img/
 ||5sghirlr5b.com^
 ||5t5z6augl3.com^
@@ -15634,6 +15648,7 @@ zzzyk.com###Tinfo
 ||cu9epqwr6.com^
 ||cuioxbqi.com^
 ||cuk180l9v.com^
+||cupboard40.com^
 ||cupfox*.com/statics/js/ing.js
 ||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com/show2?
@@ -16723,6 +16738,7 @@ zzzyk.com###Tinfo
 ||eyuyao.com/yyad/
 ||eyzerannl.com^
 ||ez2q38b1ik.com^
+||ezaudueu6.com^
 ||ezcl19vy10.com^
 ||ezd6n7n4m7.com^
 ||ezlgszdb.icu^
@@ -17025,6 +17041,7 @@ zzzyk.com###Tinfo
 ||fretsaw55.top^
 ||freychang.fun^
 ||frhi5v6ez1.com^
+||frhsxjpciitptq.com^
 ||friendshipmale.com^
 ||frontendjs.com/api/ad
 ||fronttoad.com^
@@ -19847,6 +19864,7 @@ zzzyk.com###Tinfo
 ||lganilgll.cyou^
 ||lgecqrb.com^
 ||lgfktruknrjbxc.com^
+||lgh8ua4fj.com^
 ||lgjygg.com^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
@@ -20426,6 +20444,7 @@ zzzyk.com###Tinfo
 ||meander29.top^
 ||meander32.com^
 ||meaqcj.cn^
+||mebqlxk7o.com^
 ||mediav.com$third-party
 ||mediav.com^$3p,domain=~dev.360.cn|~g.360.cn
 ||medicine4.top^
@@ -22467,6 +22486,7 @@ zzzyk.com###Tinfo
 ||rgdnlzsth.icu^
 ||rgimbys.icu^
 ||rgoxcknehm.com^
+||rgt8qby8k.com^
 ||rgvqddo.com^
 ||rgzz3rs.icu^
 ||rhaol5omof.com^
@@ -24321,6 +24341,7 @@ zzzyk.com###Tinfo
 ||v.laogu.wang/template/*/images/g_js^
 ||v00yvd.xyz^
 ||v0su9ogte.com^
+||v0v9ko8q4.com^
 ||v1.19purify.com^
 ||v1.kwpewga.cn^
 ||v1.phb123.com^
@@ -25142,6 +25163,7 @@ zzzyk.com###Tinfo
 ||wxl0gfw.icu^
 ||wxx776sxqk.com^
 ||wxy9b202h.com^
+||wxylxfmqd.com^
 ||wxztfkiga.com^
 ||wy213.com^$popup,3p
 ||wy7btl038.com^
