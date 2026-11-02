@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-01 19:58:15
-! Total count: 26642
+! Version: 2026-11-02 17:33:52
+! Total count: 26654
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -10929,6 +10929,7 @@ wenku.baidu.com##div[id^="html-reader-AD-"]
 wenku.baidu.com##div[id^="html-reader-banner-"]
 wenku8.net###adv300
 wenku8.net#@##adtop
+wenshushu.cn##.cont-right .mer-item
 wenxuecity.com###adt
 wenxuecity.com###marquee
 wenxuecity.com##+js(set-constant, adsbygoogle, noopFunc)
@@ -11075,6 +11076,8 @@ www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--i
 www.zol.com.cn#@##search_ad
 wx.sina.com.cn###artibody > .article-video
 wxredian.com##+js(set-constant, checkAdScript, noopFunc)
+wxredian.com##.adblock-warning:style(display: none !important;)
+wxredian.com##body:style(overflow: auto !important;)
 wxsck.com###content > div[style^="clear:"]
 wxsck.com##.fixed-btn ~ div[style^="position:fixed; bottom:"]
 wxsck.com##.footer:style(margin-top: 0px !important;)
@@ -12024,6 +12027,7 @@ zzzyk.com###Tinfo
 ||223qu6jnqv.com^
 ||224oztn8dq.com^
 ||22eo9qlbpt.com^
+||22n5xlc6n0.com^
 ||22qcvn8hq.com^
 ||22svkcdbyp.com^
 ||22vie9ula.com^
@@ -17107,6 +17111,7 @@ zzzyk.com###Tinfo
 ||fvk6k2jrdu.com^
 ||fvxlhn.xyz^
 ||fwbdfg5n6.com^
+||fwbvjxsmvznfpu.com^
 ||fwepd.xyz^
 ||fwjtfo8f4z.com^
 ||fwlkegiqfn.icu^
@@ -20533,6 +20538,7 @@ zzzyk.com###Tinfo
 ||mgivkqk.cn^
 ||mgky6yjwq.com^
 ||mgpl5pqg29.com^
+||mgu14s8c5h.com^
 ||mgzjin.cn^$3p
 ||mh616.org^
 ||mhaqoffcj7.com^
@@ -21474,6 +21480,7 @@ zzzyk.com###Tinfo
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
 ||p0h1nfzc2.com^
+||p0m1qlvawp.com^
 ||p0pn18sxvh.com^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
@@ -22439,6 +22446,7 @@ zzzyk.com###Tinfo
 ||reflection67.top^
 ||reflector19.com^
 ||refraction55.com^
+||refrigerator16.com^
 ||register04.top^
 ||registration09.top^
 ||rehearsal55.top^
@@ -22901,6 +22909,7 @@ zzzyk.com###Tinfo
 ||sexyno1.com/mk-banner/
 ||sf2.net/a/index.
 ||sf3-fe-tos.pglstatp-toutiao.com^
+||sf5yzh4yqz.com^
 ||sfbixfd.cn^
 ||sfg11rr.com^
 ||sfp.safe.baidu.com^
@@ -24327,6 +24336,7 @@ zzzyk.com###Tinfo
 ||uxb030ku4s.com^
 ||uxbd4id.xyz^
 ||uxcnhsf.cn^
+||uxee5bmf1k.com^
 ||uxfe.cn^
 ||uxjw.cn^
 ||uxkjxzq7wh.com^
@@ -25316,7 +25326,7 @@ zzzyk.com###Tinfo
 ||xfidfuxidr.in^
 ||xfjy2fh28b.com^
 ||xflsj.com^
-||xfvod.pro/images/ad/
+||xfvod.pro*/images/ad/
 ||xfxtqjg.com^
 ||xfztgxt.com^
 ||xggdrks.icu^
@@ -25464,6 +25474,7 @@ zzzyk.com###Tinfo
 ||xkblzuz.com^
 ||xkcxh.com^
 ||xkmwxwy.cn^
+||xkp30u4pxh.com^
 ||xkqit.com^
 ||xktoy8fub.com^
 ||xkum.cn^
@@ -26055,6 +26066,7 @@ zzzyk.com###Tinfo
 ||yxtmums.com^
 ||yxvoud.com^
 ||yxwg21lyyn.com^
+||yxxq59.cc/static/images/ads/
 ||yxzp.net/left.js
 ||yy17173.dtime.com^
 ||yy18.info/yyads/
