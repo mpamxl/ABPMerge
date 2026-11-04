@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-03 21:21:04
-! Total count: 26671
+! Version: 2026-11-04 15:51:13
+! Total count: 26685
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -11967,10 +11967,12 @@ zzzyk.com###Tinfo
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
 ||1nvxl968le.com^
+||1ny5gaksj8.com^
 ||1o0g85u7k1.com^
 ||1o1nuqbjea.com^
 ||1o23ptd0sv.com^
 ||1ovzgs15u.com^
+||1p5j4qb3zc.com^
 ||1paujqtq9.com^
 ||1phyxws373.com^
 ||1ppt.com/ad$image
@@ -11996,6 +11998,7 @@ zzzyk.com###Tinfo
 ||1weorpu.com^
 ||1wkg.cn^
 ||1wo2fytcws.com^
+||1wxj1q0wo5.com^
 ||1x6666.com/img/
 ||1y55vfy87.com^
 ||1zdywcgmlt.com^
@@ -12413,6 +12416,7 @@ zzzyk.com###Tinfo
 ||47f9jdixm7.com^
 ||480ipil.com^
 ||484r.com/images/flash/gallery_
+||487wlz7nbc.com^
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
 ||490i1rrbd.com^
@@ -12698,6 +12702,7 @@ zzzyk.com###Tinfo
 ||5nj.com/js/cnzz33.js
 ||5ntq14y5y.com^
 ||5p35xkp1p.com^
+||5p478n58i9.com^
 ||5qnyx6k5w.com^
 ||5s98.com/img/
 ||5sghirlr5b.com^
@@ -13286,6 +13291,7 @@ zzzyk.com###Tinfo
 ||9mdg9cu59.com^
 ||9miwo.com^
 ||9mnmzh506.com^
+||9nvj3swk9l.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
 ||9obmf866d.com^
@@ -14815,6 +14821,7 @@ zzzyk.com###Tinfo
 ||bsanciv.top^
 ||bsbaswq.cn^
 ||bsdgjmy.com^
+||bshhyxoy62.com^
 ||bslbahv.top^
 ||bslbpb.icu^
 ||bswsmlp.cn^
@@ -18693,6 +18700,7 @@ zzzyk.com###Tinfo
 ||incapacity75.top^
 ||inception27.com^
 ||incubation95.top^
+||inequation23.com^
 ||infamouscomer.com^
 ||info.vip.iqiyi.com/promotion/
 ||information43.com^
@@ -19186,6 +19194,7 @@ zzzyk.com###Tinfo
 ||jpfans.com/jpfans.jpg
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jpqed.xyz^
+||jptifzvqhanvha.com^
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jpysvip.net/ad/
@@ -20878,6 +20887,7 @@ zzzyk.com###Tinfo
 ||mzybirdnest.com^
 ||mzyfz.*/modules/46/
 ||mzzfree.com/file/upload/202109/14/180421861.gif
+||mzzueflt.com^
 ||n.baminw.com.cn^
 ||n.sinaimg.cn/sinakd10117/*/bd54-kentcvx6065228.png
 ||n01t94i6g.com^
@@ -21253,6 +21263,7 @@ zzzyk.com###Tinfo
 ||o8agbq0qwm.com^
 ||o8u3n4q7fe.com^
 ||o9gvxuj9t6.com^
+||o9m5znv8ta.com^
 ||o9qdqbu6nu.com^
 ||oa-panther.data.aliyun.com^$3p
 ||oa.hinews.cn/work/img/
@@ -22022,6 +22033,7 @@ zzzyk.com###Tinfo
 ||q643s5wiiz.com^
 ||q6iw41lkk.com^
 ||q6zikgclq9.com^
+||q70t79hxor.com^
 ||q7vnwa1ma7.com^
 ||q8pmxabng9.com^
 ||q9cu7eok92.com^
@@ -22629,6 +22641,7 @@ zzzyk.com###Tinfo
 ||rqr.cc/mm.
 ||rqxtbr.xyz^
 ||rr.tracker.mobiletracking.ru^
+||rrd14g5o8n.com^
 ||rrgapzw.cn^
 ||rrpaafci9i.com^
 ||rrsxes4oy.com^
@@ -24481,6 +24494,7 @@ zzzyk.com###Tinfo
 ||vfcv.cn^
 ||vfie3ximi3elx4uw.cfd^
 ||vfjsa6do.icu^
+||vfmlgaxxc4.com^
 ||vfnq.cn^
 ||vfpkraveam.com^
 ||vfqhky3tos.com^
