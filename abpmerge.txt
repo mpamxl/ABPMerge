@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-04 21:37:26
-! Total count: 26687
+! Version: 2026-11-05 15:55:59
+! Total count: 26696
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -12350,6 +12350,7 @@ zzzyk.com###Tinfo
 ||3qtdjf4830.com^
 ||3qx0pnhyzi.com^
 ||3qxsa.cc/js/news2.js
+||3r6fs2855.com^
 ||3rc04o1rmy.com^
 ||3rev8wh22y.com^
 ||3rs337ci4.com^
@@ -13140,6 +13141,7 @@ zzzyk.com###Tinfo
 ||8x919j7l2l.com^
 ||8xbook.org/scripts/ad/
 ||8ya9li3d2g.com^
+||8ybghd4zn.com^
 ||8yo772d29.com^
 ||8yuwd5lpj.com^
 ||8z1eg6o2j.com^
@@ -13850,6 +13852,7 @@ zzzyk.com###Tinfo
 ||alexa.cn/upfile/images/
 ||alexanbelen.com^
 ||alfpair.com^
+||alhgxftiz.com^
 ||ali213.net/Pics/*/down_popup_
 ||ali213.net/images/bg_lt.jpg
 ||ali213.net/images/ycq.mp4
@@ -18031,6 +18034,7 @@ zzzyk.com###Tinfo
 ||hfjk3wa.com^
 ||hfk7j.top^
 ||hflwgg.xyz^
+||hfparjrmndbvta.com^
 ||hfqarnolmm.com^
 ||hfqdipw.cn^
 ||hfr8l4ebdt.com^
@@ -18699,6 +18703,7 @@ zzzyk.com###Tinfo
 ||in-page-push.com^
 ||in5nx9xbd.com^
 ||incapacity75.top^
+||incenter12.com^
 ||inception27.com^
 ||incubation95.top^
 ||inequation23.com^
@@ -19662,6 +19667,7 @@ zzzyk.com###Tinfo
 ||ksdayhtl.xyz^
 ||kshuiz.top^
 ||kslbahd.top^
+||ksou.tv/api/v1/ad/
 ||ksou6.com/api/v1/ad/
 ||ksqfwxu.cn^
 ||ksr6uu1mk.com^
@@ -20934,6 +20940,7 @@ zzzyk.com###Tinfo
 ||n8bpikx1mt.com^
 ||n8g1kvtmrf.com^
 ||n906n29tm.com^
+||na50e68jx.com^
 ||naemailom.fun^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
@@ -21587,6 +21594,7 @@ zzzyk.com###Tinfo
 ||pb.shuxigua.com^
 ||pb1b7cqwvs.com^
 ||pbaiyho.cn^
+||pbe40xy8g.com^
 ||pbeldhnbk.com^
 ||pbmp.ali213.net/js/
 ||pbo8y8igrp.com^
@@ -22101,6 +22109,7 @@ zzzyk.com###Tinfo
 ||qgreedreau.com^
 ||qguwoq.cn^$3p
 ||qgvvtce98.com^
+||qh7ptb6mc.com^
 ||qhaarkie.com^
 ||qhaelqata.com^
 ||qhangrotl.com^
