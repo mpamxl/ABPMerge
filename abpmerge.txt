@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-05 15:55:59
-! Total count: 26696
+! Version: 2026-11-05 21:42:41
+! Total count: 26698
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -11018,8 +11018,6 @@ woshipm.com##.article-bottomAd
 woshipm.com##.article-topAd
 wpjam.com###wpjam_blog_300x250_1
 ws://*/api/wss/GetNotReadCount$3p
-wss://*.*.top/$3p
-wss://*.top/|
 wss://*.xyz:*?e=$3p
 wss://*.xyz:*?x=$3p
 wss://*/api/wss/GetNotReadCount$3p
@@ -11570,6 +11568,7 @@ zzzyk.com###Tinfo
 ||067oij53m.com^
 ||06cp8ypn8j.com^
 ||06evyxnibl.com^
+||06f2egypr.com^
 ||06hkgn0jl3.com^
 ||07073.com/api/getKfList?
 ||07073.com/pc/js/right-ad.
@@ -12315,6 +12314,7 @@ zzzyk.com###Tinfo
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
 ||3g.qq.com/lview?
+||3g0p5hjwa.com^
 ||3ge064tt79.com^
 ||3gmfw.cn/js/wap/
 ||3h3.com/gmobile/gujs/
@@ -12422,6 +12422,7 @@ zzzyk.com###Tinfo
 ||48dswtxkw.com^
 ||48r3l2u5l2.com^
 ||490i1rrbd.com^
+||494b6x7u8.com^
 ||49dlt9myv.com^
 ||49ioqq6kt.com^
 ||49o4m4a5eo.com^
@@ -24222,6 +24223,7 @@ zzzyk.com###Tinfo
 ||uhyqieok5u.com^
 ||uiakvibuzy.com^
 ||uibjhqwkl.com^
+||uibpd67j6.com^
 ||uifyeldt.top^
 ||uioozpxq.com^
 ||uiqyuydt9t.com^
