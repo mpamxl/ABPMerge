@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-09 17:59:03
-! Total count: 26671
+! Version: 2026-11-10 15:56:20
+! Total count: 26686
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -11769,6 +11769,7 @@ zzzyk.com###Tinfo
 ||136ckqmwc.com^
 ||1378a.xyz^
 ||1379a.xyz^
+||137ioe2krr.com^
 ||1381a.xyz^
 ||138vps.com/image/
 ||139file.com/jsa/
@@ -12658,6 +12659,7 @@ zzzyk.com###Tinfo
 ||5hdz1gnue.com^
 ||5hebtbbgbo.com^
 ||5hffr1p22j.com^
+||5hi8d6076.com^
 ||5ho41ueq7w.com^
 ||5hu7hee0pt.com^
 ||5ibanma.com^
@@ -13067,6 +13069,7 @@ zzzyk.com###Tinfo
 ||89mtdab.xyz^
 ||89y84ta6xg.com^
 ||8al17kw6d.com^
+||8c2sxamc6w.com^
 ||8chj9.com^
 ||8cj70f905.com^
 ||8cjk04e7sb.com^
@@ -13280,6 +13283,7 @@ zzzyk.com###Tinfo
 ||9nvj3swk9l.com^
 ||9nwplq7y2o.com^
 ||9nzrfglryy.com^
+||9o2r9h0ket.com^
 ||9obmf866d.com^
 ||9odes.ltd^
 ||9oxhstb2m2.com^
@@ -19690,6 +19694,7 @@ zzzyk.com###Tinfo
 ||kuazhi.com/kuazhi_click.
 ||kuazhi.com/zb_users/plugin/allshow/js/main.
 ||kuazhi.com/zb_users/plugin/allshow/js/main.js
+||kuerlefc.com^
 ||kugoucdn.com^*?_t=$xhr
 ||kuheju.com^$popup
 ||kuiv.cn^
@@ -19836,6 +19841,7 @@ zzzyk.com###Tinfo
 ||lczk.cn^$3p
 ||ld0766.com/*20*a/
 ||ld1qwww3kj.com^
+||ld7v2xm6ti.com^
 ||ldb.cc/js/top.js
 ||lddvxfmswnnxny.com^
 ||ldjhlqr.cn^
@@ -20213,6 +20219,7 @@ zzzyk.com###Tinfo
 ||lvcha99.cc^
 ||lvdvltsid.com^
 ||lvjtiaa.xyz^
+||lvnqnjiocnfvvk.com^
 ||lvrvdn.xyz^
 ||lvse.cn/output/block/html/
 ||lvse.com/9
@@ -20363,6 +20370,7 @@ zzzyk.com###Tinfo
 ||m6qxdu6m6w.com^
 ||m78vxjm35d.com^
 ||m7g2v1b9.com^
+||m7xud9jqpu.com^
 ||m81mfege2.com^
 ||m8h5qjmlb3.com^
 ||m8qk101065.com^
@@ -22389,6 +22397,7 @@ zzzyk.com###Tinfo
 ||r0d2dzltw7.com^
 ||r0l7cp.com^
 ||r1jprcr42.com^
+||r1owcxiy50.com^
 ||r27y52dd7.com^
 ||r30vhf31sv.com^
 ||r36ku.site^
@@ -22778,6 +22787,7 @@ zzzyk.com###Tinfo
 ||s3-nl-01.mangabuddy.in^
 ||s3.amazonaws.com/dmas-public/sitemaji/vast.xml$domain=dailymotion.com
 ||s3bltexcm.com^
+||s3kokfksap.com^
 ||s3t3d2y8.afcdn.net^
 ||s3t75j8o7.com^
 ||s45hkb25i.com^
@@ -23209,6 +23219,7 @@ zzzyk.com###Tinfo
 ||solicitor44.com^
 ||solitaire47.com^
 ||solitaire50.top^
+||solution97.com^
 ||somaliainc.com^
 ||somanhua.com/smh/
 ||somewhate.club^
@@ -23750,6 +23761,7 @@ zzzyk.com###Tinfo
 ||tjappzvz.xyz^
 ||tjfskxz0t6.com^
 ||tjgssn.com^
+||tjhi6gplu.com^
 ||tjj.com^
 ||tjjd83.xyz^
 ||tjnwfjy.cn^
@@ -24582,6 +24594,7 @@ zzzyk.com###Tinfo
 ||vktztp.xyz^
 ||vle6r0hma.com^
 ||vlgkotr.cn^
+||vlifpif.com^
 ||vlion.cn^$3p
 ||vljyztqsnkhvra.com^
 ||vlrvrntcxjljnu.com^
@@ -24662,6 +24675,7 @@ zzzyk.com###Tinfo
 ||vuielmilg.com^
 ||vujglx.icu^
 ||vujzkkz.cn^
+||vul4a3k0kt.com^
 ||vulrxr.xyz^
 ||vupload.duowan.com^
 ||vuyibsm.icu^
@@ -26595,6 +26609,7 @@ zzzyk.com###Tinfo
 ||zvptrf.icu^
 ||zvrl.cn^
 ||zvvg678.xyz^
+||zw17ig1gnw.com^
 ||zwbngpnpa.com^
 ||zwdu.com/getuserinfo.php
 ||zwfkxb.xyz^
