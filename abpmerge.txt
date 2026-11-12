@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-11 22:21:52
-! Total count: 26699
+! Version: 2026-11-12 16:26:39
+! Total count: 26711
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1241,6 +1241,7 @@
 ##div.maomi-content A[href='/baidu/index.html']
 ##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
+##div.module-player-side > .is_mb
 ##div.my-ad > a
 ##div.page-d.page-turn > [style='position: relative; margin: auto; clear: both; width: 300px;']
 ##div.page.list div.small-icon-container
@@ -5402,6 +5403,7 @@ cardu.com.tw##img[src*="/ad_images/"]
 careonline.com.tw##.wrapper > script + a[href][onclick]
 carousell.com.hk###carousel-container > div[class^="D_"] > div[class^="D_"] > div[style^="width:"]:has(a[aria-label^="licksang"]):remove()
 carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
+cars.tvbs.com.tw##div[class]:has(> div[class^="min-h-"] > div[id^="car_"][id*="_read_"])
 cartoon18.com##.container-fluid > .row > .item:has(> .card > .card-body > .lines > span.badge:contains(/^ad$/))
 cartoon18.com##.embed-responsive.position-relative + .card-body > .lines > span.badge + a[href^="http"]:not([href^="/"]):not([href*="cartoon18.com"])
 cartoon18.com##.embed-responsive.position-relative > a[href^="http"]:not([href^="/"]):not([href*="cartoon18.com"])
@@ -8289,6 +8291,12 @@ kuaihou.com##.address_like
 kuaihou.com##.bz
 kuaihou.com##.ul_Address[style="border-bottom:1px solid #ddd;width:280px;"]
 kuaishouba.com##.index_adbox
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-stack-trace, Object.prototype.pgmp, invokeInterstitial)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##+js(remove-class, publicplay, #main-player)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##.bg-overlayer:style(pointer-events: unset !important;)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##.video-player + div.ps > div:has(> div.bb)
+kubb.tv,yfsp.tv,aiyifan.tv,iyf.tv##.video-player > .dabc > .ng-star-inserted[style="position: relative;"]
 kukuo.tw##article > aside.left > .adsbygoogle:upward(1)
 kukuw.com###gg_rl
 kumi.cn##.ad64060Box
@@ -11263,12 +11271,6 @@ yesky.com##.rightGg
 yesky.com##div[class^="ad1"]
 yesky.com##div[class^="ad7"]
 yeyemo4.com,yeyemo5.com,yeyemo6.com,yeyemo7.com,yeyemo8.com,yeyemo9.com##center > a[target="_blank"] > img
-yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
-yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-stack-trace, Object.prototype.pgmp, invokeInterstitial)
-yfsp.tv,aiyifan.tv,iyf.tv##+js(remove-class, publicplay, #main-player)
-yfsp.tv,aiyifan.tv,iyf.tv##.bg-overlayer:style(pointer-events: unset !important;)
-yfsp.tv,aiyifan.tv,iyf.tv##.video-player + div.ps > div:has(> div.bb)
-yfsp.tv,aiyifan.tv,iyf.tv##.video-player > .dabc > .ng-star-inserted[style="position: relative;"]
 ygdy8.cc##.container > a[href^="/"]
 ygdy8.cc##body > a[href^="/"]
 yhdm*.com/js/wap2-jm-ms.js?ver=
@@ -12324,6 +12326,7 @@ zzzyk.com###Tinfo
 ||3p8801.co^
 ||3pf2kwmc3g.com^
 ||3pkf5m0gd.com^
+||3pq0vah1e0.com^
 ||3prndxd.cn^
 ||3q3l.cn^
 ||3q9j4w2r9d.com^
@@ -12407,6 +12410,7 @@ zzzyk.com###Tinfo
 ||49ioqq6kt.com^
 ||49o4m4a5eo.com^
 ||4ad9bqnjb.com^
+||4ae8xsq18s.com^
 ||4asfgyx.com^
 ||4bo5t8fzd.com^
 ||4br824ktty.com^
@@ -14405,6 +14409,7 @@ zzzyk.com###Tinfo
 ||bavei.com/img/*.png
 ||baztfhhqiuvttm.com^
 ||bb2k0pq1vf.com^
+||bb5uxk0dfa.com^
 ||bbbazlp.cn^
 ||bbepv.com^
 ||bbges.xyz^
@@ -16673,6 +16678,7 @@ zzzyk.com###Tinfo
 ||er.5ykj.cn^
 ||er.5ykj.com^
 ||eraaoec.cn^
+||eraf2uzhji.com^
 ||ercnrxa.cn^
 ||erebor.douban.com^
 ||erfskhnpter.xyz^
@@ -16803,6 +16809,7 @@ zzzyk.com###Tinfo
 ||f6jd4k4xgo.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
+||f7qh.top^
 ||f7qhnenfbo.com^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
@@ -19859,6 +19866,7 @@ zzzyk.com###Tinfo
 ||ldmnq.com^$3p,badfilter
 ||ldphrdhawfxhvc.com^
 ||ldxinb.xyz^
+||ldxxawzpy9.com^
 ||ldyqwzfmd.com^
 ||leabd.douguo.com^
 ||leadc4.icu^
@@ -20806,6 +20814,7 @@ zzzyk.com###Tinfo
 ||mukkoiigam.com^
 ||multiple46.top^
 ||multiplication29.top^
+||multiplicator98.com^
 ||multiplier47.top^
 ||multiply5.top^
 ||mumu*.com/js/cdn.js$~3p
@@ -22418,6 +22427,7 @@ zzzyk.com###Tinfo
 ||r3sub.com/nb/
 ||r3sub.com/posters/00698128.jpg
 ||r40xff8q48.com^
+||r44r4l5na1.com^
 ||r4uws5iu3g.com^
 ||r528e.cn^$3p
 ||r5dfwjtb.icu^
@@ -24799,6 +24809,7 @@ zzzyk.com###Tinfo
 ||waioidmwg.com^
 ||waipian*.com/statics/recommend/
 ||waizongguan.net^
+||waj301k9sb.com^
 ||wake-up-neo.com/bnet/
 ||waly7k3sg3.com^
 ||wan.liebao.cn/zt/
@@ -25578,6 +25589,7 @@ zzzyk.com###Tinfo
 ||xn--bqro42frpg5up.cn^
 ||xn--czru2dx3eszw3lat53b.com^
 ||xn--gov-x68dy61b.shop^
+||xn--jc2a749bpa.com^
 ||xn--jor0b302fdhgwnccw8g.com^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
