@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-13 21:43:27
-! Total count: 26721
+! Version: 2026-11-14 14:38:18
+! Total count: 26730
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -17060,6 +17060,7 @@ zzzyk.com###Tinfo
 ||fpoyvjgdm.com^
 ||fprrpv.icu^
 ||fptdxkm.com^
+||fpz4gr87mq.com^
 ||fqk6e78c80.com^
 ||fqpxzr.xyz^
 ||fqquzqd.top^
@@ -18108,6 +18109,7 @@ zzzyk.com###Tinfo
 ||hiqua.xyz^
 ||histats.com^
 ||histock.tw/ad/
+||histogram33.com^
 ||hitime5.com/skin/css/*.js
 ||hizechizr.com^
 ||hjbqnwb.com^
@@ -20387,6 +20389,7 @@ zzzyk.com###Tinfo
 ||m4dynuge4.com^
 ||m4pgay.com^
 ||m5.66077.cn^
+||m57z4gv923.com^
 ||m5i3wtd2s6.com^
 ||m5nv2f52i.com^
 ||m5uiy5gd1.com^
@@ -21220,6 +21223,7 @@ zzzyk.com###Tinfo
 ||nthaumotzz.com^
 ||ntimg.cn/original/images/www_ads.jpg
 ||ntozchv.icu^
+||ntpyrbdgxzpjxy.com^
 ||nuannuanqi.top^
 ||nudpqt.com^
 ||nuheoub.cn^
@@ -22058,6 +22062,7 @@ zzzyk.com###Tinfo
 ||q0m9dkp5c.com^
 ||q1.yyxwzx.com^
 ||q1txsah8s.com^
+||q1v2f4.com^
 ||q1yv4669q6.com^
 ||q27sz.com^
 ||q2f3fw9st.com^
@@ -22415,6 +22420,7 @@ zzzyk.com###Tinfo
 ||qyzyd.top^
 ||qzda.cc^
 ||qzgn652dp.com^
+||qzhyc.com.cn/g.
 ||qzone.la/Scripts/m.js
 ||qzos9ou.xyz^
 ||qzpbwq.com^
@@ -22427,6 +22433,7 @@ zzzyk.com###Tinfo
 ||r.trwl1.com/s1/$subdocument
 ||r0d2dzltw7.com^
 ||r0l7cp.com^
+||r12ukq68l8.com^
 ||r1jprcr42.com^
 ||r1owcxiy50.com^
 ||r27y52dd7.com^
@@ -22611,6 +22618,7 @@ zzzyk.com###Tinfo
 ||riveter35.top^
 ||rixgpx.xyz^
 ||rizihao.top^
+||rj0hrgrbeo.com^
 ||rjsos.com/channel/laomo_dibu.png
 ||rjzqtz.xyz^
 ||rjzxw.com/include/
@@ -24419,6 +24427,7 @@ zzzyk.com###Tinfo
 ||uym11.xyz^
 ||uyq3ruf.icu^
 ||uyt79.top^
+||uyux77jurw.com^
 ||uzhrtuyij.com^
 ||uzrtgekpw.com^
 ||uzt7ud70j1.com^
