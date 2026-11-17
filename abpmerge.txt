@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-16 17:40:15
-! Total count: 26754
+! Version: 2026-11-17 17:12:52
+! Total count: 26768
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -11946,6 +11946,7 @@ zzzyk.com###Tinfo
 ||1mb71rr5oo.com^
 ||1n4vrzxdms.com^
 ||1nevsf92q.com^
+||1nqv0i1kk.com^
 ||1nrgur4y43.com^
 ||1nvnkyg65.com^
 ||1nvxl968le.com^
@@ -14730,6 +14731,7 @@ zzzyk.com###Tinfo
 ||bmp2.ali213.net/js/
 ||bmptbyb.com^
 ||bmyrihf.icu^
+||bmznrj7oi.com^
 ||bmzzojmzu.com^
 ||bn067lnkrb.com^
 ||bnbklsss.homes^
@@ -15431,6 +15433,7 @@ zzzyk.com###Tinfo
 ||clouddn.com/960x60.gif
 ||cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
 ||cloudflare.st^
+||cloudflareinsights.com^
 ||cloudfront.net/yongli04/
 ||clugqa.com^
 ||clw99.mobi^
@@ -15540,6 +15543,7 @@ zzzyk.com###Tinfo
 ||commondata.oss-cn-hangzhou.aliyuncs.com^
 ||commonwealthproficient.com^
 ||compass12.top^
+||complement88.com^
 ||compose99.com^
 ||compress33.top^
 ||concave88.top^
@@ -16648,6 +16652,7 @@ zzzyk.com###Tinfo
 ||engineer66.com^
 ||enhad.xyz^
 ||enhancement44.com^
+||enjihdh0t.com^
 ||enl2.96845.com^
 ||enqrudnf.com^
 ||enread.com/img/185-50.gif
@@ -18427,6 +18432,7 @@ zzzyk.com###Tinfo
 ||i12het785.com^
 ||i14laze0.xyz^
 ||i16vlgqdhh.com^
+||i20k3b5yi.com^
 ||i27jhc4ut0.com^
 ||i2fxsez4f0.com^
 ||i2jmbz5ec0.com^
@@ -18439,6 +18445,7 @@ zzzyk.com###Tinfo
 ||i3z.cn^$3p
 ||i3zh.com/wp-content/plugins/cm-pop-up-banners/
 ||i4320rdrta.com^
+||i5dtd6dfl.com^
 ||i5le8m3qxs.com^
 ||i5qquywfz.com^
 ||i5rd6bukys.com^
@@ -19072,6 +19079,7 @@ zzzyk.com###Tinfo
 ||jgpo1zqhj.com^
 ||jgsajfggv.xyz^
 ||jgstny.com^$3p
+||jgwxs.com/images/sim.
 ||jh16csf.com^
 ||jh2szzt7n.com^
 ||jhdvcjvsjkvjkb.com^
@@ -20403,6 +20411,7 @@ zzzyk.com###Tinfo
 ||m3rsa3rnbm.com^
 ||m3v8x28jut.com^
 ||m43ocq1uoj.com^
+||m4820qu4n.com^
 ||m485oq2gym.top^
 ||m4dynuge4.com^
 ||m4pgay.com^
@@ -23872,6 +23881,7 @@ zzzyk.com###Tinfo
 ||tmkfjbitxzlhijfcenxe.top^
 ||tmkhirkrol.com^
 ||tmlyhh.icu^
+||tmn70vp2u.com^
 ||tmochyf.cn^
 ||tmpsdp.icu^
 ||tmtmkfjbitxzlhijfcen.top^
@@ -24388,6 +24398,7 @@ zzzyk.com###Tinfo
 ||usgo.chucaotang.net/ua.js
 ||uslbaht.top^
 ||uslsxe.com^
+||usnorbert.com^
 ||usoxsak.icu^
 ||uspauline.com^
 ||uspe4j25v6.com^
@@ -25054,6 +25065,7 @@ zzzyk.com###Tinfo
 ||wo30sg1orn.com^
 ||wo6h5tx8w.com^
 ||woaidu.org/images/20180802/3.jpg
+||wodeshucheng5.com/*/1
 ||wodeshucheng5.com^*/0
 ||wodeshucheng5.com^*/1
 ||wof.matchkj.com^
@@ -25700,6 +25712,7 @@ zzzyk.com###Tinfo
 ||xscp03121xq.com^
 ||xscp03130xq.com^
 ||xscp03131xq.com^
+||xsdnb.com^
 ||xsjh001.xyz^
 ||xslca.cc/js/pf.js
 ||xspxdhkcaplhza.com^
@@ -26627,6 +26640,7 @@ zzzyk.com###Tinfo
 ||zrljzgs.xyz^
 ||zrosq6dsha.com^
 ||zrz0c0sh7e.com^
+||zs68h9vow.com^
 ||zsdrjjcqutdnja.com^
 ||zsi24utdu.com^
 ||zsjjob.com/user/member/google.htm
