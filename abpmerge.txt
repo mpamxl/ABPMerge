@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-17 17:12:52
-! Total count: 26768
+! Version: 2026-11-18 16:48:45
+! Total count: 26784
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1242,6 +1242,7 @@
 ##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div.module-player-side > .is_mb
+##div.module.module-player > .is_mb
 ##div.my-ad > a
 ##div.page-d.page-turn > [style='position: relative; margin: auto; clear: both; width: 300px;']
 ##div.page.list div.small-icon-container
@@ -1259,6 +1260,7 @@
 ##div.row > div[id] > ul > li.cpn > a
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.slide-baidu IMG[src='/images/aw1.gif']
+##div.small-icon-container > .small-icon-div
 ##div.stui-pannel__bd > #t-img-box
 ##div.stui-player.col-pd DIV[style='text-align:center']
 ##div.swiper-slide > A[rel='nofollow noopenner']
@@ -2548,6 +2550,8 @@ $websocket,domain=wap.yushuwu.cloud
 17travel.net##.ui_adblock
 17travel.net,itislooker.com,lookerpets.com,17goforward.com,lookforward.info,happyday543.com,starfocus.news##.ui_adblock
 17wtv.com##.ad3
+17yoo.cn##.popup[data-popup="placement"]
+17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yy.com###addiv
 17yy.com##.t2_3
 17yy.com##.t2r_3
@@ -5417,7 +5421,6 @@ cartoonmad.com##td[width="890"] > table > tbody > tr > td[colspan="4"][height="1
 cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 cava.tw###modal-dm:style(display: none !important;)
 cava.tw##body:style(overflow: auto !important;)
-cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 cb.wpio.xyz##.tpc_content > a[target="_blank"][onmouseout]
 cb.wpio.xyz##.tpc_content > span > span > a[target="_blank"][onmouseout]
@@ -8752,6 +8755,7 @@ mikanani.me##a[href][onclick*="'ad'"] > img[src^="/images/Masha/"]
 military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com##.slide_doubleimg > .baiBox:remove()
+minebbs.com##div[class^="cooperationProvider"]
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
 minhangcidian.com##div[id^="googleAd"]
@@ -9183,6 +9187,7 @@ nivod5.tv,nivod8.tv##.qy20-h-carousel__li:nth-child(-n+2)
 nlc.gov.cn###lovexin12xx
 nmgnews.com.cn###div_ad4
 nnhanman.net##div[style="width:728px;padding-top: 8px;"]
+nnyy.in##+js(m3u-prune, adjump, .m3u8)
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
@@ -11628,6 +11633,7 @@ zzzyk.com###Tinfo
 ||0vtqrw86o.com^
 ||0wk6gdkg8r.com^
 ||0wpfe0duo.com^
+||0x2jt61f3l.com^
 ||0x79jjyph7.com^
 ||0xr7ii3df.com^
 ||0xxbtt1ov.com^
@@ -11977,6 +11983,7 @@ zzzyk.com###Tinfo
 ||1u6hvoykk3.com^
 ||1ub29e88i.com^
 ||1udy3nzsqx.com^
+||1uei2j0mz0.com^
 ||1ujz59h62z.com^
 ||1urjtp1t6.com^
 ||1vd2esrss.com^
@@ -15644,6 +15651,7 @@ zzzyk.com###Tinfo
 ||cruzietv.com^
 ||crxs.me/service/assets/core-state.
 ||cryy.vip^
+||crzzbyrea5.com^
 ||cs.37see.com^$3p
 ||cs.luckyorange.net^
 ||csaimall.com^$popup,3p
@@ -16644,11 +16652,13 @@ zzzyk.com###Tinfo
 ||en8848.com.cn/js/ad
 ||en8848.com.cn/js/content.
 ||en8848.com.cn/js/lianxi.js
+||enar18ahs1.com^
 ||endlesshandbaglinked.com^
 ||endowmentoverhangutmost.com^
 ||enelveufry.com^
 ||enennsa.gushiwen.cn^
 ||enews10.yxlady.net^
+||engine.17yoo.cn/v1/fa^
 ||engineer66.com^
 ||enhad.xyz^
 ||enhancement44.com^
@@ -16739,6 +16749,7 @@ zzzyk.com###Tinfo
 ||ettoday.net/funfuntrip/
 ||ettoday.net/style/hot-trip/js/travel-action.js
 ||ettoday.net^*/ad/
+||eu4as22g0c.com^
 ||euitx.cn^
 ||eujxqgh.cn^
 ||eulaliadoradl.com^
@@ -18391,6 +18402,7 @@ zzzyk.com###Tinfo
 ||hy.huangye88.net^
 ||hy.luassane.cn^
 ||hy5.com.cn/admin/
+||hy851xvexj.com^
 ||hyaplnr.com^
 ||hybase.com/ckjs/
 ||hybase.com/images/hysq99.png
@@ -18584,6 +18596,7 @@ zzzyk.com###Tinfo
 ||ihwdun.xyz^
 ||ii.joqtfa.cn^
 ||ii1.chajiaotong.com^
+||ii4mju7bta.com^
 ||iia1.pikacn.com^
 ||iiahutvaa.com^
 ||iiauu.cn/777/
@@ -19332,6 +19345,7 @@ zzzyk.com###Tinfo
 ||jsdelivr.net/gh/yaociyuan/
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||jsdelivr.vip^
+||jsdikro5nj.com^
 ||jsdocker.com^
 ||jsebmcv.cn^
 ||jsf.cnlinfo.net^
@@ -19548,6 +19562,7 @@ zzzyk.com###Tinfo
 ||kdvmnn.com^
 ||ke8me98qh.com^
 ||kebi1.top^
+||ked61ojxow.com^
 ||kefeng56.com^$3p
 ||kegll5mwl2.com^
 ||kehbcv.top^
@@ -24516,6 +24531,7 @@ zzzyk.com###Tinfo
 ||vansky.com/agdg/vans/tabbao
 ||vansky.com/index_files/*.gif
 ||vapvllaajrhhzc.com^
+||variance36.com^
 ||variflight.com/carnoc/ad/
 ||vast.doublemax.net/adserver/vast.xml$script,xhr,other,redirect=noopvast-2.0
 ||vaudeville44.top^

@@ -1237,6 +1237,7 @@
 ##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div.module-player-side > .is_mb
+##div.module.module-player > .is_mb
 ##div.my-ad > a
 ##div.page-d.page-turn > [style='position: relative; margin: auto; clear: both; width: 300px;']
 ##div.page.list div.small-icon-container
@@ -1254,6 +1255,7 @@
 ##div.row > div[id] > ul > li.cpn > a
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.slide-baidu IMG[src='/images/aw1.gif']
+##div.small-icon-container > .small-icon-div
 ##div.stui-pannel__bd > #t-img-box
 ##div.stui-player.col-pd DIV[style='text-align:center']
 ##div.swiper-slide > A[rel='nofollow noopenner']
@@ -1503,6 +1505,8 @@
 17travel.net##.ui_adblock
 17travel.net,itislooker.com,lookerpets.com,17goforward.com,lookforward.info,happyday543.com,starfocus.news##.ui_adblock
 17wtv.com##.ad3
+17yoo.cn##.popup[data-popup="placement"]
+17yoo.cn,cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 17yy.com###addiv
 17yy.com##.t2_3
 17yy.com##.t2r_3
@@ -3171,7 +3175,6 @@ cartoonmad.com##td[width="890"] > table > tbody > tr > td[colspan="4"][height="1
 cartoonmad.com##tr:nth-child(n+5) > td > table[width="732"]
 cava.tw###modal-dm:style(display: none !important;)
 cava.tw##body:style(overflow: auto !important;)
-cava.tw,vikacg.com,papalah.com,eservice.7-11.com.tw,4399pk.com,downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se,liaoningmovie.net##.banner
 cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 cb.wpio.xyz##.tpc_content > a[target="_blank"][onmouseout]
 cb.wpio.xyz##.tpc_content > span > span > a[target="_blank"][onmouseout]
@@ -6488,6 +6491,7 @@ mikanani.me##a[href][onclick*="'ad'"] > img[src^="/images/Masha/"]
 military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
 military.china.com##.slide_doubleimg > .baiBox:remove()
+minebbs.com##div[class^="cooperationProvider"]
 minepay.top##.sponsors-container
 mingpao.com###photo_transition
 minhangcidian.com##div[id^="googleAd"]
@@ -6914,6 +6918,7 @@ nivod5.tv,nivod8.tv##.qy20-h-carousel__li:nth-child(-n+2)
 nlc.gov.cn###lovexin12xx
 nmgnews.com.cn###div_ad4
 nnhanman.net##div[style="width:728px;padding-top: 8px;"]
+nnyy.in##+js(m3u-prune, adjump, .m3u8)
 nodejs.cn###biz_center
 nodejs.cn###biz_nav
 nodejs.cn###pagead
