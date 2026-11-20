@@ -1188,7 +1188,7 @@
 ##body#nr_body.nr_all.c_nr > section[id]
 ##body#read.read > a.appguide-wrap
 ##body#read.read DIV[style$=' width: 100vw; position: relative;']
-##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']![Adblock Plus 2.0]
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
 ##body#wrapper A[ontouchstart='this.click();']
 ##body.__amp.amp-mode-touch > #interstitial_fade
 ##body.__amp.amp-mode-touch IFRAME[frameborder='0'][framespacing='0']
@@ -5141,6 +5141,8 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##a[href="/advertiser"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
 huavod.com###player-vip
+huavod.com##.ec-ad:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
+huavod.com##.hr-banner-stack:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
 huavod.com##a[href^="https://lesi198.com"]
 huavod.net##.hr-slot-box
 huawei.com#@#.ad-section
@@ -7081,6 +7083,8 @@ ouyaoxiazai.com##div[id^="cs_"]
 ouyaoxiazai.com##div[id^="cs_"] > *
 p2peye.com###article_content a[ref="nofollow"]
 p9.com.tw##.contentRightAd
+pa1151.top##a[href="https://dage.top/"]
+pa1151.top##a[href="https://dagexxx.com"]
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 pan.baidu.com###share_ad_info_panl
 pan.baidu.com##.decrease-active

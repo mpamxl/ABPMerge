@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-19 16:56:10
-! Total count: 26806
+! Version: 2026-11-20 16:29:48
+! Total count: 26820
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1193,7 +1193,7 @@
 ##body#nr_body.nr_all.c_nr > section[id]
 ##body#read.read > a.appguide-wrap
 ##body#read.read DIV[style$=' width: 100vw; position: relative;']
-##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']![Adblock Plus 2.0]
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
 ##body#wrapper A[ontouchstart='this.click();']
 ##body.__amp.amp-mode-touch > #interstitial_fade
 ##body.__amp.amp-mode-touch IFRAME[frameborder='0'][framespacing='0']
@@ -3369,6 +3369,7 @@ $websocket,domain=wap.yushuwu.cloud
 ://dmhy.gate.*/*.*?$image
 ://dmhy.org^*.*?$image
 ://dreemdmbabys.oss-cn-
+://gg.*/*.js$third-party
 ://m.*.cn/*.xmtl?$3p
 ://m.*.cn/*/*.js?ssid=_
 ://m.*.pw/*.js?ssid=_
@@ -7397,6 +7398,8 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##a[href="/advertiser"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
 huavod.com###player-vip
+huavod.com##.ec-ad:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
+huavod.com##.hr-banner-stack:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
 huavod.com##a[href^="https://lesi198.com"]
 huavod.net##.hr-slot-box
 huawei.com#@#.ad-section
@@ -9350,6 +9353,8 @@ ouyaoxiazai.com##div[id^="cs_"]
 ouyaoxiazai.com##div[id^="cs_"] > *
 p2peye.com###article_content a[ref="nofollow"]
 p9.com.tw##.contentRightAd
+pa1151.top##a[href="https://dage.top/"]
+pa1151.top##a[href="https://dagexxx.com"]
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 pan.baidu.com###share_ad_info_panl
 pan.baidu.com##.decrease-active
@@ -12893,6 +12898,7 @@ zzzyk.com###Tinfo
 ||6tofsu.com^
 ||6uliq2uive.com^
 ||6ulv19ce9.com^
+||6uw4lcf0qu.com^
 ||6uzxtlv.cn^
 ||6v2wkfw6pc.com^
 ||6v4.cn^$3p
@@ -15390,6 +15396,7 @@ zzzyk.com###Tinfo
 ||chushoushijian.cn^$3p
 ||chuzushijian.cn^
 ||chwyt1hzb.com^
+||chxzsq0cu1.com^
 ||chykohija.pro^
 ||ciadre.fun^
 ||ciarde.fun^
@@ -18347,6 +18354,7 @@ zzzyk.com###Tinfo
 ||huaren.us/bbs_ads/
 ||huarenjie.com/attachment/myfiles/
 ||huatuo.qq.com^
+||huavod.com/static/js/ntc.js
 ||huaweinnd.top^
 ||huaxia.name^
 ||hubcloud.com.cn^
@@ -19118,6 +19126,7 @@ zzzyk.com###Tinfo
 ||jhkggrr.icu^
 ||jhlazsot.icu^
 ||jhpqntyyeezpds.com^
+||jhpt4yvqu4.com^
 ||jhvchv.xyz^
 ||jhzfwl.cn^
 ||jia.com/js/common/article_home_adv.js
@@ -19472,6 +19481,7 @@ zzzyk.com###Tinfo
 ||jzjxmj.com^
 ||jzvchdrihqrrfy.com^
 ||jzxpxj.xyz^
+||k04y9ezfjw.com^
 ||k06kldksi3.com^
 ||k08tn5uk9.com^
 ||k0b9nwt6d.com^
@@ -21633,6 +21643,7 @@ zzzyk.com###Tinfo
 ||p7w3bmhmns.com^
 ||p8u.hinet.net^
 ||p99c3kwxg.com^
+||pa4u6c6lqv.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js,domain=youneed.win,script
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js,domain=wuyong.fun,important
@@ -22111,6 +22122,7 @@ zzzyk.com###Tinfo
 ||pyrfpb.icu^
 ||pytm26vg9v.com^
 ||pz0d6zc6n.com^
+||pzjgxlbejmhrli.com^
 ||pzjizsyf.icu^
 ||pzkkot4kn.com^
 ||pzkrgcp.cn^
@@ -23053,6 +23065,7 @@ zzzyk.com###Tinfo
 ||sfp.safe.baidu.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||sfzjk57ov.com^
+||sga2frwjjh.com^
 ||sgegie.fun^
 ||sgeth7.icu^
 ||sgg.southcn.com^
@@ -24812,6 +24825,7 @@ zzzyk.com###Tinfo
 ||vwtjvd.xyz^
 ||vwvaddoet.com^
 ||vx2tbw9xin.com^
+||vx5l3i9l18.com^
 ||vxcewh.cn^
 ||vxhpzrqgczxbzi.com^
 ||vxhsj.cn^
