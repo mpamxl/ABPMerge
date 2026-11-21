@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-20 16:29:48
-! Total count: 26820
+! Version: 2026-11-21 15:47:02
+! Total count: 26831
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -7398,10 +7398,11 @@ huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##a[href="/advertiser"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##body > div[class^="hr-t-"]
 huavod.cc,huavod.top,huavod.net,huavod.com,huaren.live##div[id^="anti-adblock-"]
 huavod.com###player-vip
-huavod.com##.ec-ad:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
-huavod.com##.hr-banner-stack:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
 huavod.com##a[href^="https://lesi198.com"]
+huavod.com,huavod.net##div[style="margin:2px 0;"] > a.item > img[src^="https://static.okokserver.com/uploads/"]
 huavod.net##.hr-slot-box
+huavod.net,huavod.com##.ec-ad:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
+huavod.net,huavod.com##.hr-banner-stack:style(position: fixed !important; left: -99999px !important; top: -99999px !important; width: 1px !important; height: 1px !important; opacity: 0.01 !important; visibility: visible !important;)
 huawei.com#@#.ad-section
 huawei.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 hubei.gov.cn#@##ad-side
@@ -16863,6 +16864,7 @@ zzzyk.com###Tinfo
 ||f6jd4k4xgo.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
+||f7jxqt8z3.com^
 ||f7qh.top^
 ||f7qhnenfbo.com^
 ||f8dy.tv/template/m1938/js/b
@@ -17528,6 +17530,7 @@ zzzyk.com###Tinfo
 ||globalapi.ad.xiaomi.com^
 ||glpca.com^
 ||glwxw.net^
+||glz2qv7q4.com^
 ||glzy8.com/img/ceo/js.js
 ||gmbbk.com/bbsgmbbk/
 ||gmbbk.com/fb.js
@@ -17789,6 +17792,7 @@ zzzyk.com###Tinfo
 ||guulgakv.com^
 ||guwd.cn^
 ||guzsjdl.cn^
+||gv0a0qcb0e.com^
 ||gv0oi9ecji.com^
 ||gvbhae0.com^
 ||gvje.cn^
@@ -18355,6 +18359,7 @@ zzzyk.com###Tinfo
 ||huarenjie.com/attachment/myfiles/
 ||huatuo.qq.com^
 ||huavod.com/static/js/ntc.js
+||huavod.net/static/js/ntc.js
 ||huaweinnd.top^
 ||huaxia.name^
 ||hubcloud.com.cn^
@@ -18536,6 +18541,7 @@ zzzyk.com###Tinfo
 ||icnkr.com/cnkradv/
 ||icnkr.com/data/attachment/portal/
 ||icws.jb51.net/good/arc2019.js
+||id8zba92r.com^
 ||idavmk1276.com^
 ||idawziv.cn^
 ||idc9pk.com^
@@ -19278,6 +19284,7 @@ zzzyk.com###Tinfo
 ||jpayu6di.icu^
 ||jpfans.com/jpfans.jpg
 ||jpg1.oss-cn-beijing.aliyuncs.com^
+||jpgupp8mi.com^
 ||jpqed.xyz^
 ||jptifzvqhanvha.com^
 ||jpush0b.xyz^
@@ -19911,6 +19918,7 @@ zzzyk.com###Tinfo
 ||lbnqnp.xyz^
 ||lbprjdi.cn^
 ||lbpslb.icu^
+||lbr3rnhge.com^
 ||lbu6cadqq5.com^
 ||lbvmnh.icu^
 ||lbx777.*/css/300.js
@@ -21276,6 +21284,7 @@ zzzyk.com###Tinfo
 ||nqoxurf.icu^
 ||nqrsdhemqmfdry.com^
 ||nqwgvk.cn^
+||nr2lzi2bi.com^
 ||nrfvq6g98.com^
 ||nrjzkj.cn^
 ||nrsfh.com/neirong/
@@ -23391,6 +23400,7 @@ zzzyk.com###Tinfo
 ||sr8jcp5fp.com^
 ||srbzw.cn^
 ||srmdz.vip^
+||srqeavxrk.com^
 ||srqxnvjdd.com^
 ||srtb.msn.cn^
 ||ss.ting55.com^
@@ -25159,6 +25169,7 @@ zzzyk.com###Tinfo
 ||wrth.cn^
 ||ws.wenshenxiu.com^
 ||ws9jdpz802.com^
+||wsa1ov5uo.com^
 ||wsacjdg.cn^
 ||wschao.xyz^
 ||wsdfame.com^
