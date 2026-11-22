@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-21 21:20:14
-! Total count: 26522
+! Version: 2026-11-22 15:46:49
+! Total count: 26532
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1499,6 +1499,7 @@ $websocket,domain=wap.yushuwu.cloud
 .com:*/sc/*?n=$third-party
 .com:10446/*/get*.html
 .com:12289/$script,3p
+.com:30009/*t*$third-party
 .com:7891/stats$third-party
 .com:8*/mj*$third-party
 .com:8001/*/*?*=$third-party
@@ -2032,6 +2033,7 @@ $websocket,domain=wap.yushuwu.cloud
 /jianpian.obs.cn-
 /jianshen8/images/plan_banner_
 /jquery.modal.$domain=1909.me|8se.me
+/js/0x1a2b3c4d.js
 /js/AD_tv.js
 /js/aa.htm$script
 /js/aahome.htm
@@ -11514,7 +11516,6 @@ zzzyk.com###Tinfo
 ||*.org/config/v7.js
 ||*xav.*/guang/*.gif
 ||*xav.*/guang/*.jpg
-||/js/0x1a2b3c4d.js
 ||000123456789.online^
 ||000123456789.site^
 ||002777.xyz^
@@ -12704,6 +12705,7 @@ zzzyk.com###Tinfo
 ||5s98.com/img/
 ||5sghirlr5b.com^
 ||5t5z6augl3.com^
+||5tei0pomwk.com^
 ||5tf1zp1jgb.com^
 ||5tmobi.cn^$3p
 ||5u1zleadi.com^
@@ -13178,6 +13180,7 @@ zzzyk.com###Tinfo
 ||92ghai.com/zz/
 ||92p3c8lgqt.com^
 ||93692zubo66936.com^
+||93cwt9hr8s.com^
 ||93gtx4pc2w.com^
 ||93txjw4rt2.com^
 ||94994.com*/js/plugin/shoppingMall/
@@ -13891,6 +13894,7 @@ zzzyk.com###Tinfo
 ||aliyuncs.com/wjy99re/
 ||aliyuncs.com^$domain=5kym.com
 ||aliyuncs.com^$domain=9xav.cc
+||alizfv2ls3.com^
 ||allbeauty.com.tw/GoldPrice/*_CF.php
 ||allcp.xyz^
 ||allyes.$3p
@@ -13913,6 +13917,7 @@ zzzyk.com###Tinfo
 ||amazonaws.com.cn/static-documents/marketing/uda_banner_
 ||amazonaws.com/s?z=
 ||amazononline.xyz/mp4/*.mp4$redirect=noop-0.1s.mp3,domain=iyingshi7.tv|localmv1.com,media
+||ambifpskje.com^
 ||amcraahmou.com^
 ||amdc.alipay.com^
 ||amdc.m.taobao.com^
@@ -14236,6 +14241,7 @@ zzzyk.com###Tinfo
 ||b56iy3m1jg.com^
 ||b59.xyz^
 ||b5v0m3q8.com^
+||b7f6867m0u.com^
 ||b7ijghyla1.com^
 ||b7pgs2ifvq.com^
 ||b7sw62.pingshu8.xyz^
@@ -16315,6 +16321,7 @@ zzzyk.com###Tinfo
 ||dvv9dkv.site^
 ||dvvv9ld5b0.com^
 ||dvzk66.cn^
+||dw3wytlo38.com^
 ||dwchovra.com^
 ||dwfjtz.xyz^
 ||dwh3rjyzxj.com^
@@ -23516,6 +23523,7 @@ zzzyk.com###Tinfo
 ||tbl258ym4.cc^
 ||tbthrfrgkqltpw.com^
 ||tc6tc.com^
+||tc7y2avdw2.com^
 ||tc911.vip^
 ||tcbox.baidu.com^
 ||tchkcc.cn^
@@ -24423,6 +24431,7 @@ zzzyk.com###Tinfo
 ||vfsdsdeq.xyz^
 ||vfsvv1.com^
 ||vfymgla.com^
+||vfyz2jncwu.com^
 ||vfzfrx.xyz^
 ||vg3z87oecg.com^
 ||vgao.xyz/images/*.gif
@@ -26051,6 +26060,7 @@ zzzyk.com###Tinfo
 ||z2ke56999.com^
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
+||z3uf7yie2f.com^
 ||z3vkcnj9f.com^
 ||z3yfkdjd.icu^
 ||z4a.net^$domain=aotu43.com|9xav.cc
