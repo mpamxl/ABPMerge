@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-23 19:39:13
-! Total count: 26544
+! Version: 2026-11-24 19:12:28
+! Total count: 26554
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -12424,6 +12424,7 @@ zzzyk.com###Tinfo
 ||494b6x7u8.com^
 ||49dlt9myv.com^
 ||49ioqq6kt.com^
+||49ivw88hj9.com^
 ||49o4m4a5eo.com^
 ||4ad9bqnjb.com^
 ||4ae8xsq18s.com^
@@ -12449,6 +12450,7 @@ zzzyk.com###Tinfo
 ||4h87y9pc59.com^
 ||4hf2saujov.com^
 ||4hfm8gfow.com^
+||4hg1oddm34.com^
 ||4hw.com.cn/js/common.js
 ||4i2q0y9wv.com^
 ||4ikj2pbeqb.com^
@@ -13431,6 +13433,7 @@ zzzyk.com###Tinfo
 ||a5xiazai.com/z/
 ||a65vocvbfe.com^
 ||a6cfvavw1.xyz^
+||a6j9wqsyq6.com^
 ||a6o69f9ky0.com^
 ||a78lx5fbd.com^
 ||a85t9mxnj.com^
@@ -13818,6 +13821,7 @@ zzzyk.com###Tinfo
 ||aizhantj.com^
 ||aj4j.icu^
 ||ajazaci.icu^
+||ajc1d0k4nr.com^
 ||ajcode.co^
 ||ajfkwwpo.xyz^
 ||ajhwwlye.com^
@@ -15773,6 +15777,7 @@ zzzyk.com###Tinfo
 ||d8lzzy93g.com^
 ||d8oh0sebl8.com^
 ||d984u5wqh.com^
+||d9zkof.com^
 ||d9zx24n0d.com^
 ||da-fan-shu.cn/images/kuaijie.jpg
 ||da.daji.com^
@@ -16372,6 +16377,7 @@ zzzyk.com###Tinfo
 ||dytt8.net/js3/
 ||dytt8.net/jsd
 ||dytuj6zs26.com^
+||dyv86qq19o.com^
 ||dyxz*.com/static/gdw.js
 ||dyxz*.com/static/jquery.js?
 ||dz19.net/addimg/
@@ -17031,8 +17037,10 @@ zzzyk.com###Tinfo
 ||fpgxyjv3h.com^
 ||fpoyvjgdm.com^
 ||fprrpv.icu^
+||fps3xggxro.com^
 ||fptdxkm.com^
 ||fpz4gr87mq.com^
+||fqfhznr3qn.com^
 ||fqk6e78c80.com^
 ||fqpxzr.xyz^
 ||fqquzqd.top^
@@ -18883,6 +18891,7 @@ zzzyk.com###Tinfo
 ||j1bla75rck.com^
 ||j1s956aee8.com^
 ||j2fu64j4e.com^
+||j31pozck4v.com^
 ||j33xvvanl.com^
 ||j3fvhzit0.com^
 ||j3gkwzt7o.com^
@@ -22434,6 +22443,7 @@ zzzyk.com###Tinfo
 ||relafp.xyz^
 ||relapse37.com^
 ||reluctance58.com^
+||remainder22.com^
 ||remainder38.com^
 ||remedyy46.com^
 ||remehealth.net^$3p
