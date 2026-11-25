@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-24 19:12:28
-! Total count: 26554
+! Version: 2026-11-25 18:17:03
+! Total count: 26567
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -5809,6 +5809,8 @@ com.tw##img[width="960"][height="90"]:style(height: 0 !important;)
 com:8891/c.php?s=*$third-party
 comefromchina.com##.ad_navtext_11 > li:nth-child(n+2)
 comic.qq.com###fixed_right > div
+comic18j-susu.com,jmcomic-zzz.one,18comic.vip##.top-a2db
+comic18j-susu.com,jmcomic-zzz.one,18comic.vip##.web-right-float-button
 comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvcat.com,mzh.ren,rufengso.net,v.qq.com,zhanzhangb.com##a[href*=".jd.com"]
 commonhealth.com.tw##div[class*="ad--"]
 contents.internet.apps.samsung.com##.page-bar
@@ -8173,7 +8175,6 @@ jmw.com.cn##.top_pic
 jmw.com.cn##[class^="advertising"]
 jokeji.cn##.ad360_280
 jokerlu.com##.main-grids > .recommended-grids
-joyacg.top##a[href^="http"] > .img-fluid
 jpfans.com,jpseek.com##table[cellspacing="1"][cellpadding="6"]
 jpsub.com##.floatbar_div
 jptt.tv###vast_video_loading_f-player:style(display: none !important;)
@@ -8693,6 +8694,7 @@ maomaomom.com###execphp-21
 maomaomom.com###execphp-4
 maomaomom.com##.textwidget > table[width="1050"]
 map.baidu.com###mapBanner
+map.baidu.com###message-center-panel:has(> span.message-ad-tag)
 map.baidu.com##.damoce-search-item
 map.baidu.com##.search-item[data-stat-code="poisearch.damoce.item"]
 maplestage.com##div[class*="-page-module__ad728Holder___"]
@@ -11623,6 +11625,7 @@ zzzyk.com###Tinfo
 ||0hr4wyjfv3.com^
 ||0i2nax2di.com^
 ||0ihw4ipvm5.com^
+||0jbyj9d2l.com^
 ||0jghm60qg.com^
 ||0kl9n3q2b.com^
 ||0kplffrs42.com^
@@ -13321,6 +13324,7 @@ zzzyk.com###Tinfo
 ||9wcn.com/gcld/500.gif
 ||9wkvbvm90.com^
 ||9xf9qkz5.com^
+||9xxne23lm.com^
 ||9ya.net/con/ad
 ||9ye.com/Files/Editor/ad/
 ||9yspkomgq.com^
@@ -18314,6 +18318,7 @@ zzzyk.com###Tinfo
 ||hwwzqi.cn^
 ||hxbt.alading123.com^
 ||hxdwsfg.cn^
+||hxgnwrwslhzgrmjsfvdevrjpn.com^
 ||hxhohd.xyz^
 ||hxinitv.icu^
 ||hxjs.tool.hexun.com$domain=~quote.hexun.com
@@ -18899,6 +18904,7 @@ zzzyk.com###Tinfo
 ||j3ossmqgmc.com^
 ||j4s12kfavg.com^
 ||j59g6ff5k.com^
+||j5gv7t9sv.com^
 ||j5sgdum5n4.com^
 ||j694fx3bp.com^
 ||j6gi9jgjpb.com^
@@ -20644,6 +20650,7 @@ zzzyk.com###Tinfo
 ||mmtalk.net/images/banner
 ||mmtnat.com^
 ||mn123cass.xyz^
+||mn3hdpe1y.com^
 ||mngjrn.cn^
 ||mnhknds.com^
 ||mnnmnn.com^
@@ -20905,6 +20912,7 @@ zzzyk.com###Tinfo
 ||n906n29tm.com^
 ||na50e68jx.com^
 ||naemailom.fun^
+||nah9b3ag8.com^
 ||nahdlvqwqkzxby.com^
 ||nahg4lhbr.com^
 ||naiep.xyz^
@@ -22425,6 +22433,7 @@ zzzyk.com###Tinfo
 ||realwanghao.com^
 ||recds7.icu^
 ||recount57.com^
+||rectangle20.com^
 ||rectangle99.com^
 ||rectangular10.com^
 ||rectangular18.com^
@@ -22682,6 +22691,7 @@ zzzyk.com###Tinfo
 ||rxyggrq.cn^
 ||rxys.cn^
 ||rxzfhfmoegfvts.com^
+||ry6wy3dr62usd0fnicfk.com^
 ||ry7icaih0p.com^
 ||ryd626moj.com^
 ||rypebb.icu^
@@ -24090,6 +24100,7 @@ zzzyk.com###Tinfo
 ||u8rnuky6e.com^
 ||u90p9zk9r7.com^
 ||uaa.com/js/dxj.
+||uaazwczowtfswj.com^
 ||ub1.job592.com^
 ||ub6weu52p.com^
 ||ubeeludrt.com^
@@ -24195,6 +24206,7 @@ zzzyk.com###Tinfo
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
 ||umbrellaomendear.com^
+||umd8dz8x9.com^
 ||umdc.aliapp.org^
 ||umeng.com^
 ||umengcloud.com^
@@ -26341,6 +26353,7 @@ zzzyk.com###Tinfo
 ||ziravd.xyz^
 ||zisnuthz.com^
 ||zisu.cn.com^
+||zitdymshto.icu^
 ||zither89.com^
 ||ziweuu.com^
 ||ziwl05nrf1.com^
