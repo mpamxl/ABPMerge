@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ABP Merge Rules
 ! Description: 该规则合并自jiekouAD，AdGuard中文语言规则，easylistnocssrule，乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance，以及补充的一些规则，Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters
-! Version: 2026-11-26 17:58:24
-! Total count: 26579
+! Version: 2026-11-27 17:43:40
+! Total count: 26588
 ###ADtip
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -12162,6 +12162,7 @@ zzzyk.com###Tinfo
 ||2mlt7jkbob.com^
 ||2nbg86d2x.com^
 ||2nl6sgd9c.com^
+||2nli0zswf.com^
 ||2nvd5j7iv0.com^
 ||2omfz9ygz2.com^
 ||2orln75bry.com^
@@ -18308,6 +18309,7 @@ zzzyk.com###Tinfo
 ||huya.com*/cache1min.
 ||huya.com/leaf/*=vodadv&$redirect=noop-0.1s.mp3,domain=huya.com,media
 ||huyaimg.msstatic.com/cdnimage/roomad/
+||hv3lixzlc.com^
 ||hv7w3au49.com^
 ||hvdath.xyz^
 ||hvqyf.cn^
@@ -19102,6 +19104,7 @@ zzzyk.com###Tinfo
 ||jitashe.org/template/jitashe/image/bc/3
 ||jiumai88.com^
 ||jiuyuntian3.cn^
+||jixgkxfhfp.icu^
 ||jixmlx.xyz^
 ||jiyingdm.com/js/loadingshow.html
 ||jiz4pa4hu.com^
@@ -22290,6 +22293,7 @@ zzzyk.com###Tinfo
 ||qtozietgp.com^
 ||qttroiey.com^
 ||qty00vcqh8.com^
+||quadrant59.com^
 ||quanxiaozi.com^
 ||quarterdeck96.top^
 ||qubdjkqwl.com^
@@ -22752,6 +22756,7 @@ zzzyk.com###Tinfo
 ||s1gr2198h.com^
 ||s2dcm.com^
 ||s2dln6sdu.com^
+||s2glduwz1.com^
 ||s2plb194m.com^
 ||s2tu.com/images/*.gif
 ||s2v36b902.com^
@@ -23797,6 +23802,7 @@ zzzyk.com###Tinfo
 ||tnjvz.cn^
 ||tns.simba.taobao.com^
 ||tnwotuqey.com^
+||tnz8mdste.com^
 ||tnze.cn^
 ||to8to.com^$subdocument,3p
 ||toaadwh.icu^
@@ -24442,6 +24448,7 @@ zzzyk.com###Tinfo
 ||vdo3c.org^
 ||vdrfes.site^
 ||vdxu.cn^
+||ve9gs6j44.com^
 ||vegetation67.com^
 ||vegmiedd.com^
 ||veirkaey.com^
@@ -25327,6 +25334,7 @@ zzzyk.com###Tinfo
 ||xgsvpsz7f4.com^
 ||xgzdys.com^
 ||xgzxpdy.com^
+||xh2ei17sy.com^
 ||xh33g.net^
 ||xhayx4v25b.com^
 ||xhckbgvd0.com^
@@ -25801,6 +25809,7 @@ zzzyk.com###Tinfo
 ||yg0051thk.com^
 ||yg4j3py9b.com^
 ||yg6p1tskn.com^
+||ygcmsecmzzhaup.com^
 ||ygg1e0gmc.com^
 ||yghonola.com^
 ||ygwdai.cn^
